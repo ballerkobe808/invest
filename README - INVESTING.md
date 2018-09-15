@@ -212,9 +212,9 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     - Computer, Wifi, etc
     - Keep receipts
 
-### Tax Brackets
+### Tax Brackets for 2018
 
-Single Filing for 2018
+Single Filing
 
 | Tax rate | Taxable income bracket |                                         Tax owed |
 | -------- | :--------------------: | -----------------------------------------------: |
