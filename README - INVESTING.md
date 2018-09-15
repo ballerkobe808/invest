@@ -29,74 +29,6 @@ Freedom from worrying about money.
 Freedom from being forced to work hard in a job with no end.
 Ability to help others around me.
 
-## Finding a Property (Generating Leads)
-
-- What am I looking for
-
-  - Be specific - Type of property, and type of neighborhoods, etc
-
-- Avenues to find them
-
-  - Personal Contacts/Network
-  - Turnkey Providers (Norada, ReiTrader, JWB, Memphis Invest)
-  - Craigslist
-  - MLS
-
-- General tips
-  - Always be on the lookout - Finding good deals is the most important part of investing
-  - Keep researching and looking at real estate - constantly collect data points - the more you see, the better you instinct on what a good deal is becomes (you need to internalize this)
-  - Truepeoplesearch - find the person owning the property
-
-## Researching a Property
-
-1. General Location
-
-   - Population - is it growing?
-   - Is the Job market diversified? (If a big company pulls out of the area, will jobs be lost?)
-   - Any new companies moving in soon?
-   - Is it an emerging neighborhood? (How to determine this?)
-   - RESEARCH OTHER APPRECIATION/DEPRECIATION FACTORS
-   - What are the Property taxes?
-   - WEBSITE TO FIND THIS - MAKE A PROCESS
-   - What are the insurance prices in the area?
-   - Any special conditions? Flood zone, or hurricane prone (Florida, etc)
-   - WEBSITE TO FIND THIS - MAKE A PROCESS
-
-2. Turnkey Company
-
-   - What is their role in the Selling/Aquisition/Management process?
-   - Are they just a wholesaler?
-   - Did they rehab the property themselves? If not, who did?
-   - What is their repuation like on Bigger Pockets?
-
-3. Property Value
-
-   - Plug values into the Investment Calculator
-   - What is my minimum monthly cashflow?
-   - Be aware of Neighborhood class - C/D could have more issues
-   - Does the property need repairs currently? Will it soon?
-   - How sure is the Rent price?
-   - Deals are made going in - Make sure its a good investment!! You can always find another..
-   - RESEARCH THIS: Best value around the 100k range?? Too cheap and you get issues? Also as you go lower in price % maint and % cap exp go down - even tho things will cost around the same...
-
-4. Tenancy
-
-   - Are there Tenants currently?
-   - Rent rolls available?
-   - Current Lease?
-
-5. Property Management
-   - Is there a property Manager? What are their rates?
-   - Is there a listing fee charge?
-   - Do they charge when there is a vacancy?
-   - How much experience do they have
-
-## Finding a Lender
-
-Find a Lender
-
-Get pre-qualified
-
 ## Growing in this space and as a person
 
 1. Build your team
@@ -126,11 +58,122 @@ Get pre-qualified
 
 4. Reading/Listening to Books and Watching Videos
 
-## Purchase and Closing Process
+   - Keep growing and learning!!
 
-Closing Fees:
+## PROCESS - Finding a Property (Generating Leads)
 
-## Filing Taxes
+- What am I looking for
+
+  - Be specific - Type of property, and type of neighborhoods, etc
+
+- Avenues to find them
+
+  - Personal Contacts/Network
+  - Turnkey Providers (Norada, ReiTrader, JWB, Memphis Invest)
+  - Craigslist
+  - MLS
+
+- General tips
+  - Always be on the lookout - Finding good deals is the most important part of investing
+  - Keep researching and looking at real estate - constantly collect data points - the more you see, the better you instinct on what a good deal is becomes (you need to internalize this)
+  - Truepeoplesearch - find the person owning the property
+
+## PROCESS - Researching a Property
+
+1. Property Location
+
+   - Population - is it growing?
+   - Is the Job market diversified? (If a big company pulls out of the area, will jobs be lost?)
+   - Any new companies moving in soon?
+   - Is it an emerging neighborhood? (How to determine this?)
+
+   - What are the Property taxes?
+   - WEBSITE TO FIND THIS - MAKE A PROCESS
+
+   - What are the insurance prices in the area?
+   - Any special conditions? Flood zone, or hurricane prone (Florida, etc)
+   - WEBSITE TO FIND THIS - MAKE A PROCESS
+
+   - RESEARCH OTHER APPRECIATION/DEPRECIATION FACTORS
+
+2. Turnkey Company
+
+   - What is their role in the Selling/Aquisition/Management process?
+   - Are they just a wholesaler?
+   - Did they rehab the property themselves? If not, who did?
+   - What is their repuation like on Bigger Pockets?
+
+3. Property Value
+
+   - Plug values into the Investment Calculator
+   - Property Tax: https://www.qpublic.net/
+   - Insurance Rates
+   - What is my minimum monthly cashflow? (200 to be safe after main, cap ex, etc.)
+   - Be aware of Neighborhood class - C/D could have more issues
+   - Does the property need repairs currently? Will it soon?
+   - How sure is the Rent price?
+   - Deals are made going in - Make sure its a good investment!! You can always find another..
+   - RESEARCH THIS: Best value around the 100k range?? Too cheap and you get issues? Also as you go lower in price % maint and % cap exp go down - even tho things will cost around the same...
+
+4. Tenancy
+
+   - Are there Tenants currently?
+   - Rent rolls available?
+   - Current Lease?
+
+5. Property Management
+   - Is there a property Manager? What are their rates?
+   - Is there a listing fee charge?
+   - Do they charge when there is a vacancy?
+   - How much experience do they have
+
+### Insurance
+
+Home Owners
+Liability
+Flood?
+Hurricane?
+
+### PROCESS - Finding a Lender and getting approved
+
+1. Get all the documents you will need and into an organized folder
+
+   - W2s for the last 2 years
+   - 2 months of all Bank Statements (has to be full statements - not printed html)
+   - 2 paychecks of current employer(s)
+   - 401k Statment(s)
+   - Any stock or investment statements
+   - Documentation on existing loans and properties
+
+2. Search for and contact a Lender
+   You can do this through a web search or through referral from a friend. Lane Kawaoka said certain banks wont fund investments, so its better to go with ones that are familiar with the process and the risk. Current lenders I have a relationship with are:
+
+   - Quicken Loans
+   - Highlands Mortgage
+   - Ridge Lending
+   - Bank of Hawaii
+
+3. Fill out the prequalification and get prequalified
+   This should end with a prequalification letter. Be Responsive Here!!
+
+4. When you find the property you want to buy, begin the acutal loan application process.
+
+## PROCESS - Purchase and Closing on the property
+
+1. Submit Bid and reach an Agreement with Seller
+
+   Work with a real estate agent. Put in an offer for the property through your real estate agent.
+   Important! Ask for the seller to cover the closing costs, and offer a higher price to make up for it.
+
+   Get the counter offer and discuss with your agent or advisors. Submit a counter offer. Repeat the process until satisfied and you reach an agreement.
+
+2. Home Inspection
+
+3. Lender Appraisal
+
+4.
+
+## PROCESS - Filing Taxes
 
 - PROCESS TO DO TAXES AT THE END OF THE YEAR
 
@@ -139,6 +182,10 @@ Closing Fees:
 - Quickbooks???
 
 - LLC (Single membership) is a disregarded entity and thus has no tax benefit for an individual holding property through it. Partnerships are different though.
+
+## PROCESS - Keeping up with the Rental
+
+## PROCESS - When Rental issues arise
 
 ### Real Estate Tax Benefits and Strategies
 
