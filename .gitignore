@@ -1,0 +1,14 @@
+*.orig
+*.swp
+.DS_Store
+.idea
+._.DS_Store
+.tscache
+#.vscode
+
+node_modules
+npm-debug.log
+
+
+temp.txt
+
