@@ -4,14 +4,12 @@
 
 ## Research more List
 
-greturnkey.com
-list of turnkey providers
 Aurbnb??? - evaluate cost analysis of this
 Agreement for Deed
 Subject to
 Calculations -
 Diff ones you need to know and how
-DTI - bank, personal
+
 closing process
 closing fees
 
@@ -76,7 +74,7 @@ Ability to help others around me.
 - General tips
   - Always be on the lookout - Finding good deals is the most important part of investing
   - Keep researching and looking at real estate - constantly collect data points - the more you see, the better you instinct on what a good deal is becomes (you need to internalize this)
-  - Truepeoplesearch - find the person owning the property
+  - Truepeoplesearch - find the person owning the property and contact them directly?
 
 ## PROCESS - Researching a Property
 
@@ -115,13 +113,14 @@ Ability to help others around me.
    - Deals are made going in - Make sure its a good investment!! You can always find another..
    - RESEARCH THIS: Best value around the 100k range?? Too cheap and you get issues? Also as you go lower in price % maint and % cap exp go down - even tho things will cost around the same...
 
-4. Tenancy
+4. Current Tenancy
 
    - Are there Tenants currently?
    - Rent rolls available?
    - Current Lease?
 
 5. Property Management
+
    - Is there a property Manager? What are their rates?
    - Is there a listing fee charge?
    - Do they charge when there is a vacancy?
@@ -163,7 +162,7 @@ Hurricane?
 1. Submit Bid and reach an Agreement with Seller
 
    Work with a real estate agent. Put in an offer for the property through your real estate agent.
-   Important! Ask for the seller to cover the closing costs, and offer a higher price to make up for it.
+   Important! Ask for the seller to cover the closing costs, and offer a higher price to make up for it. This will help you put less down and increase your ROI, while increasing your monthly mortgage by a super tiny amount.
 
    Get the counter offer and discuss with your agent or advisors. Submit a counter offer. Repeat the process until satisfied and you reach an agreement.
 
@@ -173,7 +172,7 @@ Hurricane?
 
 4.
 
-## PROCESS - Filing Taxes
+## PROCESS - Filing Taxes at the end of the year
 
 - PROCESS TO DO TAXES AT THE END OF THE YEAR
 
@@ -294,15 +293,13 @@ Have 45?? days to make another purchase?
 - Have 180?? days to close?
 - RESEARCH THIS MORE
 
-### 401k (And borrowing from your 401k)
-
-Datahouse
+### Datahouse 401k
 
 - Datahouse is matching 20% of your investment up to 2400. Its added as a lump sum once a year in July.
 - You have been averaging 10% yearly returns from your mutual funds investment.
 - You can stop any time, but open enrollment is Dec to change amounts (for Jan implementation)
 
-Borrowing
+### Borrowing from your 401k
 
 - You can borrow either 50% or 50k - whichever is less
 - You have to pay back in 5 years unless its for a primary residence, or hardship, or special circumstance
@@ -320,7 +317,4 @@ Borrowing
 - ROI - Return on Investment - Yearly Net Return over your cash investment
 - ROE - Return on Equity - Yearly Net Return over the equity you have in the property (this will decrease as you pay off the mortgage)
 - Cap Rate -
-
-```
-
-```
+- DTI - Debt to Income - Amount of your expenses (or new mortgage payment) over your gross monthly income
