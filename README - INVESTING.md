@@ -17,7 +17,30 @@ Renautus? Workshop?
 
 Quickbooks taxes -
 
+neighborhood scout
+
 inn on the park - 1920 ala moana
+
+setup llc in vegas???
+
+HELOC DTI
+
+increase my cc limits????
+Use the miles - pay it off with your bank account
+
+Check with an accountant
+
+Donald Graham? Accountant - Baron Graham is the realtor
+
+heloc - makes the money in your property accessable
+
+1st and second mortgage
+1st time home owner - double mortgage to get to 5%
+
+liquidate stuff in house - side hustle??
+Ebay my extra stuff tonight!!!
+
+Research the markets and compile data ...
 
 ## Set your goals and find your why
 
@@ -80,26 +103,32 @@ Ability to help others around me.
 
 1. Property Location
 
-   - Population - is it growing?
-   - Is the Job market diversified? (If a big company pulls out of the area, will jobs be lost?)
-   - Any new companies moving in soon?
-   - Is it an emerging neighborhood? (How to determine this?)
+FILL THIS WITH THE TURNKEY REVOLUTION CHAPTER...
 
-   - What are the Property taxes?
-   - WEBSITE TO FIND THIS - MAKE A PROCESS
+- Population - is it growing?
+- Is the Job market diversified? (If a big company pulls out of the area, will jobs be lost?)
+- Any new companies moving in soon?
+- Is it an emerging neighborhood? (How to determine this?)
 
-   - What are the insurance prices in the area?
-   - Any special conditions? Flood zone, or hurricane prone (Florida, etc)
-   - WEBSITE TO FIND THIS - MAKE A PROCESS
+- What are the Property taxes?
+- WEBSITE TO FIND THIS - MAKE A PROCESS
 
-   - RESEARCH OTHER APPRECIATION/DEPRECIATION FACTORS
+- What are the insurance prices in the area?
+- Any special conditions? Flood zone, or hurricane prone (Florida, etc)
+- WEBSITE TO FIND THIS - MAKE A PROCESS
+
+- RESEARCH OTHER APPRECIATION/DEPRECIATION FACTORS
 
 2. Turnkey Company
 
-   - What is their role in the Selling/Aquisition/Management process?
-   - Are they just a wholesaler?
-   - Did they rehab the property themselves? If not, who did?
-   - What is their repuation like on Bigger Pockets?
+FILL THIS WITH THE TURNKEY REVOLUTION CHAPTER....
+
+- What is their role in the Selling/Aquisition/Management process?
+- Are they just a wholesaler?
+- Did they rehab the property themselves? If not, who did?
+- What is their repuation like on Bigger Pockets?
+- Talk to them and questions to ask:
+  What is your vacancy rate?
 
 3. Property Value
 
@@ -107,7 +136,7 @@ Ability to help others around me.
    - Property Tax: https://www.qpublic.net/
    - Insurance Rates
    - What is my minimum monthly cashflow? (200 to be safe after main, cap ex, etc.)
-   - Be aware of Neighborhood class - C/D could have more issues
+   - Be aware of Neighborhood class - A has the most appreciation and lowest vacancy/maint issues. Best neighborhoods. B will usually be best turnkey value overall. C could have more issues - Stay away from D!
    - Does the property need repairs currently? Will it soon?
    - How sure is the Rent price?
    - Deals are made going in - Make sure its a good investment!! You can always find another..
@@ -118,6 +147,7 @@ Ability to help others around me.
    - Are there Tenants currently?
    - Rent rolls available?
    - Current Lease?
+   - DONT RENT TO SECTION 8! Its not worth the risk (from experience)
 
 5. Property Management
 
@@ -258,7 +288,7 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     - Computer, Wifi, etc
     - Keep receipts
 
-### Tax Brackets for 2018
+### Federal Tax Brackets for 2018
 
 Single Filing
 
@@ -283,6 +313,44 @@ Married Filing Jointly
 | 32%      |  $315,001 to $400,000  |  $64,179 plus 32% of the amount over $315,000 |
 | 35%      |  $400,001 to $600,000  |  $91,379 plus 35% of the amount over $400,000 |
 | 37%      |    $600,001 or more    | $161,379 plus 37% of the amount over $600,000 |
+
+### HElOC
+
+HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
+
+1. 100k home, with 20k of my money/equity. Since I'm at 20% and have nothing above the 20%, I cannot get a HELOC
+2. 100k home, with 40k of my money/equity. Since I'm over the 20% threshold by 20k, I can get a HELOC for 20k
+3. 100k home, with 80k of my money/equity. Since I'm over the 20% threshold by 60k, i can get a HELOC for 60k
+
+These often come with low 1.7-2% introductory APRs for the first year. You can do strategic things here - Use that money to quickly pay off principle in another loan, and then pay this HELOC off using the lower % rate. Hawaii is known for really low APRs.
+
+Once the introductory rate is over, you can pay it off or cancel and open another HELOC with another bank lol.
+
+One thing to note is that HELOC % is calculated by the day, so any balance used in a month will be charged interest. Credit Cards on the other hand are only charged interest at the end of the month. Because of this, use your Credit Card for daily purchases and only use your HELOC to pay off your CC as needed. Credit Card will also return points on purchases.
+
+Combine a HELOC, with a CC, and Mortgage to do a Velocity Banking Strategy. Open a HELOC, and use a huge chunk to pay off the mortgage principle (same property or another - the earlier the loan section the bigger the payoff). Keep a zero balance in your checking. Any day to day activities, use your CC to pay it off. At the end of the month use the HELOC to pay the CC balance. Any extra income goes toward paying down the HELOC balance. Get it to zero before the rate rises. Cancel, then open another HELOC at the introductory rate. Garret Taira perfected this strategy.
+
+### Velocity Banking Mortgage Payment Strategy
+
+The idea is to take out either HELOCS, 401k loans, or even CC's and pay off your principle as early as possible to get your mortgage payments into the section where you are paying less interest. This is super important in the front part of the loan, but less important toward the end. This is because the front end of the loan is loaded with mostly interest. You will need extra income every month to make this work. Here is an Example using my Aalii loan:
+
+Purchase Price: 285k
+Down payment (20%): 57k
+Mortage Amount: 228k:
+
+1. 5.5% APR Loan over 30 years mininum payments ($1295/month).
+   $238k in Total Interest.
+2. Take out a CC at 20% APR for 30k, and pay that back over 4 years (+$913/month). Apply to priniple.
+   This monthly payment is on top the $1295/month of the mortgage. You pay $14k interest for the CC, and save 94k in mortgage interest.
+   This is $158k in Total Interest - Saving $80k
+3. Take out a 401k loan at 7% APR for 50k, and pay that pack over 5 years (+990/month). Apply to priniple.
+   This monthly payment is on top the $1295/month of the mortgage. You pay $9400 interest for the 401k loan and save $116k in mortgage interest.
+   This is $131k in Total Interest - Saving $107k
+4. Do it again after 5 years - Same 50k loan from 401k for 5 years (current balance of 158k). Apply to priniple.
+   You pay the same +990/month and 9400 in interest for the 401k loan, but save 45k more interest.
+   This will be 86k in Total Interest - Saving $152k
+
+Note: Ask the lender if there are pre-payment fees. If so, dont go with that lender, because you will be penalized for doing this. Also, when making the principle only payment - be sure to tell the lender it is a principle only payment. If you sign the slip wrong or they mark it wrong, then it wont go well for you...
 
 ### 1031 Exchange
 
