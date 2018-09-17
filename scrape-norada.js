@@ -42,6 +42,7 @@ var c = new Crawler({
           var bath = betweenStrings(house, 'Bathrooms:', 'Insurance/HOA:');
           var ins = betweenStrings(house, 'Insurance/HOA:', 'Size:');
           var prop = betweenStrings(house, 'Property Mgmt:', 'Price/Sq');
+          var neighborhood = betweenStrings(house, 'Neighborhood:', 'DealGrader');
 
           excelLine +=
             address +
@@ -64,7 +65,7 @@ var c = new Crawler({
             '\t' +
             prop +
             '\t' +
-            'class' +
+            neighborhood +
             '\t' +
             'Notes: ' +
             '\n';

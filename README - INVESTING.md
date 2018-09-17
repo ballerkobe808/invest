@@ -84,14 +84,14 @@ Ability to help others around me.
 
 ## PROCESS - Finding a Property (Generating Leads)
 
-- What am I looking for
+- What am I looking for (Initial Property filter)
 
-  - Turnkeys in the 70-120k range
-  - Positive cashflow - most important part
-  - A/B Neighborhoods - too much risk in C/D
-  - No Section 8 housing - too much risk
-  - Already rented, or confident property manager
-  - Property management in place
+  - Turnkeys in the 80-120k range. Below 70k will be bad neighborhoods or need massive repairs. This also seems best reserve amount - 10% of 70k is 70 a month, while 10% of 100k is 100 a month, even tho water heaters cost the same for both properties...
+  - Positive cashflow - most important part, more than appreciation
+  - A/B Neighborhoods - Sticking to decent neighborhoods - there are too many horror stories from friends an online about C and D class neighborhoods. Anson has a few lol.
+  - No Section 8 housing - Same as the C/D class neighborhoods, too much risk and cause for headaches down the road.
+  - Property management in place. Its important to not only have a property manager, but a good reliable one in place here. This will make or break your rents in the future, and will be your lifeline down the road.
+  - Already rented, or property manager confident can find renters quickly.
 
 - Avenues to find them
 
@@ -102,65 +102,65 @@ Ability to help others around me.
 
 - General tips
   - Always be on the lookout - Finding good deals is the most important part of investing
-  - Keep researching and looking at real estate - constantly collect data points - the more you see, the better you instinct on what a good deal is becomes (you need to internalize this)
+  - Keep researching and looking at real estate - constantly collect data points - the more you see, the better your instinct on what a good deal is becomes (you need to internalize this)
   - Truepeoplesearch - find the person owning the property and contact them directly?
 
 ## PROCESS - Researching a Property
 
 1. Property Location
 
-FILL THIS WITH THE TURNKEY REVOLUTION CHAPTER...
+   - Use NeighborhoodScout for a report: https://www.neighborhoodscout.com/
+   - Population makeup - ethnicity, age, demographics, crime, etc.
+   - Population growth? Is it growing?
+   - Is the Job market diversified? (If a big company pulls out of the area, will jobs be lost?)
+   - Any new companies moving in or out soon? Any big events trending soon?
+   - Housing market - Are prices going up? Also look for a low foreclosure %
+   - Look for a low cost of living.
+   - What is the vacancy rate of the city?
+   - What are the insurance prices in the area?
+   - Any special conditions? Flood zone, or hurricane prone (Florida, etc)
+   - Nice graphic about appreciation and cashflow here: [link image]
 
-- Population - is it growing?
-- Is the Job market diversified? (If a big company pulls out of the area, will jobs be lost?)
-- Any new companies moving in soon?
-- Is it an emerging neighborhood? (How to determine this?)
+2. Turnkey Company & Questions to ask
 
-- What are the Property taxes?
-- WEBSITE TO FIND THIS - MAKE A PROCESS
+   - Vetting the Turnkey Vendor will make life easier in the long run. Find out as much as you can about them as a company to see if you can work with them, or thier providers.
+   - What is their repuation like on Bigger Pockets?
 
-- What are the insurance prices in the area?
-- Any special conditions? Flood zone, or hurricane prone (Florida, etc)
-- WEBSITE TO FIND THIS - MAKE A PROCESS
+   Questions
 
-- RESEARCH OTHER APPRECIATION/DEPRECIATION FACTORS
+   - Can you tell me more about your company?
+   - What is your role in the process? Buy? Rehab? Sell? Property Management? (This always better if they own the entire process - makes it easier to find a point of contact and back up their work)
+   - If you are a middle man, how do you vet the actual providers?
+   - Ask them "What separates you from other companies?"
 
-2. Turnkey Company
+3. Property Value & Questions to ask
 
-FILL THIS WITH THE TURNKEY REVOLUTION CHAPTER....
-
-- What is their role in the Selling/Aquisition/Management process?
-- Are they just a wholesaler?
-- Did they rehab the property themselves? If not, who did?
-- What is their repuation like on Bigger Pockets?
-- Talk to them and questions to ask:
-  What is your vacancy rate?
-
-3. Property Value
-
-   - Plug values into the Investment Calculator
-   - Property Tax: https://www.qpublic.net/
-   - Insurance Rates
+   - Pass the initial property filter in the "What am I looking for" section above
+   - Plug values into the Investment Calculator - good margin?
+   - Monthly Property Tax: https://www.qpublic.net/
+   - Monthly Insurance
    - What is my minimum monthly cashflow? (200 to be safe after main, cap ex, etc.)
-   - Be aware of Neighborhood class - A has the most appreciation and lowest vacancy/maint issues. Best neighborhoods. B will usually be best turnkey value overall. C could have more issues - Stay away from D!
    - Does the property need repairs currently? Will it soon?
    - How sure is the Rent price?
    - Deals are made going in - Make sure its a good investment!! You can always find another..
    - RESEARCH THIS: Best value around the 100k range?? Too cheap and you get issues? Also as you go lower in price % maint and % cap exp go down - even tho things will cost around the same...
 
-4. Current Tenancy
+   Questions:
 
-   - Are there Tenants currently?
-   - Rent rolls available?
-   - Current Lease?
-   - DONT RENT TO SECTION 8! Its not worth the risk (from experience)
+   - Do you own the property? If not, who is the company/person who is selling it? Always better selling their own
+   - Was the property rehabbed? Who did the rehab? Always better to know the rehab workmanship personally
+   - Does it currently need any repairs? If so, what do you think the estimated costs will be?
 
-5. Property Management
+4. Property Management & Tenancy & Questions to ask
 
-   - Is there a property Manager? What are their rates?
-   - Is there a listing fee charge?
-   - Do they charge when there is a vacancy?
-   - How much experience do they have
+   - Find out more about the property management team and make sure you are comfortable working with them, and they have reasonable rates. Nothing is more important to the success of your property or peace of mind, than the property management company and their communication, responsiveness, and committment to excellence.
+
+   Questions:
+
+   - Can you tell me more about your property management company? (How much experience do they have?) How do you handle problems - how big are you? Processes in place..?
+   - Is there a listing fee charge or placement charge? How much...
+   - What is their average vacancy rate? (Charge when there is a vacancy?) So important to keep rentals filled...
+   - Are there Tenants currently? (Rent Rolls available?) (Lease Agreements?) How sure is the rental price?
 
 ### Insurance
 
@@ -195,17 +195,23 @@ Hurricane?
 
 4. When you find the property you want to buy, begin the acutal loan application process.
 
+5. Questions to ask about the loan
+
+   - Is there a prepayment penalty?
+
 ## PROCESS - Purchase and Closing on the property
+
+NOTE: Save all documentation with everything you do in an organized way! This will make life easier in the future.
 
 1. Submit Bid and reach an Agreement with Seller
 
    Work with a real estate agent. Put in an offer for the property through your real estate agent.
-   Important! Ask for the seller to cover the closing costs, and offer a higher price to make up for it. This will help you put less down and increase your ROI, while increasing your monthly mortgage by a super tiny amount.
+   Important! Ask for the seller to cover the closing costs, and offer a higher price to make up for it. Maxiumum amount allowed by an investment propert is 2% for a conventional loan. (6% for FHA)
 
    Get the counter offer and discuss with your agent or advisors. Submit a counter offer. Repeat the process until satisfied and you reach an agreement.
 
 2. Home Inspection
-   Get an inspection - important to know what you are getting - about $300-$400.
+   Get an inspection - important to know what you are getting - about $300-$500.
    Work with seller/turnkey company to get things fixed that need to be.
 
 3. Lender Appraisal
@@ -403,6 +409,14 @@ Have 45?? days to make another purchase?
 - Penalty for early withdrawal is 10%?? VERIFY THIS
 - When you take it out for real, you pay income tax on it???? VERIFY THIS
 
+### Online Banking Savings Accounts
+
+You can put your money in an online savings account and get 1.5-1.85% interest on your money. Be aware of minimum balances, maxiumum transactions per month, and transaction fees.
+
+### Stock Trading
+
+I suggest using Robinhood, there are no transaction fees - make as many trades as you want at no cost to you.
+
 ### Acronyms
 
 - LTV - Loan to Value - The amount of the loan over the value of the house
@@ -412,4 +426,4 @@ Have 45?? days to make another purchase?
 - ROI - Return on Investment - Yearly Net Return over your cash investment
 - ROE - Return on Equity - Yearly Net Return over the equity you have in the property (this will decrease as you pay off the mortgage)
 - Cap Rate -
-- DTI - Debt to Income - Amount of your expenses (or new mortgage payment) over your gross monthly income
+- DTI - Debt to Income - Amount of your expenses you are on the hook for (or new mortgage payment) over your gross monthly income (This has to be under a certain number 28%? in order to qualify for a loan). Rental income doesn't count 100%, just be aware of this.
