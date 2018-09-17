@@ -45,6 +45,7 @@ Research the markets and compile data ...
 ## Set your goals and find your why
 
 Its gonna be hard. When things are not going right, you need to find that spark or reason to keep perservering and pushing through. Remember your WHY!!
+
 Freedom to spend more time with wife and family.
 Freedom from worrying about money.
 Freedom from being forced to work hard in a job with no end.
@@ -85,7 +86,12 @@ Ability to help others around me.
 
 - What am I looking for
 
-  - Be specific - Type of property, and type of neighborhoods, etc
+  - Turnkeys in the 70-120k range
+  - Positive cashflow - most important part
+  - A/B Neighborhoods - too much risk in C/D
+  - No Section 8 housing - too much risk
+  - Already rented, or confident property manager
+  - Property management in place
 
 - Avenues to find them
 
@@ -163,6 +169,8 @@ Liability
 Flood?
 Hurricane?
 
+### PROCESS - Creating an LLC
+
 ### PROCESS - Finding a Lender and getting approved
 
 1. Get all the documents you will need and into an organized folder
@@ -197,10 +205,20 @@ Hurricane?
    Get the counter offer and discuss with your agent or advisors. Submit a counter offer. Repeat the process until satisfied and you reach an agreement.
 
 2. Home Inspection
+   Get an inspection - important to know what you are getting - about $300-$400.
+   Work with seller/turnkey company to get things fixed that need to be.
 
 3. Lender Appraisal
+   Get an appraisal of the property (usually the lender will order this and its to keep themselves safe) If it comes back lower than expected, you are not obligated to buy it. I'm prolly paying for this - takes about a week.
 
-4.
+4. Connect with the property manager -
+   stay in touch with him - gotta give him banking info so he can send rents over to you. (figure out of its rented already, or to be rented - in that case its a target rent. 80% of the time its rented currently)
+
+5. About 60-75 days from the time you sign the purchase agreement to the time you sign the closing documents. (up to 90 days) If its close to the closing date and its not close, then email your investment counselor.
+   Communicate in a timely manner with:
+   Turnkey Investment Counselor
+   Lender (or mortgage broker)
+   Title Company
 
 ## PROCESS - Filing Taxes at the end of the year
 
@@ -314,25 +332,9 @@ Married Filing Jointly
 | 35%      |  $400,001 to $600,000  |  $91,379 plus 35% of the amount over $400,000 |
 | 37%      |    $600,001 or more    | $161,379 plus 37% of the amount over $600,000 |
 
-### HElOC
-
-HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
-
-1. 100k home, with 20k of my money/equity. Since I'm at 20% and have nothing above the 20%, I cannot get a HELOC
-2. 100k home, with 40k of my money/equity. Since I'm over the 20% threshold by 20k, I can get a HELOC for 20k
-3. 100k home, with 80k of my money/equity. Since I'm over the 20% threshold by 60k, i can get a HELOC for 60k
-
-These often come with low 1.7-2% introductory APRs for the first year. You can do strategic things here - Use that money to quickly pay off principle in another loan, and then pay this HELOC off using the lower % rate. Hawaii is known for really low APRs.
-
-Once the introductory rate is over, you can pay it off or cancel and open another HELOC with another bank lol.
-
-One thing to note is that HELOC % is calculated by the day, so any balance used in a month will be charged interest. Credit Cards on the other hand are only charged interest at the end of the month. Because of this, use your Credit Card for daily purchases and only use your HELOC to pay off your CC as needed. Credit Card will also return points on purchases.
-
-Combine a HELOC, with a CC, and Mortgage to do a Velocity Banking Strategy. Open a HELOC, and use a huge chunk to pay off the mortgage principle (same property or another - the earlier the loan section the bigger the payoff). Keep a zero balance in your checking. Any day to day activities, use your CC to pay it off. At the end of the month use the HELOC to pay the CC balance. Any extra income goes toward paying down the HELOC balance. Get it to zero before the rate rises. Cancel, then open another HELOC at the introductory rate. Garret Taira perfected this strategy.
-
 ### Velocity Banking Mortgage Payment Strategy
 
-The idea is to take out either HELOCS, 401k loans, or even CC's and pay off your principle as early as possible to get your mortgage payments into the section where you are paying less interest. This is super important in the front part of the loan, but less important toward the end. This is because the front end of the loan is loaded with mostly interest. You will need extra income every month to make this work. Here is an Example using my Aalii loan:
+The idea is to take out either HELOCs, 401k loans, or even CC's and pay off your principle as early as possible to get your mortgage payments into the section where you are paying less interest. This is super important in the front part of the loan, but less important toward the end. This is because the front end of the loan is loaded with mostly interest. You will need extra income every month to make this work. Here is an Example using my Aalii loan:
 
 Purchase Price: 285k
 Down payment (20%): 57k
@@ -352,6 +354,22 @@ Mortage Amount: 228k:
 
 Note: Ask the lender if there are pre-payment fees. If so, dont go with that lender, because you will be penalized for doing this. Also, when making the principle only payment - be sure to tell the lender it is a principle only payment. If you sign the slip wrong or they mark it wrong, then it wont go well for you...
 
+### HElOC
+
+HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
+
+1. 100k home, with 20k of my money/equity. Since I'm at 20% and have nothing above the 20%, I cannot get a HELOC
+2. 100k home, with 40k of my money/equity. Since I'm over the 20% threshold by 20k, I can get a HELOC for 20k
+3. 100k home, with 80k of my money/equity. Since I'm over the 20% threshold by 60k, i can get a HELOC for 60k
+
+These often come with low 1.7-2% introductory APRs for the first year. You can do strategic things here - Use that money to quickly pay off principle in another loan, and then pay this HELOC off using the lower % rate. Hawaii is known for really low APRs.
+
+Once the introductory rate is over, you can pay it off or cancel and open another HELOC with another bank lol.
+
+One thing to note is that HELOC % is calculated by the day, so any balance used in a month will be charged interest. Credit Cards on the other hand are only charged interest at the end of the month. Because of this, use your Credit Card for daily purchases and only use your HELOC to pay off your CC as needed. Credit Card will also return points on purchases.
+
+Combine a HELOC, with a CC, and Mortgage to do a Velocity Banking Strategy. Open a HELOC, and use a huge chunk to pay off the mortgage principle (same property or another - the earlier the loan section the bigger the payoff). Keep a zero balance in your checking. Any day to day activities, use your CC to pay it off. At the end of the month use the HELOC to pay the CC balance. Any extra income goes toward paying down the HELOC balance. Get it to zero before the rate rises. Cancel, then open another HELOC at the introductory rate. Garret Taira perfected this strategy.
+
 ### 1031 Exchange
 
 https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
@@ -360,6 +378,15 @@ Have 45?? days to make another purchase?
 
 - Have 180?? days to close?
 - RESEARCH THIS MORE
+
+### 401k/IRA (Individual Retirement Account)
+
+- Pretax dollars put here (so you get more bang for your buck)
+- Reduces income tax (money contributed is not counted as income)
+- Must be 60 to withdraw penalty free, otherwise 10% penalty
+- Roth means you put in after tax dollars
+- 401k - 18k limit as of 2017, IRA 5.5k limit as of 2017
+- Compound interest is POWERFUL!!!
 
 ### Datahouse 401k
 
