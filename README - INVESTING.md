@@ -4,6 +4,8 @@
 
 ## Research more List
 
+uh credit union
+
 Aurbnb??? - evaluate cost analysis of this
 Agreement for Deed
 Subject to
@@ -142,6 +144,7 @@ Ability to help others around me.
    - Does the property need repairs currently? Will it soon?
    - Deals are made going in - Make sure its a good investment!! You can always find another..
    - Best value around the 100k range. Too cheap and you get issues? Also as you go lower in price % maint and % cap exp go down - even tho things will cost around the same...
+   - Service to go take pictures of the house and get intel without their permission.
 
    Questions:
 
@@ -149,8 +152,15 @@ Ability to help others around me.
    - Was the property rehabbed? Who did the rehab? Always better to know the rehab workmanship personally
    - Does it currently need any repairs? If so, what do you think the estimated costs will be?
    - Can you tell me a little more about the neighborhood (want them to describe it in their own terms)
+     Big 6 Cap Exp Questions - Find facts and also get a feel on how they answer. Ask Hey ball park numbers, what would it cost to redo the roof, etc - just to get a feel
+   - When was the last time the roof was done?
+   - HVAC?
+   - Foundation - any issues? any work done and repaired?
+   - Termites?
+   - Plumbing?
+   - Electrical?
 
-4. Property Management & Questions to ask
+4) Property Management & Questions to ask
 
    - Find out more about the property management team and make sure you are comfortable working with them, and they have reasonable rates. Nothing is more important to the success of your property or peace of mind, than the property management company and their communication, responsiveness, and committment to excellence. Good chance this guy doesn't care about your investment - make sure you are comfortable here - find the right team!
 
@@ -365,6 +375,26 @@ Mortage Amount: 228k:
 
 Note: Ask the lender if there are pre-payment fees. If so, dont go with that lender, because you will be penalized for doing this. Also, when making the principle only payment - be sure to tell the lender it is a principle only payment. If you sign the slip wrong or they mark it wrong, then it wont go well for you...
 
+### Velocity Banking, HELOC, Credit Card, Mortgage, Checking strategy
+
+Juggling 4 accounts - Checking, CC, Mortgage, HELOC, to make the most of every paycheck, and your idle money.
+
+1. Take out a HELOC at the introductory 2% rate.
+
+2. Dump your enire checking account into the the Mortgage principle only.
+
+3. Dump a chunk of your HELOC into your Mortgage principle only. (Now you will need to pay the HELOC balance off)
+
+4. Use your CC for daily activities - Food, gas, golf, etc. There is no penalty for holding a daily balance as long as you pay it off at the end of the month. Unlike a HELOC, where interest is accumulated daily
+
+5. When the mortgage payment is due, use the HELOC like a checking account to pay it off
+
+6. When the CC payment is due, use the HELOC like a checking account to pay it off
+
+7. On payday, put everything into paying off the HELOC balance. You should be making more than your mortgage payment and daily expenses. The excess goes toward paying down your HELOC.
+
+8. When the introductory rate on the HELOC is over, then open another HELOC, then pay it off with your CC. Cancel the HELOC, and open another at another bank with a new introductory rate.
+
 ### Velocity Banking vs Investing
 
 Big Question: Use velocity banking or put money toward an investment with compound interest?? Answer is that it depends on the compound interest percentage. Here is an example of the math:
@@ -504,6 +534,10 @@ Have 45?? days to make another purchase?
 ### Online Banking Savings Accounts
 
 You can put your money in an online savings account and get 1.5-1.85% interest on your money. Be aware of minimum balances, maxiumum transactions per month, and transaction fees.
+
+### Credit Card Introductory Rate strategy
+
+Keep opening new Credit Cards for the sign up bonus, use it, then open another one with another sign up bonus. Biggest issue here is making sure that your credit score doesn't take a big hit, and managing the different accounts. You can net from 150-600 per new Credit Card open. Rinse and Repeat
 
 ### Stock Trading
 
