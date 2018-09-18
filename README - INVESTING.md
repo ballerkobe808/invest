@@ -136,31 +136,30 @@ Ability to help others around me.
 3. Property Value & Questions to ask
 
    - Pass the initial property filter in the "What am I looking for" section above
-   - Plug values into the Investment Calculator - good margin?
+   - Plug values into the Investment Calculator - good margin? (Want 200 positive cashflow)
    - Monthly Property Tax: https://www.qpublic.net/
    - Monthly Insurance
-   - What is my minimum monthly cashflow? (200 to be safe after main, cap ex, etc.)
    - Does the property need repairs currently? Will it soon?
-   - How sure is the Rent price?
    - Deals are made going in - Make sure its a good investment!! You can always find another..
-   - RESEARCH THIS: Best value around the 100k range?? Too cheap and you get issues? Also as you go lower in price % maint and % cap exp go down - even tho things will cost around the same...
+   - Best value around the 100k range. Too cheap and you get issues? Also as you go lower in price % maint and % cap exp go down - even tho things will cost around the same...
 
    Questions:
 
    - Do you own the property? If not, who is the company/person who is selling it? Always better selling their own
    - Was the property rehabbed? Who did the rehab? Always better to know the rehab workmanship personally
    - Does it currently need any repairs? If so, what do you think the estimated costs will be?
+   - Can you tell me a little more about the neighborhood (want them to describe it in their own terms)
 
-4. Property Management & Tenancy & Questions to ask
+4. Property Management & Questions to ask
 
-   - Find out more about the property management team and make sure you are comfortable working with them, and they have reasonable rates. Nothing is more important to the success of your property or peace of mind, than the property management company and their communication, responsiveness, and committment to excellence.
+   - Find out more about the property management team and make sure you are comfortable working with them, and they have reasonable rates. Nothing is more important to the success of your property or peace of mind, than the property management company and their communication, responsiveness, and committment to excellence. Good chance this guy doesn't care about your investment - make sure you are comfortable here - find the right team!
 
    Questions:
 
    - Can you tell me more about your property management company? (How much experience do they have?) How do you handle problems - how big are you? Processes in place..?
-   - Is there a listing fee charge or placement charge? How much...
+   - What are the fees? Setup fee - say $300 to open account - Monthly 8%-12%? Is this on rent Collected, or rent due, rent scheduled, rent value, etc. It should be on rent collected to assure not paying when there is no rent. Vacancy Fee? Listing/new tenant fee? Lease renewal fee? Maintenance fees? Eviction fee?
    - What is their average vacancy rate? (Charge when there is a vacancy?) So important to keep rentals filled...
-   - Are there Tenants currently? (Rent Rolls available?) (Lease Agreements?) How sure is the rental price?
+   - Are there Tenants currently? (Rent Rolls available?) (Lease Agreements?) How sure is the rental price? If you are unsure here, then call around for property managers in the area and get their opinion - you can possibly go with one of them if you like them as well (Yelp is a good resource)
 
 ### Insurance
 
@@ -185,7 +184,7 @@ Hurricane?
 2. Search for and contact a Lender
    You can do this through a web search or through referral from a friend. Lane Kawaoka said certain banks wont fund investments, so its better to go with ones that are familiar with the process and the risk. Current lenders I have a relationship with are:
 
-   - Quicken Loans
+   - Quicken Loans (Caution - promised 15% down early - changed to 25% when actual loan and tried to push super high fees through - luckily i read the documents - Be Careful of Sales people here!!!)
    - Highlands Mortgage
    - Ridge Lending
    - Bank of Hawaii
@@ -194,6 +193,8 @@ Hurricane?
    This should end with a prequalification letter. Be Responsive Here!!
 
 4. When you find the property you want to buy, begin the acutal loan application process.
+
+   - Send the contract over to the lender for review
 
 5. Questions to ask about the loan
 
@@ -239,6 +240,8 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
 ## PROCESS - Keeping up with the Rental
 
 ## PROCESS - When Rental issues arise
+
+### Section 8
 
 ### Real Estate Tax Benefits and Strategies
 
@@ -340,6 +343,8 @@ Married Filing Jointly
 
 ### Velocity Banking Mortgage Payment Strategy
 
+Question: Can I get a 20% loan, then pay 5% to principle right away vs a 25% loan?
+
 The idea is to take out either HELOCs, 401k loans, or even CC's and pay off your principle as early as possible to get your mortgage payments into the section where you are paying less interest. This is super important in the front part of the loan, but less important toward the end. This is because the front end of the loan is loaded with mostly interest. You will need extra income every month to make this work. Here is an Example using my Aalii loan:
 
 Purchase Price: 285k
@@ -359,6 +364,47 @@ Mortage Amount: 228k:
    This will be 86k in Total Interest - Saving $152k
 
 Note: Ask the lender if there are pre-payment fees. If so, dont go with that lender, because you will be penalized for doing this. Also, when making the principle only payment - be sure to tell the lender it is a principle only payment. If you sign the slip wrong or they mark it wrong, then it wont go well for you...
+
+### Velocity Banking vs Investing
+
+Big Question: Use velocity banking or put money toward an investment with compound interest?? Answer is that it depends on the compound interest percentage. Here is an example of the math:
+
+228k loan 5.5%/30 years
+
+---
+
+1. Strategy: pay off loan, put aside extra money into mutual fund
+
+---
+
+1295/month/30 years
+238k in interest
+
+990 compounded at 7% for 30 years = 1,215k - interest = 977k
+990 compounded at 5% for 30 years = 827k - interest = 589k
+990 compounded at 10% for 30 years = 2,2567k - interest = 2,018k
+
+---
+
+2. Strategy: borrow 50k from 401, put toward principle, then invest in mutual fund after
+
+---
+
+50k loan 7%/5yrs to principle
+990/month/5 years
+9400 interest (goes back to your 401k, but also opportunity lost of 50k over 5 years - 20k)
+lets say 10k in interest paid
+
+skip 143 payments, so 217 payments left, saved 135k
+18 years left on loan at 1295/month/18 years, then 12 years free
+saved 125k in interest, 113k in interest
+
+990 compounded at 7% for 13 years = 252k
+then with that base, compounded at 7% for 12 more years with 1295+990 = 1,099k - interest = 986k
+990 compounded at 5% for 13 years = 218k
+then with that base, compounded at 5% for 12 more years with 1295+990 = 848k - interest = 735k
+990 compounded at 10% for 13 years = 317k
+then with that base, compounded at 10% for 12 more years with 1295+990 = 1,685k - interest = 1,572k
 
 ### HElOC
 
