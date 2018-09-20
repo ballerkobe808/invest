@@ -169,7 +169,7 @@ Ability to help others around me.
    - Can you tell me more about your property management company? (How much experience do they have?) How do you handle problems - how big are you? Processes in place..?
    - What are the fees? Setup fee - say $300 to open account - Monthly 8%-12%? Is this on rent Collected, or rent due, rent scheduled, rent value, etc. It should be on rent collected to assure not paying when there is no rent. Vacancy Fee? Listing/new tenant fee? Lease renewal fee? Maintenance fees? Eviction fee?
    - What is their average vacancy rate? (Charge when there is a vacancy?) So important to keep rentals filled...
-   - Are there Tenants currently? (Rent Rolls available?) (Lease Agreements?) How sure is the rental price? If you are unsure here, then call around for property managers in the area and get their opinion - you can possibly go with one of them if you like them as well (Yelp is a good resource)
+   - Are there Tenants currently? (Rent Rolls available?) (Lease Agreements?) How sure is the rental price? If you are unsure here, then call around for property managers in the area and get their opinion - you can possibly go with one of them if you like them as well (Yelp is a good resource). Also Hotpads research surrounding similar rentals.
 
 ### Insurance
 
