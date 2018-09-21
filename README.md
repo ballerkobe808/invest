@@ -173,7 +173,7 @@ Ability to help others around me.
 
 ### Turnkey Location Hotspots
 
-![](lib/Turnkey heat map 8-16)
+![](lib/Turnkey-heat-map-8-16.jpg)
 
 ### Insurance
 
