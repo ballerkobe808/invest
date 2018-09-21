@@ -381,64 +381,68 @@ This is some really cool stuff. Here is a pic of a guide I wrote:
 
 ### DTI (Debt to Income)
 
-    Calculate your monthly Debt
-    This includes all things you are on the hook for - mortgage, car payments, loans, rent, etc. It does NOT include food, or variable living expenses.
+Calculate your monthly Debt
+This includes all things you are on the hook for - mortgage, car payments, loans, rent, etc. It does NOT include food, or variable living expenses.
 
-    Calculate your Gross Income
-    Get your paychecks before taxes for the month. Things like rent will not be counted unless you can show income for 2 years (is this correct)
+Calculate your Gross Income
+Get your paychecks before taxes for the month. Things like rent will not be counted unless you can show income for 2 years (is this correct)
 
-    Debt/Income = DTI
+Debt/Income = DTI
 
-    This is important when applying for loans/mortgages
+This is important when applying for loans/mortgages
 
 ### HElOC
 
-    HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
+HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
 
-    1. 100k home, with 20k of my money/equity. Since I'm at 20% and have nothing above the 20%, I cannot get a HELOC
-    2. 100k home, with 40k of my money/equity. Since I'm over the 20% threshold by 20k, I can get a HELOC for 20k
-    3. 100k home, with 80k of my money/equity. Since I'm over the 20% threshold by 60k, i can get a HELOC for 60k
+1. 100k home, with 20k of my money/equity. Since I'm at 20% and have nothing above the 20%, I cannot get a HELOC
+2. 100k home, with 40k of my money/equity. Since I'm over the 20% threshold by 20k, I can get a HELOC for 20k
+3. 100k home, with 80k of my money/equity. Since I'm over the 20% threshold by 60k, i can get a HELOC for 60k
 
-    These often come with low 1.7-2% introductory APRs for the first year. You can do strategic things here - Use that money to quickly pay off principle in another loan, and then pay this HELOC off using the lower % rate. Hawaii is known for really low APRs.
+These often come with low 1.7-2% introductory APRs for the first year. You can do strategic things here - Use that money to quickly pay off principle in another loan, and then pay this HELOC off using the lower % rate. Hawaii is known for really low APRs.
 
-    Once the introductory rate is over, you can pay it off or cancel and open another HELOC with another bank lol.
+Once the introductory rate is over, you can pay it off or cancel and open another HELOC with another bank lol.
 
-    One thing to note is that HELOC % is calculated by the day, so any balance used in a month will be charged interest. Credit Cards on the other hand are only charged interest at the end of the month. Because of this, use your Credit Card for daily purchases and only use your HELOC to pay off your CC as needed. Credit Card will also return points on purchases.
+One thing to note is that HELOC % is calculated by the day, so any balance used in a month will be charged interest. Credit Cards on the other hand are only charged interest at the end of the month. Because of this, use your Credit Card for daily purchases and only use your HELOC to pay off your CC as needed. Credit Card will also return points on purchases.
 
-    Combine a HELOC, with a CC, and Mortgage to do a Velocity Banking Strategy. Open a HELOC, and use a huge chunk to pay off the mortgage principle (same property or another - the earlier the loan section the bigger the payoff). Keep a zero balance in your checking. Any day to day activities, use your CC to pay it off. At the end of the month use the HELOC to pay the CC balance. Any extra income goes toward paying down the HELOC balance. Get it to zero before the rate rises. Cancel, then open another HELOC at the introductory rate. Garret Taira perfected this strategy.
+Combine a HELOC, with a CC, and Mortgage to do a Velocity Banking Strategy. Open a HELOC, and use a huge chunk to pay off the mortgage principle (same property or another - the earlier the loan section the bigger the payoff). Keep a zero balance in your checking. Any day to day activities, use your CC to pay it off. At the end of the month use the HELOC to pay the CC balance. Any extra income goes toward paying down the HELOC balance. Get it to zero before the rate rises. Cancel, then open another HELOC at the introductory rate. Garret Taira perfected this strategy.
 
 ### Closing Costs
 
-    - Home Inspection (300-500): You send a guy in to go thru the house and find any issues.
+- Home Inspection (300-500): You send a guy in to go thru the house and find any issues.
 
-    Lender/Loan related fees
-    - Lender Appraisal (300-650): Lender needs to make sure they can sell the house if you default on your loan - they send in their own appraiser to get the value - this can vary from appraiser to appraiser. May need to go back again - that is an additional 200-400 per visit.
-    - Application fee (25-1000): Cost to process your loan - This may be inclusive, or it may be broken up into: Application fee, , Settlement Fee, Document Fee - basically BS haha.
-    - Credit Check (25): Pay to check your credit.
-    - Notary Fee (200): Pay for a Notary.
-    - Courier Fee (50): This covers the cost of transporting documents to complete the loan transaction as quickly as possible.
-    - Assumption fee: If you take over the remaining balance of the sellers mortgage you have to pay a fee??
-    - Attorney, Closing, or Escrow Fee(0-1000):  title company, escrow company or attorney for conducting the closing. Certain states require an attorney present at closing.
-    - Prepaid Interest: Lender is gonna charge you for the interest accruing between settlement date and your first mortgage payment
-    - Loan Origination fee (1000-3000): Big up front fee by the lender to pay for underwriting, admin, and processing, can cover attorney fees, notaries, doc prep, etc. Average 1-2% of the loan.
-    - Points (1000-5000):  Pay the interest on the front end to reduce the interest rate. Example: 100,000 - 1 point = 1000, to reducee your interest rate by one point.
-    - Mortgage Broker fee (1000-3000): If you are going through a mortgage broker to connect you with a lender, they will charge a fee. 1-2% of the home's purchase price. Don't use a broker!!
-    - Recording Fees: A fee charged by your local recording office, usually city or county, for the recording of public land records.
+Lender/Loan related fees
 
-    Title Fees
-    - Title search fee (200): Make sure the person selling owns it and there are no liens on the house.
-    - Lenders title insurace: Lenders buy insurace in case there was an error in the title search and someone else owns the property.
-    - Owners title insurace: Protect yourself in case there was an error in the title search.
+- Lender Appraisal (300-650): Lender needs to make sure they can sell the house if you default on your loan - they send in their own appraiser to get the value - this can vary from appraiser to appraiser. May need to go back again - that is an additional 200-400 per visit.
+- Application fee (25-1000): Cost to process your loan - This may be inclusive, or it may be broken up into: Application fee, , Settlement Fee, Document Fee - basically BS haha.
+- Credit Check (25): Pay to check your credit.
+- Notary Fee (200): Pay for a Notary.
+- Courier Fee (50): This covers the cost of transporting documents to complete the loan transaction as quickly as possible.
+- Assumption fee: If you take over the remaining balance of the sellers mortgage you have to pay a fee??
+- Attorney, Closing, or Escrow Fee(0-1000): title company, escrow company or attorney for conducting the closing. Certain states require an attorney present at closing.
+- Prepaid Interest: Lender is gonna charge you for the interest accruing between settlement date and your first mortgage payment
+- Loan Origination fee (1000-3000): Big up front fee by the lender to pay for underwriting, admin, and processing, can cover attorney fees, notaries, doc prep, etc. Average 1-2% of the loan.
+- Points (1000-5000): Pay the interest on the front end to reduce the interest rate. Example: 100,000 - 1 point = 1000, to reducee your interest rate by one point.
+- Mortgage Broker fee (1000-3000): If you are going through a mortgage broker to connect you with a lender, they will charge a fee. 1-2% of the home's purchase price. Don't use a broker!!
+- Recording Fees: A fee charged by your local recording office, usually city or county, for the recording of public land records.
 
-    Property taxes and insurance (Prepaid fees that you would have to pay in the future anyway - Not really closing costs)
-    - Annual assessments: Condos or Homeowners association sometimes requires the first years fee upfront
-    - Homeowners insurance premium (Hazard Insurance) (800): Usually the lender makes you get Homeowners Insurace. You pay the first month/months/year premium up front.
-    - Property Taxes(50-1000): Pay the first x number of months up front.
+Title Fees
 
-    Mortgage Insurace Fees - If  you put down less than 20%, you gotta pay Mortgage Insurace.
-    - Mortgage insurance application fee: Just a processing fee to apply.
-    - Upfront mortgage insurance: May need to pay PMI upfront depending on your lender.
-    - FHA, VA and USDA fees: Fees vary depending who is guaranteeing your mortgage.
+- Title search fee (200): Make sure the person selling owns it and there are no liens on the house.
+- Lenders title insurace: Lenders buy insurace in case there was an error in the title search and someone else owns the property.
+- Owners title insurace: Protect yourself in case there was an error in the title search.
+
+Property taxes and insurance (Prepaid fees that you would have to pay in the future anyway - Not really closing costs)
+
+- Annual assessments: Condos or Homeowners association sometimes requires the first years fee upfront
+- Homeowners insurance premium (Hazard Insurance) (800): Usually the lender makes you get Homeowners Insurace. You pay the first month/months/year premium up front.
+- Property Taxes(50-1000): Pay the first x number of months up front.
+
+Mortgage Insurace Fees - If you put down less than 20%, you gotta pay Mortgage Insurace.
+
+- Mortgage insurance application fee: Just a processing fee to apply.
+- Upfront mortgage insurance: May need to pay PMI upfront depending on your lender.
+- FHA, VA and USDA fees: Fees vary depending who is guaranteeing your mortgage.
 
 ### APR (Annual percentage rate) vs APY (Annual percentage yield)
 
