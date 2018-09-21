@@ -325,6 +325,17 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     - Computer, Wifi, etc
     - Keep receipts
 
+### Tax Deductions
+
+Move your expenses under your business
+
+Cell phone purchase and bills
+Laptop/computers
+TVs - education of business
+Trips (as long as you go with the intent for business BEFORE you start it)
+Hire your kids
+Car (This is not an automatic write off so be careful here)
+
 ### Federal Tax Brackets for 2018
 
 Single Filing
@@ -353,88 +364,15 @@ Married Filing Jointly
 
 ### Velocity Banking Mortgage Payment Strategy
 
-Question: Can I get a 20% loan, then pay 5% to principle right away vs a 25% loan?
+![alt text](/lib/veolocity-banking-example.png 'Velocity Banking Explained')
 
-The idea is to take out either HELOCs, 401k loans, or even CC's and pay off your principle as early as possible to get your mortgage payments into the section where you are paying less interest. This is super important in the front part of the loan, but less important toward the end. This is because the front end of the loan is loaded with mostly interest. You will need extra income every month to make this work. Here is an Example using my Aalii loan:
+### Line of Credit (HELOC, or Personal LOC)
 
-Purchase Price: 285k
-Down payment (20%): 57k
-Mortage Amount: 228k:
+YOU ARE PAYING PER DAY - SUPER SIMPLE CALCULATION - TAKE THE PERCENT, DIVIDE BY 12 FOR HOW MUCH U PAY PER MONTH, OR DIVIDE BY 365 TO SEE HOW MUCH INTEREST U PAY PER DAY
 
-1. 5.5% APR Loan over 30 years mininum payments ($1295/month).
-   $238k in Total Interest.
-2. Take out a CC at 20% APR for 30k, and pay that back over 4 years (+$913/month). Apply to priniple.
-   This monthly payment is on top the $1295/month of the mortgage. You pay $14k interest for the CC, and save 94k in mortgage interest.
-   This is $158k in Total Interest - Saving $80k
-3. Take out a 401k loan at 7% APR for 50k, and pay that pack over 5 years (+990/month). Apply to priniple.
-   This monthly payment is on top the $1295/month of the mortgage. You pay $9400 interest for the 401k loan and save $116k in mortgage interest.
-   This is $131k in Total Interest - Saving $107k
-4. Do it again after 5 years - Same 50k loan from 401k for 5 years (current balance of 158k). Apply to priniple.
-   You pay the same +990/month and 9400 in interest for the 401k loan, but save 45k more interest.
-   This will be 86k in Total Interest - Saving $152k
+### DTI (Debt to Income)
 
-Note: Ask the lender if there are pre-payment fees. If so, dont go with that lender, because you will be penalized for doing this. Also, when making the principle only payment - be sure to tell the lender it is a principle only payment. If you sign the slip wrong or they mark it wrong, then it wont go well for you...
-
-### Velocity Banking, HELOC, Credit Card, Mortgage, Checking strategy
-
-Juggling 4 accounts - Checking, CC, Mortgage, HELOC, to make the most of every paycheck, and your idle money.
-
-1. Take out a HELOC at the introductory 2% rate.
-
-2. Dump your enire checking account into the the Mortgage principle only.
-
-3. Dump a chunk of your HELOC into your Mortgage principle only. (Now you will need to pay the HELOC balance off)
-
-4. Use your CC for daily activities - Food, gas, golf, etc. There is no penalty for holding a daily balance as long as you pay it off at the end of the month. Unlike a HELOC, where interest is accumulated daily
-
-5. When the mortgage payment is due, use the HELOC like a checking account to pay it off
-
-6. When the CC payment is due, use the HELOC like a checking account to pay it off
-
-7. On payday, put everything into paying off the HELOC balance. You should be making more than your mortgage payment and daily expenses. The excess goes toward paying down your HELOC.
-
-8. When the introductory rate on the HELOC is over, then open another HELOC, then pay it off with your CC. Cancel the HELOC, and open another at another bank with a new introductory rate.
-
-### Velocity Banking vs Investing
-
-Big Question: Use velocity banking or put money toward an investment with compound interest?? Answer is that it depends on the compound interest percentage. Here is an example of the math:
-
-228k loan 5.5%/30 years
-
----
-
-1. Strategy: pay off loan, put aside extra money into mutual fund
-
----
-
-1295/month/30 years
-238k in interest
-
-990 compounded at 7% for 30 years = 1,215k - interest = 977k
-990 compounded at 5% for 30 years = 827k - interest = 589k
-990 compounded at 10% for 30 years = 2,2567k - interest = 2,018k
-
----
-
-2. Strategy: borrow 50k from 401, put toward principle, then invest in mutual fund after
-
----
-
-50k loan 7%/5yrs to principle
-990/month/5 years
-9400 interest (goes back to your 401k, but also opportunity lost of 50k over 5 years - 20k)
-lets say 10k in interest paid
-
-skip 143 payments, so 217 payments left, saved 135k
-18 years left on loan at 1295/month/18 years, then 12 years free
-saved 125k in interest, 113k in interest
-
-990 compounded at 7% for 13 years = 252k
-then with that base, compounded at 7% for 12 more years with 1295+990 = 1,099k - interest = 986k
-990 compounded at 5% for 13 years = 218k
-then with that base, compounded at 5% for 12 more years with 1295+990 = 848k - interest = 735k
-990 compounded at 10% for 13 years = 317k
-then with that base, compounded at 10% for 12 more years with 1295+990 = 1,685k - interest = 1,572k
+Calculate this
 
 ### HElOC
 
