@@ -78,5 +78,4 @@ everyone else looks for work.
 - ROI - Return on Investment - Yearly Net Return over your cash investment
 - ROE - Return on Equity - Yearly Net Return over the equity you have in the property (this will decrease as you pay off the mortgage)
 - Cap Rate -
-- DTI - Debt to Income - Amount of your expenses you are on the hook for (or new mortgage payment) over your gross monthly income (This has to be under a certain number 28%? in order to qualify for a loan). Rental income doesn't count 100%, just be aware of this.
 - PMI - Private Mortgage Insurace - If you put down less than 20% on a house, then you gotta buy insurace for the remainder in case u cant pay or you default later on...

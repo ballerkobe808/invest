@@ -5,7 +5,7 @@
 - [1. CREDIT-FUNDING-LOANS](#1-credit-funding-loans)
   - [1.1. PROCESS - Get Funding](#11-process---get-funding)
     - [1.1.1. Collect and organize needed documents/records](#111-collect-and-organize-needed-documentsrecords)
-    - [1.1.2. Find a Lender](#112-find-a-lender)
+    - [1.1.2. PROCESS - Find a Lender](#112-process---find-a-lender)
     - [1.1.3. Get Pre-qualification letter](#113-get-pre-qualification-letter)
     - [1.1.4. Get Approved for a specific property](#114-get-approved-for-a-specific-property)
   - [1.2. Sources and Types of Funding](#12-sources-and-types-of-funding)
@@ -21,6 +21,7 @@
     - [1.3.4. Credit Audit/Repair/Upkeep](#134-credit-auditrepairupkeep)
   - [1.4. Important Concepts, Terms, and Strategies](#14-important-concepts-terms-and-strategies)
     - [1.4.1. DTI (Debt to Income)](#141-dti-debt-to-income)
+    - [LTV Loan to Value ratio](#ltv-loan-to-value-ratio)
     - [1.4.2. Online Banking Savings Account Strategy](#142-online-banking-savings-account-strategy)
     - [1.4.3. Credit Card Introductory Rate strategy](#143-credit-card-introductory-rate-strategy)
     - [1.4.4. APR (Annual percentage rate) vs APY (Annual percentage yield)](#144-apr-annual-percentage-rate-vs-apy-annual-percentage-yield)
@@ -63,7 +64,16 @@ Get all the documents you will need and into an organized folder
 - Aalii contract and agreement?
 - Proof of Federal Tax payment
 
-### 1.1.2. Find a Lender
+### 1.1.2. PROCESS - Find a Lender
+
+Research Lenders in the area and send them an email like this:
+
+[image]
+
+Investor-friendly banks (county you are looking in)
+Credit union (county you are looking in)
+Savings and loan institution (county you are looking in)
+Portfolio lender (county you are looking in)
 
 Find a good lender and build a relationship!! This will help you so much in the future.
 
@@ -252,17 +262,17 @@ $50 deletion fee
 
 ### 1.4.1. DTI (Debt to Income)
 
-Calculate your monthly Debt
+This is the first and biggest metric a lender looks at when deciding to lend you money. Its basically how much money you spend a month to cover your debts over how much you bring in.
 This includes all things you are on the hook for - mortgage, car payments, loans, rent, etc. It does NOT include food, or variable living expenses.
-
-Calculate your Gross Income
-Get your paychecks before taxes for the month. Things like rent will not be counted unless you can show income for 2 years (is this correct)
+It also takes your Gross Income (Not Net) Get your paychecks before taxes for the month. Things like rent will not be counted unless you can show income for 2 years (is this correct)
 
 Debt/Income = DTI
 
-This is important when applying for loans/mortgages
-
 Bank vs Actual DTI - Banks look at the DTI above, but for budgeting you really need to look at actual DTI taking into account living expenses and entertainment.
+
+### LTV Loan to Value ratio
+
+This is the % the lender is giving u over the total value of the purchase. The lower the number for the lender, the better for them. Often this number can affect your interest rate.
 
 ### 1.4.2. Online Banking Savings Account Strategy
 
