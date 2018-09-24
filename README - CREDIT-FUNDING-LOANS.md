@@ -65,6 +65,8 @@ Get all the documents you will need and into an organized folder
 
 ### 1.1.2. Find a Lender
 
+Find a good lender and build a relationship!! This will help you so much in the future.
+
 Search for and contact a Lender
 You can do this through a web search or through referral from a friend. Lane Kawaoka said certain banks wont fund investments, so its better to go with ones that are familiar with the process and the risk. Current lenders I have a relationship with are:
 
@@ -288,6 +290,8 @@ And so on...
 This is some really cool stuff. Here is a pic of a guide I wrote:
 
 ![](lib/velocity-banking-example.png)
+
+Good explanation here: https://www.youtube.com/watch?v=TWh5vBa-jhM
 
 ### 1.4.6. Stock Trading
 

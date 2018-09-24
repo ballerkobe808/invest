@@ -37,6 +37,9 @@ Ability to help others around me.
 
 ## Growing in this space and as a person
 
+The richest people in the world look for and build networks;
+everyone else looks for work.
+
 1. Build your team
 
    - Inner Circle - mentors/peers - more exp and success than you and willing to help/guide you - board of directors or millionaire masterminds - will help or connect u, could be support circle too - touch them once a month

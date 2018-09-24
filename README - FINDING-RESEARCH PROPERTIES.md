@@ -4,8 +4,11 @@
 
 - [1. FINDING-RESEARCHING PROPERTIES](#1-finding-researching-properties)
   - [1.1. PROCESS - Finding a Property (Generating Leads)](#11-process---finding-a-property-generating-leads)
+  - [Look for properties](#look-for-properties)
     - [1.1.1. What am I looking for (Initial Property filter)](#111-what-am-i-looking-for-initial-property-filter)
     - [1.1.2. Avenues to find them](#112-avenues-to-find-them)
+      - [Find a Good Agent](#find-a-good-agent)
+    - [Current Teams/Systems in place to find a good deal/rental](#current-teamssystems-in-place-to-find-a-good-dealrental)
   - [1.2. PROCESS - Researching a Property](#12-process---researching-a-property)
     - [1.2.1. Step by Step Guide to gather data](#121-step-by-step-guide-to-gather-data)
     - [1.2.2. Deeper Dive into Property (Things to Consider)](#122-deeper-dive-into-property-things-to-consider)
@@ -21,44 +24,56 @@
 
 ## 1.1. PROCESS - Finding a Property (Generating Leads)
 
-Auction com
-Hubzoo
-bearou of conveyances
+## Look for properties
 
-- Always be on the lookout - Finding good deals is the most important part of investing
-  - Keep researching and looking at real estate - constantly collect data points - the more you see, the better your instinct on what a good deal is becomes (you need to internalize this)
-  - Truepeoplesearch - find the person owning the property and contact them directly?
+Always be on the lookout! Finding good deals is the most important part of investing
+
+Keep researching and looking at real estate - constantly collect data points - the more you see, the better your instinct on what a good deal is becomes (you need to internalize this)
 
 ### 1.1.1. What am I looking for (Initial Property filter)
 
-- Turnkeys in the 80-120k range. Below 70k will be bad neighborhoods or need massive repairs. This also seems best reserve amount - 10% of 70k is 70 a month, while 10% of 100k is 100 a month, even tho water heaters cost the same for both properties...
-- Positive cashflow - most important part, more than appreciation
-- A/B Neighborhoods - Sticking to decent neighborhoods - there are too many horror stories from friends an online about C and D class neighborhoods. Anson has a few lol.
-- No Section 8 housing - Same as the C/D class neighborhoods, too much risk and cause for headaches down the road.
-- Property management in place. Its important to not only have a property manager, but a good reliable one in place here. This will make or break your rents in the future, and will be your lifeline down the road.
-- Already rented, or property manager confident can find renters quickly.
+- Single/Multifamily Rentals with over 1.2% Rent to Value ratio (in the 50-120k range).
+- Solid Property management - either in place or able to connect with some (So important! This is a make or break aspect - can make life terrible or awesome later)
+- Currently no bad neighborhoods, frequent vacancies, or massive repairs. Even though these may have Rent to Value ratios in the 2% or more. (This will come back to bite u later, try to avoid C/D Neighborhoods or Section 8 Housing - too much risk and headaches down the road)
 
 ### 1.1.2. Avenues to find them
 
-- Personal Contacts/Network
+- Personal Contacts/Network (Best route) Find a good Agent/Realtor in the area!! Best way to find good deals. Use Zillow to look up the reputation of a real estate agent.
 - Turnkey Providers (Norada, ReiTrader, JWB, Memphis Invest)
-- Craigslist
-- MLS
+- Craigslist, MLS, Auction com, Hubzoo, bearou of conveyances
+
+#### Find a Good Agent
+
+Finding a quality Realtor to work with will be so vital to your success. One way is to look on Zillow (Zillow.com/agent-finder.) or yelp and send an email to the agent with the following information:
+
+1. That you are an investor who understands real estate
+2. What specifically you are looking for
+3. How you intend to purchase (loan, cash, and so on)
+4. How you heard about the agent
+
+### Current Teams/Systems in place to find a good deal/rental
+
+THESE ARE THE MOST IMPORTANT PEOPLE IN THE PIPELINE! Finding a good deal is so vital to your success. Make sure to reward and appreciate these people for their contributions.
+
+- Sarah Rudy - Prop Manager/Realtor/Owner turnkeyonline
+  Lee Waters - Realtor
+
+- Jonathan - Reitrader
+
+- Lane Kawaoka
 
 ## 1.2. PROCESS - Researching a Property
 
 ### 1.2.1. Step by Step Guide to gather data
 
-- Use NeighborhoodScout for a report: https://www.neighborhoodscout.com/ (ethniciy, crime, trends, map)
 - Look it up on Zillow, Redfin, Trulia, (MLS if you can)
 - Walk the neighborhood with Google Street map view
-- GET THE PROPERTY TAX DOCUMENTS - HOW???
-- Look up rents in the area using Craigslist and Hotpads
+- Look up rents in the area using Rentometer.com, Craigslist and Hotpads
+- Find the property tax records (Zillow or County's tax site)
+- Find the areas desirability (NeighborhoodScout.com, Walkscore.com)
+- Find insurance prices Email/call my insurance agent (allstate, etc) with the property address and asking for the largest deductable/smallest monthly payment. Or Google "investor homeowner’s insurance Atlanta", read the reviews and call the highest reviewed one.
 - Find a local Realtor/Property Manager and speak to them (Look them up on Yelp)
-- Ask for rent rolls, of current previous tenants
-- Ask for documenation of work done on the house recently
-- LOOK FOR A SERVICE TO GO TAKE PICTURES OF THE HOUSE??
-- Call allstate or onsurance company to get a quote for the ins
+- Look up a record of past permits online (County's site)
 
 ### 1.2.2. Deeper Dive into Property (Things to Consider)
 
@@ -71,7 +86,6 @@ bearou of conveyances
 - Housing market - Are prices going up? Also look for a low foreclosure %
 - Look for a low cost of living.
 - What is the vacancy rate of the city?
-- What are the insurance prices in the area?
 - Any special conditions? Flood zone, or hurricane prone (Florida, etc)
 - Nice graphic about appreciation and cashflow here: [link image]
 
@@ -87,16 +101,17 @@ Questions
 - What is your role in the process? Buy? Rehab? Sell? Property Management? (This always better if they own the entire process - makes it easier to find a point of contact and back up their work)
 - If you are a middle man, how do you vet the actual providers?
 - Ask them "What separates you from other companies?"
+- Ask for rent rolls, of current previous tenants
+- Ask for documenation of work done on the house recently
 
 #### 1.2.2.3. Property Value & Questions to ask
 
 - Pass the initial property filter in the "What am I looking for" section above
 - Plug values into the Investment Calculator - good margin? (Want 200 positive cashflow)
-- Monthly Property Tax: https://www.qpublic.net/
-- Monthly Insurance
 - Does the property need repairs currently? Will it soon?
 - Deals are made going in - Make sure its a good investment!! You can always find another..
 - Best value around the 100k range. Too cheap and you get issues? Also as you go lower in price % maint and % cap exp go down - even tho things will cost around the same...
+- Truepeoplesearch - find the person owning the property and contact them directly?
 
 Questions:
 
@@ -125,7 +140,6 @@ Questions:
 
 Home Owners
 Liability
-Flood?
-Hurricane?
+Flood/Hurricane?
 
 ### 1.2.5. Section 8
