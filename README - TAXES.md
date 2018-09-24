@@ -1,13 +1,18 @@
-# TAXES
+# 1. TAXES
 
-- [Real Estate Tax Benefits and Strategies](#real-estate-tax-benefits-and-strategies)
-- [Tax Deductions](#tax-deductions)
-- [Federal Tax Brackets for 2018](#federal-tax-brackets-for-2018)
-- [1031 Exchange](#1031-exchange)
-- [PROCESS - Creating an LLC](#process---creating-an-llc)
-- [PROCESS - Filing Taxes at the end of the year](#process---filing-taxes-at-the-end-of-the-year)
+<!-- TOC -->
 
-### Real Estate Tax Benefits and Strategies
+- [1. TAXES](#1-taxes)
+  - [1.0.1. Real Estate Tax Benefits and Strategies](#101-real-estate-tax-benefits-and-strategies)
+  - [1.0.2. Tax Deductions](#102-tax-deductions)
+  - [1.0.3. Federal Tax Brackets for 2018](#103-federal-tax-brackets-for-2018)
+  - [1.0.4. Exchange](#104-exchange)
+  - [1.0.5. PROCESS - Creating an LLC](#105-process---creating-an-llc)
+  - [1.0.6. PROCESS - Filing Taxes at the end of the year](#106-process---filing-taxes-at-the-end-of-the-year)
+
+<!-- /TOC -->
+
+### 1.0.1. Real Estate Tax Benefits and Strategies
 
 Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-investing
 
@@ -79,7 +84,7 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     - Computer, Wifi, etc
     - Keep receipts
 
-### Tax Deductions
+### 1.0.2. Tax Deductions
 
 Move your expenses under your business
 
@@ -90,7 +95,7 @@ Trips (as long as you go with the intent for business BEFORE you start it)
 Hire your kids
 Car (This is not an automatic write off so be careful here)
 
-### Federal Tax Brackets for 2018
+### 1.0.3. Federal Tax Brackets for 2018
 
 Single Filing
 
@@ -116,7 +121,7 @@ Married Filing Jointly
 | 35%      | $400,001 to $600,000   | $91,379 plus 35% of the amount over $400,000  |
 | 37%      | $600,001 or more       | $161,379 plus 37% of the amount over $600,000 |
 
-### 1031 Exchange
+### 1.0.4. Exchange
 
 https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
@@ -125,9 +130,9 @@ Have 45?? days to make another purchase?
 - Have 180?? days to close?
 - RESEARCH THIS MORE
 
-### PROCESS - Creating an LLC
+### 1.0.5. PROCESS - Creating an LLC
 
-### PROCESS - Filing Taxes at the end of the year
+### 1.0.6. PROCESS - Filing Taxes at the end of the year
 
 - PROCESS TO DO TAXES AT THE END OF THE YEAR
 

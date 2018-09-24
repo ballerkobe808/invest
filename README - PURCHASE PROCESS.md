@@ -1,9 +1,14 @@
-# PURCHASE PROCESS
+# 1. PURCHASE PROCESS
 
-- [PROCESS - Purchase and Closing on the property](#process---purchase-and-closing-on-the-property)
-- [Closing Costs](#closing-costs)
+<!-- TOC -->
 
-### PROCESS - Purchase and Closing on the property
+- [1. PURCHASE PROCESS](#1-purchase-process)
+  - [1.0.1. PROCESS - Purchase and Closing on the property](#101-process---purchase-and-closing-on-the-property)
+  - [1.0.2. Closing Costs](#102-closing-costs)
+
+<!-- /TOC -->
+
+### 1.0.1. PROCESS - Purchase and Closing on the property
 
 NOTE: Save all documentation with everything you do in an organized way! This will make life easier in the future.
 
@@ -30,7 +35,7 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
    Lender (or mortgage broker)
    Title Company
 
-### Closing Costs
+### 1.0.2. Closing Costs
 
 - Home Inspection (300-500): You send a guy in to go thru the house and find any issues.
 

@@ -1,17 +1,25 @@
-# FINDING-RESEARCHING PROPERTIES
+# 1. FINDING-RESEARCHING PROPERTIES
 
-- [PROCESS - Finding a Property (Generating Leads)](#process---finding-a-property--generating-leads-)
-- [PROCESS - Researching a Property](#process---researching-a-property)
-  - [Step by Step Guide to gather data](#step-by-step-guide-to-gather-data)
-  - [Deeper Dive into Property (Things to Consider)](#deeper-dive-into-property--things-to-consider-)
-    - [Property Location](#property-location)
-    - [Turnkey Company & Questions to ask](#turnkey-company---questions-to-ask)
-    - [Property Value & Questions to ask](#property-value---questions-to-ask)
-    - [Property Management & Questions to ask](#property-management---questions-to-ask)
-  - [Turnkey Location Hotspots](#turnkey-location-hotspots)
-  - [Insurance](#insurance)
+<!-- TOC -->
 
-## PROCESS - Finding a Property (Generating Leads)
+- [1. FINDING-RESEARCHING PROPERTIES](#1-finding-researching-properties)
+  - [1.1. PROCESS - Finding a Property (Generating Leads)](#11-process---finding-a-property-generating-leads)
+    - [1.1.1. What am I looking for (Initial Property filter)](#111-what-am-i-looking-for-initial-property-filter)
+    - [1.1.2. Avenues to find them](#112-avenues-to-find-them)
+  - [1.2. PROCESS - Researching a Property](#12-process---researching-a-property)
+    - [1.2.1. Step by Step Guide to gather data](#121-step-by-step-guide-to-gather-data)
+    - [1.2.2. Deeper Dive into Property (Things to Consider)](#122-deeper-dive-into-property-things-to-consider)
+      - [1.2.2.1. Property Location](#1221-property-location)
+      - [1.2.2.2. Turnkey Company & Questions to ask](#1222-turnkey-company--questions-to-ask)
+      - [1.2.2.3. Property Value & Questions to ask](#1223-property-value--questions-to-ask)
+      - [1.2.2.4. Property Management & Questions to ask](#1224-property-management--questions-to-ask)
+    - [1.2.3. Turnkey Location Hotspots](#123-turnkey-location-hotspots)
+    - [1.2.4. Insurance](#124-insurance)
+    - [1.2.5. Section 8](#125-section-8)
+
+<!-- /TOC -->
+
+## 1.1. PROCESS - Finding a Property (Generating Leads)
 
 Auction com
 Hubzoo
@@ -21,7 +29,7 @@ bearou of conveyances
   - Keep researching and looking at real estate - constantly collect data points - the more you see, the better your instinct on what a good deal is becomes (you need to internalize this)
   - Truepeoplesearch - find the person owning the property and contact them directly?
 
-### What am I looking for (Initial Property filter)
+### 1.1.1. What am I looking for (Initial Property filter)
 
 - Turnkeys in the 80-120k range. Below 70k will be bad neighborhoods or need massive repairs. This also seems best reserve amount - 10% of 70k is 70 a month, while 10% of 100k is 100 a month, even tho water heaters cost the same for both properties...
 - Positive cashflow - most important part, more than appreciation
@@ -30,16 +38,16 @@ bearou of conveyances
 - Property management in place. Its important to not only have a property manager, but a good reliable one in place here. This will make or break your rents in the future, and will be your lifeline down the road.
 - Already rented, or property manager confident can find renters quickly.
 
-### Avenues to find them
+### 1.1.2. Avenues to find them
 
 - Personal Contacts/Network
 - Turnkey Providers (Norada, ReiTrader, JWB, Memphis Invest)
 - Craigslist
 - MLS
 
-## PROCESS - Researching a Property
+## 1.2. PROCESS - Researching a Property
 
-### Step by Step Guide to gather data
+### 1.2.1. Step by Step Guide to gather data
 
 - Use NeighborhoodScout for a report: https://www.neighborhoodscout.com/ (ethniciy, crime, trends, map)
 - Look it up on Zillow, Redfin, Trulia, (MLS if you can)
@@ -52,9 +60,9 @@ bearou of conveyances
 - LOOK FOR A SERVICE TO GO TAKE PICTURES OF THE HOUSE??
 - Call allstate or onsurance company to get a quote for the ins
 
-### Deeper Dive into Property (Things to Consider)
+### 1.2.2. Deeper Dive into Property (Things to Consider)
 
-#### Property Location
+#### 1.2.2.1. Property Location
 
 - Population makeup - ethnicity, age, demographics, crime, etc.
 - Population growth? Is it growing?
@@ -67,7 +75,7 @@ bearou of conveyances
 - Any special conditions? Flood zone, or hurricane prone (Florida, etc)
 - Nice graphic about appreciation and cashflow here: [link image]
 
-#### Turnkey Company & Questions to ask
+#### 1.2.2.2. Turnkey Company & Questions to ask
 
 - Vetting the Turnkey Vendor will make life easier in the long run. Find out as much as you can about them as a company to see if you can work with them, or thier providers.
 - What is their repuation like on Bigger Pockets?
@@ -80,7 +88,7 @@ Questions
 - If you are a middle man, how do you vet the actual providers?
 - Ask them "What separates you from other companies?"
 
-#### Property Value & Questions to ask
+#### 1.2.2.3. Property Value & Questions to ask
 
 - Pass the initial property filter in the "What am I looking for" section above
 - Plug values into the Investment Calculator - good margin? (Want 200 positive cashflow)
@@ -98,7 +106,7 @@ Questions:
 - Can you tell me a little more about the neighborhood (want them to describe it in their own terms)
 - Big 6 Cap Exp Questions - Find facts and also get a feel on how they answer. Ask Hey ball park numbers, what would it cost to redo the roof, etc - just to get a feel. 1 Roof, 2 HVAC, 3 Foundation, 4 Plumbing, 5 Electrical, 6 Termites
 
-#### Property Management & Questions to ask
+#### 1.2.2.4. Property Management & Questions to ask
 
 - Find out more about the property management team and make sure you are comfortable working with them, and they have reasonable rates. Nothing is more important to the success of your property or peace of mind, than the property management company and their communication, responsiveness, and committment to excellence. Good chance this guy doesn't care about your investment - make sure you are comfortable here - find the right team!
 
@@ -109,15 +117,15 @@ Questions:
 - What is their average vacancy rate? (Charge when there is a vacancy?) So important to keep rentals filled...
 - Are there Tenants currently? (Rent Rolls available?) (Lease Agreements?) How sure is the rental price? If you are unsure here, then call around for property managers in the area and get their opinion - you can possibly go with one of them if you like them as well (Yelp is a good resource). Also Hotpads research surrounding similar rentals.
 
-### Turnkey Location Hotspots
+### 1.2.3. Turnkey Location Hotspots
 
 ![](lib/Turnkey-heat-map-8-16.jpg)
 
-### Insurance
+### 1.2.4. Insurance
 
 Home Owners
 Liability
 Flood?
 Hurricane?
 
-### Section 8
+### 1.2.5. Section 8

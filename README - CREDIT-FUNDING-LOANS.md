@@ -1,27 +1,35 @@
-# CREDIT-FUNDING-LOANS
+# 1. CREDIT-FUNDING-LOANS
 
-- [PROCESS - Get Funding](#process---get-funding)
-  - [Collect and organize needed documents/records](#collect-and-organize-needed-documents-records)
-  * [Find a Lender](#find-a-lender)
-  * [Get Pre-qualification letter](#get-pre-qualification-letter)
-  * [Get Approved for a specific property](#get-approved-for-a-specific-property)
-- [Sources and Types of Funding](#sources-and-types-of-funding)
-  - [Line of Credit (HELOC, or Personal LOC)](#line-of-credit--heloc--or-personal-loc-)
-- [HElOC](#heloc)
-  - [401k/IRA (Individual Retirement Account)](#401k-ira--individual-retirement-account-)
-    - [Datahouse 401k](#datahouse-401k)
-    - [Borrowing from your 401k](#borrowing-from-your-401k)
-- [CREDIT](#credit)
-  - [Types of Credit](#types-of-credit)
-  - [Credit Score](#credit-score)
-  - [Credit Card Interest, Billing Cylce and Grace periods](#credit-card-interest--billing-cylce-and-grace-periods)
-- [Important Concepts, Terms, and Strategies](#important-concepts--terms--and-strategies)
-  - [DTI (Debt to Income)](#dti--debt-to-income-)
-  - [Online Banking Savings Account Strategy](#online-banking-savings-account-strategy)
-  - [Credit Card Introductory Rate strategy](#credit-card-introductory-rate-strategy)
-  - [APR (Annual percentage rate) vs APY (Annual percentage yield)](#apr--annual-percentage-rate--vs-apy--annual-percentage-yield-)
+<!-- TOC -->
 
-## PROCESS - Get Funding
+- [1. CREDIT-FUNDING-LOANS](#1-credit-funding-loans)
+  - [1.1. PROCESS - Get Funding](#11-process---get-funding)
+    - [1.1.1. Collect and organize needed documents/records](#111-collect-and-organize-needed-documentsrecords)
+    - [1.1.2. Find a Lender](#112-find-a-lender)
+    - [1.1.3. Get Pre-qualification letter](#113-get-pre-qualification-letter)
+    - [1.1.4. Get Approved for a specific property](#114-get-approved-for-a-specific-property)
+  - [1.2. Sources and Types of Funding](#12-sources-and-types-of-funding)
+    - [1.2.1. Line of Credit (HELOC, or Personal LOC)](#121-line-of-credit-heloc-or-personal-loc)
+    - [1.2.2. HElOC](#122-heloc)
+    - [1.2.3. k/IRA (Individual Retirement Account)](#123-kira-individual-retirement-account)
+      - [1.2.3.1. Datahouse 401k](#1231-datahouse-401k)
+      - [1.2.3.2. Borrowing from your 401k](#1232-borrowing-from-your-401k)
+  - [1.3. CREDIT](#13-credit)
+    - [1.3.1. Types of Credit](#131-types-of-credit)
+    - [1.3.2. Credit Score](#132-credit-score)
+    - [1.3.3. Credit Card Interest, Billing Cylce and Grace periods](#133-credit-card-interest-billing-cylce-and-grace-periods)
+    - [1.3.4. Credit Audit/Repair/Upkeep](#134-credit-auditrepairupkeep)
+  - [1.4. Important Concepts, Terms, and Strategies](#14-important-concepts-terms-and-strategies)
+    - [1.4.1. DTI (Debt to Income)](#141-dti-debt-to-income)
+    - [1.4.2. Online Banking Savings Account Strategy](#142-online-banking-savings-account-strategy)
+    - [1.4.3. Credit Card Introductory Rate strategy](#143-credit-card-introductory-rate-strategy)
+    - [1.4.4. APR (Annual percentage rate) vs APY (Annual percentage yield)](#144-apr-annual-percentage-rate-vs-apy-annual-percentage-yield)
+    - [1.4.5. Velocity Banking Mortgage Payment Strategy](#145-velocity-banking-mortgage-payment-strategy)
+    - [1.4.6. Stock Trading](#146-stock-trading)
+
+<!-- /TOC -->
+
+## 1.1. PROCESS - Get Funding
 
 Build up your list of tools
 Lender Relationships
@@ -42,7 +50,7 @@ story of asking for 100 vs asking for 20, not paying back, 40, not paying back 4
 if he had asked for 100 up front, he woulda got it
 Get as much as you can always! Get the 100, then just use 20
 
-### Collect and organize needed documents/records
+### 1.1.1. Collect and organize needed documents/records
 
 Get all the documents you will need and into an organized folder
 
@@ -52,8 +60,10 @@ Get all the documents you will need and into an organized folder
 - 401k Statment(s)
 - Any stock or investment statements
 - Documentation on existing loans and properties
+- Aalii contract and agreement?
+- Proof of Federal Tax payment
 
-### Find a Lender
+### 1.1.2. Find a Lender
 
 Search for and contact a Lender
 You can do this through a web search or through referral from a friend. Lane Kawaoka said certain banks wont fund investments, so its better to go with ones that are familiar with the process and the risk. Current lenders I have a relationship with are:
@@ -63,12 +73,12 @@ You can do this through a web search or through referral from a friend. Lane Kaw
 - Ridge Lending
 - Bank of Hawaii
 
-### Get Pre-qualification letter
+### 1.1.3. Get Pre-qualification letter
 
 3. Fill out the prequalification and get prequalified
    This should end with a prequalification letter. Be Responsive Here!!
 
-### Get Approved for a specific property
+### 1.1.4. Get Approved for a specific property
 
 4. When you find the property you want to buy, begin the acutal loan application process.
 
@@ -78,16 +88,16 @@ You can do this through a web search or through referral from a friend. Lane Kaw
 
    - Is there a prepayment penalty?
 
-## Sources and Types of Funding
+## 1.2. Sources and Types of Funding
 
-### Line of Credit (HELOC, or Personal LOC)
+### 1.2.1. Line of Credit (HELOC, or Personal LOC)
 
     The key thing to note, is that an LOC's interest is calculated PER DAY.
     You can get the daily interest by taking the APR (Example: 2.7%), dividing by 12 - to get the monthly interest, then dividing that by 30 to get the daily interest. (They do it like this vs dividing by 365 according to the renautus guys).
 
     Take out a line of credit at your local bank. For First Hawaiian Bank you can get one for 20k assuming your DTI is ok. If you want to go higher, you will have to provide some bank statements.
 
-## HElOC
+### 1.2.2. HElOC
 
 HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
 
@@ -105,7 +115,7 @@ Combine a HELOC, with a CC, and Mortgage to do a Velocity Banking Strategy. Open
 
 Banks will probably not fund your Rentals - you will need to go to a portfolio lender or open a business line of credit.
 
-### 401k/IRA (Individual Retirement Account)
+### 1.2.3. k/IRA (Individual Retirement Account)
 
 - Pretax dollars put here (so you get more bang for your buck)
 - Reduces income tax (money contributed is not counted as income)
@@ -114,13 +124,13 @@ Banks will probably not fund your Rentals - you will need to go to a portfolio l
 - 401k - 18k limit as of 2017, IRA 5.5k limit as of 2017
 - Compound interest is POWERFUL!!!
 
-#### Datahouse 401k
+#### 1.2.3.1. Datahouse 401k
 
 - Datahouse is matching 20% of your investment up to 2400. Its added as a lump sum once a year in July.
 - You have been averaging 10% yearly returns from your mutual funds investment.
 - You can stop any time, but open enrollment is Dec to change amounts (for Jan implementation)
 
-#### Borrowing from your 401k
+#### 1.2.3.2. Borrowing from your 401k
 
 - You can borrow either 50% or 50k - whichever is less
 - You have to pay back in 5 years unless its for a primary residence, or hardship, or special circumstance
@@ -129,11 +139,11 @@ Banks will probably not fund your Rentals - you will need to go to a portfolio l
 - Penalty for early withdrawal is 10%??
 - When you take it out for real, you pay income tax on it (Unless its a Roth)
 
-## CREDIT
+## 1.3. CREDIT
 
 ---
 
-### Types of Credit
+### 1.3.1. Types of Credit
 
 1. Personal Credit
    personal guarantee
@@ -151,7 +161,7 @@ Banks will probably not fund your Rentals - you will need to go to a portfolio l
    best limits
    harder to get
 
-### Credit Score
+### 1.3.2. Credit Score
 
 Definition - "A numerical representation that you will become 90 days late within the next two years"
 Important idea - "Good Credit is NOT just Not Bad Credit". Common misperception. You have to Build good credit.
@@ -218,7 +228,7 @@ Summary of General Rules for great credit:
 9. 780 and 850 score is exactly the same (300-850)
 10. Auto pay credit cards
 
-### Credit Card Interest, Billing Cylce and Grace periods
+### 1.3.3. Credit Card Interest, Billing Cylce and Grace periods
 
 In your CC Billing cycle you have a month's worth of charges that you can make and your CC Balance will slowly rise with each charge. At the end of the month (This just represents one month, but a month can be from jan 15-Feb 14 for example, not necssarily the 1st to the 31st), you will get a "Statement" of all the charges you made that month. This is different from your "Balance" which is all charges added up that you currently owe, including charges made after your "Statement" was calculated. The amount in the "Statement" will be due within the "Grace Period" - usually 21-25 days. If you pay the full amount then, you are charged nothing.
 
@@ -229,16 +239,16 @@ HOWEVER!!! If you don't pay the full statement amount (even leave 1 dollar), the
 Good Resource Explanation here:
 https://www.youtube.com/watch?v=8WuH3-PsjCA
 
-### Credit Audit/Repair/Upkeep
+### 1.3.4. Credit Audit/Repair/Upkeep
 
 Creditnerds.com
 $199 credit audit
 $50 deletion fee
 (average $1200-$1500)
 
-## Important Concepts, Terms, and Strategies
+## 1.4. Important Concepts, Terms, and Strategies
 
-### DTI (Debt to Income)
+### 1.4.1. DTI (Debt to Income)
 
 Calculate your monthly Debt
 This includes all things you are on the hook for - mortgage, car payments, loans, rent, etc. It does NOT include food, or variable living expenses.
@@ -252,15 +262,15 @@ This is important when applying for loans/mortgages
 
 Bank vs Actual DTI - Banks look at the DTI above, but for budgeting you really need to look at actual DTI taking into account living expenses and entertainment.
 
-### Online Banking Savings Account Strategy
+### 1.4.2. Online Banking Savings Account Strategy
 
 You can put your money in an online savings account and get 1.5-1.85% interest on your money. Be aware of minimum balances, maxiumum transactions per month, and transaction fees.
 
-### Credit Card Introductory Rate strategy
+### 1.4.3. Credit Card Introductory Rate strategy
 
 Keep opening new Credit Cards for the sign up bonus, use it, then open another one with another sign up bonus. Biggest issue here is making sure that your credit score doesn't take a big hit, and managing the different accounts. You can net from 150-600 per new Credit Card open. Rinse and Repeat
 
-### APR (Annual percentage rate) vs APY (Annual percentage yield)
+### 1.4.4. APR (Annual percentage rate) vs APY (Annual percentage yield)
 
 In APR, you just add the interest at the end of the year. For APY, you add each month's (could be day, quarter, etc) interest to that month before calculating the next month's interest. This is intra-year compounding.
 Basically in APR, you only add the interest once a year - in APY, you add it for every period (quarterly, monthly, daily, etc)
@@ -273,12 +283,12 @@ Jan for APR and APY, you add $10000 _ 2% / 12 = $16.67
 Feb for APR - same, BUT for APY, you take $10001.67 _ 2% / 12 = $16.70
 And so on...
 
-### Velocity Banking Mortgage Payment Strategy
+### 1.4.5. Velocity Banking Mortgage Payment Strategy
 
 This is some really cool stuff. Here is a pic of a guide I wrote:
 
 ![](lib/velocity-banking-example.png)
 
-### Stock Trading
+### 1.4.6. Stock Trading
 
 I suggest using Robinhood, there are no transaction fees - make as many trades as you want at no cost to you.
