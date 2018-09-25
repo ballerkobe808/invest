@@ -1,17 +1,18 @@
-# 1. CREDIT-FUNDING-LOANS
+# 1. FUNDING-CREDIT-STRATEGY
 
 <!-- TOC -->
 
-- [1. CREDIT-FUNDING-LOANS](#1-credit-funding-loans)
-  - [1.1. PROCESS - Get Funding](#11-process---get-funding)
-    - [1.1.1. Collect and organize needed documents/records](#111-collect-and-organize-needed-documentsrecords)
+- [1. FUNDING-CREDIT-STRATEGY](#1-funding-credit-strategy)
+  - [1.1. Getting Funding](#11-getting-funding)
+    - [1.1.1. PROCESS - Collect and organize needed documents/records](#111-process---collect-and-organize-needed-documentsrecords)
     - [1.1.2. PROCESS - Find a Lender](#112-process---find-a-lender)
-    - [1.1.3. Get Pre-qualification letter](#113-get-pre-qualification-letter)
-    - [1.1.4. Get Approved for a specific property](#114-get-approved-for-a-specific-property)
+    - [1.1.3. Current Lenders](#113-current-lenders)
+    - [1.1.4. Get Pre-qualification letter](#114-get-pre-qualification-letter)
+    - [1.1.5. Get Approved for a specific property](#115-get-approved-for-a-specific-property)
   - [1.2. Sources and Types of Funding](#12-sources-and-types-of-funding)
     - [1.2.1. Line of Credit (HELOC, or Personal LOC)](#121-line-of-credit-heloc-or-personal-loc)
     - [1.2.2. HElOC](#122-heloc)
-    - [1.2.3. k/IRA (Individual Retirement Account)](#123-kira-individual-retirement-account)
+    - [1.2.3. 401k/IRA (Individual Retirement Account)](#123-401kira-individual-retirement-account)
       - [1.2.3.1. Datahouse 401k](#1231-datahouse-401k)
       - [1.2.3.2. Borrowing from your 401k](#1232-borrowing-from-your-401k)
   - [1.3. CREDIT](#13-credit)
@@ -21,37 +22,26 @@
     - [1.3.4. Credit Audit/Repair/Upkeep](#134-credit-auditrepairupkeep)
   - [1.4. Important Concepts, Terms, and Strategies](#14-important-concepts-terms-and-strategies)
     - [1.4.1. DTI (Debt to Income)](#141-dti-debt-to-income)
-    - [LTV Loan to Value ratio](#ltv-loan-to-value-ratio)
-    - [1.4.2. Online Banking Savings Account Strategy](#142-online-banking-savings-account-strategy)
-    - [1.4.3. Credit Card Introductory Rate strategy](#143-credit-card-introductory-rate-strategy)
-    - [1.4.4. APR (Annual percentage rate) vs APY (Annual percentage yield)](#144-apr-annual-percentage-rate-vs-apy-annual-percentage-yield)
-    - [1.4.5. Velocity Banking Mortgage Payment Strategy](#145-velocity-banking-mortgage-payment-strategy)
-    - [1.4.6. Stock Trading](#146-stock-trading)
+    - [1.4.2. LTV Loan to Value ratio](#142-ltv-loan-to-value-ratio)
+    - [1.4.3. Online Banking Savings Account Strategy](#143-online-banking-savings-account-strategy)
+    - [1.4.4. Keeping money in a Credit Union Savings](#144-keeping-money-in-a-credit-union-savings)
+    - [1.4.5. Credit Card Introductory Rate strategy](#145-credit-card-introductory-rate-strategy)
+    - [1.4.6. APR (Annual percentage rate) vs APY (Annual percentage yield)](#146-apr-annual-percentage-rate-vs-apy-annual-percentage-yield)
+    - [1.4.7. Velocity Banking Mortgage Payment Strategy](#147-velocity-banking-mortgage-payment-strategy)
+    - [1.4.8. Stock Trading](#148-stock-trading)
 
 <!-- /TOC -->
 
-## 1.1. PROCESS - Get Funding
+## 1.1. Getting Funding
 
-Build up your list of tools
-Lender Relationships
-Private Money Relationships
-Hard Money Lenders
-Portfolio Lenders
-Banks, Private Lenders
-Lines of Credit
-Credit Cards
-uh federal credit union
-Loans
+There are many tools to choose from when deciding how to fund deals. Some options are loans from banks, credit unions, portfolio banks, hard money lenders, friends and family, lines of credit, credit cards,
+401k/IRA, seller financing.
 
-Getfundedonline.com - see if they can find you money
+Use Getfundedonline.com - to find the best instiutions and programs to apply to.
 
-How much funding should I get? As much as I can!!!
-illustratin of taking out funding
-story of asking for 100 vs asking for 20, not paying back, 40, not paying back 40
-if he had asked for 100 up front, he woulda got it
-Get as much as you can always! Get the 100, then just use 20
+Get as much funding as you can when possible. Its easier to take out 100k from the start, versus going for 20k, 20k, 40k, 20k in succession. There is a cool story/illustration of borrowing money from your friend using both methods.
 
-### 1.1.1. Collect and organize needed documents/records
+### 1.1.1. PROCESS - Collect and organize needed documents/records
 
 Get all the documents you will need and into an organized folder
 
@@ -66,39 +56,54 @@ Get all the documents you will need and into an organized folder
 
 ### 1.1.2. PROCESS - Find a Lender
 
-Research Lenders in the area and send them an email like this:
+1. Google search Local Lenders near your property:
 
-[image]
+   Investor-friendly banks (county you are looking in)
+   Credit union (county you are looking in)
+   Savings and loan institution (county you are looking in)
+   Portfolio lender (county you are looking in)
 
-Investor-friendly banks (county you are looking in)
-Credit union (county you are looking in)
-Savings and loan institution (county you are looking in)
-Portfolio lender (county you are looking in)
+2. Send them an email like this:
 
-Find a good lender and build a relationship!! This will help you so much in the future.
+   ![](lib/Letter to Prospective Credit Union or Lender.png)
 
-Search for and contact a Lender
-You can do this through a web search or through referral from a friend. Lane Kawaoka said certain banks wont fund investments, so its better to go with ones that are familiar with the process and the risk. Current lenders I have a relationship with are:
+3. See if you can form a partnership and relationship with them, and refer others to them. Make sure everyone knows you are the connector.
 
-- Quicken Loans (Caution - promised 15% down early - changed to 25% when actual loan and tried to push super high fees through - luckily i read the documents - Be Careful of Sales people here!!!)
-- Highlands Mortgage
-- Ridge Lending
-- Bank of Hawaii
+NOTE: Lane Kawaoka said certain banks wont fund investments, so its better to go with ones that are familiar with the process and the risk.
 
-### 1.1.3. Get Pre-qualification letter
+### 1.1.3. Current Lenders
 
-3. Fill out the prequalification and get prequalified
-   This should end with a prequalification letter. Be Responsive Here!!
+- Quicken Loans -
+  (Caution - promised 15% down early - changed to 25% when actual loan and tried to push super high fees through - luckily i read the documents - Be Careful of Sales people here!!!)
 
-### 1.1.4. Get Approved for a specific property
+- Highlands Mortgage -
 
-4. When you find the property you want to buy, begin the acutal loan application process.
+- Ridge Lending -
 
-   - Send the contract over to the lender for review
+- Bank of Hawaii -
 
-5. Questions to ask about the loan
+- University of Hawaii Federal Credit Union -
+  Great option to park money, or take out personal loans, credit cards, or even a mortgage at a really good rate.
+  Savings Account with 1% APY (applied monthly).
+  5-7.5% APR personal loans (up to 5x gross monthly income)
+  8.5% Credit Card!!! (10k max)
+  Car Loans - Can refinance too, but need full insurance
 
-   - Is there a prepayment penalty?
+### 1.1.4. Get Pre-qualification letter
+
+Fill out the lenders application and get the prequalification letter.
+
+### 1.1.5. Get Approved for a specific property
+
+When you find the property you want to buy, begin the acutal loan application process. Send the contract over to the lender for review.
+
+Some questions to review:
+
+    What is the length of the loan? (30 yrs, 27, etc)
+    What is the rate? (APR%)
+    Origination Fee? Other fees?
+    Any points up front?
+    Is there a pre-payment penalty?
 
 ## 1.2. Sources and Types of Funding
 
@@ -127,7 +132,7 @@ Combine a HELOC, with a CC, and Mortgage to do a Velocity Banking Strategy. Open
 
 Banks will probably not fund your Rentals - you will need to go to a portfolio lender or open a business line of credit.
 
-### 1.2.3. k/IRA (Individual Retirement Account)
+### 1.2.3. 401k/IRA (Individual Retirement Account)
 
 - Pretax dollars put here (so you get more bang for your buck)
 - Reduces income tax (money contributed is not counted as income)
@@ -253,9 +258,11 @@ https://www.youtube.com/watch?v=8WuH3-PsjCA
 
 ### 1.3.4. Credit Audit/Repair/Upkeep
 
+If you need credit repair, Eric Counts and his team does magic in this area. You just aren't knowledgable enough in this space. Dont try to dispute credit errors on your own online! This will make it harder for Eric and his team later. When in trouble call:
+
 Creditnerds.com
 $199 credit audit
-$50 deletion fee
+$50 deletion fee per item
 (average $1200-$1500)
 
 ## 1.4. Important Concepts, Terms, and Strategies
@@ -270,19 +277,23 @@ Debt/Income = DTI
 
 Bank vs Actual DTI - Banks look at the DTI above, but for budgeting you really need to look at actual DTI taking into account living expenses and entertainment.
 
-### LTV Loan to Value ratio
+### 1.4.2. LTV Loan to Value ratio
 
 This is the % the lender is giving u over the total value of the purchase. The lower the number for the lender, the better for them. Often this number can affect your interest rate.
 
-### 1.4.2. Online Banking Savings Account Strategy
+### 1.4.3. Online Banking Savings Account Strategy
 
 You can put your money in an online savings account and get 1.5-1.85% interest on your money. Be aware of minimum balances, maxiumum transactions per month, and transaction fees.
 
-### 1.4.3. Credit Card Introductory Rate strategy
+### 1.4.4. Keeping money in a Credit Union Savings
+
+Another alternative is a Credit Union. 1% interest and less fees and hassle
+
+### 1.4.5. Credit Card Introductory Rate strategy
 
 Keep opening new Credit Cards for the sign up bonus, use it, then open another one with another sign up bonus. Biggest issue here is making sure that your credit score doesn't take a big hit, and managing the different accounts. You can net from 150-600 per new Credit Card open. Rinse and Repeat
 
-### 1.4.4. APR (Annual percentage rate) vs APY (Annual percentage yield)
+### 1.4.6. APR (Annual percentage rate) vs APY (Annual percentage yield)
 
 In APR, you just add the interest at the end of the year. For APY, you add each month's (could be day, quarter, etc) interest to that month before calculating the next month's interest. This is intra-year compounding.
 Basically in APR, you only add the interest once a year - in APY, you add it for every period (quarterly, monthly, daily, etc)
@@ -295,7 +306,7 @@ Jan for APR and APY, you add $10000 _ 2% / 12 = $16.67
 Feb for APR - same, BUT for APY, you take $10001.67 _ 2% / 12 = $16.70
 And so on...
 
-### 1.4.5. Velocity Banking Mortgage Payment Strategy
+### 1.4.7. Velocity Banking Mortgage Payment Strategy
 
 This is some really cool stuff. Here is a pic of a guide I wrote:
 
@@ -303,6 +314,6 @@ This is some really cool stuff. Here is a pic of a guide I wrote:
 
 Good explanation here: https://www.youtube.com/watch?v=TWh5vBa-jhM
 
-### 1.4.6. Stock Trading
+### 1.4.8. Stock Trading
 
 I suggest using Robinhood, there are no transaction fees - make as many trades as you want at no cost to you.
