@@ -49,7 +49,7 @@ Finding a quality Realtor to work with in the area you are looking for will be s
 4. How you heard about the agent
 
 Sample Email:
-![](lib/Letter to Prospective Realtor Agents.png)
+![](lib/Letter-to-Prospective-Realtor-Agents.png)
 
 Sort through possible agents, and find one that will be able to bring you good deals. Also look at it from his/her point of view too. What is he/she getting - will you be doing a lot of business, bringing business their way? Rewarding them with extra compensation or helping them out too? Be aware of what value u bring to the transaction.
 

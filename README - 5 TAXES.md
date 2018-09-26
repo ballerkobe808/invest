@@ -9,6 +9,7 @@
   - [Capital Gains Tax](#capital-gains-tax)
   - [1.0.4. 1031 Exchange](#104-1031-exchange)
   - [1.0.5. PROCESS - Creating an LLC](#105-process---creating-an-llc)
+  - [Starting up your Business](#starting-up-your-business)
   - [Asset Protection and Lawsuits](#asset-protection-and-lawsuits)
   - [1.0.6. PROCESS - Filing Taxes at the end of the year](#106-process---filing-taxes-at-the-end-of-the-year)
 
@@ -145,6 +146,12 @@ Article explaining more here:
 https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
 ### 1.0.5. PROCESS - Creating an LLC
+
+### Starting up your Business
+
+Start tracking all your expenses before u open your business. These are considered start up costs and can be written off. Your business is not legally open until your first sale.
+
+You need a business address and registered agent address. If you dont want to use your own, you can use Mark Kohlers law firm to forward you mail - 150 for the business address and 125 for the registered agent address annuaally
 
 ### Asset Protection and Lawsuits
 

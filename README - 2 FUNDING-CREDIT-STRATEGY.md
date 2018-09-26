@@ -65,11 +65,13 @@ Get all the documents you will need and into an organized folder
 
 2. Send them an email like this:
 
-   ![](lib/Letter to Prospective Credit Union or Lender.png)
+   ![](lib/Letter-to-Prospective-Credit-Union-or-Lender.png)
 
 3. See if you can form a partnership and relationship with them, and refer others to them. Make sure everyone knows you are the connector.
 
 NOTE: Lane Kawaoka said certain banks wont fund investments, so its better to go with ones that are familiar with the process and the risk.
+
+4. Another avenue for local bank research: https://www.bauerfinancial.com/
 
 ### 1.1.3. Current Lenders
 
