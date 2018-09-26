@@ -34,7 +34,7 @@
 
 ## 1.1. Getting Funding
 
-There are many tools to choose from when deciding how to fund deals. Some options are loans from banks, credit unions, portfolio banks, hard money lenders, friends and family, lines of credit, credit cards,
+There are many tools to choose from when deciding how to fund deals. Some options are loans from banks, credit unions, portfolio banks, hard money lenders, friends/family/partners, lines of credit, credit cards,
 401k/IRA, seller financing.
 
 Use Getfundedonline.com - to find the best instiutions and programs to apply to.

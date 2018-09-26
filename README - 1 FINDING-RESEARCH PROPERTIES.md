@@ -35,7 +35,7 @@ Keep researching and looking at real estate - constantly collect data points - t
 
 - Single/Multifamily Rentals with over 1.2% Rent to Value ratio (in the 50-120k range).
 - Solid Property Management - either in place or able to connect with some (So important! This is a make or break aspect - can make life terrible or awesome later)
-- Currently no bad neighborhoods, frequent vacancies, or massive repairs. Even though these may have Rent to Value ratios in the 2% or more. (This will come back to bite u later, try to avoid C/D Neighborhoods or Section 8 Housing - too much risk and headaches down the road)
+- Great Locations!! This is very important. I want somewhere that people will want to rent, and that will be easy to manage. Money on a spreadsheet is not money in your hand. One eviction could cost you thousands. Stay away from bad neighborhoods, high vacancy areas, Need a local's perspective here - the ageny ot property manager. It can be tempting to just look at numbers, but go for a lower ROI, but less headaches. Making a bad decision here can come back to bite you later (learn from other people's mistakes)
 
 ### 1.1.2. Finding the Deal
 

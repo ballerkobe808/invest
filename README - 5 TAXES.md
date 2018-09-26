@@ -6,8 +6,10 @@
   - [1.0.1. Real Estate Tax Benefits and Strategies](#101-real-estate-tax-benefits-and-strategies)
   - [1.0.2. Tax Deductions](#102-tax-deductions)
   - [1.0.3. Federal Tax Brackets for 2018](#103-federal-tax-brackets-for-2018)
-  - [1.0.4. Exchange](#104-exchange)
+  - [Capital Gains Tax](#capital-gains-tax)
+  - [1.0.4. 1031 Exchange](#104-1031-exchange)
   - [1.0.5. PROCESS - Creating an LLC](#105-process---creating-an-llc)
+  - [Asset Protection and Lawsuits](#asset-protection-and-lawsuits)
   - [1.0.6. PROCESS - Filing Taxes at the end of the year](#106-process---filing-taxes-at-the-end-of-the-year)
 
 <!-- /TOC -->
@@ -121,16 +123,34 @@ Married Filing Jointly
 | 35%      | $400,001 to $600,000   | $91,379 plus 35% of the amount over $400,000  |
 | 37%      | $600,001 or more       | $161,379 plus 37% of the amount over $600,000 |
 
-### 1.0.4. Exchange
+### Capital Gains Tax
 
+You pay 15% profit on any gains you make when you sell something.
+
+### 1.0.4. 1031 Exchange
+
+The purpose of a 1031 exchange is to defer paying 15 percent taxes on capital gains. It could end up more if you factor in income tax and depreciation costs?
+
+General Rules:
+
+      1.  Like kind - It has to be a real property for a real property
+      2.  You have 45 days to find another property from the day you sell
+      3.  You have 180 days to CLOSE on another property from the day you sell
+      4.  You must purchase property of equal or greater value than the adjusted value (not the price value — but the adjusted cost basis when taking into account depreciation less commissions and closing costs) of the property you sold, or you will be taxed on the difference.
+      5.  During the interim of selling your first place and closing on your second, you cannot touch/look at/be near the profits from the first place you sold. That money stays with a 1031 exchange facilitator (qualified intermediary) and not, not, not with you.
+      6.  The old property and the new property must be sold and bought by the same entity. Meaning, if you sell a property as John Smith, you have to buy the new one as John Smith — and not as Smith, LLC.
+      7.  This point has been debated by the experts, but a good rule of thumb for the majority of you is this: You must own your property for one year and one day to make this 1031 exchange. Otherwise, will be penalized.
+
+Article explaining more here:
 https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
-Have 45?? days to make another purchase?
-
-- Have 180?? days to close?
-- RESEARCH THIS MORE
-
 ### 1.0.5. PROCESS - Creating an LLC
+
+### Asset Protection and Lawsuits
+
+Her plan involved placing the town-home in an LLC, which protected her personally from a liability nightmare. She used the series LLC structure, which meant that the home itself was in its own individual LLC. She owned two other properties, each of which had its own series. While the total value of these assets is rather high, the use of this structure protected her unrelated assets.
+
+The other cog in her plan was an anonymous trust, which functioned as the owner of her parent company LLC. With these pieces working together, the opposing attorney quickly lost interest in the initial lawsuit. Why? Because there was very little to gain. As for the new owner, he would have spent more pursuing litigation then he could have ever hoped to win.
 
 ### 1.0.6. PROCESS - Filing Taxes at the end of the year
 
