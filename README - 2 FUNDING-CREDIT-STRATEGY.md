@@ -17,7 +17,10 @@
       - [1.2.3.2. Borrowing from your 401k](#1232-borrowing-from-your-401k)
   - [1.3. CREDIT](#13-credit)
     - [1.3.1. Types of Credit](#131-types-of-credit)
-    - [1.3.2. Credit Score](#132-credit-score)
+    - [Business Credit](#business-credit)
+      - [Requirements to impress the lender and get approved for a credit/loan:](#requirements-to-impress-the-lender-and-get-approved-for-a-creditloan)
+      - [Obtaining Business Credit](#obtaining-business-credit)
+    - [1.3.2. Personal Credit Score](#132-personal-credit-score)
     - [1.3.3. Credit Card Interest, Billing Cylce and Grace periods](#133-credit-card-interest-billing-cylce-and-grace-periods)
     - [1.3.4. Credit Audit/Repair/Upkeep](#134-credit-auditrepairupkeep)
   - [1.4. Important Concepts, Terms, and Strategies](#14-important-concepts-terms-and-strategies)
@@ -170,17 +173,53 @@ Banks will probably not fund your Rentals - you will need to go to a portfolio l
    tend to have lower limits
 
 2. Business Credit
-   personal guarantee
-   does not report to personal repors
+   personal guarantee (if you dont have strong business credit score)
+   does not report to personal reports (depending on the product and institution)
    better limits
+   2 years in operation
+   3 diff bureaus - D&B, Corp Equifax, Corp Experian
+   Inquiries and Utilization doesnt affect your score (Anybody can pull your report)
+   1 day late is delinquit vs personal is 30 days
+   not many lenders will actually report to the bureaus
+   any application where u give your SSN, they will pull your personal (try not to give this)
 
-3. Corp Credit
+3) Corp Credit
    no personal guarantee
    does not report to personal reports
    best limits
    harder to get
 
-### 1.3.2. Credit Score
+### Business Credit
+
+#### Requirements to impress the lender and get approved for a credit/loan:
+
+- Make sure names are EXACTLY the same - even down to the commas
+  EIN
+  Address - Needs to be physical
+  Entity Name -
+  Business Phone Number (separate from personal cell)
+  Fax Number (This could possibly be an approve/deny category)
+  GET (filing in Hawaii)
+  Secretary of State (DCCA in Hawaii) Articles of Organization (LLC) or Articles of Incorporation (Corp)
+  Business Bank Account (In the name of the business)
+  Email - Professional Account
+  Website
+  411 Information - listyourself.net
+  local laws and processes
+
+#### Obtaining Business Credit
+
+- There is a process to get business credit. You need 3 referrals at each level, before the next level will consider you. You will need to spend about 80/100 for each line. Each line lasts 36th months. Ask to be invoiced and use your credit to pay.
+
+1. UPS Store (1.5k credit), Quill/Uline, Grainger (1k credit)
+
+2. Staples, Sherwin Williams, Home Depot, JC Penny, Autozone, Macys, Budget, Office Depot (6k credit)
+
+3. Lowes, Chevron, Walmart, Texaco, Sears Commercial (6-20k)
+
+4. Best Buy, Ally, Sams Club Mastercard, Home Depot Commercial (50k)
+
+### 1.3.2. Personal Credit Score
 
 Definition - "A numerical representation that you will become 90 days late within the next two years"
 Important idea - "Good Credit is NOT just Not Bad Credit". Common misperception. You have to Build good credit.

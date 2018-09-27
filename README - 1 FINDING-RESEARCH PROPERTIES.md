@@ -35,13 +35,13 @@ Keep researching and looking at real estate - constantly collect data points - t
 
 - Single/Multifamily Rentals with over 1.2% Rent to Value ratio (in the 50-120k range).
 - Solid Property Management - either in place or able to connect with some (So important! This is a make or break aspect - can make life terrible or awesome later)
-- Great Locations!! This is very important. I want somewhere that people will want to rent, and that will be easy to manage. Money on a spreadsheet is not money in your hand. One eviction could cost you thousands. Stay away from bad neighborhoods, high vacancy areas, Need a local's perspective here - the ageny ot property manager. It can be tempting to just look at numbers, but go for a lower ROI, but less headaches. Making a bad decision here can come back to bite you later (learn from other people's mistakes)
+- Great Locations!! This is very important. I want somewhere that people will want to rent, and that will be easy to manage. Money on a spreadsheet is not money in your hand. One eviction could cost you thousands. Stay away from bad neighborhoods, high vacancy areas. Need a local's perspective here - the agent or property manager. It can be tempting to just look at numbers, but go for a lower ROI, and less headaches. Making a bad decision here can come back to bite you later (learn from other people's mistakes)
 
 ### 1.1.2. Finding the Deal
 
 #### PROCESS - Find a Good Agent
 
-Finding a quality Realtor to work with in the area you are looking for will be so vital to your success. One way is to look on Zillow (Zillow.com/agent-finder.) or yelp and send an email to the agent with the following information:
+Finding a quality Realtor to work with in the area you are looking for will be so vital to your success. One way is to look on Zillow (Zillow.com/agent-finder.) or Yelp and send an email to the agent with the following information:
 
 1. That you are an investor who understands real estate
 2. What specifically you are looking for
@@ -66,8 +66,8 @@ THESE ARE THE MOST IMPORTANT PEOPLE IN THE PIPELINE! Finding a good deal is so v
 
 #### Alternative Avenues
 
-- Turnkey Providers (Norada, ReiTrader, JWB, Memphis Invest)
-- Craigslist, MLS, Auction com, Hubzoo, bearou of conveyances
+- Turnkey Providers (Norada, ReiTrader, JWB, Midsouth Homebuyers, Memphis Invest)
+- Craigslist, MLS, Auction com, Hubzoo, beaurou of conveyances
 
 ## 1.2. Researching a Property
 
@@ -78,7 +78,7 @@ THESE ARE THE MOST IMPORTANT PEOPLE IN THE PIPELINE! Finding a good deal is so v
 - Look up rents in the area using Rentometer.com, Craigslist and Hotpads
 - Find the property tax records (Zillow or County's tax site)
 - Find the areas desirability (NeighborhoodScout.com, Walkscore.com)
-- Find insurance prices Email/call my insurance agent (allstate, etc) with the property address and asking for the largest deductable/smallest monthly payment. Or Google "investor homeowner’s insurance Atlanta", read the reviews and call the highest reviewed one.
+- Find insurance prices Email/call my insurance agent (allstate, etc) with the property address and asking for the largest deductable/smallest monthly payment. Or Google "investor homeowners insurance Atlanta", read the reviews and call the highest reviewed one.
 - Find a local Realtor/Property Manager and speak to them (Look them up on Yelp)
 - Look up a record of past permits online (County's site)
 

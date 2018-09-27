@@ -1,6 +1,10 @@
-# General Investment Strategy and Processes for Turnkeys
+# General Investment Strategy and Processes 
 
 ---
+
+PROCESSES - As much as possible build processes to free up mental space. 
+
+
 
 ## Research more List
 
