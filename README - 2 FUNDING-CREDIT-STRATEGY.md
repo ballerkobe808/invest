@@ -17,12 +17,12 @@
       - [1.2.3.2. Borrowing from your 401k](#1232-borrowing-from-your-401k)
   - [1.3. CREDIT](#13-credit)
     - [1.3.1. Types of Credit](#131-types-of-credit)
-    - [Business Credit](#business-credit)
-      - [Requirements to impress the lender and get approved for a credit/loan:](#requirements-to-impress-the-lender-and-get-approved-for-a-creditloan)
-      - [Obtaining Business Credit](#obtaining-business-credit)
-    - [1.3.2. Personal Credit Score](#132-personal-credit-score)
-    - [1.3.3. Credit Card Interest, Billing Cylce and Grace periods](#133-credit-card-interest-billing-cylce-and-grace-periods)
-    - [1.3.4. Credit Audit/Repair/Upkeep](#134-credit-auditrepairupkeep)
+    - [1.3.2. Personal Credit](#132-personal-credit)
+      - [1.3.2.1. Credit Card Interest, Billing Cylce and Grace periods](#1321-credit-card-interest-billing-cylce-and-grace-periods)
+      - [1.3.2.2. Credit Audit/Repair/Upkeep](#1322-credit-auditrepairupkeep)
+    - [1.3.3. Business Credit](#133-business-credit)
+      - [1.3.3.1. Requirements to impress the lender and get approved for a credit/loan:](#1331-requirements-to-impress-the-lender-and-get-approved-for-a-creditloan)
+      - [1.3.3.2. Obtaining Business Credit](#1332-obtaining-business-credit)
   - [1.4. Important Concepts, Terms, and Strategies](#14-important-concepts-terms-and-strategies)
     - [1.4.1. DTI (Debt to Income)](#141-dti-debt-to-income)
     - [1.4.2. LTV Loan to Value ratio](#142-ltv-loan-to-value-ratio)
@@ -36,6 +36,8 @@
 <!-- /TOC -->
 
 ## 1.1. Getting Funding
+
+---
 
 There are many tools to choose from when deciding how to fund deals. Some options are loans from banks, credit unions, portfolio banks, hard money lenders, friends/family/partners, lines of credit, credit cards,
 401k/IRA, seller financing.
@@ -112,6 +114,8 @@ Some questions to review:
 
 ## 1.2. Sources and Types of Funding
 
+---
+
 ### 1.2.1. Line of Credit (HELOC, or Personal LOC)
 
     The key thing to note, is that an LOC's interest is calculated PER DAY.
@@ -171,17 +175,13 @@ Banks will probably not fund your Rentals - you will need to go to a portfolio l
    personal guarantee
    report to personal reports
    tend to have lower limits
+   W2 12-17 Tax Deductions
 
 2. Business Credit
    personal guarantee (if you dont have strong business credit score)
    does not report to personal reports (depending on the product and institution)
    better limits
-   2 years in operation
-   3 diff bureaus - D&B, Corp Equifax, Corp Experian
-   Inquiries and Utilization doesnt affect your score (Anybody can pull your report)
-   1 day late is delinquit vs personal is 30 days
-   not many lenders will actually report to the bureaus
-   any application where u give your SSN, they will pull your personal (try not to give this)
+   Self Employed/Business Owner - 450 Tax Deductions
 
 3) Corp Credit
    no personal guarantee
@@ -189,37 +189,7 @@ Banks will probably not fund your Rentals - you will need to go to a portfolio l
    best limits
    harder to get
 
-### Business Credit
-
-#### Requirements to impress the lender and get approved for a credit/loan:
-
-- Make sure names are EXACTLY the same - even down to the commas
-  EIN
-  Address - Needs to be physical
-  Entity Name -
-  Business Phone Number (separate from personal cell)
-  Fax Number (This could possibly be an approve/deny category)
-  GET (filing in Hawaii)
-  Secretary of State (DCCA in Hawaii) Articles of Organization (LLC) or Articles of Incorporation (Corp)
-  Business Bank Account (In the name of the business)
-  Email - Professional Account
-  Website
-  411 Information - listyourself.net
-  local laws and processes
-
-#### Obtaining Business Credit
-
-- There is a process to get business credit. You need 3 referrals at each level, before the next level will consider you. You will need to spend about 80/100 for each line. Each line lasts 36th months. Ask to be invoiced and use your credit to pay.
-
-1. UPS Store (1.5k credit), Quill/Uline, Grainger (1k credit)
-
-2. Staples, Sherwin Williams, Home Depot, JC Penny, Autozone, Macys, Budget, Office Depot (6k credit)
-
-3. Lowes, Chevron, Walmart, Texaco, Sears Commercial (6-20k)
-
-4. Best Buy, Ally, Sams Club Mastercard, Home Depot Commercial (50k)
-
-### 1.3.2. Personal Credit Score
+### 1.3.2. Personal Credit
 
 Definition - "A numerical representation that you will become 90 days late within the next two years"
 Important idea - "Good Credit is NOT just Not Bad Credit". Common misperception. You have to Build good credit.
@@ -286,7 +256,7 @@ Summary of General Rules for great credit:
 9. 780 and 850 score is exactly the same (300-850)
 10. Auto pay credit cards
 
-### 1.3.3. Credit Card Interest, Billing Cylce and Grace periods
+#### 1.3.2.1. Credit Card Interest, Billing Cylce and Grace periods
 
 In your CC Billing cycle you have a month's worth of charges that you can make and your CC Balance will slowly rise with each charge. At the end of the month (This just represents one month, but a month can be from jan 15-Feb 14 for example, not necssarily the 1st to the 31st), you will get a "Statement" of all the charges you made that month. This is different from your "Balance" which is all charges added up that you currently owe, including charges made after your "Statement" was calculated. The amount in the "Statement" will be due within the "Grace Period" - usually 21-25 days. If you pay the full amount then, you are charged nothing.
 
@@ -297,7 +267,7 @@ HOWEVER!!! If you don't pay the full statement amount (even leave 1 dollar), the
 Good Resource Explanation here:
 https://www.youtube.com/watch?v=8WuH3-PsjCA
 
-### 1.3.4. Credit Audit/Repair/Upkeep
+#### 1.3.2.2. Credit Audit/Repair/Upkeep
 
 If you need credit repair, Eric Counts and his team does magic in this area. You just aren't knowledgable enough in this space. Dont try to dispute credit errors on your own online! This will make it harder for Eric and his team later. When in trouble call:
 
@@ -305,6 +275,57 @@ Creditnerds.com
 $199 credit audit
 $50 deletion fee per item
 (average $1200-$1500)
+
+### 1.3.3. Business Credit
+
+You need to get a Dunns number (Dunn and Bradstreet?) which will be your profile num. The other two bureaus will get your profile after a lender reports
+3 diff bureaus - D&B, Corp Equifax, Corp Experian
+2 years in operation
+Inquiries and Utilization doesnt affect your score (Anybody can pull your report)
+1 day late is delinquit vs personal is 30 days
+not many lenders will actually report to the bureaus
+any application where u give your SSN, they will pull your personal (try not to give this)
+
+#### 1.3.3.1. Requirements to impress the lender and get approved for a credit/loan:
+
+- Make sure names are EXACTLY the same - even down to the commas
+  EIN
+  Address - Needs to be physical
+  Entity Name -
+  Business Phone Number (separate from personal cell)
+  Fax Number (This could possibly be an approve/deny category)
+  GET (filing in Hawaii)
+  Secretary of State (DCCA in Hawaii) Articles of Organization (LLC) or Articles of Incorporation (Corp)
+  Business Bank Account (In the name of the business)
+  Email - Professional Account
+  Website
+  411 Information - listyourself.net
+  local laws and processes
+
+- My Business:
+  Mark Kohlers Address
+  DK Accerlated LLC, DK Realty LLC, Hero Realty LLC, Dank Realty LLC
+  Google voice (Grasshopper for local numbers, can use as a fax too, and call forward to your personal line with a different ringtone - $25/month)
+  Fax number - efax?
+  GET - need to file
+  Articles of Organization
+  Bank of Hawaii Business Account
+  danielk@dkaccelerated.com
+  dkaccelrated.com
+  411 - put information on
+  - local laws and processes
+
+#### 1.3.3.2. Obtaining Business Credit
+
+- There is a process to get business credit. You need 3 referrals at each level, before the next level will consider you. You will need to spend about 80/100 for each line. Each line lasts 36th months. Ask to be invoiced and use your credit to pay.
+
+1. UPS Store (1.5k credit), Quill/Uline, Grainger (1k credit)
+
+2. Staples, Sherwin Williams, Home Depot, JC Penny, Autozone, Macys, Budget, Office Depot (6k credit)
+
+3. Lowes, Chevron, Walmart, Texaco, Sears Commercial, Amazon (6-20k)
+
+4. Best Buy, Ally, Sams Club Mastercard, Home Depot Commercial (50k)
 
 ## 1.4. Important Concepts, Terms, and Strategies
 
