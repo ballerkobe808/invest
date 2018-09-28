@@ -4,20 +4,21 @@
 
 - [1. FINDING-RESEARCHING PROPERTIES](#1-finding-researching-properties)
   - [1.1. PROCESS - Finding a Property (Generating Leads)](#11-process---finding-a-property-generating-leads)
-  - [Look for properties](#look-for-properties)
+  - [Find a property](#find-a-property)
     - [1.1.1. What am I looking for (Initial Property filter)](#111-what-am-i-looking-for-initial-property-filter)
     - [1.1.2. Finding the Deal](#112-finding-the-deal)
       - [PROCESS - Find a Good Agent](#process---find-a-good-agent)
       - [Current Agents/Leads](#current-agentsleads)
       - [Alternative Avenues](#alternative-avenues)
   - [1.2. Researching a Property](#12-researching-a-property)
-    - [1.2.1. PROCESS - Step by Step Guide to gather data](#121-process---step-by-step-guide-to-gather-data)
+    - [1.2.1. PROCESS - Step by Step Guide to initially gather data](#121-process---step-by-step-guide-to-initially-gather-data)
     - [1.2.2. Deeper Dive into Property (Things to Consider)](#122-deeper-dive-into-property-things-to-consider)
-      - [1.2.2.1. Property Location](#1221-property-location)
-      - [1.2.2.2. Turnkey Company & Questions to ask](#1222-turnkey-company--questions-to-ask)
-      - [1.2.2.3. Property Value & Questions to ask](#1223-property-value--questions-to-ask)
+      - [1.2.2.1. Location Desirability](#1221-location-desirability)
+      - [PROCESS - Assess Property Value (ARV)](#process---assess-property-value-arv)
+      - [PROCESS - Assess the rehab costs](#process---assess-the-rehab-costs)
       - [1.2.2.4. Property Management & Questions to ask](#1224-property-management--questions-to-ask)
-    - [1.2.3. Turnkey Location Hotspots](#123-turnkey-location-hotspots)
+      - [1.2.2.2. PROCESS Turnkey/Owner Conversations and Questions.](#1222-process-turnkeyowner-conversations-and-questions)
+    - [1.2.3. Rental Location Hotspots](#123-rental-location-hotspots)
     - [1.2.4. Insurance](#124-insurance)
     - [1.2.5. Section 8](#125-section-8)
 
@@ -25,7 +26,7 @@
 
 ## 1.1. PROCESS - Finding a Property (Generating Leads)
 
-## Look for properties
+## Find a property
 
 Always be on the lookout! Finding good deals is the most important part of investing
 
@@ -71,7 +72,7 @@ THESE ARE THE MOST IMPORTANT PEOPLE IN THE PIPELINE! Finding a good deal is so v
 
 ## 1.2. Researching a Property
 
-### 1.2.1. PROCESS - Step by Step Guide to gather data
+### 1.2.1. PROCESS - Step by Step Guide to initially gather data
 
 - Look it up on Zillow, Redfin, Trulia, realtor.com, (MLS if you can)
 - Walk the neighborhood with Google Street map view
@@ -81,10 +82,11 @@ THESE ARE THE MOST IMPORTANT PEOPLE IN THE PIPELINE! Finding a good deal is so v
 - Find insurance prices Email/call my insurance agent (allstate, etc) with the property address and asking for the largest deductable/smallest monthly payment. Or Google "investor homeowners insurance Atlanta", read the reviews and call the highest reviewed one.
 - Find a local Realtor/Property Manager and speak to them (Look them up on Yelp)
 - Look up a record of past permits online (County's site)
+- IMPORTANT Does it make sense from a numbers and also effort perspective.
 
 ### 1.2.2. Deeper Dive into Property (Things to Consider)
 
-#### 1.2.2.1. Property Location
+#### 1.2.2.1. Location Desirability
 
 - Population makeup - ethnicity, age, demographics, crime, etc.
 - Population growth? Is it growing?
@@ -96,7 +98,68 @@ THESE ARE THE MOST IMPORTANT PEOPLE IN THE PIPELINE! Finding a good deal is so v
 - Any special conditions? Flood zone, or hurricane prone (Florida, etc)
 - Nice graphic about appreciation and cashflow here: [link image]
 
-#### 1.2.2.2. Turnkey Company & Questions to ask
+#### PROCESS - Assess Property Value (ARV)
+
+1. Get the Comps. Ask agent to run a CMA (Comparative Market Analysys) report. The CMA should be based on:
+
+   1. Within the past 6 months
+   2. Close proximity
+   3. Similar size (sq feet)
+   4. Similar Layout (2 bed 1 bath)
+   5. Similar year built
+
+2. Drive to the Comps and compare using your eyes. See if its better or worse than your property using:
+
+   1. Condition. Roof, garage doors, windows, driveway, walkways, porches
+   2. Curb Appeal. The architecute, trees, lawn, landscaping, lot size, and grade
+   3. View. Water, city skyline, mountains, any eyesores
+   4. Street. Cul-de-sac, major street, major intersecion, pride of ownership evident
+   5. Proximity to Infrastructure. Commercial businesses, factories, undesirable establishments, highways, power lines, parking lots, bus stops etc.
+
+3. Read the Market. What does it look like today, and what is the 6 month forecast? Some things to consider are:
+
+   1. Mortgate rate trends. Are rates going up or down in next 6 months? Higher rates drop home prices
+   2. Seasonal buying cylcle. Home sales usually take a dip during winter months, but pick up in the summer.
+   3. Time on market. Your realtor can check inventory levels and see average days on market to see how quickly things are selling
+   4. Developments. Is there anything that will cause people to want to move in or leave? Major employers, schools, stores, churches, parks, pools, entertainment value
+
+4. Check with Experts. Check with local experts. Some to consider are:
+
+   1. Neighborhood Realtors. Agents who specialize in that neighborhood.
+   2. Appraisers. Get an actual appraisal ($300-500). See if you can just get a verbal appraisal for a discount. Let them know you are looking for the ARV, not current condition.
+   3. Neighborhod Residents. Talk to people who live there.
+
+#### PROCESS - Assess the rehab costs
+
+This is the area that investors most get wrong. If done incorrectly it will eat into profits and schedule and cost a lot more than just the rehab itself.
+
+Three options to calculate them are:
+
+1. Hire a professional. This will be the most expensive, but maybe the most worth it, especially to start out.
+
+2. Do it yourself. Cost of materials and cost of construction itself. Also some tasks require specialists (faoundations, structural, septic, well, chimney, pool, etc) Do enough of these however, and you will get better and better at it. Like anything, the more experience and data points you have. Always at at least a 5% contingency for unforseen costs or overruns.
+
+3. Use a rule of thumb. Only use this if you need to do it overnight - time is of the essence.
+   1. Make-hab ($5/square foot, $3-7) Clean out, paint, carpet, final cleaning
+   2. Rehab ($15/square foot, $12-18) Mostly cosmetic, broken windows, leaky roof, HVAC, electrial, plumbinb, doorknobs, doorstops, bathroom accessories, tile, refurbishing cabinetry, trim, landscaping.
+   3. Remodel ($25/square foot, $20-30) Rehab plus replacing bathtub, walk in showers, cabinetry, doors, trim, widening openingss.
+   4. Restructure ($40/square foot, $35-45) Remodel plus major layout changes - moving a bathroom increasing kitchen, building an addition, etc.
+
+There is also software with a 500 point checklist that you can go thru to help estimate it faster.
+HomeFixers Cost Assessment Report. If you have an affiliate in the city (homefixers.com), you can order a HomeFixers Cost Assessment Report. You can also buy the software.
+
+#### 1.2.2.4. Property Management & Questions to ask
+
+- Find out more about the property management team and make sure you are comfortable working with them, and they have reasonable rates. Nothing is more important to the success of your property or peace of mind, than the property management company and their communication, responsiveness, and committment to excellence. Good chance this guy doesn't care about your investment - make sure you are comfortable here - find the right team!
+
+Questions:
+
+- Can you tell me more about your property management company? (How much experience do they have?) How do you handle problems - how big are you? Processes in place..?
+- What are the fees? Setup fee - say $300 to open account - Monthly 8%-12%? Is this on rent Collected, or rent due, rent scheduled, rent value, etc. It should be on rent collected to assure not paying when there is no rent. Vacancy Fee? Listing/new tenant fee? Lease renewal fee? Maintenance fees? Eviction fee?
+- What is their average vacancy rate? (Charge when there is a vacancy?) So important to keep rentals filled...
+- Are there Tenants currently? (Rent Rolls available?) (Lease Agreements?) How sure is the rental price? If you are unsure here, then call around for property managers in the area and get their opinion - you can possibly go with one of them if you like them as well (Yelp is a good resource). Also Hotpads research surrounding similar rentals.
+
+#### 1.2.2.2. PROCESS Turnkey/Owner Conversations and Questions.
 
 - Vetting the Turnkey Vendor will make life easier in the long run. Find out as much as you can about them as a company to see if you can work with them, or thier providers.
 - What is their repuation like on Bigger Pockets?
@@ -111,35 +174,13 @@ Questions
 - Ask for rent rolls, of current previous tenants
 - Ask for documenation of work done on the house recently
 
-#### 1.2.2.3. Property Value & Questions to ask
-
-- Pass the initial property filter in the "What am I looking for" section above
-- Plug values into the Investment Calculator - good margin? (Want 200 positive cashflow)
-- Does the property need repairs currently? Will it soon?
-- Deals are made going in - Make sure its a good investment!! You can always find another..
-- Best value around the 100k range. Too cheap and you get issues? Also as you go lower in price % maint and % cap exp go down - even tho things will cost around the same...
-- Truepeoplesearch - find the person owning the property and contact them directly?
-
-Questions:
-
 - Do you own the property? If not, who is the company/person who is selling it? Always better selling their own
 - Was the property rehabbed? Who did the rehab? Always better to know the rehab workmanship personally
 - Does it currently need any repairs? If so, what do you think the estimated costs will be?
 - Can you tell me a little more about the neighborhood (want them to describe it in their own terms)
 - Big 6 Cap Exp Questions - Find facts and also get a feel on how they answer. Ask Hey ball park numbers, what would it cost to redo the roof, etc - just to get a feel. 1 Roof, 2 HVAC, 3 Foundation, 4 Plumbing, 5 Electrical, 6 Termites
 
-#### 1.2.2.4. Property Management & Questions to ask
-
-- Find out more about the property management team and make sure you are comfortable working with them, and they have reasonable rates. Nothing is more important to the success of your property or peace of mind, than the property management company and their communication, responsiveness, and committment to excellence. Good chance this guy doesn't care about your investment - make sure you are comfortable here - find the right team!
-
-Questions:
-
-- Can you tell me more about your property management company? (How much experience do they have?) How do you handle problems - how big are you? Processes in place..?
-- What are the fees? Setup fee - say $300 to open account - Monthly 8%-12%? Is this on rent Collected, or rent due, rent scheduled, rent value, etc. It should be on rent collected to assure not paying when there is no rent. Vacancy Fee? Listing/new tenant fee? Lease renewal fee? Maintenance fees? Eviction fee?
-- What is their average vacancy rate? (Charge when there is a vacancy?) So important to keep rentals filled...
-- Are there Tenants currently? (Rent Rolls available?) (Lease Agreements?) How sure is the rental price? If you are unsure here, then call around for property managers in the area and get their opinion - you can possibly go with one of them if you like them as well (Yelp is a good resource). Also Hotpads research surrounding similar rentals.
-
-### 1.2.3. Turnkey Location Hotspots
+### 1.2.3. Rental Location Hotspots
 
 ![](lib/Turnkey-heat-map-8-16.jpg)
 

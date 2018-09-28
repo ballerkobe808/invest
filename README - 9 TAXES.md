@@ -1,5 +1,7 @@
 # 1. TAXES
 
+---
+
 <!-- TOC -->
 
 - [1. TAXES](#1-taxes)
@@ -8,9 +10,6 @@
   - [1.0.3. Federal Tax Brackets for 2018](#103-federal-tax-brackets-for-2018)
   - [Capital Gains Tax](#capital-gains-tax)
   - [1.0.4. 1031 Exchange](#104-1031-exchange)
-  - [1.0.5. PROCESS - Creating an LLC](#105-process---creating-an-llc)
-  - [Starting up your Business](#starting-up-your-business)
-  - [Asset Protection and Lawsuits](#asset-protection-and-lawsuits)
   - [1.0.6. PROCESS - Filing Taxes at the end of the year](#106-process---filing-taxes-at-the-end-of-the-year)
 
 <!-- /TOC -->
@@ -144,20 +143,6 @@ General Rules:
 
 Article explaining more here:
 https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
-
-### 1.0.5. PROCESS - Creating an LLC
-
-### Starting up your Business
-
-Start tracking all your expenses before u open your business. These are considered start up costs and can be written off. Your business is not legally open until your first sale.
-
-You need a business address and registered agent address. If you dont want to use your own, you can use Mark Kohlers law firm to forward you mail - 150 for the business address and 125 for the registered agent address annuaally
-
-### Asset Protection and Lawsuits
-
-Her plan involved placing the town-home in an LLC, which protected her personally from a liability nightmare. She used the series LLC structure, which meant that the home itself was in its own individual LLC. She owned two other properties, each of which had its own series. While the total value of these assets is rather high, the use of this structure protected her unrelated assets.
-
-The other cog in her plan was an anonymous trust, which functioned as the owner of her parent company LLC. With these pieces working together, the opposing attorney quickly lost interest in the initial lawsuit. Why? Because there was very little to gain. As for the new owner, he would have spent more pursuing litigation then he could have ever hoped to win.
 
 ### 1.0.6. PROCESS - Filing Taxes at the end of the year
 
