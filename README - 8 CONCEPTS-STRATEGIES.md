@@ -1,5 +1,7 @@
 ## 1.4. Important Concepts, Terms, and Strategies
 
+Use your heloc to make the money in your property accessible
+
 ### 1.4.1. DTI (Debt to Income)
 
 This is the first and biggest metric a lender looks at when deciding to lend you money. Its basically how much money you spend a month to cover your debts over how much you bring in.
@@ -50,3 +52,5 @@ Good explanation here: https://www.youtube.com/watch?v=TWh5vBa-jhM
 ### 1.4.8. Stock Trading
 
 I suggest using Robinhood, there are no transaction fees - make as many trades as you want at no cost to you.
+
+### AirBnB

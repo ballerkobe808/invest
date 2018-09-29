@@ -37,7 +37,9 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
 
 ### 1.0.2. Closing Costs
 
-- Home Inspection (300-500): You send a guy in to go thru the house and find any issues.
+This can run anywhere from 2k - 10k+ Depending on what(and who) is involved
+
+Home Inspection (300-500): You send a guy in to go thru the house and find any issues.
 
 Lender/Loan related fees
 

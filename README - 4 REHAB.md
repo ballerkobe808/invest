@@ -10,10 +10,17 @@ Here is the same 50 steps broken up a little more:
 
 [PDF of Common Tasks](lib/FLIP_101-Common-Tasks.pdf)
 
-### Must Fix
+[Must Fix List](lib/FLIP_Must-Dos.pdf)
+[Should Fix List](lib/FLIP_Should-Dos.pdf)
 
-[PDF of Must Fix](lib/FLIP_Must-Dos.pdf)
+### Holding Costs
 
-### Should Fix
+Be aware of holding costs when estimating the rehab. This will include Property Taxes, Insurance, Utilities, Maintenance costs like cleaning or yard service, and HOA fees.
 
-[PDF of Should Fix](lib/FLIP_Should-Dos.pdf)
+### Working with a Contractor
+
+#### Getting Bids
+
+#### Ordering Materials
+
+#### Paying the Contractor

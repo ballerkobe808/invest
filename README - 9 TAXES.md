@@ -1,5 +1,8 @@
 # 1. TAXES
 
+Quickbooks??
+Make an appointment with a real estate CPA
+
 ---
 
 <!-- TOC -->

@@ -11,10 +11,11 @@
     - [1.1.5. Get Approved for a specific property](#115-get-approved-for-a-specific-property)
   - [1.2. Sources and Types of Funding](#12-sources-and-types-of-funding)
     - [1.2.1. Line of Credit (HELOC, or Personal LOC)](#121-line-of-credit-heloc-or-personal-loc)
-    - [1.2.2. HElOC](#122-heloc)
+      - [1.2.2. HElOC](#122-heloc)
     - [1.2.3. 401k/IRA (Individual Retirement Account)](#123-401kira-individual-retirement-account)
       - [1.2.3.1. Datahouse 401k](#1231-datahouse-401k)
       - [1.2.3.2. Borrowing from your 401k](#1232-borrowing-from-your-401k)
+    - [Credit Cards](#credit-cards)
 
 <!-- /TOC -->
 
@@ -106,7 +107,7 @@ Some questions to review:
 
     Take out a line of credit at your local bank. For First Hawaiian Bank you can get one for 20k assuming your DTI is ok. If you want to go higher, you will have to provide some bank statements.
 
-### 1.2.2. HElOC
+#### 1.2.2. HElOC
 
 HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
 
@@ -147,3 +148,7 @@ Banks will probably not fund your Rentals - you will need to go to a portfolio l
 - If you quit or are fired, you have to pay it back in 60 days or incur a penalty
 - Penalty for early withdrawal is 10%??
 - When you take it out for real, you pay income tax on it (Unless its a Roth)
+
+### Credit Cards
+
+Always increase your limits given the chance. This helps you to lower your utilization % which helps your credit score, and also gives you access to more emergency funds should you need it.
