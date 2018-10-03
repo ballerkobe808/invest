@@ -54,3 +54,5 @@ Good explanation here: https://www.youtube.com/watch?v=TWh5vBa-jhM
 I suggest using Robinhood, there are no transaction fees - make as many trades as you want at no cost to you.
 
 ### AirBnB
+
+### Section 8

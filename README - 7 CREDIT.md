@@ -36,7 +36,7 @@ Its often File Merge items vs identity theft that affect you...
 Identify theft - most of the time its a relative, child, parents, etc. But when people get ahold of your account and make unauthorized charges, its often considered identity theft too. But its usually not "identity theft" - more "hacked accounts".
 2 ways to view the world - live in fear constantly OR just monitor your accounts and just fix it when you find something odd/wrong. The latter is the way to go
 
-5 Factors to your credit score:
+### 5 Factors to your credit score:
 
 1. Payment History 35% (193 points)
 
@@ -76,20 +76,18 @@ Identify theft - most of the time its a relative, child, parents, etc. But when 
    - 1 year - How long they affect your credit score
    - 2 years - How long it stays on your report
 
-Summary of General Rules for great credit:
+### Summary of General Rules for great credit:
 
-1. Pay your bills on time, including CC
+1. Pay your bills on time, including CC (auto pay CC)
 2. Use all your CC a tiny bit once a month, but keep your balances below 30%
-3. Dont shut down old credit cards! (Or open too many new ones)
+3. Be aware of how opening and closing CC affect you...
 4. Try to keep different types of credit
-5. Different Banks look at different Credit Reports which may be different depending on the algorithm that was used
-6. Use a service to find out the best likelihood of approval. Will I be able to find out the best rate too?
-7. Inquiries are little blocks of credit gold - dont use them up unneccessarily?
-8. Check your scores to keep up to date: creditnerds.com (877)614.6373 checkmy3scores.com
-9. 780 and 850 score is exactly the same (300-850)
-10. Auto pay credit cards
+5. Different Banks look at different Credit Reports, in addition to hard inquiries
+6. Inquiries are little blocks of credit gold - dont use them up unneccessarily
+7. Check your scores to keep up to date: creditkarma.com - free!
+8. 780 and 850 score is exactly the same (300-850)
 
-#### 1.3.2.1. Credit Card Interest, Billing Cylce and Grace periods
+### Credit Card Interest, Billing Cylce and Grace periods
 
 In your CC Billing cycle you have a month's worth of charges that you can make and your CC Balance will slowly rise with each charge. At the end of the month (This just represents one month, but a month can be from jan 15-Feb 14 for example, not necssarily the 1st to the 31st), you will get a "Statement" of all the charges you made that month. This is different from your "Balance" which is all charges added up that you currently owe, including charges made after your "Statement" was calculated. The amount in the "Statement" will be due within the "Grace Period" - usually 21-25 days. If you pay the full amount then, you are charged nothing.
 
@@ -100,9 +98,11 @@ HOWEVER!!! If you don't pay the full statement amount (even leave 1 dollar), the
 Good Resource Explanation here:
 https://www.youtube.com/watch?v=8WuH3-PsjCA
 
-#### 1.3.2.2. Credit Audit/Repair/Upkeep
+### Credit Audit/Repair/Upkeep
 
-If you need credit repair, Eric Counts and his team does magic in this area. You just aren't knowledgable enough in this space. Dont try to dispute credit errors on your own online! This will make it harder for Eric and his team later. When in trouble call:
+If you need credit repair, Eric Counts and his team does magic in this area.
+You just aren't knowledgable enough in this space.
+Dont try to dispute credit errors on your own online! This will make it harder for Eric and his team later. When in trouble call:
 
 Creditnerds.com
 $199 credit audit
@@ -119,7 +119,7 @@ Inquiries and Utilization doesnt affect your score (Anybody can pull your report
 not many lenders will actually report to the bureaus
 any application where u give your SSN, they will pull your personal (try not to give this)
 
-#### 1.3.3.1. Requirements to impress the lender and get approved for a credit/loan:
+### Requirements to impress the lender and get approved for a credit/loan:
 
 - Make sure names are EXACTLY the same - even down to the commas
   EIN
@@ -148,7 +148,7 @@ any application where u give your SSN, they will pull your personal (try not to 
   411 - put information on
   - local laws and processes
 
-#### 1.3.3.2. Obtaining Business Credit
+### Obtaining Business Credit
 
 - There is a process to get business credit. You need 3 referrals at each level, before the next level will consider you. You will need to spend about 80/100 for each line. Each line lasts 36th months. Ask to be invoiced and use your credit to pay.
 
@@ -159,56 +159,3 @@ any application where u give your SSN, they will pull your personal (try not to 
 3. Lowes, Chevron, Walmart, Texaco, Sears Commercial, Amazon (6-20k)
 
 4. Best Buy, Ally, Sams Club Mastercard, Home Depot Commercial (50k)
-
-## 1.4. Important Concepts, Terms, and Strategies
-
-### 1.4.1. DTI (Debt to Income)
-
-This is the first and biggest metric a lender looks at when deciding to lend you money. Its basically how much money you spend a month to cover your debts over how much you bring in.
-This includes all things you are on the hook for - mortgage, car payments, loans, rent, etc. It does NOT include food, or variable living expenses.
-It also takes your Gross Income (Not Net) Get your paychecks before taxes for the month. Things like rent will not be counted unless you can show income for 2 years (is this correct)
-
-Debt/Income = DTI
-
-Bank vs Actual DTI - Banks look at the DTI above, but for budgeting you really need to look at actual DTI taking into account living expenses and entertainment.
-
-### 1.4.2. LTV Loan to Value ratio
-
-This is the % the lender is giving u over the total value of the purchase. The lower the number for the lender, the better for them. Often this number can affect your interest rate.
-
-### 1.4.3. Online Banking Savings Account Strategy
-
-You can put your money in an online savings account and get 1.5-1.85% interest on your money. Be aware of minimum balances, maxiumum transactions per month, and transaction fees.
-
-### 1.4.4. Keeping money in a Credit Union Savings
-
-Another alternative is a Credit Union. 1% interest and less fees and hassle
-
-### 1.4.5. Credit Card Introductory Rate strategy
-
-Keep opening new Credit Cards for the sign up bonus, use it, then open another one with another sign up bonus. Biggest issue here is making sure that your credit score doesn't take a big hit, and managing the different accounts. You can net from 150-600 per new Credit Card open. Rinse and Repeat
-
-### 1.4.6. APR (Annual percentage rate) vs APY (Annual percentage yield)
-
-In APR, you just add the interest at the end of the year. For APY, you add each month's (could be day, quarter, etc) interest to that month before calculating the next month's interest. This is intra-year compounding.
-Basically in APR, you only add the interest once a year - in APY, you add it for every period (quarterly, monthly, daily, etc)
-
-APR = Periodic Rate x Number of periods in a year
-APY = (1 + Periodic Rate)^Periods -1
-
-Example: put $1000 in bank at 2% interest
-Jan for APR and APY, you add $10000 _ 2% / 12 = $16.67
-Feb for APR - same, BUT for APY, you take $10001.67 _ 2% / 12 = $16.70
-And so on...
-
-### 1.4.7. Velocity Banking Mortgage Payment Strategy
-
-This is some really cool stuff. Here is a pic of a guide I wrote:
-
-![](lib/velocity-banking-example.png)
-
-Good explanation here: https://www.youtube.com/watch?v=TWh5vBa-jhM
-
-### 1.4.8. Stock Trading
-
-I suggest using Robinhood, there are no transaction fees - make as many trades as you want at no cost to you.

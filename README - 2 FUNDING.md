@@ -1,39 +1,36 @@
-# 1. FUNDING-CREDIT-STRATEGY
-
-<!-- TOC -->
-
-- [1. FUNDING-CREDIT-STRATEGY](#1-funding-credit-strategy)
-  - [1.1. Getting Funding](#11-getting-funding)
-    - [1.1.1. PROCESS - Collect and organize needed documents/records](#111-process---collect-and-organize-needed-documentsrecords)
-    - [1.1.2. PROCESS - Find a Lender](#112-process---find-a-lender)
-    - [1.1.3. Current Lenders](#113-current-lenders)
-    - [1.1.4. Get Pre-qualification letter](#114-get-pre-qualification-letter)
-    - [1.1.5. Get Approved for a specific property](#115-get-approved-for-a-specific-property)
-  - [1.2. Sources and Types of Funding](#12-sources-and-types-of-funding)
-    - [1.2.1. Line of Credit (HELOC, or Personal LOC)](#121-line-of-credit-heloc-or-personal-loc)
-      - [1.2.2. HElOC](#122-heloc)
-    - [1.2.3. 401k/IRA (Individual Retirement Account)](#123-401kira-individual-retirement-account)
-      - [1.2.3.1. Datahouse 401k](#1231-datahouse-401k)
-      - [1.2.3.2. Borrowing from your 401k](#1232-borrowing-from-your-401k)
-    - [Credit Cards](#credit-cards)
-
-<!-- /TOC -->
-
 ## 1.1. Getting Funding
 
 ---
 
-There are many tools to choose from when deciding how to fund deals. Some options are loans from banks, credit unions, portfolio banks, hard money lenders, friends/family/partners, lines of credit, credit cards,
-401k/IRA, seller financing.
+### Lender List
 
-Use Getfundedonline.com - to find the best instiutions and programs to apply to.
+- GatewayLoan -
+  Andrew.Postell@gatewayloan.com
+  Guy in Dallas that does the 85% quick refi
 
-Get as much funding as you can when possible. Its easier to take out 100k from the start, versus going for 20k, 20k, 40k, 20k in succession. There is a cool story/illustration of borrowing money from your friend using both methods.
+- Quicken Loans -
+  (Caution - promised 15% down early - changed to 25% when actual loan and tried to push super high fees through - luckily i read the documents - Be Careful of Sales people here!!!)
+
+- Highlands Mortgage -
+
+- Ridge Lending -
+
+- Bank of Hawaii -
+
+- University of Hawaii Federal Credit Union -
+  Savings Account with 1% APY (applied monthly).
+  5-7.5% APR personal loans (up to 5x gross monthly income)
+  8.5% Credit Card!!! (10k max)
+  Car Loans (need full coverage) - Can refinance too
 
 ### 1.1.1. PROCESS - Collect and organize needed documents/records
 
-Get all the documents you will need and into an organized folder
+Get all the documents you will need and into a neat and organized folder structure.
+Having a financial statement, Resume, and business plan helps too.
+You want to impress them and show them how professional you are. Often the decision is personal.
 
+- Personal Financial Statement
+- Business Plan
 - W2s for the last 2 years
 - 2 months of all Bank Statements (has to be full statements - not printed html)
 - 2 paychecks of current employer(s)
@@ -43,7 +40,7 @@ Get all the documents you will need and into an organized folder
 - Aalii contract and agreement?
 - Proof of Federal Tax payment
 
-### 1.1.2. PROCESS - Find a Lender
+### 1.1.2. PROCESS - Find a Lender Online
 
 1. Google search Local Lenders near your property:
 
@@ -58,37 +55,21 @@ Get all the documents you will need and into an organized folder
 
 3. See if you can form a partnership and relationship with them, and refer others to them. Make sure everyone knows you are the connector.
 
-NOTE: Lane Kawaoka said certain banks wont fund investments, so its better to go with ones that are familiar with the process and the risk.
-
 4. Another avenue for local bank research: https://www.bauerfinancial.com/
 
-### 1.1.3. Current Lenders
-
-- Quicken Loans -
-  (Caution - promised 15% down early - changed to 25% when actual loan and tried to push super high fees through - luckily i read the documents - Be Careful of Sales people here!!!)
-
-- Highlands Mortgage -
-
-- Ridge Lending -
-
-- Bank of Hawaii -
-
-- University of Hawaii Federal Credit Union -
-  Great option to park money, or take out personal loans, credit cards, or even a mortgage at a really good rate.
-  Savings Account with 1% APY (applied monthly).
-  5-7.5% APR personal loans (up to 5x gross monthly income)
-  8.5% Credit Card!!! (10k max)
-  Car Loans - Can refinance too, but need full insurance
+### PROCESS - Find a Lender thru referrals
 
 ### 1.1.4. Get Pre-qualification letter
 
 Fill out the lenders application and get the prequalification letter.
+Be upfront what you are trying to do, and see if they can help you.
 
 ### 1.1.5. Get Approved for a specific property
 
-When you find the property you want to buy, begin the acutal loan application process. Send the contract over to the lender for review.
+Inform the lender you want to take out a loan.
+Give them the property information
 
-Some questions to review:
+Some questions about the loan:
 
     What is the length of the loan? (30 yrs, 27, etc)
     What is the rate? (APR%)
@@ -98,14 +79,21 @@ Some questions to review:
 
 ## 1.2. Sources and Types of Funding
 
----
+bank/credit union loan,
+portfolio bank loan,
+hard money lenders (3-5 points, 12-15% interest),
+friends/family/partners,
+lines of credit,
+credit cards,
+401k/IRA,
+seller financing.
 
 ### 1.2.1. Line of Credit (HELOC, or Personal LOC)
 
-    The key thing to note, is that an LOC's interest is calculated PER DAY.
-    You can get the daily interest by taking the APR (Example: 2.7%), dividing by 12 - to get the monthly interest, then dividing that by 30 to get the daily interest. (They do it like this vs dividing by 365 according to the renautus guys).
+The key thing to note, is that an LOC's interest is calculated PER DAY.
+You can get the daily interest by taking the APR (Example: 2.7%), dividing by 12 - to get the monthly interest, then dividing that by 30 to get the daily interest. (They do it like this vs dividing by 365 according to the renautus guys).
 
-    Take out a line of credit at your local bank. For First Hawaiian Bank you can get one for 20k assuming your DTI is ok. If you want to go higher, you will have to provide some bank statements.
+Take out a line of credit at your local bank. For First Hawaiian Bank you can get one for 20k assuming your DTI is ok. If you want to go higher, you will have to provide some bank statements.
 
 #### 1.2.2. HElOC
 
@@ -152,3 +140,11 @@ Banks will probably not fund your Rentals - you will need to go to a portfolio l
 ### Credit Cards
 
 Always increase your limits given the chance. This helps you to lower your utilization % which helps your credit score, and also gives you access to more emergency funds should you need it.
+
+### Self-Directed IRA
+
+### Some other Retirement fund?
+
+### Tips
+
+Get as much funding as you can when possible. Its easier to take out 100k from the start, versus going for 20k, 20k, 40k, 20k in succession. Cool story of borrowing money from your friend using both methods.

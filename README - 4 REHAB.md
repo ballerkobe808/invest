@@ -24,3 +24,9 @@ Be aware of holding costs when estimating the rehab. This will include Property 
 #### Ordering Materials
 
 #### Paying the Contractor
+
+Rental rehab biggest/most value pop
+
+1. Fresh paint
+2. New carpets
+3. New Front Door

@@ -1,22 +1,5 @@
 # 1. TAXES
 
-Quickbooks??
-Make an appointment with a real estate CPA
-
----
-
-<!-- TOC -->
-
-- [1. TAXES](#1-taxes)
-  - [1.0.1. Real Estate Tax Benefits and Strategies](#101-real-estate-tax-benefits-and-strategies)
-  - [1.0.2. Tax Deductions](#102-tax-deductions)
-  - [1.0.3. Federal Tax Brackets for 2018](#103-federal-tax-brackets-for-2018)
-  - [Capital Gains Tax](#capital-gains-tax)
-  - [1.0.4. 1031 Exchange](#104-1031-exchange)
-  - [1.0.6. PROCESS - Filing Taxes at the end of the year](#106-process---filing-taxes-at-the-end-of-the-year)
-
-<!-- /TOC -->
-
 ### 1.0.1. Real Estate Tax Benefits and Strategies
 
 Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-investing
