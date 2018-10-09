@@ -162,3 +162,20 @@ Questions to Ask About Tenants
 Hello, I am investor looking to purchase a property in the 46241 zipcode. I'd like to schedule a full home inspection to find any major issues that might come up while getting the house ready to rent. I'm looking to put some money into the property to fix it up, but would just like a general idea of what would be involved before purchase. How much would this cost, and how soon could I set up an appointment? Thank you!
 
 https://www.the-home-inspectors.com/
+
+### Liens
+
+Check to see if there are any liens on the house - Title Search
+
+Voluntary
+
+- Mortgages
+- Equity Line of Credit
+
+Involuntary
+
+- Tax and Assessments
+- federal liens
+- judgement liens
+- vendor's liens
+- mechanic's liens

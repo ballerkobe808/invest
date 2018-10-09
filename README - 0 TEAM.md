@@ -32,7 +32,7 @@ everyone else looks for work.
 
    - Keep growing and learning!!
 
-### Team members
+### Team members -------------
 
 Here are the key members:
 

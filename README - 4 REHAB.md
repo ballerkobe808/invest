@@ -36,6 +36,8 @@ Estimate the time it will take to fix: Get the cost per square foot and divide b
 
 Estimating minimum amount of profit - 10% of selling price PLUS an additional amount depending on the complexity of the rehab. A good rule of thumb is to add 1% for every $5/square foot of rehab cost.
 
+Sell at a price below ARV, so you can turn the property around quicker. You dont want to be holding it for too long.
+
 ### General overview diagram of the rehab process
 
 ![](lib/FLIP_HomeFixers-50-Steps.png)

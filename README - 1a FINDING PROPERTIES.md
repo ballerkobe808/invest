@@ -27,11 +27,18 @@ Keys to a property you want:
 ## Leads
 
 1. Wholesale lists (Get on some good ones!)
-2. Investor friends, family, coworkers
+2. Investor friends, family, coworkers (Business Card)
 3. Realtor Agents
 4. Providers (Memphis Invest, Midsouth Homebuyers, Norada, REITrader)
 5. Craigslist, Zillow, MLS
-6. Foreclosures
+6. Foreclosures: Shadow inventory - inventory held by banks you dont know exists, local auctions
+
+### Business Cards
+
+Have Contact Info
+"If I close on a real estate transaction due to your referral I will send you a check for $500."
+A realtor cannot pay a finders fee (but i can)
+Guys like delivery drivers, postman, etc are driving around all the time
 
 ### Online Search
 
@@ -42,6 +49,53 @@ Keys to a property you want:
 - Foreclosures.com -
 
 - Auction.com -
+
+realtor.org
+realtrends
+bestplaces.com
+realtytrack.com
+
+city-data.com
+
+realtor.com
+streeteasy.com
+national re franchise websites
+realtor office and websites
+
+bestplaces.net
+case-shiller index - shows prices over time
+
+property research:
+ebay
+craigslist
+backpage
+zillow
+trulia
+
+18 keywords to look for when searching craigslist:
+motivated, reduced, owner may finance (owf omf), pre-foreclosure, foreclosure, short sale,
+divorce, reo, probate, estate, relocation/relo, owner will carry /owc, fire or storm damage, tlc, fixer,
+investor, discount, bring,
+
+www.propertyauction.com
+www.realtybid.com
+www.auction.com
+www.williamsauction.com
+
+us treasury
+hud.gov
+fsbo.com
+forsalebyowner.com
+owners.com
+
+facebook
+instagram
+twitter
+
+newspaper classifieds (online too)
+50states.com
+
+renatus ios???
 
 ### Wholesale/Agent List
 

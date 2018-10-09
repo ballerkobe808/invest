@@ -2,12 +2,14 @@
 
 NOTE: Save all documentation with everything you do in an organized way! This will make life easier in the future.
 
-1. Submit Bid and reach an Agreement with Seller
+1. Submit Bid and reach an Agreement with Seller - Get it under Contract
 
    Work with a real estate agent. Put in an offer for the property through your real estate agent.
    Important! Ask for the seller to cover the closing costs, and offer a higher price to make up for it. Maxiumum amount allowed by an investment propert is 2% for a conventional loan. (6% for FHA)
 
    Get the counter offer and discuss with your agent or advisors. Submit a counter offer. Repeat the process until satisfied and you reach an agreement.
+
+   Always add: Daniel, and/or assigns (you should always add this cuz it wont hurt, but can help) Different states may use diff verbage
 
 2. Home Inspection
    Get an inspection - important to know what you are getting - about $300-$500.
@@ -19,11 +21,17 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
 4. Connect with the property manager -
    stay in touch with him - gotta give him banking info so he can send rents over to you. (figure out of its rented already, or to be rented - in that case its a target rent. 80% of the time its rented currently)
 
-5. About 60-75 days from the time you sign the purchase agreement to the time you sign the closing documents. (up to 90 days) If its close to the closing date and its not close, then email your investment counselor.
-   Communicate in a timely manner with:
-   Turnkey Investment Counselor
-   Lender (or mortgage broker)
-   Title Company
+5. Do the Close.
+   About 60-75 days from the time you sign the purchase agreement to the time you sign the closing documents. (up to 90 days) If its close to the closing date and its not close, then email your investment counselor. Communicate in a timely manner with: Turnkey Investment Counselor, Lender (or mortgage broker), Title Company
+
+### Purchae to Wholesale
+
+Build a buyers database
+Go to auctions and pass out your card to be on a mailing list
+Go to lowes/home depot early in the morning and get investors contact to forward emails
+REI Meetings
+
+assign or simultaneous close
 
 ### Title Company Criteria
 
@@ -31,7 +39,7 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
 2. They do simultanous closes (This is required for no money down technique)
 3. Ask "Do you have a licensed intermediary that is staffed here at this office"?
 
-### Closing Costs
+### Closing Costs --------------------------
 
 This can run anywhere from 2k - 10k+ Depending on what(and who) is involved
 
@@ -70,19 +78,7 @@ Home Inspection (300-500):
 - Upfront mortgage insurance: May need to pay PMI upfront depending on your lender.
 - FHA, VA and USDA fees: Fees vary depending who is guaranteeing your mortgage.
 
-### Tips
-
-Contract (Purchase Agreement) - Letter of Intent is for commercial prop
-Include Escape Clauses
--And/Or Assigns (Wholesaling)
-
-- Subject to Home inspection, Satisfactory Appraisal, Specific loan terms, re zoning, partners approval, Attoryney Review, Repair cost not to exceed $\_
-
-  Keep Ernest Deposits Small and held by a third party - never give to the homeowner
-  Don't leave blank space on contract and get copies of everything you sign
-  Read every word of the contract
-
-### Contract to Buy
+### Contract to Buy --------------------
 
 Whoever controls the contract, controls the deal, and outcome
 
@@ -104,3 +100,15 @@ NOTES:
 9. Possession - you will hold 15% of his profits until he's met the terms of your agreement, and also will be paying daily for each day of issue. The contract will help you in case the seller doesn't do his part
 10. 3rd out - Special Stipulations - "This contract is contingent upon buyers/partners inspection and approval within 10 business days of ratification"
 11. Always do a title search the day of closing - in case the title changed. Call them the day before and let them know you will do a title search and ask them to pull it in the morning so you dont have to wait.
+
+### Tips ------------------------
+
+Contract (Purchase Agreement) - Letter of Intent is for commercial prop
+Include Escape Clauses
+-And/Or Assigns (Wholesaling)
+
+- Subject to Home inspection, Satisfactory Appraisal, Specific loan terms, re zoning, partners approval, Attoryney Review, Repair cost not to exceed $\_
+
+  Keep Ernest Deposits Small and held by a third party - never give to the homeowner
+  Don't leave blank space on contract and get copies of everything you sign
+  Read every word of the contract
