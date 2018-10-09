@@ -1,7 +1,7 @@
+### Team Strategy
+
 The richest people in the world look for and build networks;
 everyone else looks for work.
-
-### Team Strategy
 
 1. Build your team
 
@@ -109,8 +109,13 @@ Here are the key members:
     email replies, and other such systems that reduce the need for
     human involvement. These systems lower your costs and streamline
     communications.
+
     Be careful about overdoing the size of the team. The more people you
     have, the more coordinating you have to do. It takes time to put together
     a good team. However, don’t think that you have to have every member
     of your team in place before you can get started. You can add and subtract
     members of the team on an as-needed basis.
+
+### Interviewing Potential team members
+
+Notes and scripts for this are found in the RE Elevated 3 day workshop handbook

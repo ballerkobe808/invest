@@ -83,6 +83,8 @@ Trips (as long as you go with the intent for business BEFORE you start it)
 Hire your kids
 Car (This is not an automatic write off so be careful here)
 
+Education training - make sure you tell your CPA that you decided to do Real Estate before you bought the package of training
+
 ### 1.0.3. Federal Tax Brackets for 2018
 
 Single Filing
@@ -125,7 +127,8 @@ General Rules:
       4.  You must purchase property of equal or greater value than the adjusted value (not the price value — but the adjusted cost basis when taking into account depreciation less commissions and closing costs) of the property you sold, or you will be taxed on the difference.
       5.  During the interim of selling your first place and closing on your second, you cannot touch/look at/be near the profits from the first place you sold. That money stays with a 1031 exchange facilitator (qualified intermediary) and not, not, not with you.
       6.  The old property and the new property must be sold and bought by the same entity. Meaning, if you sell a property as John Smith, you have to buy the new one as John Smith — and not as Smith, LLC.
-      7.  This point has been debated by the experts, but a good rule of thumb for the majority of you is this: You must own your property for one year and one day to make this 1031 exchange. Otherwise, will be penalized.
+      7.  This point has been debated by the experts, but a good rule of thumb for the majority of you is this: You must own your property for one year and one day to make this 1031 exchange. Otherwise, will be penalized. Its called seasoned property
+      8. If you keep even $1 of the capital gains you pay tax ON ALL OF IT. Make sure the value of the property you are going to buy is 115% of the prev just to be sure it doesn't get assessed too low.
 
 Article explaining more here:
 https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
@@ -139,3 +142,17 @@ https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 - Quickbooks???
 
 - LLC (Single membership) is a disregarded entity and thus has no tax benefit for an individual holding property through it. Partnerships are different though.
+
+- Compile your tax deductions
+
+#### List of Deductions for 2018
+
+| Amount | Deduction            | Notes |
+| ------ | -------------------- | ----- |
+| 2000   | Renautus Essentials  |       |
+| 2000   | Real Estate Elevated |       |
+| 10000  | Tithe                |       |
+| 9000   | Every Nation         |       |
+| 300    | Ayanos Ministry      |       |
+| 700    | Compassion           |       |
+| 2000   | Mission Trip         |       |

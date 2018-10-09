@@ -159,3 +159,12 @@ any application where u give your SSN, they will pull your personal (try not to 
 3. Lowes, Chevron, Walmart, Texaco, Sears Commercial, Amazon (6-20k)
 
 4. Best Buy, Ally, Sams Club Mastercard, Home Depot Commercial (50k)
+
+### Credit Cards ----
+
+If it says Visa, Mastercard, Discover, American Express open it
+Open as many credit cards as you can with no annual fee to have as much money available to you
+(The guy had 10 hard inquiries and an 820 credit score)
+
+New rule - is this true?
+You can do as many hard inquiries on a single day and not have it affect your credit???

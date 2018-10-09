@@ -31,7 +31,7 @@ Rehabbing criteria:
 
 1. Proximity to your house/travel time.
 2. Selling prices of the homes in the neighborhood (higher better)
-3. Sales activity of the homes in the neighborhood (higher better)
+3. Sales activity of the homes in the neighborhood (higher better). If low days on market, high demand, people are moving in. High days on market, low demand, people moving out.
 4. Ages of the homes in the neighborhood (too new is bad, too old is bad)
 5. Appeal and charm of the neighborhood (homeowner pride)
 6. Safety of the neighborhood
@@ -77,31 +77,11 @@ Rental criteria:
    2. Appraisers. Get an actual appraisal ($300-500). See if you can just get a verbal appraisal for a discount. Let them know you are looking for the ARV, not current condition.
    3. Neighborhod Residents. Talk to people who live there.
 
-### PROCESS - Assess the rehab costs
-
-Very important - and also easy to get wrong!
-
-1. Hire a professional. This will be the most expensive, but maybe the most worth it.
-
-2. Do it yourself or ask a Realtor. Cost of materials and cost of construction itself. Also some tasks require specialists (faoundations, structural, septic, well, chimney, pool, etc) Do enough of these however, and you will get better and better at it. Like anything, the more experience and data points you have. Always add at least a 5% contingency for unforseen costs or overruns.
-
-3. Use a rule of thumb. Only use this if you need to do it overnight - time is of the essence.
-   1. Make-hab ($5/square foot, $3-7) Clean out, paint, carpet, final cleaning
-   2. Rehab ($15/square foot, $12-18) Mostly cosmetic, broken windows, leaky roof, HVAC, electrial, plumbinb, doorknobs, doorstops, bathroom accessories, tile, refurbishing cabinetry, trim, landscaping.
-   3. Remodel ($25/square foot, $20-30) Rehab plus replacing bathtub, walk in showers, cabinetry, doors, trim, widening openingss.
-   4. Restructure ($40/square foot, $35-45) Remodel plus major layout changes - moving a bathroom increasing kitchen, building an addition, etc.
-
-Use the Homefixers app to estimate easier. Maybe can order a HomeFixers Cost Assessment Report depending on the city. https://househackerpro.com/upgrade.html
-
-NOTE: Other costs to include with the rehab are the costs of closing (Closing fees, inspections -1.5%), Holding (Taxes, Utilities, HOA fees, etc - 1.5%), Lending fees (variable), and if flipping, then Selling Fees (6.5% selling price)
-
-Estimate the time it will take to fix: Get the cost per square foot and divide by 10 - that will be how many months it will take. Add two and a half months to market and sell.
-
-Estimating minimum amount of profit - 10% of selling price PLUS an additional amount depending on the complexity of the rehab. A good rule of thumb is to add 1% for every $5/square foot of rehab cost.
-
 ### Interview Turnkey/Owner
 
 Find out what the turnkey provider or owner is like. Big question is if you can trust them. Lots of times just trying to gauge that - competency and trust.
+
+- WHY ARE YOU SELLING? Figure this out to see if you can come up with a creative way for a win-win
 
 Questions
 
@@ -131,3 +111,54 @@ Questions:
 - What is their average vacancy rate? (Charge when there is a vacancy?) So important to keep rentals filled...
 - Are there Tenants currently? (Rent Rolls available?) (Lease Agreements?) How sure is the rental price? If you are unsure here, then call around for property managers in the area and get their opinion - you can possibly go with one of them if you like them as well (Yelp is a good resource).
 - Ask a question about how they would handle a specific problem to see if they will try to save you money or just hire a plumber and be done with it. How much do they care?
+
+Questions to Ask Property Management Companies
+
+1. What are your fees? Do you charge a flat fee or a percent of rent?
+   Seven to twelve percent of rent is typical, but you may be able to negotiate a lower percentage depending on the circumstances. For example, if they will be managing multiple properties for you, they may cut you a deal.
+2. Do you have references?
+   Get references of both current and former clients, and call them all. Search the internet for reviews. Ask around.
+3. How many properties are you managing? Do you manage both short-term and long-term rentals?
+   These days, many property managers are involved with managing short-term rentals through sites like Airbnb and VRBO. Short-term rentals are a different business and can take up a lot of a property manager’s time. Make sure they have the time to focus on your long-term rentals.
+4. How long have you been in business?
+   You want to make sure they’ve been in business long enough to have a track record and evidence they plan to stick around.
+5. How many people work for your company, and what are their roles?
+   You want to know who is taking care of business behind the scenes. If your contact leaves or goes on holiday, you want to know who to contact. You also want to get a sense of the infrastructure. Are they trying to do everything themselves, or do they have a support staff?
+6. Do you have electronic and automated systems set up?
+   These days, property managers should have client portals and electronic payment systems set up for convenience and record keeping. For example, is there an online portal where you can go to generate reports and see property accounts in real time (instead of waiting weeks for a monthly report)?
+   7.How often do you check in on tenants and properties? Do you do an annual walk-through?
+   A good property manager will check in with the property and tenants even if they haven’t heard from them. Some tenants won’t report needed repairs and damage leaving you and the property manager in the dark. You don’t want to find an unpleasant surprise when the tenant moves out.
+   8.Who keeps the damage deposits?
+   Don’t let the property manager keep them. While most people are honest and trustworthy, I did have a property manager steal the tenant damage deposits, which ended up costing us a lot of money to replace the deposits!
+7. What financial institution do you use?
+   Try to get the management company to work with a bank account at your financial institution instead of letting them put rent receipts in to their own account. This usually only works with larger properties and portfolios though.
+8. What do you charge for evictions?
+   Hopefully this never comes up, but it is better to know upfront than to be surprised if an eviction is necessary.
+9. Will you advertise and show a property while it is occupied, or do you insist on properties being vacant before you will start advertising them for rent?
+   If the latter is true, this will lead to 1–2 months of lost rent every time a tenant switch happens.
+10. How long does it take you to turn a property around in between tenants? Can you do it in 24 hours or does the owner have to lose weeks to a month of rent every time a tenant change occurs?
+
+Questions to Ask About Tenants
+
+13. Do you conduct credit and criminal background checks on prospective tenants?
+    This is easy to do these days and a must.
+14. What is your philosophy on tenant selection, getting properties rented? Do you try to get top dollar and raise rents aggressively or do you prefer more of a value play?
+    The rent amount is ultimately the owner’s decision, but if your property is outside of your local area, you will most likely rely on your property manager to know the market. It is beneficial if you and your property manager have similar philosophies on tenant selection and where to set the rental amount.
+15. Do you take photos of the property before and after move in and out?
+    They should, and this is easy to do. Documentation of the property condition is critical should any disputes arise.
+16. Do you offer a tenant placement guarantee?
+    If the tenant is evicted or moves out before the lease term is up, will the property manager find a new tenant for free?
+    Questions to Ask About Repairs
+17. How do you handle tenant calls for repairs? Do you try to solve the problem before sending out a repair person?
+    I’ve found that often the problem can be handled by asking a few questions and the tenant doing a few easy tasks. This can end up saving a lot on unnecessary repair expenses.
+18. Do you establish a threshold $ amount on repairs above which you always call owner? If so, what is that dollar amount?
+19. Who do you use for repairs? Electrical, plumbing, appliances?
+    Do they have a handy man that they try to use for most repairs or do they use outside vendors? If they have a skilled handy man you may get quality work for less.
+20. What is your philosophy on repairs and replacement?
+    Do they try to find the least-expensive solution since this is a rental, or do they prefer a value solution so the repair or replacement will last? Different owners and property managers have different approaches. You want to find a property manager that shares your same philosophy.
+
+### Home Inspection
+
+Hello, I am investor looking to purchase a property in the 46241 zipcode. I'd like to schedule a full home inspection to find any major issues that might come up while getting the house ready to rent. I'm looking to put some money into the property to fix it up, but would just like a general idea of what would be involved before purchase. How much would this cost, and how soon could I set up an appointment? Thank you!
+
+https://www.the-home-inspectors.com/

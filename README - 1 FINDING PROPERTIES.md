@@ -6,11 +6,12 @@ Most important is finding the deal - deals are made WHEN BUYING!!
 
 ### How to find Value
 
-Typical things to look for where u can get value:
+There has to be a reason why you can get the house at under market value. Be aware of this!
+Keys to a property you want:
 
-1. The house needs upgrade/repair
-2. It is in an area of town where people want to live (there will be demand to rent/buy later)
-3. The owner is motivated to sell under market value
+1. The house needs upgrade/repair/Foreclosing/Bank owned and wants to unload
+2. The owner is motivated to sell under market value
+3. It is in an area of town where people want to live (there will be demand to rent/buy later)
 
 ### Rental Portfolio
 
@@ -31,6 +32,16 @@ Typical things to look for where u can get value:
 4. Providers (Memphis Invest, Midsouth Homebuyers, Norada, REITrader)
 5. Craigslist, Zillow, MLS
 6. Foreclosures
+
+### Online Search
+
+- repropfinder.com - The RE Elevated software??
+
+- Honolulu Star advertiser Foreclosure section -
+
+- Foreclosures.com -
+
+- Auction.com -
 
 ### Wholesale/Agent List
 
@@ -55,14 +66,43 @@ Dallas, TX
   Brett Lane
   brett@myershomebuyers.com
 
+- Michael White -
+  michael@bnmventures.com
+
 - Sarah Rudy -
   Sarah Rudy <rhom@live.com>
   Prop Manager/Realtor/Owner turnkeyonline
   Lee Waters (Realtor)
   lee@turnkeyreonline.com
 
-- Jonathan -
-  Reitrader
+- Norada -
+  Melissa N.
+  Norada Real Estate Investments
+  (949) 218-6668 x5
+  (800) 611-3060
+  www.NoradaRealEstate.com
+
+- Reitrader -
+  Jonathan Mednick, Managing Director
+  REI Trader, LLC
+  2320 Highland Ave. Suite 150
+  Birmingham, AL 35205
+  Cell: 954.383.6218
+  Direct: 205.924.5045
+  Office: 205.512.3040
+
+- www.happyinvestor.com-
+  Signed up
+
+- https://investwithben.com -
+  Signed up
+
+- https://www.indywholesaleinvest.com -
+  Signed up
+
+* http://www.indianapolisinvestment.com/indianapolis_homes_for_sale.html -
+  All these on the site are sold - its a hot market now
+  Talking to the guy and hes gonna put me on the wholesaler list
 
 ### PROCESS - Finding New Agents
 
@@ -98,5 +138,5 @@ Sources of Foreclosures and Auctions:
 
 ### Tips
 
-Reward your agents birddogs!
+Reward the people who bring you deals!
 Look for win-win relationships

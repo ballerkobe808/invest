@@ -25,7 +25,13 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
    Lender (or mortgage broker)
    Title Company
 
-### 1.0.2. Closing Costs
+### Title Company Criteria
+
+1. They are convenient
+2. They do simultanous closes (This is required for no money down technique)
+3. Ask "Do you have a licensed intermediary that is staffed here at this office"?
+
+### Closing Costs
 
 This can run anywhere from 2k - 10k+ Depending on what(and who) is involved
 
@@ -63,3 +69,38 @@ Home Inspection (300-500):
 - Mortgage insurance application fee: Just a processing fee to apply.
 - Upfront mortgage insurance: May need to pay PMI upfront depending on your lender.
 - FHA, VA and USDA fees: Fees vary depending who is guaranteeing your mortgage.
+
+### Tips
+
+Contract (Purchase Agreement) - Letter of Intent is for commercial prop
+Include Escape Clauses
+-And/Or Assigns (Wholesaling)
+
+- Subject to Home inspection, Satisfactory Appraisal, Specific loan terms, re zoning, partners approval, Attoryney Review, Repair cost not to exceed $\_
+
+  Keep Ernest Deposits Small and held by a third party - never give to the homeowner
+  Don't leave blank space on contract and get copies of everything you sign
+  Read every word of the contract
+
+### Contract to Buy
+
+Whoever controls the contract, controls the deal, and outcome
+
+PURCHASE & SALE AGREEMENT FOR REAL ESTATE -
+Certain states have ammendments that need to be added
+Realtors want their contract involved - but its better to use yours - make sure the realtors know they will get their full commission
+Draw a line over their contract, initial, and write "See Addendum"
+
+NOTES:
+
+1. Add "And/Or Assigns" to your buyer name (Just in case you might need it)
+2. EXACT LEGAL DESCRIPTION TO FOLLOW - Add in all the things that will be included with the property, line by line - refrigerator, stove, dishwasher, washer, dryer, all curtain hardware, HVAC, ceiling fans, light fixtures, etc. Add some extra things (like 50 in flat screen TV, mower, etc) so you have room to barter. Make sure the house isn't stripped clean when they leave. Putting things in here could save you a lot of headaches of things that need to be replaced later. These can be in an addendum. Include the appliances model and serial number of everything (appliances) Take video to validate what was there.
+3. 1st out - New Loan (Subject to:) Put in a .25% loan rate lower than what you are approved for so you have an out.
+4. Dont use an ARM loan (in case the rates get jacked up later)
+5. 2nd out - New Loan (Subject to:) Put in 2 points max for the closing cost
+6. New Loan (Put a month for how long the loan will take to approve - you have wiggle room to negotiate now)
+7. Get HOA Bylaws in order to know what is required - some will make you want to walk
+8. The buyer max extend the closing date by 30 days by paying 1000 in cash - another built in safety measure
+9. Possession - you will hold 15% of his profits until he's met the terms of your agreement, and also will be paying daily for each day of issue. The contract will help you in case the seller doesn't do his part
+10. 3rd out - Special Stipulations - "This contract is contingent upon buyers/partners inspection and approval within 10 business days of ratification"
+11. Always do a title search the day of closing - in case the title changed. Call them the day before and let them know you will do a title search and ask them to pull it in the morning so you dont have to wait.

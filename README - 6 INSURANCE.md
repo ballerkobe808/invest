@@ -1,5 +1,9 @@
-### 1.2.4. Insurance
+### Insurance Types
 
-Home Owners
-Liability
-Flood/Hurricane?
+1. Homeowner policy
+
+2. Rental Policy
+
+3. Builder's Risk
+
+4. Vacancy Policy
