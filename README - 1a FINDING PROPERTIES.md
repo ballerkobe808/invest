@@ -190,6 +190,10 @@ Sources of Foreclosures and Auctions:
 - IRS
 - Property Tax Sales (check your local taxing authority)
 
+### Probate
+
+Deal of the Decade in Essentials goes over this
+
 ### Tips
 
 Reward the people who bring you deals!

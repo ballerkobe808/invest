@@ -79,9 +79,9 @@ Identify theft - most of the time its a relative, child, parents, etc. But when 
 ### Summary of General Rules for great credit:
 
 1. Pay your bills on time, including CC (auto pay CC)
-2. Use all your CC a tiny bit once a month, but keep your balances below 30%
+2. Use all your CC a tiny bit once a month, but keep your balances low (pay off before they report)
 3. Be aware of how opening and closing CC affect you...
-4. Try to keep different types of credit
+4. Try to keep different (and many) types of credit
 5. Different Banks look at different Credit Reports, in addition to hard inquiries
 6. Inquiries are little blocks of credit gold - dont use them up unneccessarily
 7. Check your scores to keep up to date: creditkarma.com - free!
@@ -92,8 +92,6 @@ Identify theft - most of the time its a relative, child, parents, etc. But when 
 In your CC Billing cycle you have a month's worth of charges that you can make and your CC Balance will slowly rise with each charge. At the end of the month (This just represents one month, but a month can be from jan 15-Feb 14 for example, not necssarily the 1st to the 31st), you will get a "Statement" of all the charges you made that month. This is different from your "Balance" which is all charges added up that you currently owe, including charges made after your "Statement" was calculated. The amount in the "Statement" will be due within the "Grace Period" - usually 21-25 days. If you pay the full amount then, you are charged nothing.
 
 HOWEVER!!! If you don't pay the full statement amount (even leave 1 dollar), then you will be charged interest on the balance you have been holding this second month (during the grace period), including any charges made within the grace period instantly and retroactively. Be careful of this - every charge is accruing interest PER DAY here. Use 4.5% APR(or whatever your APR is) / 365 days to get the daily interest charged.
-
-![](lib/Turnkey-heat-map-8-16.jpg)
 
 Good Resource Explanation here:
 https://www.youtube.com/watch?v=8WuH3-PsjCA
@@ -135,7 +133,7 @@ any application where u give your SSN, they will pull your personal (try not to 
   411 Information - listyourself.net
   local laws and processes
 
-- My Business:
+- Making your Business legit:
   Mark Kohlers Address
   DK Accerlated LLC, DK Realty LLC, Hero Realty LLC, Dank Realty LLC
   Google voice (Grasshopper for local numbers, can use as a fax too, and call forward to your personal line with a different ringtone - $25/month)

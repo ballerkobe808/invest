@@ -91,7 +91,22 @@ You want to impress them and show them how professional you are. Often the decis
 
 2. Send them an email like this:
 
-   ![](lib/Letter-to-Prospective-Credit-Union-or-Lender.png)
+---
+
+Hello! My is Daniel, and I'm an investor from Hawaii looking to invest in Tennessee rental property. This will be my first investment property, but I hope to do a lot more investing in your state in the near future. I'm planning to purchase a duplex for $96,000. I'm looking for a 30 year fixed loan with an interest rate of 5.5%. I can put down 20%. The following is a list of some of my information. Please take a look and tell me whether you have a program I would qualify for.
+
+- I live out of state
+- My credit score is 760
+- My current DTI is 31%
+- I will have $40,000 in reserves after the down payment
+
+If you don't have a program that I would qualify for, is there another institution you could recommend me to? Thank you very much for your time and consideration!
+
+Daniel
+
+---
+
+![](lib/Letter-to-Prospective-Credit-Union-or-Lender.png)
 
 3. See if you can form a partnership and relationship with them, and refer others to them. Make sure everyone knows you are the connector.
 
@@ -112,7 +127,7 @@ Give them the property information
 Some questions about the loan:
 
     What is the length of the loan? (30 yrs, 27, etc)
-    What is the rate? (APR%)
+    What is the rate? (APR%) (If variable, minx max)
     Origination Fee? Other fees?
     Any points up front?
     Is there a pre-payment penalty?
@@ -143,15 +158,9 @@ HELOCs are Home Equity Lines of Credit. It is a line of credit against the equit
 2. 100k home, with 40k of my money/equity. Since I'm over the 20% threshold by 20k, I can get a HELOC for 20k
 3. 100k home, with 80k of my money/equity. Since I'm over the 20% threshold by 60k, i can get a HELOC for 60k
 
-These often come with low 1.7-2% introductory APRs for the first year. You can do strategic things here - Use that money to quickly pay off principle in another loan, and then pay this HELOC off using the lower % rate. Hawaii is known for really low APRs.
+These often come with low 1.7-2% introductory APRs for the first year. You can do strategic things here - Once the introductory rate is over, you can pay it off or cancel and open another HELOC with another bank lol.
 
-Once the introductory rate is over, you can pay it off or cancel and open another HELOC with another bank lol.
-
-One thing to note is that HELOC % is calculated by the day, so any balance used in a month will be charged interest. Credit Cards on the other hand are only charged interest at the end of the month. Because of this, use your Credit Card for daily purchases and only use your HELOC to pay off your CC as needed. Credit Card will also return points on purchases.
-
-Combine a HELOC, with a CC, and Mortgage to do a Velocity Banking Strategy. Open a HELOC, and use a huge chunk to pay off the mortgage principle (same property or another - the earlier the loan section the bigger the payoff). Keep a zero balance in your checking. Any day to day activities, use your CC to pay it off. At the end of the month use the HELOC to pay the CC balance. Any extra income goes toward paying down the HELOC balance. Get it to zero before the rate rises. Cancel, then open another HELOC at the introductory rate. Garret Taira perfected this strategy.
-
-Banks will probably not fund your Rentals - you will need to go to a portfolio lender or open a business line of credit.
+One thing to note is that HELOC % is calculated by the day, so any balance used in a month will be charged interest. Credit Cards are charged at the end of the month. Use your Credit Card for daily purchases (you get points too) and only use your HELOC to pay off your CC as needed.
 
 ### 1.2.3. 401k/IRA (Individual Retirement Account)
 
@@ -174,7 +183,7 @@ Banks will probably not fund your Rentals - you will need to go to a portfolio l
 - You have to pay back in 5 years unless its for a primary residence, or hardship, or special circumstance
 - You will pay back interest but the interest all goes back to you
 - If you quit or are fired, you have to pay it back in 60 days or incur a penalty
-- Penalty for early withdrawal is 10%??
+- Penalty for early withdrawal is 10%
 - When you take it out for real, you pay income tax on it (Unless its a Roth)
 
 ### Credit Cards

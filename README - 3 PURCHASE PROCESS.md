@@ -112,3 +112,7 @@ Include Escape Clauses
   Keep Ernest Deposits Small and held by a third party - never give to the homeowner
   Don't leave blank space on contract and get copies of everything you sign
   Read every word of the contract
+
+Soon as possible!
+Get assignment of leases and rents
+get a management contract

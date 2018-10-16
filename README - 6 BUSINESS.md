@@ -12,10 +12,15 @@ Start tracking all your expenses before u open your business. These are consider
 
 You need a business address and registered agent address. If you dont want to use your own, you can use Mark Kohlers law firm to forward you mail - 150 for the business address and 125 for the registered agent address annuaally
 
+### Keep good records
+
+Keep an organized tracking of everything you do - start in excel, then move into quickbooks eventually. Suggest to use Mark Kohler and his firm in the future.
+
 ### Asset Protection Strategies
 
-Use an LLC to protect yourself and other assets from lawsuits.
-Use an anonymous trust as the owner of your LLC?
+Use an LLC to protect yourself and other assets from lawsuits from within your LLC
+Using your 401k to own your LLCs is super safe - OJ Simpson did this.
+Have an anonymous trust as the owner of your LLC for another level
 If its too complex, lawyers will lose interest and it wont be worth their time.
 
 ### Structures of for-profit businesses
@@ -29,7 +34,7 @@ Each state will be slightly different
    2 ore more people agree to share business. Each parter contributes and shares the profits and losses on their ind tax returns. General - At least one partner has unlimited liability. Limited - limits to personal liability of each partner
 
 3. Corporation (C & S).
-   Cap said always go with S. It limits shareholders to 75, but avoids double taxation.
+   Everyone says to go with an S - dont even consider a C for our purposes.
 
 4. LLC
    attributes of a corporation and tax status of a partnership
@@ -55,3 +60,13 @@ Dont have checks written to you. Always have it paid to your corporation, so its
 Name your S Corp something to do with Real Estate
 
 Name your LLC Nothing to do with yourself - so it can't be tracked back to you.
+
+notes
+
+### Kohlers 5 keys to maintain ur entity
+
+1. Sep checking account
+2. Own your property
+3. Tell the world (URL, bus headers, email, contact info etc)
+4. Contractral Requirements - have all contracts point to your entity and not you
+5. Maintain the entity (Have minutes, board meetings, etc)

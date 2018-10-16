@@ -60,3 +60,46 @@ Ability to help others around me.
 - PMI - Private Mortgage Insurace - If you put down less than 20% on a house, then you gotta buy insurace for the remainder in case u cant pay or you default later on...
 
 ---
+
+### Notes
+
+How to find deals
+difficult and time-consuming
+
+market deals
+Get the software to find deals below market (MLS deals)
+
+off market deals
+craigslist??
+
+automated deal finder
+keyword craigslist
+
+### Creative Aquisitions
+
+Equity Sharing
+
+Master Lease
+-Rent the building in order to sublease
+
+Option
+-right but not an obligation
+
+put (record) a memorandum on the title so owner cant sell it
+
+questions -
+why are you selling
+is there a mortgage on the house? Can i take that over???
+If i were to give you the money, what would you do with it?
+
+give them a list of choices
+
+agreement for deed (if seller has a mortgage)
+seller carryback mortgage (if seller owns it outright)
+
+terms after so many years i get the property
+make sure to write the depreciation into the contract - we deserve it more
+
+subject to
+
+### Notes

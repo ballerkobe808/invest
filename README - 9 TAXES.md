@@ -85,6 +85,9 @@ Car (This is not an automatic write off so be careful here)
 
 Education training - make sure you tell your CPA that you decided to do Real Estate before you bought the package of training
 
+- Dining (type 1 doing bus w someone 50%, type 2 traveling (outside normal commute 50%, type 3 company event w majority not owners 100%) - can be alone, ) write down on receipt / calendar - Receipts are for audit protection, not bookeeping (take a pic throw it away)
+- Entertainment 50% (Hobbies, Toys, Keep good records, Golfing, snowmobiles)
+
 ### 1.0.3. Federal Tax Brackets for 2018
 
 Single Filing
@@ -156,3 +159,21 @@ https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 | 300    | Ayanos Ministry      |       |
 | 700    | Compassion           |       |
 | 2000   | Mission Trip         |       |
+
+### Deductions against my W2
+
+My business can have a lot of expenses. If it far exceeds my profits, I can write them off as losses and claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, that is just a hobby, not a business. Don't make it too obvious - write off 20k with a $100 profit. 5-10k in losses is ok?
+
+### Tips
+
+Figuring out the best tax strategy
+Whats ur plan for 10 years down the road? 5 years?
+
+Board of Advisors
+
+Strategic Plan -------
+15 rentals in 5 years, cashflowing 5k a month
+$300 a month each of 80k rental - requires 20-25k down
+plus LLCs, and other fees, closing fees, etc so each $300 cashflow prop will take 30k down
+
+30k x 15 = 450k Is that doable? in 5 years?

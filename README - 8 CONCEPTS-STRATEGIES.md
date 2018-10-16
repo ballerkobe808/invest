@@ -129,3 +129,7 @@ Other Investors, Both
 Builder/Developer, Both
 Property Management Companies, Cash/Discount
 Realtor, Cash/Discount
+
+### Velocity Banking
+
+Transfering loans into lines of credit

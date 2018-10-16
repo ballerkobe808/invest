@@ -4,6 +4,15 @@
 - mail postcard to empty address (Return address requested) post office will send it back to you
 - go to the courthouse and look up the property records - find the owner address
 
+### Owners that would consider seller financing
+
+1. Tired and burnt out
+2. Lives out of state
+3. Sick/personal circumstances
+4. Avoid capital gains tax
+5. Lare pre-payment penalty on loan
+6. Has property management problems
+
 ### Negotiation Tips
 
 Buy based on Numbers - Dont get emotionally attached!!

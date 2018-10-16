@@ -10,6 +10,7 @@
 - Areavibes
 - Neighborhoodscout
 - Find a local Realtor/Property Manager and speak to them (Look them up on Yelp)
+- Nite Owl prop search (search by owner)
 
 - OTHER SOURCES --------------------
 - Walk the neighborhood with Google Street map view
