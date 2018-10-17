@@ -168,6 +168,20 @@ Look on Zillow (Zillow.com/agent-finder.) or Yelp and send an email to the agent
 4. How you heard about the agent
 
 Sample Email:
+
+Hello! My name is Daniel and I'm a real estate investor from Hawaii. I've been doing some research to determine the best place for me to start buying rentals to hold long term for cashflow and that has led me to Indianapolis. I've found that you are one of the top-producing agents in the area. I'd love to chat sometime and see if you would be able to help me out.
+
+I'm looking for either:
+
+1. A single-family home in a good neighborhood with modest cashflow in the 100-160k range OR
+2. A multifamily property in a relatively low crime neighborhood with excellent cashflow in the 30-70k range.
+
+I'm looking to purchase at least one property by the end of the year, and 1-2 properties each year after that. I also have some friends who would be interested in investing as well in the next year or so. My goal is to find properties that I can purchase below market value with conventional financing. If you have a preferred lender, I would like to get pre-approved with him or her as well. Also, if you have a property manager that you would recommend, I'd love to start reaching out to him/her as well.
+
+I see that you have a really great reputation, and hope that we can develop a relationship that will be profitable for both of us in the future. Thank you for your time!
+
+Daniel
+
 ![](lib/Letter-to-Prospective-Realtor-Agents.png)
 
 Sort through agents, and find one that will be able to bring you good deals. Also look at it from his/her point of view too. What is he/she getting - will you be doing a lot of business, bringing business their way?Rewarding them with extra compensation or helping them out too? Be aware of what value u bring to the transaction.
