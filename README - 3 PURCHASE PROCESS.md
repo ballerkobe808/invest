@@ -2,12 +2,18 @@
 
 NOTE: Save all documentation with everything you do in an organized way! This will make life easier in the future.
 
-1. Submit Bid and reach an Agreement with Seller - Get it under Contract
+1. Submit Bid and reach an Negotiate with Seller - Get it under Contract!!!
 
-   Work with a real estate agent. Put in an offer for the property through your real estate agent.
-   Important! Ask for the seller to cover the closing costs, and offer a higher price to make up for it. Maxiumum amount allowed by an investment propert is 2% for a conventional loan. (6% for FHA)
+   Work with a real estate agent. Usually better to use a realtor vs trying to save the seller money. Safer for you, and good deals usually aren't dependent on the seller getting the absolute lowest price.
+   Important!
 
-   Get the counter offer and discuss with your agent or advisors. Submit a counter offer. Repeat the process until satisfied and you reach an agreement.
+   Things to add to the purchase agreement:
+
+   1. Subject to Home Inspection
+   2. Subject to Lender erms
+   3. Get a list of things that will stay w the property (Refrigerator, Stove, etc). Be as Comprehensive as possible.
+   4. Seller to cover 2% of closing costs. (2% is max for inv property, 6% for FHA)
+   5. Ernest money to hold the property usually
 
    Always add: Daniel, and/or assigns (you should always add this cuz it wont hurt, but can help) Different states may use diff verbage
 
@@ -16,13 +22,13 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
    Work with seller/turnkey company to get things fixed that need to be.
 
 3. Lender Appraisal
-   Get an appraisal of the property (usually the lender will order this and its to keep themselves safe) If it comes back lower than expected, you are not obligated to buy it. I'm prolly paying for this - takes about a week.
+   Lender will require this to loan you money - usually you pay for this. $300-500. If it comes back lower than expected, you will have to cover the diff or ask the seller to drop the price.
 
 4. Connect with the property manager -
-   stay in touch with him - gotta give him banking info so he can send rents over to you. (figure out of its rented already, or to be rented - in that case its a target rent. 80% of the time its rented currently)
+   Get a property manager lined up, interviewed and ready to go when its time. Leases, terms, and a feel for the company are important here.
 
-5. Do the Close.
-   About 60-75 days from the time you sign the purchase agreement to the time you sign the closing documents. (up to 90 days) If its close to the closing date and its not close, then email your investment counselor. Communicate in a timely manner with: Turnkey Investment Counselor, Lender (or mortgage broker), Title Company
+5. Close.
+   About 60-75 days from the time you sign the purchase agreement to the time you sign the closing documents. (up to 90 days) Communicate in a timely manner with everyone!
 
 ### Purchae to Wholesale
 
@@ -31,7 +37,7 @@ Go to auctions and pass out your card to be on a mailing list
 Go to lowes/home depot early in the morning and get investors contact to forward emails
 REI Meetings
 
-assign or simultaneous close
+assign or use a transactional lender - simultaneous close not allowed in a lot of states
 
 ### Title Company Criteria
 

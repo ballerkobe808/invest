@@ -68,11 +68,27 @@ Make sure they are legit - ask for:
 - 3 Types of insurance: Property damage, General liability, Workmans' Compensation
 - One million dollar umbrella, YOU/CCO.
 
+Contract Pyschology for a smooth relationship
+
+1. Get the finish date of the work - be sure contractor added in some margin. You want a realistic completion date. (add a week more if u want)
+2. Offer a 5% bonus for finishing on time
+3. Give a 5% deduction for a week late
+4. Give another 5% deduction for more than a week late
+
 #### Getting Bids
+
+Try to get itemized bids to compare and make sure contractors are honest
 
 #### Ordering Materials
 
+Order the materials for the contractor to avoid any overhead charging or issues with disputing on pricing.
+
 #### Paying the Contractor
+
+Pay in installments
+Only pay after work is COMPLETELY finished. - cleaned up too
+
+### Things to consider
 
 Rental rehab biggest/most value pop
 
@@ -80,12 +96,10 @@ Rental rehab biggest/most value pop
 2. New carpets
 3. New Front Door
 
-### Things to consider
-
-1. Is it fine?
-2. Does it need to repaired?
-3. Does it need to be replaced?
-4. Does it need to be updated
+4. Is it fine?
+5. Does it need to repaired?
+6. Does it need to be replaced?
+7. Does it need to be updated
 
 ### Rehab Tools
 
@@ -95,14 +109,6 @@ Graph paper (one square is one foot??)
 Camera
 Pencil
 Buy a terabyte drive and video everything u do
-
-### Rehab Notes
-
-Biggest Bang for Buck
-
-1. Painting (Buy exp for rentals so u dont have to repaint)
-2. Carpeting (Wood/pergo flooring will look a lot nicer so be aware of this)
-3. Landscaping
 
 #### Exterior
 
