@@ -74,6 +74,7 @@ Contract Pyschology for a smooth relationship
 2. Offer a 5% bonus for finishing on time
 3. Give a 5% deduction for a week late
 4. Give another 5% deduction for more than a week late
+5. Let the contractor know their work will be photographed and displayed on social media. If anyone asks, your name will be given. Not trying to bully, but want everyone to know what a good job you did.
 
 #### Getting Bids
 

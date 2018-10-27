@@ -116,7 +116,11 @@ Married Filing Jointly
 
 ### Capital Gains Tax
 
-You pay 15% profit on any gains you make when you sell something.
+1. You pay 15% profit on any gains you make when you sell something.
+
+2. If you hold it for a year you pay less - long term capital gains vs short term
+
+3. If you live in the house for 2 years, then you get 250k free profit u dont pay tax (if single - more if married)
 
 ### 1.0.4. 1031 Exchange
 

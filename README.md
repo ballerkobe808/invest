@@ -103,3 +103,11 @@ make sure to write the depreciation into the contract - we deserve it more
 subject to
 
 ### Notes
+
+Hi Daniel,
+
+You have 14 days after an initial inquiry to apply with other lenders without affecting your credit.
+
+Tip: See custom mortgage market simulations at Credit Karma to see rates, loan amounts, and loan types you may qualify for.
+
+Login & see your mortgage rate simulations.
