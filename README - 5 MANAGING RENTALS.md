@@ -9,6 +9,7 @@ Questions to Ask Property Management Companies
 
 2. What are the fees?
    Setup fee - say $300 to open account - Monthly 8%-12%? Is this on rent Collected, or rent due, rent scheduled, rent value, etc. It should be on rent collected to assure not paying when there is no rent. Vacancy Fee? Listing/new tenant fee? Lease renewal fee? Is there evection insurance? What do you charge for evictions? How are they handled? Any other fees?
+   What about late fees? How much and who gets them - owner or prop management company.
 
 3. How many properties are you managing? Do you manage both short-term and long-term rentals?
    These days, many property managers are involved with managing short-term rentals through sites like Airbnb and VRBO. Short-term rentals are a different business and can take up a lot of a property manager’s time. Make sure they have the time to focus on your long-term rentals.
@@ -23,8 +24,7 @@ Questions to Ask Property Management Companies
    Do you try to solve the problem before sending out a repair person?
    Who do you use for repairs? Electrical, plumbing, appliances?
    Do they have a handy man that they try to use for most repairs or do they use outside vendors? If they have a skilled handy man you may get quality work for less.
-   How do you handle maintenance and yard work?
-   Also, hammer out who would be responsible for yard maintenance. Is your property manager up to the task or is it something tenants should handle?
+   How do you handle yard work? Is your property manager up to the task or is it something tenants should handle?
 
 6. Do you conduct routine property inspections?
    Property inspections help you catch problems and conduct maintenance before it’s too late. Whether it’s checking on how tenants are treating your spaces or ensuring that appliances and utilities are functioning correctly, spaces need to be kept in the best shape possible to prevent costly renovations and assure that the space isn’t being misused in any way.

@@ -66,8 +66,8 @@
 ### 1.1.1. PROCESS - Collect and organize needed documents/records
 
 Get all the documents you will need and into a neat and organized folder structure.
-Having a financial statement, Resume, and business plan helps too.
-You want to impress them and show them how professional you are. Often the decision is personal.
+Have a financial statement, Resume, and Business Plan
+You want to impress them and show them how organized and professional you are. Often the decision is personal.
 
 - Personal Financial Statement
 - Business Plan
@@ -80,9 +80,10 @@ You want to impress them and show them how professional you are. Often the decis
 - Aalii contract and agreement?
 - Proof of Federal Tax payment
 
-### 1.1.2. PROCESS - Find a Lender Online
+### 1.1.2. PROCESS - Find a Lender
 
-1. Google search Local Lenders near your property:
+1. Google search Local Lenders near your property OR
+   Get referrals from friends or BiggerPockets.
 
    Investor-friendly banks (county you are looking in)
    Credit union (county you are looking in)
@@ -106,31 +107,29 @@ Daniel
 
 ---
 
-![](lib/Letter-to-Prospective-Credit-Union-or-Lender.png)
-
-3. See if you can form a partnership and relationship with them, and refer others to them. Make sure everyone knows you are the connector.
-
-4. Another avenue for local bank research: https://www.bauerfinancial.com/
-
-### PROCESS - Find a Lender thru referrals
-
 ### 1.1.4. Get Pre-qualification letter
 
 Fill out the lenders application and get the prequalification letter.
-Be upfront what you are trying to do, and see if they can help you.
+This is helpful for the seller/realtor when you are buying so they know you are serious
 
-### 1.1.5. Get Approved for a specific property
+### 1.1.5. Questions to ask about the loan
 
-Inform the lender you want to take out a loan.
-Give them the property information
+    1. What is the length and type of the loan? (30 yrs, 27, etc) (fixed, arm, etc)
+    2. What is the rate? (APR%) (If variable, minx max)
+    3. Origination Fee? Other fees?
+    4. Any points up front to lower rate?
+    5. Is there a pre-payment penalty?
 
-Some questions about the loan:
+### Loan Points explanation
 
-    What is the length of the loan? (30 yrs, 27, etc)
-    What is the rate? (APR%) (If variable, minx max)
-    Origination Fee? Other fees?
-    Any points up front?
-    Is there a pre-payment penalty?
+Lender starts out at a base rate based on your credit score, assets, dti, current federal rates.
+5.00%
+They will add points for different things:
+
+- Non owner-occupied .5%
+- Under 150k loan amount .25% (Under 75k even more??)
+- Multifamily - .25%
+- Others - 20% down???
 
 ## 1.2. Sources and Types of Funding
 
