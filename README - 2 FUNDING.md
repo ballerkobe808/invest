@@ -94,12 +94,12 @@ You want to impress them and show them how organized and professional you are. O
 
 ---
 
-Hello! My is Daniel, and I'm an investor from Hawaii looking to invest in Tennessee rental property. This will be my first investment property, but I hope to do a lot more investing in your state in the near future. I'm planning to purchase a duplex for $96,000. I'm looking for a 30 year fixed loan with an interest rate of 5.5%. I can put down 20%. The following is a list of some of my information. Please take a look and tell me whether you have a program I would qualify for.
+Hello! My is Daniel, and I'm an investor from Hawaii looking to invest in Tennessee rental property. This will be my first investment property, but I hope to do a lot more investing in your state in the near future. I'm planning to purchase a duplex for \$96,000. I'm looking for a 30 year fixed loan with an interest rate of 5.5%. I can put down 20%. The following is a list of some of my information. Please take a look and tell me whether you have a program I would qualify for.
 
 - I live out of state
 - My credit score is 760
 - My current DTI is 31%
-- I will have $40,000 in reserves after the down payment
+- I will have \$40,000 in reserves after the down payment
 
 If you don't have a program that I would qualify for, is there another institution you could recommend me to? Thank you very much for your time and consideration!
 
@@ -196,3 +196,17 @@ Always increase your limits given the chance. This helps you to lower your utili
 ### Tips
 
 Get as much funding as you can when possible. Its easier to take out 100k from the start, versus going for 20k, 20k, 40k, 20k in succession. Cool story of borrowing money from your friend using both methods.
+
+### Notes
+
+You can certainly do 20% down rather than 25%.
+The reason for the 25% down payment requirement on this property was the fact that it had 4 units.
+1 to 2 unit properties require 20% down
+3 to 4 unit properties will require 25% down payment
+
+### LOCs
+
+Personal LOCs
+
+FHB - 25k max, 4.99% APY first year
+BOH - 30k max, 6-14% variable rate - following NY times

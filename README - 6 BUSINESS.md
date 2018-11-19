@@ -4,7 +4,13 @@ Understand how things work, but always consult a CPA or RE Attorney
 
 ### 1.0.5. PROCESS - Creating an LLC
 
-Create an LLC in the state you are buying the property in
+Create an LLC in the state you are buying the property in.
+This helps when you need to evict or be a "business" in that state. Also, you will only be taxed in that state vs being registered as a foreign entity in that state, and get taxed there as well as in your home LLC state.
+
+### LLC Documents
+
+1. Articles of Incorporation
+2. Minutes
 
 ### Starting up your Business
 

@@ -111,3 +111,8 @@ You have 14 days after an initial inquiry to apply with other lenders without af
 Tip: See custom mortgage market simulations at Credit Karma to see rates, loan amounts, and loan types you may qualify for.
 
 Login & see your mortgage rate simulations.
+
+Ereit
+Wealthfront robos
+Peer to peer lending
+Lending club

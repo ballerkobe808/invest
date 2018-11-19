@@ -37,8 +37,8 @@ APR = Periodic Rate x Number of periods in a year
 APY = (1 + Periodic Rate)^Periods -1
 
 Example: put $1000 in bank at 2% interest
-Jan for APR and APY, you add $10000 _ 2% / 12 = $16.67
-Feb for APR - same, BUT for APY, you take $10001.67 _ 2% / 12 = $16.70
+Jan for APR and APY, you add$10000 _ 2% / 12 = $16.67
+Feb for APR - same, BUT for APY, you take$10001.67 _ 2% / 12 = \$16.70
 And so on...
 
 ### ARM Adjustable Rate Mortgage
@@ -95,11 +95,11 @@ The solo 401k allows for personal loan known as a solo 401k loan;
 It is prohibited to borrow from your IRA;
 The Solo 401k may be invested in life insurance;
 The self-directed IRA may not be invested in life insurance;
-The solo 401k allow for high contribution amounts (for 2018, the solo 401k contribution limit is $55,000, whereas the self-directed IRA contribution limit is $5,500);
+The solo 401k allow for high contribution amounts (for 2018, the solo 401k contribution limit is $55,000, whereas the self-directed IRA contribution limit is$5,500);
 The solo 401k business owner can serve as trustee of the solo 401k;
 The self-directed IRA participant/owner may not serve as trustee or custodian of her IRA; instead, a trust company or bank institution is required;
 When distributions commence from the solo 401k a mandatory 20% of federal taxes must be withheld from each distribution and submitted electronically to the IRS by the 15th of the month following the date of each distribution;
-Rollovers and/or transfers from IRAs or qualified plans (e.g., former employer 401k) to a solo 401k are not reported on Form 5498, but rather on Form 5500-EZ, but only if the air market value of the solo 401k exceeds $250K as of the end of the plan year (generally 12/31);
+Rollovers and/or transfers from IRAs or qualified plans (e.g., former employer 401k) to a solo 401k are not reported on Form 5498, but rather on Form 5500-EZ, but only if the air market value of the solo 401k exceeds \$250K as of the end of the plan year (generally 12/31);
 When funds are rolled over or transferred from an IRA or 401k to a self-directed IRA, the amount deposited into the self-directed IRA is reported on Form 5498 by the receiving self-directed IRA custodian by May of the year following the rollover/transfer.
 Rollovers (provided the 60 day rollover window is satisfied) from an IRA to a Solo 401k or self-directed IRA are reported on lines 15a and 15b of Form 1040;
 Pre-tax IRA contributions on reported on line 32 of Form 1040;
@@ -155,10 +155,24 @@ You kinda want a home that a family will live in, so at least 3/2 in hawaii, als
 Structuring the deal (Contract)
 
 - 1-3 year lease, with option to buy
-- They do minor repairs $250 or less
-- We do major repairs, $250 or more
+- They do minor repairs \$250 or less
+- We do major repairs, \$250 or more
 - Monthly Payment +20-30% of FMV for rentals in area
 - Monthly payment to be paid in addition to lease for a credit toward down payment ("What can you afford")
 - Option payment of 2-5% of current price
 - They maintain interior insurance
 - Negotiated future purchase price, year by year
+
+### Refinancing
+
+If you are looking to take cash out with a conventional loan in the first 6 months of ownership then you will have to meet the delayed financing guidelines. Main takeaways from delayed financing are
+
+- the value of the property will be capped at the purchase price even if the home appraised higher.
+
+- you will have to prove source of funds for the purchase
+
+- if you opened any new unsecured debt when purchasing the home then that debt must be paid off when cashing out.
+
+If you wait 6 months then these requirements are waived
+
+###

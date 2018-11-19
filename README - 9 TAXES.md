@@ -8,7 +8,7 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     The IRS uses depreciation to acknowledge that an asset wears down over time. Somehow they discovered that residential real estate wears down in exactly 27.5 years. Unlike other business expenses, depreciation is a paper loss. This means you don’t spend any money, yet you still get the expense. This expense can offset taxable income and save money on your tax bill.
     Depreciation is only deductible against other passive income. If your rental income is 3k, depreciation is 5k, you have a 2k loss. Can you deduct that 2k somewhere else? ONLY IF:
 
-    1. $25,000 exemption – You can deduct up to $25,000 of passive rental loss against nonpassive income if your income (MAGI to be exact) is below $100,000 and you actively participate with your rental. https://www.nolo.com/legal-encyclopedia/can-you-deduct-your-rental-losses.html
+    1. $25,000 exemption – You can deduct up to$25,000 of passive rental loss against nonpassive income if your income (MAGI to be exact) is below \$100,000 and you actively participate with your rental. https://www.nolo.com/legal-encyclopedia/can-you-deduct-your-rental-losses.html
 
     2. Real estate professional – You can deduct ALL of the passive rental loss against nonpassive income if you or a spouse qualify as a real estate professional. Hhere are the standards: https://www.biggerpockets.com/renewsblog/2014/09/25/your-complete-guide-to-the-real-estate-professional-tax-loophole
 
@@ -17,11 +17,10 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     Example of how tax deductions work:
 
     > Scenario #1 (without depreciation expense):
-    > $5,000 taxable rental income x 25% federal income tax rate = $1,250 taxes owed
+    > $5,000 taxable rental income x 25% federal income tax rate =$1,250 taxes owed
     > Scenario #2 (with depreciation expense):
-    > $5,000 rental income – $3,000 depreciation expense = $2,000 taxable rental income
-    > $2,000 x 25% federal income tax rate = $500 taxes owed
-    > Tax Savings = $1,250 – $500 = $750
+    > $5,000 rental income –$3,000 depreciation expense = $2,000 taxable rental income$2,000 x 25% federal income tax rate = $500 taxes owed
+Tax Savings =$1,250 – $500 =$750
 
 2.  Avoid FICA (Payroll) Tax on Rental Income
     Just like dividends and interest income, rental income is not subject to social security and medicare taxes (aka FICA).
@@ -34,7 +33,7 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     As of 2018, long-term capital gains tax rates are between 0% to 20%, depending upon your tax bracket. Low capital gains rates are an advantage if you build your long-term investment strategy around strategically selling real estate for growth or living expenses. At the point when you are in a low Capital gains Tax bracket (retired or stop working), sell your proprties for 0% (or low) Capital gains Tax.
 
 5.  Live In Your Flip = No Taxes
-    What if you want to avoid capital gains tax altogether? Then just buy and immediately move into the house as your principle residence. As long as you live in the home 2 out of the next 5 years, in the U.S. you can make a tax-free profit of up to $250,000 as an individual or $500,000 as a couple. Keep in mind that this doesn’t have to be a permanent strategy. You could do 2 or 3 flips, reinvest the earnings, and move on to other investment strategies.
+    What if you want to avoid capital gains tax altogether? Then just buy and immediately move into the house as your principle residence. As long as you live in the home 2 out of the next 5 years, in the U.S. you can make a tax-free profit of up to $250,000 as an individual or$500,000 as a couple. Keep in mind that this doesn’t have to be a permanent strategy. You could do 2 or 3 flips, reinvest the earnings, and move on to other investment strategies.
 
 6.  Exchange Properties For Tax-Free Growth (1031 Exchange)
     Another way to avoid capital gains tax (and also depreciation recapture tax) is a section 1031 tax-free exchange.
@@ -44,7 +43,7 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     This is where the seller becomes the lender to the buyer (aka seller financing or seller carry-back mortgage).
     Like 1031 exchanges, installment sales are only available to property investors and not to dealers (house flippers). Also like 1031 exchanges, installment sales allow an investor to defer capital gains tax, but unfortunately the entire amount of accumulated depreciation must be recaptured at the initial time of sale.
 
-    For example, you buy a property at 50k, but it is now worth 300k. An installment sale would allow you to only pay taxes on the profits received each year. A $250,000 gain at one time would have pushed you into higher tax brackets. But the installment sale allows you to slowly receive the gains and possibly stay in lower, more favorable tax brackets. Installment sales can be a great way to transition out of active property management and into a period of more passive income.
+    For example, you buy a property at 50k, but it is now worth 300k. An installment sale would allow you to only pay taxes on the profits received each year. A \$250,000 gain at one time would have pushed you into higher tax brackets. But the installment sale allows you to slowly receive the gains and possibly stay in lower, more favorable tax brackets. Installment sales can be a great way to transition out of active property management and into a period of more passive income.
 
 8.  Borrow Tax-Free Instead of Sell
     To raise cash most investors consider selling investments. As I’ve shown above, this exposes you to taxes or complicated procedures to avoid tax. But with real estate you have another choice. You can simply pull capital out of an investment tax-free by refinancing. In the end when I need money, I am leaning towards refinancing the properties instead of selling. As long as the debt is fixed interest, low rate, and have renters to cover this expense this is a good situation. Some benefits:
@@ -60,9 +59,9 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
 10. Die With Real Estate (Seriously)
     Heirs dont pay capital gain taxes on your gains.
 
-    For example, let’s say you bought a rental house for $100,000. Forty years later you die and the house is worth $500,000. When your heirs sell the house, they would not pay capital gains tax on the $400,000 gain. Instead, their basis would be $500,000, which means they could sell it for $500,000 and have no capital gains tax to pay.
+    For example, let’s say you bought a rental house for $100,000. Forty years later you die and the house is worth$500,000. When your heirs sell the house, they would not pay capital gains tax on the $400,000 gain. Instead, their basis would be$500,000, which means they could sell it for \$500,000 and have no capital gains tax to pay.
 
-    Keep in mind that inherited assets are still subject to estate taxes. But as of this writing (2018) $11.18 million of assets are exempt from any estate taxes. So, your heirs would inherit a lot of property before paying any taxes.
+    Keep in mind that inherited assets are still subject to estate taxes. But as of this writing (2018) \$11.18 million of assets are exempt from any estate taxes. So, your heirs would inherit a lot of property before paying any taxes.
 
 11. Business Tax Deductions?
     Can these be deducted from RE and also personal Income too? RESEARCH MORE WITH A CPA
@@ -92,27 +91,27 @@ Education training - make sure you tell your CPA that you decided to do Real Est
 
 Single Filing
 
-| Tax rate | Taxable income bracket | Tax owed                                         |
-| -------- | ---------------------- | ------------------------------------------------ |
-| 10%      | $0 to $9,525           | 10% of taxable income                            |
-| 12%      | $9,526 to $38,700      | $952.50 plus 12% of the amount over $9,525       |
-| 22%      | $38,701 to $82,500     | $4,453.50 plus 22% of the amount over $38,700    |
-| 24%      | $82,501 to $157,500    | $14,089.50 plus 24% of the amount over $82,500   |
-| 32%      | $157,501 to $200,000   | $32,089.50 plus 32% of the amount over $157,500  |
-| 35%      | $200,001 to $500,000   | $45,689.50 plus 35% of the amount over $200,000  |
-| 37%      | $500,001 or more       | $150,689.50 plus 37% of the amount over $500,000 |
+| Tax rate | Taxable income bracket | Tax owed                                        |
+| -------- | ---------------------- | ----------------------------------------------- |
+| 10%      | $0 to$9,525            | 10% of taxable income                           |
+| 12%      | $9,526 to$38,700       | $952.50 plus 12% of the amount over$9,525       |
+| 22%      | $38,701 to$82,500      | $4,453.50 plus 22% of the amount over$38,700    |
+| 24%      | $82,501 to$157,500     | $14,089.50 plus 24% of the amount over$82,500   |
+| 32%      | $157,501 to$200,000    | $32,089.50 plus 32% of the amount over$157,500  |
+| 35%      | $200,001 to$500,000    | $45,689.50 plus 35% of the amount over$200,000  |
+| 37%      | \$500,001 or more      | $150,689.50 plus 37% of the amount over$500,000 |
 
 Married Filing Jointly
 
-| Tax rate | Taxable income bracket | Tax owed                                      |
-| -------- | ---------------------- | --------------------------------------------- |
-| 10%      | $0 to $19,050          | 10% of taxable income                         |
-| 12%      | $19,051 to $77,400     | $1,905 plus 12% of the amount over $19,050    |
-| 22%      | $77,401 to $165,000    | $8,907 plus 22% of the amount over $77,400    |
-| 24%      | $165,001 to $315,000   | $28,179 plus 24% of the amount over $165,000  |
-| 32%      | $315,001 to $400,000   | $64,179 plus 32% of the amount over $315,000  |
-| 35%      | $400,001 to $600,000   | $91,379 plus 35% of the amount over $400,000  |
-| 37%      | $600,001 or more       | $161,379 plus 37% of the amount over $600,000 |
+| Tax rate | Taxable income bracket | Tax owed                                     |
+| -------- | ---------------------- | -------------------------------------------- |
+| 10%      | $0 to$19,050           | 10% of taxable income                        |
+| 12%      | $19,051 to$77,400      | $1,905 plus 12% of the amount over$19,050    |
+| 22%      | $77,401 to$165,000     | $8,907 plus 22% of the amount over$77,400    |
+| 24%      | $165,001 to$315,000    | $28,179 plus 24% of the amount over$165,000  |
+| 32%      | $315,001 to$400,000    | $64,179 plus 32% of the amount over$315,000  |
+| 35%      | $400,001 to$600,000    | $91,379 plus 35% of the amount over$400,000  |
+| 37%      | \$600,001 or more      | $161,379 plus 37% of the amount over$600,000 |
 
 ### Capital Gains Tax
 
@@ -166,7 +165,30 @@ https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
 ### Deductions against my W2
 
-My business can have a lot of expenses. If it far exceeds my profits, I can write them off as losses and claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, that is just a hobby, not a business. Don't make it too obvious - write off 20k with a $100 profit. 5-10k in losses is ok?
+My business can have a lot of expenses. If it far exceeds my profits, I can write them off as losses and claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, that is just a hobby, not a business. Don't make it too obvious - write off 20k with a \$100 profit. 5-10k in losses is ok?
+
+### Forms
+
+W-4 Employee asks you to fill this out - tells marital status etc - write down exemptions - determine how much to withhold
+
+1040 - Normal income -
+Schedule A - Itemized deductions
+1040EZ - Normal income - no itemized deductsion (easy form)
+1040A - Normal income - also student loans/iras?? (short form)
+
+W-2 - Employers file this - tells u how much your employer gave u
+1099 - (DIV, MISC, INC, etc) - Income besides employer
+1099 div - stock dividends
+1099 int - interest income
+1099 misc?
+1099 g - state tax return income/unemployment benefits
+
+1098 - Mortgage holders shows interest paid
+1098T - students show how much tuition paid?
+
+Schedule C - For self employed income
+
+Schedule E - Rental property
 
 ### Tips
 
@@ -178,6 +200,9 @@ Board of Advisors
 Strategic Plan -------
 15 rentals in 5 years, cashflowing 5k a month
 $300 a month each of 80k rental - requires 20-25k down
-plus LLCs, and other fees, closing fees, etc so each $300 cashflow prop will take 30k down
+plus LLCs, and other fees, closing fees, etc so each$300 cashflow prop will take 30k down
 
 30k x 15 = 450k Is that doable? in 5 years?
+
+100k or less agi 150k diff rules
+U can take 25k loss
