@@ -32,7 +32,7 @@ Great negotiators get what they want, without asking for it, and the other perso
 Dont bid first! - let them bring a number to the table first (whats your lowest offer?)
 Do it over the phone - its faster (use body languaage still - shake your head no - it sounds negative)
 They give a price - you stay silent for 5 sec
-"hi this is Daniel, I found your house at \_\_\_\_ st. If I can pay cash and close quickly, what is the least amount you would be willing to take?"
+"hi this is Daniel, I found your house at Main st. If I can pay cash and close quickly, what is the least amount you would be willing to take?"
 Wait 5 sec "Is that the best you can do?"
-Wait 5 sec "So, if I cant do \_\_\_\_, we can't do business?"
+Wait 5 sec "So, if I cant do \$80,000, we can't do business?"
 Practice this so it comes off natural

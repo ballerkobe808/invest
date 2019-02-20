@@ -10,7 +10,7 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
    Things to add to the purchase agreement:
 
    1. Subject to Home Inspection
-   2. Subject to Lender erms
+   2. Subject to Lender Terms (Note: dont put too many subject tos and scare the seller away)
    3. Get a list of things that will stay w the property (Refrigerator, Stove, etc). Be as Comprehensive as possible.
    4. Seller to cover 2% of closing costs. (2% is max for inv property, 6% for FHA)
    5. Ernest money to hold the property usually
@@ -18,11 +18,10 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
    Always add: Daniel, and/or assigns (you should always add this cuz it wont hurt, but can help) Different states may use diff verbage
 
 2. Home Inspection
-   Get an inspection - important to know what you are getting - about $300-$500.
-   Work with seller/turnkey company to get things fixed that need to be.
+   Get an inspection - important to know what you are getting - about $300-$600.
 
 3. Lender Appraisal
-   Lender will require this to loan you money - usually you pay for this. $300-500. If it comes back lower than expected, you will have to cover the diff or ask the seller to drop the price.
+   Lender will require this to loan you money - usually you pay for this. \$300-500. If it comes back lower than expected, you will have to cover the diff or ask the seller to drop the price.
 
 4. Connect with the property manager -
    Get a property manager lined up, interviewed and ready to go when its time. Leases, terms, and a feel for the company are important here.
@@ -30,7 +29,7 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
 5. Close.
    About 60-75 days from the time you sign the purchase agreement to the time you sign the closing documents. (up to 90 days) Communicate in a timely manner with everyone!
 
-### Purchae to Wholesale
+### Purchase to Wholesale
 
 Build a buyers database
 Go to auctions and pass out your card to be on a mailing list
@@ -47,9 +46,7 @@ assign or use a transactional lender - simultaneous close not allowed in a lot o
 
 ### Closing Costs --------------------------
 
-This can run anywhere from 2k - 10k+ Depending on what(and who) is involved
-
-Home Inspection (300-500):
+These can run anywhere from 2k - 10k+ Depending on what(and who) is involved
 
 #### Lender/Loan related fees
 
@@ -113,11 +110,9 @@ Contract (Purchase Agreement) - Letter of Intent is for commercial prop
 Include Escape Clauses
 -And/Or Assigns (Wholesaling)
 
-- Subject to Home inspection, Satisfactory Appraisal, Specific loan terms, re zoning, partners approval, Attoryney Review, Repair cost not to exceed $\_
-
-  Keep Ernest Deposits Small and held by a third party - never give to the homeowner
-  Don't leave blank space on contract and get copies of everything you sign
-  Read every word of the contract
+Keep Ernest Deposits Small and held by a third party - never give to the homeowner
+Don't leave blank space on contract and get copies of everything you sign
+Read every word of the contract
 
 Soon as possible!
 Get assignment of leases and rents

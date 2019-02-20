@@ -14,7 +14,7 @@ everyone else looks for work.
    - Call them once a month - 2 calls a day will touch everyone in your network
    - Mail them something interesting every month
    - See them every month in person
-   - Review youR net worth worksheet with someone - and ask them to keep you accountable
+   - Review your net worth worksheet with someone - and ask them to keep you accountable
    - Ask yourself - who am i calling today, who am I seeing this week, who am I mailing this month?
    - Two questions to ask someone:
      - Who do you know that I should know?
@@ -36,7 +36,7 @@ everyone else looks for work.
 
 Here are the key members:
 
-1. Your Mentor(s)/Coach – A trusted, experienced adviser. Most successful
+1. Your Mentor(s)/Coach/Peers – A trusted, experienced adviser. Most successful
    businesspeople have learned invaluable lessons through training from
    mentors.
 
@@ -119,3 +119,91 @@ Here are the key members:
 ### Interviewing Potential team members
 
 Notes and scripts for this are found in the RE Elevated 3 day workshop handbook
+
+### My Current Team
+
+1. Your Mentor(s)/Coach/Peers
+   Lane Kawaoka
+   Ted Kawabata
+   Anson Hokama
+   Josh Seitz
+   Garret Taira
+
+2. Real Estate Agent
+   Marty Duda - Missouri - Turnkey Real Estate
+   Zac Canull - Indiana - Liv Indy -
+   Rich Green - Indiana - Indy home pros
+   Blake Terry - Indiana - Forney Realty Group
+   Ted Kawabata - Hawaii
+
+3) Mortgage Broker
+   Aaron Chapman - Indiana - Security National Mortgage - quick refi - quick rent counting to dti
+   Andrew Postell - Texas - Gateway Mortgage Group LLC - 85% refi - quick refi
+   Jason Dew - Indiana - Gateway Mortgage Group LLC
+   Caeli Ridge - Anywhere - Ridge Lending Group - has portfolio loans similar to conventional
+   Mack Howell - Indiana - Primelending - rates never beat
+   Graham W Parham - Anywhere - Highlands Mortgage
+
+   -- Lenders ---
+   PenFed - Ivan at Cashflow got a good Heloc from them
+
+   Tarik Shahin - Wells Fargo
+   No min!! (Normally 50k)
+   950 proc fee + 80 tax svc - standard for Indiana
+   0 points, but can buy rate down with points up front
+   cash out refi - 75%, mort refi - 80%
+   Be sure to put the mortgage at the time of purchase
+   Can refi immediately for purchase price - otherwise 6 months to appraise
+
+   University of Hawaii Federal Credit Union -
+   Savings Account with 1% APY (applied monthly).
+   5-7.5% APR personal loans (up to 5x gross monthly income)
+   8.5% Credit Card!!! (10k max)
+   Car Loans (need full coverage) - Can refinance too
+
+4. Real Estate Attorney
+   Mark Kohler -
+
+5. Contractor
+   Chris Faulk - Indiana - Platinum Construction
+
+6. Escrow Agent or Title Rep
+   Jamie Justice - Indiana - Liberty Title
+   Lynn Minick - Indiana - Meridian Title (Dont use them - not helpful)
+
+7. Accountant
+   Mark Kohler
+   Toby Mathis - Anywhere - Infinity Investments (lawyer)
+
+8. Insurance Agent
+   Brittany Burge - NREIG
+
+9) Supportive Family & Friends
+   Christina Kim
+   Justin Kong
+   Brandon Kapahu
+   Ted Kawabata
+
+   OPTIONAL TEAM MEMBERS:
+
+10) Appraiser
+
+11) Home Inspector
+
+12) Property Manager
+    Todd Rudical - Indiana - Liv Indy
+    Elisha Drake - Indiana - Esquared pg (owner)
+
+13. Handyman
+    Josiah Sugiura - Hawaii
+    Chris Green - Hawaii
+    Talbert Doi - Hawaii
+    Mark Kaneshiro - Hawaii - ??
+
+14. Virtual assistants
+
+15. Automated systems
+    Boomerange
+    Trello
+    IFTTT
+    Reminders

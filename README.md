@@ -2,8 +2,6 @@
 
 ---
 
-Ask lane to pay a higher purch price and give cash back - put less money up front and better lender terms
-
 PROCESSES - As much as possible build processes to free up mental space.
 
 ## Research more List
@@ -29,7 +27,8 @@ Aurbnb??? - evaluate cost analysis of this
 inn on the park - 1920 ala moana
 
 Agreement for Deed
-Subject tostudent loan
+Subject to
+student loan
 
 income driven payment
 
@@ -56,7 +55,7 @@ Ability to help others around me.
 - COC - Cash on Cash return - How much cash you get back annually vs how much cash you personally put in
 - ROI - Return on Investment - Yearly Net Return over your cash investment
 - ROE - Return on Equity - Yearly Net Return over the equity you have in the property (this will decrease as you pay off the mortgage)
-- Cap Rate -
+- Cap Rate - NOI divided by the purchase price
 - PMI - Private Mortgage Insurace - If you put down less than 20% on a house, then you gotta buy insurace for the remainder in case u cant pay or you default later on...
 
 ---

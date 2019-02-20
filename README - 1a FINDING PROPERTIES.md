@@ -2,7 +2,7 @@
 
 Always be on the lookout.
 Keep learning and collecting data points - helps you to internalize value and recognize deals quickly.
-Most important is finding the deal - deals are made WHEN BUYING!!
+Most important is finding the deal - deals are made WHEN YOU BUY!
 
 ### How to find Value
 
@@ -24,31 +24,26 @@ Keys to a property you want:
 
 ![](lib/Turnkey-heat-map-8-16.jpg)
 
+### Business Cards
+
+Have Contact Info
+"If I close on a real estate transaction due to your referral I will send you a check for \$500."
+A realtor cannot pay a finders fee (but i can)
+Guys like delivery drivers, postman, etc are driving around all the time
+
 ## Leads
 
 1. Wholesale lists (Get on some good ones!)
 2. Investor friends, family, coworkers (Business Card)
 3. Realtor Agents
-4. Providers (Memphis Invest, Midsouth Homebuyers, Norada, REITrader)
-5. Craigslist, Zillow, MLS
-6. Foreclosures: Shadow inventory - inventory held by banks you dont know exists, local auctions
-
-### Business Cards
-
-Have Contact Info
-"If I close on a real estate transaction due to your referral I will send you a check for $500."
-A realtor cannot pay a finders fee (but i can)
-Guys like delivery drivers, postman, etc are driving around all the time
+4. Turnkey Providers (Memphis Invest, Midsouth Homebuyers, Norada, REITrader)
+5. Craigslist, Zillow, MLS, ebay, trulia, redfin
+6. Foreclosures: Shadow inventory - inventory held by banks you dont know exists,
+7. Foreclosures: Local Auctions
+8. Other online sites: repropfinder.com, Foreclosures.com, Auction.com, HUDHomestore, Fannie Mae Homepath.com
+9. Syndication crowd funding:
 
 ### Online Search
-
-- repropfinder.com - The RE Elevated software??
-
-- Honolulu Star advertiser Foreclosure section -
-
-- Foreclosures.com -
-
-- Auction.com -
 
 realtor.org
 realtrends
@@ -64,13 +59,6 @@ realtor office and websites
 
 bestplaces.net
 case-shiller index - shows prices over time
-
-property research:
-ebay
-craigslist
-backpage
-zillow
-trulia
 
 18 keywords to look for when searching craigslist:
 motivated, reduced, owner may finance (owf omf), pre-foreclosure, foreclosure, short sale,
