@@ -4,6 +4,8 @@
 - mail postcard to empty address (Return address requested) post office will send it back to you
 - go to the courthouse and look up the property records - find the owner address
 
+- Give them a list of options (with creative financing) and ask them which one works best for them - plan is to have them make a choice and also get a conversation going back and forth - maybe figure out more their needs
+
 ### Owners that would consider seller financing
 
 1. Tired and burnt out
@@ -36,3 +38,11 @@ They give a price - you stay silent for 5 sec
 Wait 5 sec "Is that the best you can do?"
 Wait 5 sec "So, if I cant do \$80,000, we can't do business?"
 Practice this so it comes off natural
+
+### Reasons for a seller to do lease option
+
+Lease option from an owner
+Committed to 5 years no vacancies
+No maint- take care of it like its my own i wanna buy it
+Agreed upon price w no realtor/commision fees
+When selling dont have to worry about me asking fix this or that. Im happy ive been living here and taking care of it like its my own

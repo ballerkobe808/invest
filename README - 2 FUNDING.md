@@ -2,6 +2,10 @@
 
 ---
 
+### 0.0.1. PULLING CREDIT
+
+You have 14 days after an initial inquiry to apply with other lenders without affecting your credit.
+
 ### 1.1.1. PROCESS - Collect and organize needed documents/records
 
 Get all the documents you will need and into a neat and organized folder structure.

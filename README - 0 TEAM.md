@@ -166,6 +166,8 @@ Notes and scripts for this are found in the RE Elevated 3 day workshop handbook
 
 5. Contractor
    Chris Faulk - Indiana - Platinum Construction
+   Angieslist.com??
+   Ask Friends for Referrals
 
 6. Escrow Agent or Title Rep
    Jamie Justice - Indiana - Liberty Title

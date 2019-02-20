@@ -2,6 +2,17 @@
 
 Use your heloc to make the money in your property accessible
 
+## Acronyms
+
+- LTV - Loan to Value - The amount of the loan over the value of the house
+- ARV - After Repair Value - The estimated or actual value of a house after rehabbing/repairing it
+- NOI - Net Operating Income - The amount of money a property makes every month not taking into account mortgage, or capital exp
+- COC - Cash on Cash return - How much cash you get back annually vs how much cash you personally put in
+- ROI - Return on Investment - Yearly Net Return over your cash investment
+- ROE - Return on Equity - Yearly Net Return over the equity you have in the property (this will decrease as you pay off the mortgage)
+- Cap Rate - NOI divided by the purchase price
+- PMI - Private Mortgage Insurace - If you put down less than 20% on a house, then you gotta buy insurace for the remainder in case u cant pay or you default later on...
+
 ### 1.4.1. DTI (Debt to Income)
 
 This is the first and biggest metric a lender looks at when deciding to lend you money. Its basically how much money you spend a month to cover your debts over how much you bring in.
@@ -170,4 +181,12 @@ If you are looking to take cash out with a conventional loan in the first 6 mont
 
 If you wait 6 months then these requirements are waived
 
-###
+### Other types of investments
+
+Ereit
+
+Wealthfront robos
+
+Peer to peer lending
+
+Infinity Investing: Stock trading - Buy dividend stocks and sell options - RESEARCH THIS!!
