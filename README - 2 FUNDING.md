@@ -33,7 +33,7 @@ You want to impress them and show them how organized and professional you are. O
 
 ---
 
-Hello! My is Daniel, and I'm an investor from Hawaii looking to invest in Tennessee rental property. This will be my first investment property, but I hope to do a lot more investing in your state in the near future. I'm planning to purchase a duplex for \$96,000. I'm looking for a 30 year fixed loan with an interest rate of 5.5%. I can put down 20%. The following is a list of some of my information. Please take a look and tell me whether you have a program I would qualify for.
+Hello! My is Daniel, and I'm an investor from Hawaii looking to invest in an Indianapolis rental property. I'm planning to purchase a duplex for \$96,000. I'm looking for a 30 year fixed loan with an interest rate of 5.5%. I can put down 20%. The following is a list of some of my information. Please take a look and tell me whether you have a program I would qualify for.
 
 - I live out of state
 - My credit score is 760
@@ -49,7 +49,8 @@ Daniel
 ### 1.1.4. Get Pre-qualification letter
 
 Fill out the lenders application and get the prequalification letter.
-This is helpful for the seller/realtor when you are buying so they know you are serious
+This is helpful for the seller/realtor when you are buying so they know you are serious.
+HOWEVER - Be careful because your credit will be pulled here - dont have it pulled unecessarily.
 
 ### 1.1.5. Questions to ask about the loan
 
@@ -72,11 +73,11 @@ They will add points for different things:
 
 ## 1.2. Sources and Types of Funding
 
-bank/credit union loan,
+conventional bank/credit union loan,
 portfolio bank loan,
 hard money lenders (3-5 points, 12-15% interest),
 friends/family/partners,
-lines of credit,
+lines of credit (personal or home equity),
 credit cards,
 401k/IRA,
 seller financing.
@@ -86,11 +87,11 @@ seller financing.
 The key thing to note, is that an LOC's interest is calculated PER DAY.
 You can get the daily interest by taking the APR (Example: 2.7%), dividing by 12 - to get the monthly interest, then dividing that by 30 to get the daily interest. (They do it like this vs dividing by 365 according to the renautus guys).
 
-Take out a line of credit at your local bank. For First Hawaiian Bank you can get one for 20k assuming your DTI is ok. If you want to go higher, you will have to provide some bank statements.
+Most Local banks have personal line of credit products - shop around and talk to other investors
 
 #### 1.2.2. HElOC
 
-HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
+HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. Lets use 20% as a base number - every bank will have their own products and criteria. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
 
 1. 100k home, with 20k of my money/equity. Since I'm at 20% and have nothing above the 20%, I cannot get a HELOC
 2. 100k home, with 40k of my money/equity. Since I'm over the 20% threshold by 20k, I can get a HELOC for 20k
@@ -136,8 +137,33 @@ Always increase your limits given the chance. This helps you to lower your utili
 
 Get as much funding as you can when possible. Its easier to take out 100k from the start, versus going for 20k, 20k, 40k, 20k in succession. Cool story of borrowing money from your friend using both methods.
 
+### Cash out Refinance Process
+
+You can do a cash out refinance immediately for the purchase price.
+
+If you want to cash out for more than the purchase price you need to:
+
+1. Wait 6 months of seasoning to get a new appraisal
+
+OR
+
+2. Do the Andrew Postell method of own-LLC-refinance. Here are the steps:
+
+1) Put a mortgage on the property when you buy (if multiple sources of money)
+   OR
+   Put a mortgage on the property after purchase.
+2) This mortgage can be between you and your own LLC (Koala Investments)
+   You need to do two things: Make a note (agreement between you and Koala Investments) about how much the loan is for and the terms. In order to make it legitimate, then put realistic terms as far as interest (6%), and amoritization (10-30 year), but make a balloon payment after 5 years. This will be the reason you want to refinance out of it. The underwriters will ask less questions.
+3) Talk to a lender about a mortgage refinance. Rules for a mortgage (no-cash) refinance are different  
+   from a straight cash out refinance. The rules for the latter are a lot more lenient. I guess when a lender is paying back another lender its different than giving the borrower cash. The "lenders" will want to talk to each other about you soon. So you need an employee (spouse, friend, etc) or board member for them to contact to vouch for the note agreement and to make sure you have been paying consistently.
+4) You will need to submit all your documentation of income, taxes, assets, debt etc, as well as have your
+   credit pulled. You will need to source any big deposits - remember and track this. I THINK you can use a huge deposit be marked as a loan from Koala Investments...
+5) The Lender will appraise the property (you will need to pay for this) - make sure to provide
+   documentation for the lender to start with that states the case for your appraised value you are trying to get. After the lender gets back the appraisal, you can also submit 3 comparables again for the appraiser to re-evaluate - or give him/her some reason to adjust the property value.
+
 ### Notes
 
+Ridge Lending requirements:
 You can certainly do 20% down rather than 25%.
 The reason for the 25% down payment requirement on this property was the fact that it had 4 units.
 1 to 2 unit properties require 20% down
@@ -155,3 +181,5 @@ The reason for the 25% down payment requirement on this property was the fact th
 7. How long before I can count rental income as part of my DTI?
 
 I'm looking for a 30 year fixed on a property that was just appraised at 95k - 20% available?
+
+Talk to a lot of lenders to get the terms that you want - Ask Around!!

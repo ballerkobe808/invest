@@ -149,7 +149,7 @@ Notes and scripts for this are found in the RE Elevated 3 day workshop handbook
 
    Tarik Shahin - Wells Fargo
    No min!! (Normally 50k)
-   950 proc fee + 80 tax svc - standard for Indiana
+   950 processing fee + 80 tax svc (1030) - standard for Indiana
    0 points, but can buy rate down with points up front
    cash out refi - 75%, mort refi - 80%
    Be sure to put the mortgage at the time of purchase

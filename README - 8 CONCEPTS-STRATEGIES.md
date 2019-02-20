@@ -114,25 +114,20 @@ At termination, the self-directed IRA is only required to file a form 1099-R.
 
 ### Infinite Banking
 
-### --
+### Property Aquisition Strategy --
 
-Seller Type - Offer Type (Both is cash or terms, seller financing etc)
 Auction, Cash/Discount
 Bank REOs, Cash/Discount
 Government, Cash/Discount
-Pre-Foreclosure, Both
-Estate Sale, Both
+Pre-Foreclosure, Cash or terms (seller financing, etc)
+Estate Sale, Cash or terms (seller financing, etc)
 Probate, Cash/Discount
-FSBO, Both
-Tired Landloard, Both
-Other Investors, Both
-Builder/Developer, Both
+FSBO, Cash or terms (seller financing, etc)
+Tired Landloard, Cash or terms (seller financing, etc)
+Other Investors, Cash or terms (seller financing, etc)
+Builder/Developer, Cash or terms (seller financing, etc)
 Property Management Companies, Cash/Discount
 Realtor, Cash/Discount
-
-### Velocity Banking
-
-Transfering loans into lines of credit
 
 ### Lease with an option strategy to buy
 

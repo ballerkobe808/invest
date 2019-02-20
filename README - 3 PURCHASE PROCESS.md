@@ -20,6 +20,10 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
 2. Home Inspection
    Get an inspection - important to know what you are getting - about $300-$600.
 
+   Hello, I am investor looking to purchase a property in the 46241 zipcode. I'd like to schedule a full home inspection to find any major issues that might come up while getting the house ready to rent. I'm looking to put some money into the property to fix it up, but would just like a general idea of what would be involved before purchase. How much would this cost, and how soon could I set up an appointment? Thank you!
+
+   https://www.the-home-inspectors.com/
+
 3. Lender Appraisal
    Lender will require this to loan you money - usually you pay for this. \$300-500. If it comes back lower than expected, you will have to cover the diff or ask the seller to drop the price.
 

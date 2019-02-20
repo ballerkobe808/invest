@@ -6,6 +6,8 @@ Understand how things work, but always consult a CPA or RE Attorney
 
 Create an LLC in the state you are buying the property in.
 This helps when you need to evict or be a "business" in that state. Also, you will only be taxed in that state vs being registered as a foreign entity in that state, and get taxed there as well as in your home LLC state.
+RESEARCH THIS
+Incorporate in Nevada (great privacy laws) or Wyoming??
 
 ### LLC Documents
 
@@ -16,11 +18,12 @@ This helps when you need to evict or be a "business" in that state. Also, you wi
 
 Start tracking all your expenses before u open your business. These are considered start up costs and can be written off. Your business is not legally open until your first sale.
 
-You need a business address and registered agent address. If you dont want to use your own, you can use Mark Kohlers law firm to forward you mail - 150 for the business address and 125 for the registered agent address annuaally
+You need a business address and registered agent address. If you dont want to use your own, you can use Mark Kohlers law firm to forward you mail - 150 for the business address and 125 for the registered agent address annually
 
 ### Keep good records
 
 Keep an organized tracking of everything you do - start in excel, then move into quickbooks eventually. Suggest to use Mark Kohler and his firm in the future.
+I found that excel is quicker and more powerful for me - i can run reports I need and update faster than waiting for the app to respond in the cloud - or be restricted by the way accounting works
 
 ### Asset Protection Strategies
 
@@ -71,7 +74,7 @@ notes
 
 ### Kohlers 5 keys to maintain ur entity
 
-1. Sep checking account
+1. Setup checking account
 2. Own your property
 3. Tell the world (URL, bus headers, email, contact info etc)
 4. Contractral Requirements - have all contracts point to your entity and not you
