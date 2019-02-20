@@ -204,9 +204,15 @@ The reason for the 25% down payment requirement on this property was the fact th
 1 to 2 unit properties require 20% down
 3 to 4 unit properties will require 25% down payment
 
-### LOCs
+### Current Lender questions
 
-Personal LOCs
+1. Can you do properties in Indiana?
+2. Can I do 20% on an investment property?
+3. Are you a lender, or a broker?
+4. What are your typical lender fee points?
+5. Have you heard of the quick refinance strategy - Under 6 months for a cash purchase?
+   5a. What do I need to do to make that happen?
+6. Minimum loan amount? 50k?
+7. How long before I can count rental income as part of my DTI?
 
-FHB - 25k max, 4.99% APY first year
-BOH - 30k max, 6-14% variable rate - following NY times
+I'm looking for a 30 year fixed on a property that was just appraised at 95k - 20% available?

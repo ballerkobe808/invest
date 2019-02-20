@@ -8,13 +8,13 @@
    personal guarantee
    report to personal reports
    tend to have lower limits
-   W2 12-17 Tax Deductions
+   W2 has about 12-17 Tax Deductions
 
 2. Business Credit
    personal guarantee (if you dont have strong business credit score)
    does not report to personal reports (depending on the product and institution)
    better limits
-   Self Employed/Business Owner - 450 Tax Deductions
+   Self Employed/Business Owner - has 450+ Tax Deductions
 
 3) Corp Credit
    no personal guarantee
@@ -103,8 +103,7 @@ You just aren't knowledgable enough in this space.
 Dont try to dispute credit errors on your own online! This will make it harder for Eric and his team later. When in trouble call:
 
 Creditnerds.com
-$199 credit audit
-$50 deletion fee per item
+$199 credit audit$50 deletion fee per item
 (average $1200-$1500)
 
 ### 1.3.3. Business Credit
@@ -136,7 +135,7 @@ any application where u give your SSN, they will pull your personal (try not to 
 - Making your Business legit:
   Mark Kohlers Address
   DK Accerlated LLC, DK Realty LLC, Hero Realty LLC, Dank Realty LLC
-  Google voice (Grasshopper for local numbers, can use as a fax too, and call forward to your personal line with a different ringtone - $25/month)
+  Google voice (Grasshopper for local numbers, can use as a fax too, and call forward to your personal line with a different ringtone - \$25/month)
   Fax number - efax?
   GET - need to file
   Articles of Organization

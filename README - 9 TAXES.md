@@ -8,19 +8,20 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     The IRS uses depreciation to acknowledge that an asset wears down over time. Somehow they discovered that residential real estate wears down in exactly 27.5 years. Unlike other business expenses, depreciation is a paper loss. This means you don’t spend any money, yet you still get the expense. This expense can offset taxable income and save money on your tax bill.
     Depreciation is only deductible against other passive income. If your rental income is 3k, depreciation is 5k, you have a 2k loss. Can you deduct that 2k somewhere else? ONLY IF:
 
-    1. $25,000 exemption – You can deduct up to$25,000 of passive rental loss against nonpassive income if your income (MAGI to be exact) is below \$100,000 and you actively participate with your rental. https://www.nolo.com/legal-encyclopedia/can-you-deduct-your-rental-losses.html
+        1. $25,000 exemption – You can deduct up to$25,000 of passive rental loss against nonpassive income if your income (MAGI to be exact) is below \$100,000 and you actively participate with your rental. https://www.nolo.com/legal-encyclopedia/can-you-deduct-your-rental-losses.html
 
-    2. Real estate professional – You can deduct ALL of the passive rental loss against nonpassive income if you or a spouse qualify as a real estate professional. Hhere are the standards: https://www.biggerpockets.com/renewsblog/2014/09/25/your-complete-guide-to-the-real-estate-professional-tax-loophole
+        2. Real estate professional – You can deduct ALL of the passive rental loss against nonpassive income if you or a spouse qualify as a real estate professional. Hhere are the standards: https://www.biggerpockets.com/renewsblog/2014/09/25/your-complete-guide-to-the-real-estate-professional-tax-loophole
 
-    3. Year of sale – You can deduct ALL of the passive rental loss (even from past years) against nonpassive income the year you sell the rental property.
+        3. Year of sale – You can deduct ALL of the passive rental loss (even from past years) against nonpassive income the year you sell the rental property.
 
-    Example of how tax deductions work:
+        Example of how tax deductions work:
 
-    > Scenario #1 (without depreciation expense):
-    > $5,000 taxable rental income x 25% federal income tax rate =$1,250 taxes owed
-    > Scenario #2 (with depreciation expense):
-    > $5,000 rental income –$3,000 depreciation expense = $2,000 taxable rental income$2,000 x 25% federal income tax rate = $500 taxes owed
-Tax Savings =$1,250 – $500 =$750
+        > Scenario #1 (without depreciation expense):
+        > $5,000 taxable rental income x 25% federal income tax rate =$1,250 taxes owed
+        > Scenario #2 (with depreciation expense):
+        > $5,000 rental income –$3,000 depreciation expense = $2,000 taxable rental income$2,000 x 25% federal income tax rate = $500 taxes owed
+
+    Tax Savings =$1,250 –$500 =\$750
 
 2.  Avoid FICA (Payroll) Tax on Rental Income
     Just like dividends and interest income, rental income is not subject to social security and medicare taxes (aka FICA).
@@ -151,18 +152,6 @@ https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
 - Compile your tax deductions
 
-#### List of Deductions for 2018
-
-| Amount | Deduction            | Notes |
-| ------ | -------------------- | ----- |
-| 2000   | Renautus Essentials  |       |
-| 2000   | Real Estate Elevated |       |
-| 10000  | Tithe                |       |
-| 9000   | Every Nation         |       |
-| 300    | Ayanos Ministry      |       |
-| 700    | Compassion           |       |
-| 2000   | Mission Trip         |       |
-
 ### Deductions against my W2
 
 My business can have a lot of expenses. If it far exceeds my profits, I can write them off as losses and claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, that is just a hobby, not a business. Don't make it too obvious - write off 20k with a \$100 profit. 5-10k in losses is ok?
@@ -190,6 +179,37 @@ Schedule C - For self employed income
 
 Schedule E - Rental property
 
+### IRS Types of income
+
+---
+
+1 wages
+2 profits
+3 rents
+4 royalties
+5 dividends
+6 interest
+7 short term cp gains
+8 long term cp gains
+
+#### Bad
+
+Wages
+Self-employment profit
+
+#### OK
+
+Rents
+Royalties
+Interest
+Short term cap gaains
+
+#### Best
+
+Rent Estate
+Dividends
+Long term cap gains
+
 ### Tips
 
 Figuring out the best tax strategy
@@ -206,3 +226,5 @@ plus LLCs, and other fees, closing fees, etc so each$300 cashflow prop will take
 
 100k or less agi 150k diff rules
 U can take 25k loss
+
+@Daniel Kong that’s not how it works. Your LLC rentals go to your schedule E and all those expenses and income are netted and included in a separate line item from your W2 on your 1040

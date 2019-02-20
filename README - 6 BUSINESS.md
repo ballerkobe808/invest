@@ -57,7 +57,7 @@ This second degree of separation will protect you.
 If you get sued, then your name is not on the LLC Property deed, or the last document related to the property (it has the S Corp) so you are saved
 
 Insurance:
-1 Million dollar Umbrella - put this on your LLC to protect it. (about $300/month) Never have more equity than insurance in each LLC. If you do, you are not gonna be covered. If you are going to exceed 1 Million, then move it to another LLC
+1 Million dollar Umbrella - put this on your LLC to protect it. (about \$300/month) Never have more equity than insurance in each LLC. If you do, you are not gonna be covered. If you are going to exceed 1 Million, then move it to another LLC
 
 All money collected - rent, flip profits etc, send it to your S Corp.
 
@@ -76,3 +76,17 @@ notes
 3. Tell the world (URL, bus headers, email, contact info etc)
 4. Contractral Requirements - have all contracts point to your entity and not you
 5. Maintain the entity (Have minutes, board meetings, etc)
+
+### Land Trust
+
+There are two types of transfers that can potentially raise an alarm about the due on sale clause: (1) the transfer to an LLC and (2) the transfer to a trust. A transfer to an LLC will trigger the clause and should therefore be avoided even though banks are hesitant to ever foreclose as long as the note is being paid. Even with the note being paid, the banks will still send threatening letters. This issue can be avoided completely by transferring the property into a land trust.
+
+While a transfer to an LLC will cause alarms at the bank and prompt them to send you a letter, a transfer to a trust will not. A transfer to a trust is exempt from due on sale violations since banks will view transfers to a trust as an estate planning tool. You should not even receive a letter from the bank.
+
+This is part of the reason I recommend people consider transferring properties into a Land Trust prior to moving the properties into the LLC, or Series LLC. The Land Trust is also a private document, so you can also keep your name from public record if you create it the correct way.
+
+### notes
+
+llc in indiana - renewal
+32 filing fee, 150 articles of..???
+kkos lawyers will do this every year for me…
