@@ -14,8 +14,8 @@ Get on Craigslist, Hotpads, Facebook and look through the area.
 3) Visit the Indiana Zone map and look it up:
    https://www.google.com/maps/d/u/0/viewer?mid=1ZJ6z2HR9cwVpc88QIQhmiRrwMg7-dW0H&ll=39.7676351552614%2C-85.95247823203124&z=11
 
-General Neighborhood information:
-https://www.biggerpockets.com/renewsblog/guide-grading-indianapolis-neighborhoods/
+   General Neighborhood information:
+   https://www.biggerpockets.com/renewsblog/guide-grading-indianapolis-neighborhoods/
 
 4. Open Rentometer and look the property up:
    https://www.rentometer.com/
@@ -24,6 +24,8 @@ https://www.biggerpockets.com/renewsblog/guide-grading-indianapolis-neighborhood
    Zillow
    Tax Accessor site:
    STEP BY STEP INSTRUCTIONS TO GET TAX
+
+   http://maps.indy.gov/AssessorPropertyCards/
 
 6. Fill out the Investment Analyzer/Property Analyzer List
 
