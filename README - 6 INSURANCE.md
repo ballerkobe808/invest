@@ -15,6 +15,8 @@ The reason ‘hazard insurance’ is a common term is actually because of lender
 
 4. Vacancy Policy
 
+5. Umbrella Liability???
+
 ### Questions Insurance Company will ask you
 
 1. Age of Home
@@ -129,9 +131,9 @@ For claims due to Bodily Injury or Property Damage that you
 
 Become Liable for and which is covered under the policy.
 
-Companies normally offer limits up to $500,000 but some
+Companies normally offer limits up to \$500,000 but some
 
-offer $1,000,000. Buy the max.
+offer \$1,000,000. Buy the max.
 
 6. Medical Payments:
 
@@ -139,7 +141,7 @@ Provides coverage for an injury suffered on the premises. Does
 
 not require proof that you were at fault. Used to keep small
 
-loses into becoming lawsuits.Normally offered up to $5,000 but
+loses into becoming lawsuits.Normally offered up to \$5,000 but
 
 check to see if higher limits are available.
 
@@ -169,7 +171,7 @@ also be required to have a separate Wind or Hurricane
 
 deductible. Most times, the deductible will be 2% to 5% of
 
-the building value. That is a significant amount (on a $500,000
+the building value. That is a significant amount (on a \$500,000
 
 building that comes to $10,000 for 2% or $25,000 for 5%).
 
@@ -203,7 +205,7 @@ RC may be equivalent to others that will only do ACV.I just wrote one in
 
 CT that one of our carriers for $400,000 RC was $100 less than the next
 
-best rate which was based on $110,000 ACV for the same property.
+best rate which was based on \$110,000 ACV for the same property.
 
 There are many endorsements that are available on the Homeowners
 
@@ -263,3 +265,7 @@ Hi Brent! I was referred to you by Ali Hashimi over on BiggerPockets. I'm lookin
 
 Would you be able to give me a ballpark quote? Thank you!
 Daniel
+
+### Umbrella Liability policy instead of using an LLC
+
+I always recommend investors do as many properties as they can under their personal name in the beginning (Fannie Mae allows up to 10) and then start going with the LLC's. If your concern is liability, get an umbrella liability policy. It's a lot cheaper money and the umbrella should give you adequate protection. If you're using any personal funds, unless their use and acquisition is documented properly, can take down the corporate veil and be porous. Even if you end up going the LLC route, I would consider an umbrella liability policy.

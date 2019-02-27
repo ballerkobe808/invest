@@ -190,3 +190,22 @@ Wealthfront robos
 Peer to peer lending
 
 Infinity Investing: Stock trading - Buy dividend stocks and sell options - RESEARCH THIS!!
+
+### Long term view for Investing
+
+I do find it crazy that everyone calls this a difficult time... Isn't it just back to normal. Just because a rare opportunity existed 8 years ago, doesn't mean that normal should be difficult. There are always deals to be made, you just have to be prepared to move when they come and have a toolbox full of options.
+
+Here's my framework for pre-screening deals:
+
+Buy with at least a 10% discount rate. i.e. $120k homes at $105k or $100k homes at $90k. This is including rehab budget, holding, and closing costs. This will ensure instant equity and higher ROI.
+When purchasing with conventional (20% down or more) financing, look for homes that hit a price ratio around 80 X 1 gross month's rent. This can also be figured as 1.25% of the full cost of the investment (acquisition, closing, rehab, and holding costs.)
+Run several models and if you need more cash flow, than either pay down points or put a larger down payment down.
+Here's where the real wealth building comes in to play. In a typical, established, Indianapolis neighborhood (C+ to B Class)... we see predictable appreciation of 2.5%-3.5% annually. With a 25% down payment, you are leveraged 4 to 1. This means that the COC ROI on appreciation will be 10%-14% (2.5% or 3.5% X 4.) This doesn't even include cash flow or principal paydown.
+
+The clients that I have who are investing like this are doubling their initial cash investments every 4-6 years. This is because of the internal nestegg that builds faster and better than the cash flow it produces. Unfortunately, equity is not cash, but you can leverage the equity in various ways to increase the size or quality of your portfolio and/or reposition it for higher cash flow.
+
+There are many models for real estate investments and various positions that they can be done from, but I find that IRR and understanding the equity growth are not looked at deeply enough by many newer investors. I've seen too many investors build portfolios over 10-15 years that started with $50-$100k and now have \$1M+ net portfolio value. Much of it has to do with leveraging and compounding the growth of all facets of your investment properties. While I don't recommend investing on speculative numbers, the icing on the cake is often times better than the cake.
+
+### Using a land trust vs transfer to llc
+
+https://www.biggerpockets.com/renewsblog/llc-lending-problem/
