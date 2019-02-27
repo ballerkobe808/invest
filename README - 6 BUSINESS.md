@@ -93,3 +93,25 @@ This is part of the reason I recommend people consider transferring properties i
 llc in indiana - renewal
 32 filing fee, 150 articles of..???
 kkos lawyers will do this every year for me…
+
+### Important things to keep in mind if you form an LLC:
+
+Keep everything separate - If you decide to form an LLC, you need to take certain steps to ensure everything to do with your company is completely separate from any of your personal affairs.
+
+This means separate bank accounts, credit cards, email addresses, etc. If you co-mingle the two, you run the risk of losing whatever protection you may have under your LLC because a Judge could rule that that the LLC is too close to your personal assets and therefore, not a separate entity.
+
+### File Biennial Reports with the SOS - In order to keep your LLC in good standing, you must file a report every other year following the year it was formed and it must be done within its anniversary month.
+
+The purpose of this report is to keep your business records up to date with the state which allows the government, creditors, and other interested parties to look up your business information should they need to contact you.
+
+They can be filed online and cost \$50 per report. If you fail to complete these reports, it could result in the company being dissolved.
+
+### Alternative to forming an LLC
+
+Many Investors who don’t want to manage properties under an LLC opt for extra liability
+
+This is often referred to as an “umbrella policy” and it basically gives you protection beyond your average rental dwelling policy. These policies are typically pretty affordable as well.
+
+Beefing up your liability insurance can be a good option if you feel you need more coverage but don’t want to go the LLC route.
+
+Remember, no plan, whether it be an LLC or Insurance, is a 100% guarantee of protection.
