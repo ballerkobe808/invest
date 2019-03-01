@@ -41,3 +41,19 @@ Get on Craigslist, Hotpads, Facebook and look through the area.
 11. Title search - search for liens.
     Voluntary (mortgages, equity line of credit)
     Involuntary (Tax and Assessments, federal liens, judgement liens, vendor's liens, mechanic's liens)
+
+12.
+
+As mentioned, Trulia's maps are a great place to start. Crime is my number one indicator on most homes, but I also look at Median Household Income, Education Level, and Percentage of Home Ownership as well as they drive many of the factors for desirability and appreciation.
+
+Second place to look will be Zillow, Homesnap, and/or Rentometer to get an idea of the rental markets (if you're investing in rentals.) Look for areas with rentals above the median. Typically, 2 bedroom homes that should rent at $700+/mo, 3 bedroom homes that will rent for $800+/mo, and larger homes that will rent at \$900/mo or more. Multi-families will go by different numbers... usually about 10% lower than SFR's.
+
+Then I like to look up the address and about a city block of that street in the enforcement and permit database https://accela9ca.indy.gov/citizenaccess/ to get an idea of the problems in the area and outstanding city issues with the home (these should be cleared up at closing.) Basically, if you have 2 homes on the neighborhood that get investigated several times of the year for illegal dumping, abandoned vehicles, vacant board orders, or high weeds/grass... it's probably a more distressed area.
+
+I also walk the street on Google Earth to ensure that I'm not across the street from a metal recycling facility, railroad tracks, waste water treatment center, landfill, trucking warehouse, etc.
+
+Another interesting look is to use Google Maps to find all of the Starbucks in town. Draw a 3 mile circle around all of them. Then look up all of the Pawn Shops, Check Cashing Places, and/or Payday Advance areas and draw a circle around those as well. Commercial entities, like Starbucks, do much more research in areas that we do. They target areas where people have extra money for luxury. Pawn shops and check cashing places tend to be in neighborhoods where people struggle to pay their bills.
+
+After learning how to do some adequate pre-screening, a good PM can give you further insight, but we can't go through lists of 30+ properties to do potential deal evaluations for all of our clients. You have to do the initial work yourself, we do have a company to operate.
+
+Lastly, have someone physically walk a street and count the number of apparent boarded up/distressed houses. If there are more than 2 in the immediate area and more than 5 on a block (a decent PM can probably help with this)... I typically recommend passing unless there are active rehabs going on at those homes.

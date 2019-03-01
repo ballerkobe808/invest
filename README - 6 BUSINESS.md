@@ -115,3 +115,24 @@ This is often referred to as an “umbrella policy” and it basically gives you
 Beefing up your liability insurance can be a good option if you feel you need more coverage but don’t want to go the LLC route.
 
 Remember, no plan, whether it be an LLC or Insurance, is a 100% guarantee of protection.
+
+### LLC Filing Fees by State
+
+https://www.llcuniversity.com/llc-filing-fees-by-state/
+
+### Land Trust to avoid Due on Sale Clause
+
+Create a land trust and make your LLC the beneficiary
+Then deed the property over to your Land Trust??
+
+### Umbrella Insurance instead of LLC
+
+LLCs are only needed if you have Lots and Lots and Lots of equity, hundreds of thousands of dollars worth. And if you have that, you are smart enough to do what your attorney tells you to do for asset protection.
+
+LLCs are only useful if you get sued. Most people are never sued.
+
+LLCs are only useful in a lawsuit if the LLC was properly formed in the first place. LLCs are only useful if the Operating Agreement was followed. LLCs are only useful if you never co-mingle funds. LLCs are only useful if minutes were taken. LLCs are only useful if ALL required actions concerning the LLC were followed to the point of proving to the judge, in court, that the LLC is truly a separate entity and was treated as such. Probably .000000175% of people actually follow all of the details of an LLC. (I made up the statistic, but I know from talking to a lot of investors, they don't have a clue how an LLC is supposed to run because they simply down loaded a form to create the LLC and were off and running. Oh, well.) Fortunately for most, they will never have to find out in court that they did things all wrong. Besides, 95% of law suits are settled before going to rial (I didn't make that one up.) Having the LLC plays little to no role in coming to a settlement before a trial.
+
+Attorneys don't look to see if you have an LLC, they look to see if you have assets. If they can't get paid, they won't take the case. Besides, there are some legal and clever ways around the LLC that a good experienced trial attorney would already know. I'm not going to mention them here, I don't want to give any attorneys any ideas. ;-)
+
+You are more protected buying umbrella insurance and it is a heck of a lot more convenient. IMHO
