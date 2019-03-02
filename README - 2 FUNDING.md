@@ -187,3 +187,9 @@ The reason for the 25% down payment requirement on this property was the fact th
 I'm looking for a 30 year fixed on a property that was just appraised at 95k - 20% available?
 
 Talk to a lot of lenders to get the terms that you want - Ask Around!!
+
+### General Lender requirements
+
+Any funds need 60 days of seasoning (or an explanation) - 2 bank statements
+Your DTI and Credit Score affect your rate and ability to get a loan
+You need 6 months of reserves (6 principle and interest payments)
