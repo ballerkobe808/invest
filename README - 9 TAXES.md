@@ -257,3 +257,9 @@ Depreciation recapture is limited to the lesser of the gain or, the depreciation
 In the event a property is sold at a loss the depreciation recapture rules do not apply. Assume in the above example the property was sold for $1.1 million. The property owner would simply report a loss of $400,000. No depreciation recapture calculations would be required.
 
 The 25% depreciation recapture tax rate only applies to the portion of the gain attributable to real property. If a sales contract includes the sale of other assets, such as furniture and equipment, the gain relating to depreciation recapture on those assets would be taxed at the property owner’s ordinary income tax rates.
+
+### Indiana property taxes
+
+Property taxes are due twice a year in Indianapolis.
+
+May 10, November 12,
