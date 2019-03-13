@@ -263,3 +263,7 @@ The 25% depreciation recapture tax rate only applies to the portion of the gain 
 Property taxes are due twice a year in Indianapolis.
 
 May 10, November 12,
+
+### Net Investment Income Tax (NIIT)
+
+You pay 3.8% if your income is over 200k - Try to avoid this by keeping income below 200k!!!

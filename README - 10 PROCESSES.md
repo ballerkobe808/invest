@@ -22,3 +22,10 @@ Bank Account - Hawaii - Auto payments - enough for them?
 5. XXXXX?? CC Chase on the 16th
 
 Bank Account - Hawaii - Pending Transactions - enough for them?
+
+## Upload Receipt
+
+- upload, and store in right folder
+- reconcile and update finance doc
+
+## Sign up for new Subscription/Payment (or Cancel existing)
