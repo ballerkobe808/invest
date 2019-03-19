@@ -1,8 +1,9 @@
-## 1.4. Important Concepts, Terms, and Strategies
-
+Important Concepts, Terms, and Strategies
+===================================================
 Use your heloc to make the money in your property accessible
 
-## Acronyms
+Acronyms
+-----------------
 
 - LTV - Loan to Value - The amount of the loan over the value of the house
 - ARV - After Repair Value - The estimated or actual value of a house after rehabbing/repairing it
@@ -13,8 +14,10 @@ Use your heloc to make the money in your property accessible
 - Cap Rate - NOI divided by the purchase price
 - PMI - Private Mortgage Insurace - If you put down less than 20% on a house, then you gotta buy insurace for the remainder in case u cant pay or you default later on...
 
-### 1.4.1. DTI (Debt to Income)
+TERMS
+================
 
+DTI (Debt to Income)
 This is the first and biggest metric a lender looks at when deciding to lend you money. Its basically how much money you spend a month to cover your debts over how much you bring in.
 This includes all things you are on the hook for - mortgage, car payments, loans, rent, etc. It does NOT include food, or variable living expenses.
 It also takes your Gross Income (Not Net) Get your paychecks before taxes for the month. Things like rent will not be counted unless you can show income for 2 years (is this correct)

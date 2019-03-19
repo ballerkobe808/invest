@@ -2,7 +2,7 @@ TAXES
 ================================
 
 Real Estate Tax Benefits and Strategies
----------------------------------
+----------------------------------------
 
 Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-investing
 
@@ -16,12 +16,14 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
 
         3. Year of sale – You can deduct ALL of the passive rental loss (even from past years) against nonpassive income the year you sell the rental property.
 
+        
         Example of how tax deductions work:
 
         > Scenario #1 (without depreciation expense):
         > $5,000 taxable rental income x 25% federal income tax rate =$1,250 taxes owed
         > Scenario #2 (with depreciation expense):
         > $5,000 rental income –$3,000 depreciation expense = $2,000 taxable rental income$2,000 x 25% federal income tax rate = $500 taxes owed
+
 
     Tax Savings =$1,250 –$500 =\$750
 
@@ -91,7 +93,7 @@ Education training - make sure you tell your CPA that you decided to do Real Est
 - Entertainment 50% (Hobbies, Toys, Keep good records, Golfing, snowmobiles)
 
 ### 1.0.3. Federal Tax Brackets for 2018
-
+-----------------------------------------
 Single Filing
 
 | Tax rate | Taxable income bracket | Tax owed                                        |
@@ -143,7 +145,7 @@ Article explaining more here:
 https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
 ### 1.0.6. PROCESS - Filing Taxes at the end of the year
------------------------------------------------
+---------------------------------------------------------
 - PROCESS TO DO TAXES AT THE END OF THE YEAR
 
 - Find a good accountant
@@ -159,8 +161,12 @@ https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 My business can have a lot of expenses. If it far exceeds my profits, I can write them off as losses and claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, that is just a hobby, not a business. Don't make it too obvious - write off 20k with a \$100 profit. 5-10k in losses is ok?
 
 ### Tax Forms
+========================
 
-W-4 Employer asks you to fill this out - tells marital status etc - write down exemptions - determine how much to withhold
+W-4 Employer asks you to fill this out 
+  - tells marital status etc 
+  - write down exemptions 
+  - determine how much to withhold
 
 -Normal Income forms you file with the IRS-
 1040 - Normal income -
@@ -186,8 +192,7 @@ Schedule C - For self employed income
 Schedule E - Rental property Income
 
 ### IRS Types of income
-
----
+===========================
 
 1 wages
 2 profits
@@ -249,6 +254,7 @@ Use IRS Form 4562 to Elect a Section 179 Deduction
 The form used to report information for a Section 179 deduction is IRS Form 4562. This form collects information on business property acquired and put into service (see above). For more details on completing Form 4562, see the IRS instructions for this form.
 
 ## Depreciation and Depreciation Recapture
+-------------------------------------------
 
 To recap the basics, upon the acquisition of a property the cost of the building and land are capitalized. If the building is a rental property or used in a trade or business, the cost attributable to the building is depreciated over 27.5 years (residential) or 39 years (non-residential) using the straight-line method for tax purposes. Land is non-depreciable therefore, no depreciation is permitted. In summary, the cost of the building is written off ratably over the life of the asset via annual depreciation deductions.
 
@@ -264,11 +270,7 @@ In the event a property is sold at a loss the depreciation recapture rules do no
 
 The 25% depreciation recapture tax rate only applies to the portion of the gain attributable to real property. If a sales contract includes the sale of other assets, such as furniture and equipment, the gain relating to depreciation recapture on those assets would be taxed at the property owner’s ordinary income tax rates.
 
-### Indiana property taxes
-
-Property taxes are due twice a year in Indianapolis.
-
-May 10, November 12,
+#
 
 ### Net Investment Income Tax (NIIT)
 
@@ -278,7 +280,6 @@ You pay 3.8% if your income is over 200k - Try to avoid this by keeping income b
 
 ### My Personal Tax Situation
 ---------------------------------------
-
 
 #### W2 income - normal income
 

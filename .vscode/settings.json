@@ -1,6 +1,6 @@
 {
   // Set the default
   "editor.formatOnSave": true,
-  "prettier.printWidth": 160,
+  "prettier.printWidth": 80,
   "prettier.singleQuote": true
 }
