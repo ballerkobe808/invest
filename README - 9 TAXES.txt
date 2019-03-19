@@ -1,6 +1,8 @@
-# 1. TAXES
+TAXES
+================================
 
-### 1.0.1. Real Estate Tax Benefits and Strategies
+Real Estate Tax Benefits and Strategies
+---------------------------------
 
 Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-investing
 
@@ -73,7 +75,7 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     - Keep receipts
 
 ### 1.0.2. Tax Deductions
-
+------------------------------
 Move your expenses under your business
 
 Cell phone purchase and bills
@@ -141,7 +143,7 @@ Article explaining more here:
 https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
 ### 1.0.6. PROCESS - Filing Taxes at the end of the year
-
+-----------------------------------------------
 - PROCESS TO DO TAXES AT THE END OF THE YEAR
 
 - Find a good accountant
@@ -156,20 +158,24 @@ https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
 My business can have a lot of expenses. If it far exceeds my profits, I can write them off as losses and claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, that is just a hobby, not a business. Don't make it too obvious - write off 20k with a \$100 profit. 5-10k in losses is ok?
 
-### Forms
+### Tax Forms
 
-W-4 Employee asks you to fill this out - tells marital status etc - write down exemptions - determine how much to withhold
+W-4 Employer asks you to fill this out - tells marital status etc - write down exemptions - determine how much to withhold
 
+-Normal Income forms you file with the IRS-
 1040 - Normal income -
 Schedule A - Itemized deductions
 1040EZ - Normal income - no itemized deductsion (easy form)
 1040A - Normal income - also student loans/iras?? (short form)
 
+-Report from Employer or Business to let you know how much you got-
+-Also you need to give out if you are an Employer/Business-
 W-2 - Employers file this - tells u how much your employer gave u
 1099 - (DIV, MISC, INC, etc) - Income besides employer
 1099 div - stock dividends
 1099 int - interest income
 1099 misc?
+1099 K - from AirBnB?
 1099 g - state tax return income/unemployment benefits
 
 1098 - Mortgage holders shows interest paid
@@ -177,7 +183,7 @@ W-2 - Employers file this - tells u how much your employer gave u
 
 Schedule C - For self employed income
 
-Schedule E - Rental property
+Schedule E - Rental property Income
 
 ### IRS Types of income
 
@@ -267,3 +273,55 @@ May 10, November 12,
 ### Net Investment Income Tax (NIIT)
 
 You pay 3.8% if your income is over 200k - Try to avoid this by keeping income below 200k!!!
+
+
+
+### My Personal Tax Situation
+---------------------------------------
+
+
+#### W2 income - normal income
+
+#### Rental property purchased under my own name in Indiana -
+
+include rent and security deposit as passive income (this is added to my AGI)
+not included in state tax return (Fed and state agi will be different??)
+
+can deduct expenses from property -
+-depreciation (assignment fee is included as part of purchase price - what about title fees etc - total wired to title company?)
+-insurance
+-utilities
+-education???
+If net negative, then can claim up to 25k against W2 (As long as my MAGI is under 100k)
+
+#### Rental property owned in Hawaii (AirBnB)
+
+include rent as passive income
+included in state tax return
+pay Hawaii GET (TAT if short term rental)
+
+can deduct expenses from property income
+-rent
+-utilities
+-other expenses like purchases
+If net negative, then can claim up to 25k against W2 (As long as my MAGI is under 100k)
+
+#### Private lending -
+
+If I lend to another investor (my LLC), and get interest - do I claim that? what if I dont get interest?
+
+#### Software Consulting
+
+#### Real estate education/software
+
+valid documentation - line on my credit card statement - date of payment and to who
+
+Can this can be claimed as Start Up costs - 5k max and then depreciation of rest over 15 years?
+(Since i took the courses before acquiring my rental)
+(or maybe not since i dont have an active business…)
+
+#### Gifts from mom - do i pay taxes on that?
+
+What about my brother/friend going 50/50 with me on a house? What if we dont use an LLC - easier to just claim it as a gift?
+Best strategy for that
+Can other people contribute to my LLC?

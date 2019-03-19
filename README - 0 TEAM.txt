@@ -1,13 +1,28 @@
 ### Team Strategy
 
-The richest people in the world look for and build networks;
-everyone else looks for work.
+"The richest people in the world look for and build networks;
+everyone else looks for work."
 
 1. Build your team
 
-   - Inner Circle - mentors/peers - more exp and success than you and willing to help/guide you - board of directors or millionaire masterminds - will help or connect u, could be support circle too - touch them once a month
-   - Support Circle - professional team - advice and management - details of what you need and will help find people you will contact - transaction advisors and managers - have ability to manage the diff pieces (real estate agent, etc) touch them on every transaction
-   - Service Circle - independent contractors - inspectors, electricians, painters - limited scope - personally direct or support team will direct
+   - Inner Circle 
+   - mentors/peers 
+   - more exp and success than you and willing to help/guide you 
+   - board of directors or millionaire masterminds 
+   - will help or connect u, could be support circle too - touch them once a month
+
+   - Support Circle 
+   - professional team 
+   - advice and management 
+   - details of what you need and will help find people you will contact 
+   - transaction advisors and managers 
+   - have ability to manage the diff pieces (real estate agent, etc) touch them on every transaction
+
+   - Service Circle 
+   - independent contractors 
+   - inspectors, electricians, painters 
+   - limited scope 
+   - personally direct or support team will direct
 
 2. Building Relationships
 
