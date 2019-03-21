@@ -76,3 +76,47 @@ The Tenant has the right to sue you in small claims court for the full amount of
 As a Landlord in Indiana, you don't have a ton of guidance on the matter of security deposits. You can combat this by A) Knowing and understanding what laws Indiana does have regarding security deposits and B) Developing a system and process that you will adhere to consistently from Tenant to Tenant.
 
 Remember, the security deposit is the Tenant's money.
+
+
+Paul Rees 
+=====================
+12% of rent
+100 per month of vacancy 
+no lease up fee
+$75 min monthly rent per unit
+Late fees 1st to the 5th - 100 late fee by the 10th - eviction on the 11th - late fee goes to paul
+Sec deposit gets paid to us?
+portal - none - email back and forth
+
+
+85 properties
+Evictions - no cost to me - has lots of experience in this
+Collections - he will track people down and keep 40% but give us 60%
+He will collect costs and take them out of future rents - not pass them immediately to me
+utilities will go in his name in between tenants - he gives them 3 days to put it in their name or it goes out
+
+Has his own contractors and subs elec, hvac, steam cleaning
+As soon as someone calls will go and show them
+Popular with tenants - treats them well
+
+Elec and water - addressed immediately w/o my approval
+Otherwise will ask us first??
+Will assist about 5k in rehab bid (there will be profit marked into it)
+
+Will usually get back within 24 hours
+
+Buy a property - then ask him how to fix it up???
+
+
+
+
+
+
+
+
+
+
+
+
+
+

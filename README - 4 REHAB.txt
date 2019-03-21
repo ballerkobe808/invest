@@ -1,6 +1,9 @@
 # REHAB
 
-The actual rehabing starts far before the house is bought. Prospecting, analyzing, and estimating costs all play a part in the process. The Book "Flip" outlines the entire process. For a good visual overview of the process see the pdf here: [PDF of the Entire Process](lib/FLIP_Figures.pdf)
+The actual rehabing starts far before the house is bought. 
+Prospecting, analyzing, and estimating costs all play a part in the process. 
+The Book "Flip" outlines the entire process. 
+For a good visual overview of the process see the pdf here: [PDF of the Entire Process](lib/FLIP_Figures.pdf)
 
 Flip vs Rent Rehab - Flips will need to be nicer to have someone to buy vs Rent needs to be decent enough to rent.
 
@@ -20,23 +23,38 @@ Very important - and also easy to get wrong!
 
 1. Hire a professional. This will be the most expensive, but maybe the most worth it.
 
-2. Do it yourself or ask a Realtor. Cost of materials and cost of construction itself. Also some tasks require specialists (faoundations, structural, septic, well, chimney, pool, etc) Do enough of these however, and you will get better and better at it. Like anything, the more experience and data points you have. Always add at least a 5% contingency for unforseen costs or overruns.
+2. Do it yourself or ask a Realtor. Cost of materials and cost of construction itself. 
+Also some tasks require specialists (faoundations, structural, septic, well, chimney, pool, etc) 
+Do enough of these however, and you will get better and better at it. 
+Like anything, the more experience and data points you have. 
+Always add at least a 5% contingency for unforseen costs or overruns.
 
 3. Use a rule of thumb. Only use this if you need to do it overnight - time is of the essence.
    1. Make-hab ($5/square foot, $3-7) Clean out, paint, carpet, final cleaning
-   2. Rehab ($15/square foot, $12-18) Mostly cosmetic, broken windows, leaky roof, HVAC, electrial, plumbinb, doorknobs, doorstops, bathroom accessories, tile, refurbishing cabinetry, trim, landscaping.
-   3. Remodel ($25/square foot, $20-30) Rehab plus replacing bathtub, walk in showers, cabinetry, doors, trim, widening openingss.
-   4. Restructure ($40/square foot, $35-45) Remodel plus major layout changes - moving a bathroom increasing kitchen, building an addition, etc.
+   2. Rehab ($15/square foot, $12-18) Mostly cosmetic, broken windows, leaky roof, HVAC, 
+      electrial, plumbinb, doorknobs, doorstops, bathroom accessories, tile, refurbishing cabinetry, 
+      trim, landscaping.
+   3. Remodel ($25/square foot, $20-30) Rehab plus replacing bathtub, walk in showers, cabinetry, 
+      doors, trim, widening openingss.
+   4. Restructure ($40/square foot, $35-45) Remodel plus major layout changes 
+      - moving a bathroom increasing kitchen, building an addition, etc.
 
-Use the Homefixers app to estimate easier. Maybe can order a HomeFixers Cost Assessment Report depending on the city. https://househackerpro.com/upgrade.html
+Use the Homefixers app to estimate easier. 
+Maybe can order a HomeFixers Cost Assessment Report depending on the city. https://househackerpro.com/upgrade.html
 
-NOTE: Other costs to include with the rehab are the costs of closing (Closing fees, inspections -1.5%), Holding (Taxes, Utilities, HOA fees, etc - 1.5%), Lending fees (variable), and if flipping, then Selling Fees (6.5% selling price)
+NOTE: Other costs to include with the rehab are the costs of closing 
+(Closing fees, inspections -1.5%), Holding (Taxes, Utilities, HOA fees, etc - 1.5%), 
+Lending fees (variable), and if flipping, then Selling Fees (6.5% selling price)
 
-Estimate the time it will take to fix: Get the cost per square foot and divide by 10 - that will be how many months it will take. Add two and a half months to market and sell.
+Estimate the time it will take to fix: Get the cost per square foot and divide by 10 
+- that will be how many months it will take. Add two and a half months to market and sell.
 
-Estimating minimum amount of profit - 10% of selling price PLUS an additional amount depending on the complexity of the rehab. A good rule of thumb is to add 1% for every $5/square foot of rehab cost.
+Estimating minimum amount of profit 
+- 10% of selling price PLUS an additional amount depending on the complexity of the rehab. 
+A good rule of thumb is to add 1% for every $5/square foot of rehab cost.
 
-Sell at a price below ARV, so you can turn the property around quicker. You dont want to be holding it for too long.
+Sell at a price below ARV, so you can turn the property around quicker. 
+You dont want to be holding it for too long.
 
 ### General overview diagram of the rehab process
 
@@ -51,16 +69,20 @@ Here is the same 50 steps broken up a little more:
 
 ### Holding Costs
 
-Be aware of holding costs when estimating the rehab. This will include Property Taxes, Insurance, Utilities, Maintenance costs like cleaning or yard service, and HOA fees.
+Be aware of holding costs when estimating the rehab. 
+This will include Property Taxes, Insurance, Utilities, 
+Maintenance costs like cleaning or yard service, and HOA fees.
 
 ### Working with a Contractor
 
 Hiring
 
-- Clearly spell out the payment schedule (varies depending on the size of the job and region, typicically 1/3 down and balance on completion)
+- Clearly spell out the payment schedule (varies depending on the size of the job and region, 
+  typicically 1/3 down and balance on completion)
 - If you are not planning to rent the property consider offering 50% up front and 50% when the property sells
 - Never make the final payment until the job is 100% complete
-- Agreement should stipulate that all changes must be in writing and signed by both parties. Once you build relationships, then you dont need it in writing.
+- Agreement should stipulate that all changes must be in writing and signed by both parties. 
+  Once you build relationships, then you dont need it in writing.
 
 Make sure they are legit - ask for:
 
@@ -70,11 +92,13 @@ Make sure they are legit - ask for:
 
 Contract Pyschology for a smooth relationship
 
-1. Get the finish date of the work - be sure contractor added in some margin. You want a realistic completion date. (add a week more if u want)
+1. Get the finish date of the work - be sure contractor added in some margin. 
+   You want a realistic completion date. (add a week more if u want)
 2. Offer a 5% bonus for finishing on time
 3. Give a 5% deduction for a week late
 4. Give another 5% deduction for more than a week late
-5. Let the contractor know their work will be photographed and displayed on social media. If anyone asks, your name will be given. Not trying to bully, but want everyone to know what a good job you did.
+5. Let the contractor know their work will be photographed and displayed on social media. 
+   If anyone asks, your name will be given. Not trying to bully, but want everyone to know what a good job you did.
 
 #### Getting Bids
 
@@ -123,7 +147,8 @@ Garage Door (Does it shake or rattle on its last legs - 1.5k per mechanism)
 Windows can eat budget fast - when you have to rip the stuco out to replace - could be 1k each
 Landscaping - husband - do i gotta do a lot of work?? Gravel and irrigation vs hedges/bushes
 Smells from up the street/Noise from outside the house
-Paint - trim today = gray/white/silver, paint electrical boxes and all - be aware the contractor agrees to it, and won't make an extra charge later
+Paint - trim today = gray/white/silver, paint electrical boxes and all 
+  - be aware the contractor agrees to it, and won't make an extra charge later
 
 #### Interior
 
@@ -164,7 +189,9 @@ Bathroom
 5. Don't let subs do work w/o permitting - Permit should be hanging outside the house? Always pull permits
 6. Beware people who want to work nights/weekends
 7. Estimate how long it'll take subs to do work.
-8. 6% are 1939 and older - properties built before code (Check if its listed historic - check w the grant officer can get free money to rehab a house) you will have to rip out the wiring and plumbing in that house.
+8. 6% are 1939 and older - properties built before code (Check if its listed historic 
+   - check w the grant officer can get free money to rehab a house) you will have to rip out the wiring and 
+   plumbing in that house.
 9. Dont do work you dont know how to do. If you dont do it for a living, you dont know how to get the right result.
 
 #### Permits

@@ -2,12 +2,25 @@
 
 1. Homeowner policy
 
-In order to get a mortgage loan for your new home, you need to have a certain amount of hazard insurance included in your home insurance coverage. Hazard insurance is part of a homeowners insurance policy - it is not a separate coverage type. Read on to learn more about what hazard insurance covers and why it's important.
+In order to get a mortgage loan for your new home, you need to have a certain amount of hazard insurance 
+included in your home insurance coverage. Hazard insurance is part of a homeowners insurance policy - 
+it is not a separate coverage type. 
+Read on to learn more about what hazard insurance covers and why it's important.
 
 What is hazard insurance?
-Hazard insurance and homeowners insurance are not separate coverage types. Hazard insurance generally refers to coverage for the structure of your home only. It may cover “hazards” such as fire damage, hail damage, theft, vandalism, and more. Other kinds of damage will be covered by other coverages within your home insurance policy. Hazard insurance doesn’t generally refer to the coverage that protects you for injuries incurred by you or your guests following an accident may be covered by liability coverage.
+Hazard insurance and homeowners insurance are not separate coverage types. 
+Hazard insurance generally refers to coverage for the structure of your home only. 
+It may cover “hazards” such as fire damage, hail damage, theft, vandalism, and more. 
+Other kinds of damage will be covered by other coverages within your home insurance policy. 
+Hazard insurance doesn’t generally refer to the coverage that protects you for injuries incurred 
+by you or your guests following an accident may be covered by liability coverage.
 
-The reason ‘hazard insurance’ is a common term is actually because of lenders. Your mortgage loan provider may require hazard insurance at minimum before they will issue you a loan, because that is the only portion of the homeowners insurance policy directly related to the home structure itself. This may create the misconception that hazard coverage can be purchased separately from homeowners insurance, which is generally not accurate. If your lender has specified that you need hazard or dwelling coverage, just know that generally purchasing a homeowners policy will satisfy their requirements.
+The reason ‘hazard insurance’ is a common term is actually because of lenders. 
+Your mortgage loan provider may require hazard insurance at minimum before they will issue you a loan, 
+because that is the only portion of the homeowners insurance policy directly related to the home structure itself. 
+This may create the misconception that hazard coverage can be purchased separately from homeowners insurance, 
+which is generally not accurate. If your lender has specified that you need hazard or dwelling coverage, 
+just know that generally purchasing a homeowners policy will satisfy their requirements.
 
 2. Rental Policy
 
@@ -253,7 +266,8 @@ factors may get you credits:
 
 ### Request Letter
 
-Hi Brent! I was referred to you by Ali Hashimi over on BiggerPockets. I'm looking to get a Home Insurance Policy for a property under contract. Here are the basic details:
+Hi Brent! I was referred to you by Ali Hashimi over on BiggerPockets. 
+I'm looking to get a Home Insurance Policy for a property under contract. Here are the basic details:
 
 1. Quadplex at 556 12th St, New Castle, IN 47362
 2. It would be non-owner occupied, currently occupied by tenants
@@ -269,3 +283,27 @@ Daniel
 ### Umbrella Liability policy instead of using an LLC
 
 I always recommend investors do as many properties as they can under their personal name in the beginning (Fannie Mae allows up to 10) and then start going with the LLC's. If your concern is liability, get an umbrella liability policy. It's a lot cheaper money and the umbrella should give you adequate protection. If you're using any personal funds, unless their use and acquisition is documented properly, can take down the corporate veil and be porous. Even if you end up going the LLC route, I would consider an umbrella liability policy.
+
+
+
+=====================================
+
+
+- Replacement cost on the roof??
+
+
+Get renters insurace - $15 a month?
+
+
+Vacant policy is more expensive than your normal policy
+Can set it up as a normal policy as long as someone will get in there within 90 days
+
+Can get it converted termporarily to a vacant policy if needed
+
+
+Insurance companies - They will actually send someone out to look at it and request pictures
+Builders risk - if its under 90 days, then dont need - if its gonna go too long, 
+then flip it over to builders risk
+
+DP1 - minimum amount to replace the loan
+DP3 - replacement cost
