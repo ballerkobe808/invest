@@ -98,7 +98,8 @@ Contract Pyschology for a smooth relationship
 3. Give a 5% deduction for a week late
 4. Give another 5% deduction for more than a week late
 5. Let the contractor know their work will be photographed and displayed on social media. 
-   If anyone asks, your name will be given. Not trying to bully, but want everyone to know what a good job you did.
+   If anyone asks, your name will be given. Not trying to bully, but want everyone to know what a good job 
+  you did.
 
 #### Getting Bids
 
@@ -192,7 +193,8 @@ Bathroom
 8. 6% are 1939 and older - properties built before code (Check if its listed historic 
    - check w the grant officer can get free money to rehab a house) you will have to rip out the wiring and 
    plumbing in that house.
-9. Dont do work you dont know how to do. If you dont do it for a living, you dont know how to get the right result.
+9. Dont do work you dont know how to do. If you dont do it for a living, you dont know how to get the right 
+   result.
 
 #### Permits
 
@@ -228,7 +230,8 @@ They have discounted items that "dont meet spec" for you to buy
 After buying the house, introduce yourself to your neighborhood, and talk to them
 let them know you are gonna shine it up
 Do you wanna have some input into who your neighbor is?
-Pass out your cards, and let them know you will give them a $500 referral fee. (Write their name down on the cards)
+Pass out your cards, and let them know you will give them a $500 referral fee. (Write their name down on the 
+cards)
 "If you see someone pull up and ask, give them this card and we'll give u the referral fee"
 Staging - poupori to spruce up the smell, Lights - keep it lighted and bright, Make it fee like home
 

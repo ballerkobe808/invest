@@ -2,5 +2,17 @@
   // Set the default
   "editor.formatOnSave": true,
   "prettier.printWidth": 80,
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  // Controls if quick suggestions should show up while typing
+  "editor.quickSuggestions": false,
+
+  // Controls if suggestions should be accepted with "Enter" - in addition to "Tab". Helps to avoid ambiguity between inserting new lines and accepting suggestions.
+  "editor.acceptSuggestionOnEnter": "off",
+
+  // Controls the delay in ms after which quick suggestions will show up.
+  "editor.quickSuggestionsDelay": 10,
+
+  // Enable word based suggestions
+  "editor.wordBasedSuggestions": false
 }

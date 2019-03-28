@@ -11,6 +11,12 @@ Property taxes are due twice a year in Indianapolis.
 May 10, November 12,
 
 
+==============================
+Property Management
+==============================
+You have to be a licensed real estate agent to manage properties in Indiana
+
+
 ============================
 General Contractors
 ============================
@@ -47,6 +53,180 @@ Jason Fender - Paul Rees is his property manager
 
 
 
+===============================
+Neighborhoods from Buying Tour
+
+================================
+
+3709 kenwood black neighborhood
+Often water shared in duplexes
+
+Mlk black neighborhood? 
+
+862 s worth. White neighborhood
+
+78 Schiller white neighborhood
+
+Rural n 10th white neighborhood
+
+413 oxford white neigjborhood
+3 meters 3 parking stalls
+Owner pays water
+
+Gray. White neighborhood
+
+Arthington. Black neighborhood
+
+
+
+
+
+
+Bigger Pockets Indianapolis Neighborhoods
+----------------------------------
+Random Investor:
+Fountain Square - up and coming hot area
+
+Liv Indy:
+SoBro - Liv Indy says it is gentrifying - could be huge in 5 years
+
+Random Investor:
+I like the areas surrounding Fountain square because I think they will see revitalization as 
+FS gets more expensive and prices people out. For example, Bater-Hendricks and west of Woodruff place.
+A bit of a more suburban market would be Lawrence and Perry township. Although suburban Lawrence also 
+has some pretty tough areas.
+I tend to have stay-away zones for example North: between 30th and 38th, east/west between Crown Hill 
+and Fall Creek.
+
+High Return Real Estate (Jack Gibson):
+C class on the East side like Washington st., New York, Capital, Euclid (to name just a few) is where the 
+ROI is going to be strongest, as long as you have great property management, and price to rent ratio is 
+strong, you'll be in good shape in a lot of areas, there are no war zones in Indy.
+
+Californian Investor:
+Fountain square is a great area. Carmel and Fishers are going through tons of development also.
+Beech Grove is a great rental area, very old-timey feel and great renters in my experience.
+
+Pinnacle Investment Properties (Mike D'Arrigo ):
+There are several good B and C class neighborhoods. I like a lot of the areas in the Warren and Lawrence 
+townships and although most of those areas are fine, some are better than others so you really have to 
+know the neighborhoods. You really won't find anything below C class in these areas and you'll find some 
+nice B class areas. I particularly like the area south of 30th St and north of 10th St between Arlington 
+on the west and N. German Church on the east. I also like the Devington area between 42nd on the south 
+side and 46th to the north and Emerson on the west and Arlington on the east. There's a lot of other good 
+areas too but you have to be careful. Indianapolis can vary neighborhood to neighborhood and even street 
+to street. We sell turn keys in Indy and know the area well. Feel free to reach out if you'd like more insight.
+
+Ross Denman:
+Are you looking for long-term rentals or short-term holds. If you are looking for a 5 year investment 
+in the up and coming areas... follow the historic districts.
+
+Fountain Square
+Irvington
+Fall Creek
+Little Flower Parish
+Windsor Place
+Highland Park
+Brookside
+Tuxedo Park
+St Claire Place
+
+There's really more than can be listed. Be sure to have someone drive the street and ensure that you are 
+not purchasing in a ghost town though. While it's getting better, there are still streets in Indy where 
+all but 3 or 4 homes are boarded up, abandoned, and/or owned by the city. These are very difficult properties 
+to do anything with.
+
+The "short-term hold" strategy is to do a rental rehab and tenant it for about 5 years. It's not a big 
+money maker, but it will wash it's face. As soon as the area comes up enough... wait until your tenant 
+moves out (or don't renew their lease) and do an extensive rehab and sell the home and 200-300% of what 
+you have in it. I've seen this done a few times in Fountain Square. I know of people who had amazing deals 
+in Irvington and will probably sell a house that they have less than $100k in and will sell it for over $200k.
+
+If you are looking for your standard long-term rentals, the most common ones are going to be the 1960's-1970's 
+ranches in Lawrence and Warren areas on the East Side or Eagledale on the West Side. I prefer Eagledale to 
+Lawrence, but they're not that different as far as market rates, maintenance, rental rates, tenant demographic, 
+etc.
+
+I would recommend targeting homes that will rent for at least \$800/mo and have at least 1.5 baths. A study 
+that we did last year shows that we are having considerably higher tenant retention on homes with more than 
+1 bathroom. Families seem to outgrow bathroom space faster than anything
+We manage several rentals in Fountain Square and it's amazing with everything that has been done there, but 
+I feel that it may be in a bubble. It's hard to find "well-priced" deals and while the area is appreciating 
+like crazy, I am not sure that it can continue much further before being over valued.
+
+With that being said, the new tech jobs coming in to the downtown landscape is a huge catalyst for the 
+restorations of the historic neighborhoods. These young professionals love these beautiful homes. 
+There are some great opportunities to be had just outside of the FS area. There is a lot of activity in 
+Bates-Hendricks, Windsor Place, Highland Park, etc. The near East Side (St Claire Place) is starting to 
+come along but it's still another year or so before it sees any sustainable changes.
+
+Typically, the neighborhoods get better north of 56th St anywhere across town. 52nd St isn't too bad though. 
+The worst places in Lawrence are going to be around 38th St and 42nd St. I would look that the crime map 
+for that specific area. I use Trulia for this. I would also ensure that the rent will be $750/mo+ and 
+even better if it is $800/mo. That will put you on the higher end for the area.
+
+Random Investor:
+The list of prospective neighborhoods hasn't changed. I live in Broad Ripple and ride my bicycle everywhere. 
+Another one to check out is Tarkington Park. It's near 38th street (pretty rough) but I'm seeing good changes.
+
+N Post Road has notoriously bad crime. Rental rates will be around \$500-800 max.
+
+30th street to 42nd street and N Franklin Rd to N German Church Rd.? one of the most dangerous areas of 
+the city. Type in “police shootout post road Indianapolis” and look at how many different incidents come up. 
+this area has a bad reputation due to a couple of apartments on the corners of Post and 38th and Post and 42nd. 
+The further east that you move from Post, the lower the crime. These are lower income neighborhoods but the 
+typical rents will be $750-$800.
+
+In my opinon the 38th Street and Meridian, N Post Rd, 16th Street and Tibbs, and Washington Park neighborhood 
+are the most dangerous.
+
+Bate Hendricks neighborhood is often featured on the HGTV show Good Bones, as are the neighboring areas of 
+Fountain Square and Old Southside.
+Bates Hendricks is the neighborhood of the year in Indy as far as gentrification is concerned. 
+Bates-Hendricks is easily between a C-D area right now. It is coming back and with the explosion of growth in 
+Fountain Square there are some good deals.
+
+on Sutherland Ave. there are houses in the range of 300-500k. Two streets over, but still in the same 
+neighborhood, houses are 40-80k.
+That being said, some oareas that you will typically do well in are Broad Ripple, Carmel, Fishers, 
+Westfield, Zionsville.
+
+Right now our team is excited about the development in these neighborhoods:
+Twin Aire
+Christian Park
+South Fountain Square
+East Fountain Square
+Arsenal Heights
+Mapleton Fall Creek
+King Park
+Friends and Neighbors
+Garfield Park
+Bates-Hendricks (it's still possible to find a deal here but it's quickly becoming saturated)
+
+### High Return Real Estate - Indiana
+
+We chose Indy because of the opportunity.... not so much for the appreciation, but because Indy has SO 
+MANY things going for it for investors...
+
+- low prices
+
+- very good price-to-rent-ratios in the B class neighborhoods, and fantastic price-to-rent-ratios in the 
+C class neighborhoods,
+
+- low property taxes
+
+- very landlord friendly laws
+
+- major city with good transportation, good infrastructure, and solid employment
+
+Notice that appreciation is not on the above list. That said, Indy is going through somewhat of a 
+renaissance... there are pockets that are going crazy, but we are so focused on squeezing the most 
+ROI/cash flow that we don't really worry about appreciation. Oh sure, we will buy next to gentrifying 
+areas, and get some bleed-over. But, appreciation is ONLY meaningful when you sell or refi.
+
+If you're doing Buy/Hold, there's not a better city in the country to do it... but you can't put 
+appreciation into your numbers...it's conjecture/speculation, and you're doing yourself a disservice 
+if you're using those numbers in your calcs for a buy/hold purchase.
 
 
 

@@ -1,10 +1,34 @@
-### Foreclosures
+Foreclosures
+=========================
+1. Preforeclosure. The property is listed to be sold at a public auction. 
+Investors can purchase directly from the seller during the preforeclosure period.
 
-1. Preforeclosure. The property is listed to be sold at a public auction. Investors can purchase directly from the seller during the preforeclosure period.
+2. Public Auction. The property iss put up for public auction, usually at the county courthouse. 
+Investors bid on the property.
 
-2. Public Auction. The property iss put up for public auction, usually at the county courthouse. Investors bid on the property.
+3. Real Estate Owned. If the property doesn't sell at auction, it goes back to the lender. 
+Investors can purchase the property from the lender.
 
-3. Real Estate Owned. If the property doesn't sell at auction, it goes back to the lender. Investors can purchase the property from the lender.
+Sources of Foreclosures and Auctions:
+
+- U.S Dept of Housing and Urban Development (HUD)
+- Veterans Administration (VA)
+- Federal Housing Authority (FHA)
+- Federal National Mortgage Insurance Association (Fannie Mae)
+- Federal Home Loan Mortgage Corporation (Freddie Mac)
+- IRS
+- Property Tax Sales (check your local taxing authority)
+
+
+
+1. Preforeclosure. The property is listed to be sold at a public auction. Investors can purchase directly 
+from the seller during the preforeclosure period.
+
+2. Public Auction. The property iss put up for public auction, usually at the county courthouse. 
+Investors bid on the property.
+
+3. Real Estate Owned. If the property doesn't sell at auction, it goes back to the lender. Investors 
+can purchase the property from the lender.
 
 Sources of Foreclosures and Auctions:
 
@@ -36,11 +60,12 @@ publication - what hawaii calls the step of moving pre-forclosure to foreclosure
 Hawaii:
 
 1. you miss a payment - you get a late fee
-2. you miss 3 months and 1 day behind - now the state offers the lender the right to file the publication. Same for all states
-3. Once the lender files (they dont have too) this starts a 3 month clock. When that date hits, they lose their house
-4.
-
-Focus on the Pre-foreclosures here. This is where you start to apply your wholesale skills. Trying to solve peoples problems
+2. you miss 3 months and 1 day behind - now the state offers the lender the right to file the publication. 
+   Same for all states
+3. Once the lender files (they dont have too) this starts a 3 month clock. When that date hits, 
+   they lose their house
+4. Focus on the Pre-foreclosures here. This is where you start to apply your wholesale skills. 
+   Trying to solve peoples problems
 
 1. less competition
 2. less money

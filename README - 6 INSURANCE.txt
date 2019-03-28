@@ -195,3 +195,7 @@ then flip it over to builders risk
 
 DP1 - minimum amount to replace the loan
 DP3 - replacement cost
+
+
+
+

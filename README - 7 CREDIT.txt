@@ -27,35 +27,47 @@
 Definition - "A numerical representation that you will become 90 days late within the next two years"
 Important idea - "Good Credit is NOT just Not Bad Credit". Common misperception. You have to Build good credit.
 There are a lot of ways to get your "credit score". Each lender will use a different criteria or calculation.
-You don't actually have a "Credit Score". Its just a report that is calculated at that moment depending on a number of factors.
+You don't actually have a "Credit Score". Its just a report that is calculated at that moment depending on a 
+number of factors.
 
-There will always be errors in your credit report - its interesing how they get data (look at ALL the data then take away everything that is definitely not you) - broken algorithm - research this.
+There will always be errors in your credit report - its interesing how they get data (look at ALL the data 
+then take away everything that is definitely not you) - broken algorithm - research this.
 last name, first initial - date of birth - ssn
 Its often File Merge items vs identity theft that affect you...
 
-Identify theft - most of the time its a relative, child, parents, etc. But when people get ahold of your account and make unauthorized charges, its often considered identity theft too. But its usually not "identity theft" - more "hacked accounts".
-2 ways to view the world - live in fear constantly OR just monitor your accounts and just fix it when you find something odd/wrong. The latter is the way to go
+Identify theft - most of the time its a relative, child, parents, etc. But when people get ahold of your 
+account and make unauthorized charges, its often considered identity theft too. But its usually not 
+"identity theft" - more "hacked accounts".
+2 ways to view the world - live in fear constantly OR just monitor your accounts and just fix it when you 
+find something odd/wrong. The latter is the way to go
 
 ### 5 Factors to your credit score:
 
 1. Payment History 35% (193 points)
 
-   - To show up on your report it must be 30 calendar days late (29 is fine). This doesn't apply to the actual lender. If you are late there, they can change their terms/rates. Recency, Severity, and Frequency all factor in.
+   - To show up on your report it must be 30 calendar days late (29 is fine). This doesn't apply to the actual 
+     lender. If you are late there, they can change their terms/rates. Recency, Severity, and Frequency 
+     all factor in.
    - 30 calendar days will take 9 months to recover
    - 60 calendar days late takes 3 years to recover.
    - 90 calendar days late takes 7 years to recover. This one is especially bad for you.
-   - Charge off - when the company has written it off as a loss - it might have gone to a collection agency. This is super bad. If you owe a collection agency - get a payment for delete written in writing.
+   - Charge off - when the company has written it off as a loss - it might have gone to a collection agency. 
+     This is super bad. If you owe a collection agency - get a payment for delete written in writing.
 
 2. Utilization Ratio / Indebtedness 30% (165 points)
 
-   - Utilization Ratio: Non mortgage revolving lines of credt total (If coded correctly HELOC doesn't count, but bank might have not coded correctly so be careful) divided by the total of the limits of them. The number used is the balance on your monthly statement. So dont keep a high balance. This is the part of your credit score you have the biggest ability to affect.
+   - Utilization Ratio: Non mortgage revolving lines of credt total (If coded correctly HELOC doesn't count, 
+     but bank might have not coded correctly so be careful) divided by the total of the limits of them. 
+     The number used is the balance on your monthly statement. So dont keep a high balance. This is the part 
+     of your credit score you have the biggest ability to affect.
    - < 30 Good
    - 30-50 Neutral
    - > 50 Bad
    - 0 Not Great (Important to realize that zero balance is bad). So use ALL your cards at least once a month.
    - Strategy: pay down your balance to 1% 3-4 days before your credit date.
    - Average Age of file (all your cards) matters a lot too. 3-5 years u get respect, 5-10 is good, 10+ great
-   - Consistency of Cards makes a difference too. If you have a lot open, dont close them, if you dont have many open, dont keep opening new ones.
+   - Consistency of Cards makes a difference too. If you have a lot open, dont close them, if you dont have 
+     many open, dont keep opening new ones.
 
 3. Age of File 15% (83 points)
 
@@ -64,14 +76,17 @@ Identify theft - most of the time its a relative, child, parents, etc. But when 
 
 4. Mix of Credit 10% (55 points)
 
-   - As many diff types of credit as possible. Suggestion is: 1 Mortgage, 2 Credit Cards, 2 Autmobiles, 1 Installment loan.
+   - As many diff types of credit as possible. Suggestion is: 1 Mortgage, 2 Credit Cards, 2 Autmobiles, 
+     1 Installment loan.
 
 5. Inquries 10% (55 points)
 
    - Not important to credit report BUT important for approving of the loans
    - Soft Inquiry only appears to you, not to other lenders vs Hard Inquiry appears to others
-   - The bank doesn't know if you got approved for a lot of credit recently, and if you were declined, the bank will wonder why you were declined - basically increases the banks risks
-   - Inquiry Windows (If you go shopping for mortgages, auto, student they all count as 1, but credit cards are all counted separately)
+   - The bank doesn't know if you got approved for a lot of credit recently, and if you were declined, 
+     the bank will wonder why you were declined - basically increases the banks risks
+   - Inquiry Windows (If you go shopping for mortgages, auto, student they all count as 1, but credit 
+     cards are all counted separately)
    - 6 months - Banks will actively take a look at this
    - 1 year - How long they affect your credit score
    - 2 years - How long it stays on your report
@@ -89,9 +104,19 @@ Identify theft - most of the time its a relative, child, parents, etc. But when 
 
 ### Credit Card Interest, Billing Cylce and Grace periods
 
-In your CC Billing cycle you have a month's worth of charges that you can make and your CC Balance will slowly rise with each charge. At the end of the month (This just represents one month, but a month can be from jan 15-Feb 14 for example, not necssarily the 1st to the 31st), you will get a "Statement" of all the charges you made that month. This is different from your "Balance" which is all charges added up that you currently owe, including charges made after your "Statement" was calculated. The amount in the "Statement" will be due within the "Grace Period" - usually 21-25 days. If you pay the full amount then, you are charged nothing.
+In your CC Billing cycle you have a month's worth of charges that you can make and your CC Balance will 
+slowly rise with each charge. At the end of the month (This just represents one month, but a month can be 
+from jan 15-Feb 14 for example, not necssarily the 1st to the 31st), you will get a "Statement" of all the 
+charges you made that month. This is different from your "Balance" which is all charges added up that you 
+currently owe, including charges made after your "Statement" was calculated. The amount in the "Statement" 
+will be due within the "Grace Period" - usually 21-25 days. If you pay the full amount then, you are charged 
+nothing.
 
-HOWEVER!!! If you don't pay the full statement amount (even leave 1 dollar), then you will be charged interest on the balance you have been holding this second month (during the grace period), including any charges made within the grace period instantly and retroactively. Be careful of this - every charge is accruing interest PER DAY here. Use 4.5% APR(or whatever your APR is) / 365 days to get the daily interest charged.
+HOWEVER!!! If you don't pay the full statement amount (even leave 1 dollar), then you will be charged 
+interest on the balance you have been holding this second month (during the grace period), including any 
+charges made within the grace period instantly and retroactively. Be careful of this - every charge is 
+accruing interest PER DAY here. Use 4.5% APR(or whatever your APR is) / 365 days to get the daily interest 
+charged.
 
 Good Resource Explanation here:
 https://www.youtube.com/watch?v=8WuH3-PsjCA
@@ -100,7 +125,8 @@ https://www.youtube.com/watch?v=8WuH3-PsjCA
 
 If you need credit repair, Eric Counts and his team does magic in this area.
 You just aren't knowledgable enough in this space.
-Dont try to dispute credit errors on your own online! This will make it harder for Eric and his team later. When in trouble call:
+Dont try to dispute credit errors on your own online! This will make it harder for Eric and his team later. 
+When in trouble call:
 
 Creditnerds.com
 $199 credit audit$50 deletion fee per item
@@ -108,7 +134,8 @@ $199 credit audit$50 deletion fee per item
 
 ### 1.3.3. Business Credit
 
-You need to get a Dunns number (Dunn and Bradstreet?) which will be your profile num. The other two bureaus will get your profile after a lender reports
+You need to get a Dunns number (Dunn and Bradstreet?) which will be your profile num. The other two bureaus 
+will get your profile after a lender reports
 3 diff bureaus - D&B, Corp Equifax, Corp Experian
 2 years in operation
 Inquiries and Utilization doesnt affect your score (Anybody can pull your report)
@@ -135,7 +162,8 @@ any application where u give your SSN, they will pull your personal (try not to 
 - Making your Business legit:
   Mark Kohlers Address
   DK Accerlated LLC, DK Realty LLC, Hero Realty LLC, Dank Realty LLC
-  Google voice (Grasshopper for local numbers, can use as a fax too, and call forward to your personal line with a different ringtone - \$25/month)
+  Google voice (Grasshopper for local numbers, can use as a fax too, and call forward to your personal 
+  line with a different ringtone - \$25/month)
   Fax number - efax?
   GET - need to file
   Articles of Organization
@@ -147,7 +175,9 @@ any application where u give your SSN, they will pull your personal (try not to 
 
 ### Obtaining Business Credit
 
-- There is a process to get business credit. You need 3 referrals at each level, before the next level will consider you. You will need to spend about 80/100 for each line. Each line lasts 36th months. Ask to be invoiced and use your credit to pay.
+- There is a process to get business credit. You need 3 referrals at each level, before the next level will 
+consider you. You will need to spend about 80/100 for each line. Each line lasts 36th months. Ask to be 
+invoiced and use your credit to pay.
 
 1. UPS Store (1.5k credit), Quill/Uline, Grainger (1k credit)
 

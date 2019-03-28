@@ -37,14 +37,18 @@ You want to impress them and show them how organized and professional you are. O
 
 ---
 
-Hello! My is Daniel, and I'm an investor from Hawaii looking to invest in an Indianapolis rental property. I'm planning to purchase a duplex for \$96,000. I'm looking for a 30 year fixed loan with an interest rate of 5.5%. I can put down 20%. The following is a list of some of my information. Please take a look and tell me whether you have a program I would qualify for.
+Hello! My is Daniel, and I'm an investor from Hawaii looking to invest in an Indianapolis rental property. 
+I'm planning to purchase a duplex for \$96,000. I'm looking for a 30 year fixed loan with an interest rate of 
+5.5%. I can put down 20%. The following is a list of some of my information. Please take a look and tell me 
+whether you have a program I would qualify for.
 
 - I live out of state
 - My credit score is 760
 - My current DTI is 31%
 - I will have \$40,000 in reserves after the down payment
 
-If you don't have a program that I would qualify for, is there another institution you could recommend me to? Thank you very much for your time and consideration!
+If you don't have a program that I would qualify for, is there another institution you could recommend me to? 
+Thank you very much for your time and consideration!
 
 Daniel
 
@@ -89,21 +93,29 @@ seller financing.
 ### 1.2.1. Line of Credit (HELOC, or Personal LOC)
 
 The key thing to note, is that an LOC's interest is calculated PER DAY.
-You can get the daily interest by taking the APR (Example: 2.7%), dividing by 12 - to get the monthly interest, then dividing that by 30 to get the daily interest. (They do it like this vs dividing by 365 according to the renautus guys).
+You can get the daily interest by taking the APR (Example: 2.7%), dividing by 12 - to get the monthly interest, 
+then dividing that by 30 to get the daily interest. (They do it like this vs dividing by 365 according to the 
+renautus guys).
 
 Most Local banks have personal line of credit products - shop around and talk to other investors
 
 #### 1.2.2. HElOC
 
-HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is above the 20% amount. Lets use 20% as a base number - every bank will have their own products and criteria. You must always have at least 20% in equity in your property. Any equity over this 20% can be used as collateral for a line of credit against it. Example:
+HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is 
+above the 20% amount. Lets use 20% as a base number - every bank will have their own products and criteria. 
+You must always have at least 20% in equity in your property. Any equity over this 20% can be used as 
+collateral for a line of credit against it. Example:
 
 1. 100k home, with 20k of my money/equity. Since I'm at 20% and have nothing above the 20%, I cannot get a HELOC
 2. 100k home, with 40k of my money/equity. Since I'm over the 20% threshold by 20k, I can get a HELOC for 20k
 3. 100k home, with 80k of my money/equity. Since I'm over the 20% threshold by 60k, i can get a HELOC for 60k
 
-These often come with low 1.7-2% introductory APRs for the first year. You can do strategic things here - Once the introductory rate is over, you can pay it off or cancel and open another HELOC with another bank lol.
+These often come with low 1.7-2% introductory APRs for the first year. You can do strategic things here 
+- Once the introductory rate is over, you can pay it off or cancel and open another HELOC with another bank lol.
 
-One thing to note is that HELOC % is calculated by the day, so any balance used in a month will be charged interest. Credit Cards are charged at the end of the month. Use your Credit Card for daily purchases (you get points too) and only use your HELOC to pay off your CC as needed.
+One thing to note is that HELOC % is calculated by the day, so any balance used in a month will be 
+charged interest. Credit Cards are charged at the end of the month. Use your Credit Card for daily 
+purchases (you get points too) and only use your HELOC to pay off your CC as needed.
 
 ### 1.2.3. 401k/IRA (Individual Retirement Account)
 
@@ -131,7 +143,8 @@ One thing to note is that HELOC % is calculated by the day, so any balance used 
 
 ### Credit Cards
 
-Always increase your limits given the chance. This helps you to lower your utilization % which helps your credit score, and also gives you access to more emergency funds should you need it.
+Always increase your limits given the chance. This helps you to lower your utilization % which helps your 
+credit score, and also gives you access to more emergency funds should you need it.
 
 ### Self-Directed IRA
 
@@ -139,7 +152,8 @@ Always increase your limits given the chance. This helps you to lower your utili
 
 ### Tips
 
-Get as much funding as you can when possible. Its easier to take out 100k from the start, versus going for 20k, 20k, 40k, 20k in succession. Cool story of borrowing money from your friend using both methods.
+Get as much funding as you can when possible. Its easier to take out 100k from the start, versus going for 
+20k, 20k, 40k, 20k in succession. Cool story of borrowing money from your friend using both methods.
 
 ### Cash out Refinance Process
 
@@ -157,13 +171,22 @@ OR
    OR
    Put a mortgage on the property after purchase.
 2) This mortgage can be between you and your own LLC (Koala Investments)
-   You need to do two things: Make a note (agreement between you and Koala Investments) about how much the loan is for and the terms. In order to make it legitimate, then put realistic terms as far as interest (6%), and amoritization (10-30 year), but make a balloon payment after 5 years. This will be the reason you want to refinance out of it. The underwriters will ask less questions.
+   You need to do two things: Make a note (agreement between you and Koala Investments) about how much the loan 
+   is for and the terms. In order to make it legitimate, then put realistic terms as far as interest (6%), 
+   and amoritization (10-30 year), but make a balloon payment after 5 years. This will be the reason you want 
+   to refinance out of it. The underwriters will ask less questions.
 3) Talk to a lender about a mortgage refinance. Rules for a mortgage (no-cash) refinance are different  
-   from a straight cash out refinance. The rules for the latter are a lot more lenient. I guess when a lender is paying back another lender its different than giving the borrower cash. The "lenders" will want to talk to each other about you soon. So you need an employee (spouse, friend, etc) or board member for them to contact to vouch for the note agreement and to make sure you have been paying consistently.
+   from a straight cash out refinance. The rules for the latter are a lot more lenient. I guess when a lender 
+   is paying back another lender its different than giving the borrower cash. The "lenders" will want to talk 
+   to each other about you soon. So you need an employee (spouse, friend, etc) or board member for them to 
+   contact to vouch for the note agreement and to make sure you have been paying consistently.
 4) You will need to submit all your documentation of income, taxes, assets, debt etc, as well as have your
-   credit pulled. You will need to source any big deposits - remember and track this. I THINK you can use a huge deposit be marked as a loan from Koala Investments...
+   credit pulled. You will need to source any big deposits - remember and track this. I THINK you can use a 
+   huge deposit be marked as a loan from Koala Investments...
 5) The Lender will appraise the property (you will need to pay for this) - make sure to provide
-   documentation for the lender to start with that states the case for your appraised value you are trying to get. After the lender gets back the appraisal, you can also submit 3 comparables again for the appraiser to re-evaluate - or give him/her some reason to adjust the property value.
+   documentation for the lender to start with that states the case for your appraised value you are trying to 
+   get. After the lender gets back the appraisal, you can also submit 3 comparables again for the appraiser 
+   to re-evaluate - or give him/her some reason to adjust the property value.
 
 ### Notes
 
