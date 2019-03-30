@@ -1,31 +1,41 @@
-# PROCESSES
+===============================================================================
+  PROCESSES
+  Repeatable steps for specific Tasks that need to be accomplished regularly
+===============================================================================
 
----
-
-## RECONCILING FINANCES
-
-1. Open Personal Capital to the left and Finances to the right
+--------------------------------------
+RECONCILE BANK ACCOUNTS
+--------------------------------------
+1. Open Personal Capital/mint to the left and Finances Excel to the right
 2. Match the Totals together
 3. If a discrpency is found, then research and update
-4.
 
-Things to keep track of:
-Line of Credits - Auto payment established?
-Line of Credits - Associated checking - payment date, is there enough?
+1. Update LOC Payment Due Dates for ALL LOCs
+2. Validate there are enough funds for the AUTO Payment for ALL LOCs
+3. Validate there are enough funds for the AUTO Payment & Pending Transactions - BOH Checking
 
-Bank Account - Hawaii - Auto payments - enough for them?
+-----------------------------------------------
+RECONCILE INVESTMENTS
+-----------------------------------------------
+1. Match Bank accounts and Investments to make sure all transactions have been recorded w receipts
 
-1. 1,100 on the 1st for rent
-2. 81.92 CC BOH on the 21st
-3. 76.00 CC BOH on the 13th
-4. 14.51 CC Wells Fargo on the 1st
-5. XXXXX?? CC Chase on the 16th
 
-Bank Account - Hawaii - Pending Transactions - enough for them?
+---------------------------------------------
+UPLOAD RECEIPT FOR BUSINESS
+---------------------------------------------
+1. Take a Picture
+2. Upload the receipt using the Dropbox app
+3. Move the receipt to the correct folder and update the name (date_amount_location-of-purchase)
+4. Update the Finances Excel to reflect the purchase
 
-## Upload Receipt
 
-- upload, and store in right folder
-- reconcile and update finance doc
+------------------------------------------------
+ADD OR REMOVE A SUBSCRIPTION
+------------------------------------------------
+1. Add or remove the entry from the Finances Excel 
 
-## Sign up for new Subscription/Payment (or Cancel existing)
+
+
+
+
+
