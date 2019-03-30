@@ -1,9 +1,14 @@
-# 1. STEP BY STEP AFTER PROPERTY AQUISITION
+STEP BY STEP AFTER PROPERTY AQUISITION
+================================================
 
-## 1.1 Property Under Contract
+1. Property Under Contract
 
-## 1.2 Property Purchased
+2. Property Purchased
 
+
+
+After Purchase Task List
+-------------------------------
 1. Get Electricity turned on
 
 2. Get Water/Sewer/Gas turned on

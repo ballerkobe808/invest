@@ -1,5 +1,5 @@
-### Property Management & Questions to ask
-
+Property Management & Questions to ask
+================================================
 Find out more about the property management team and make sure you are comfortable working with them. 
 Nothing is more important to the success of your property or peace of mind, than the property management 
 company and their communication, responsiveness, and committment to excellence. 

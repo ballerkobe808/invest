@@ -1,9 +1,9 @@
-## 1.1. Getting Funding
+  Getting Funding
+============================
 
----
 
 ### 0.0.1. PULLING CREDIT
-
+--------------------------------------
 You have 14 days after an initial inquiry to apply with other lenders without affecting your credit.
 
 ### 1.1.1. PROCESS - Collect and organize needed documents/records
@@ -24,7 +24,7 @@ You want to impress them and show them how organized and professional you are. O
 - Proof of Federal Tax payment
 
 ### 1.1.2. PROCESS - Find a Lender
-
+----------------------------------------
 1. Google search Local Lenders near your property OR
    Get referrals from friends or BiggerPockets.
 
@@ -55,13 +55,13 @@ Daniel
 ---
 
 ### 1.1.4. Get Pre-qualification letter
-
+-----------------------------------------------
 Fill out the lenders application and get the prequalification letter.
 This is helpful for the seller/realtor when you are buying so they know you are serious.
 HOWEVER - Be careful because your credit will be pulled here - dont have it pulled unecessarily.
 
 ### 1.1.5. Questions to ask about the loan
-
+-------------------------------------------
     1. What is the length and type of the loan? (30 yrs, 27, etc) (fixed, arm, etc)
     2. What is the rate? (APR%) (If variable, minx max)
     3. Origination Fee? Other fees?
@@ -80,7 +80,7 @@ They will add points for different things:
 - Others - 20% down???
 
 ## 1.2. Sources and Types of Funding
-
+========================================
 conventional bank/credit union loan,
 portfolio bank loan,
 hard money lenders (3-5 points, 12-15% interest),
@@ -155,8 +155,10 @@ credit score, and also gives you access to more emergency funds should you need 
 Get as much funding as you can when possible. Its easier to take out 100k from the start, versus going for 
 20k, 20k, 40k, 20k in succession. Cool story of borrowing money from your friend using both methods.
 
-### Cash out Refinance Process
 
+
+### Cash out Refinance Process
+==========================================
 You can do a cash out refinance immediately for the purchase price.
 
 If you want to cash out for more than the purchase price you need to:
@@ -188,16 +190,17 @@ OR
    get. After the lender gets back the appraisal, you can also submit 3 comparables again for the appraiser 
    to re-evaluate - or give him/her some reason to adjust the property value.
 
-### Notes
 
+Notes
+----------------------
 Ridge Lending requirements:
 You can certainly do 20% down rather than 25%.
 The reason for the 25% down payment requirement on this property was the fact that it had 4 units.
 1 to 2 unit properties require 20% down
 3 to 4 unit properties will require 25% down payment
 
-### Current Lender questions
-
+Current Lender questions
+---------------------------------
 1. Can you do properties in Indiana?
 2. Can I do 20% on an investment property?
 3. Are you a lender, or a broker?

@@ -1,5 +1,5 @@
-### Find the Owner
-
+1. Find the Owner
+==================
 - ask neighbors who owner is - "I wanna buy this house and fix it up, but I can't find the owner"
 - mail postcard to empty address (Return address requested) post office will send it back to you
 - go to the courthouse and look up the property records - find the owner address
@@ -8,7 +8,8 @@
   - plan is to have them make a choice and also get a conversation going back and forth 
   - maybe figure out more their needs
 
-### Owners that would consider seller financing
+2. Owners that would consider seller financing
+===============================================
 
 1. Tired and burnt out
 2. Lives out of state
@@ -17,8 +18,8 @@
 5. Lare pre-payment penalty on loan
 6. Has property management problems
 
-### Negotiation Tips
-
+3. Negotiation Tips
+========================
 Buy based on Numbers - Dont get emotionally attached!!
 Be creative (Think out of the Box)
 If you solve their problem, they will sell you their property
@@ -30,8 +31,8 @@ If you solve their problem, they will sell you their property
 - listen more talk less
 - (find things in common, to bond over)
 
-4 negotiate the contract
-
+4. negotiate the contract
+===============================
 Great negotiators get what they want, without asking for it, and the other person thinks they won
 Dont bid first! - let them bring a number to the table first (whats your lowest offer?)
 Do it over the phone - its faster (use body languaage still - shake your head no - it sounds negative)
@@ -42,8 +43,8 @@ Wait 5 sec "Is that the best you can do?"
 Wait 5 sec "So, if I cant do \$80,000, we can't do business?"
 Practice this so it comes off natural
 
-### Reasons for a seller to do lease option
-
+5. Reasons for a seller to do lease option
+==========================================
 Lease option from an owner
 Committed to 5 years no vacancies
 No maint- take care of it like its my own i wanna buy it

@@ -1,5 +1,5 @@
-# BUSINESS
-
+BUSINESS
+======================
 Understand how things work, but always consult a CPA or RE Attorney
 
 ### 1.0.5. PROCESS - Creating an LLC

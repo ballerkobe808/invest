@@ -289,3 +289,17 @@ A) Knowing and understanding what laws Indiana does have regarding security depo
 B) Developing a system and process that you will adhere to consistently from Tenant to Tenant.
 
 Remember, the security deposit is the Tenant's money.
+
+
+
+
+### Gifts for Indiana Team
+----------------------------------
+
+Taylor's Bakery or Long's Donuts has really good sweets. Everyone in Indianapolis knows about it.
+
+My Sugar Pie in Zionsville, IN has nationally renowned pies. 
+You can set them up to receive a whole pie or to have them receive a pie a month for 3 months. 
+My clients loved them. You can have them do all of the shipping etc.
+
+I sent a package from Omaha Steak for about \$90 to both my realtor and PM for xmas last year.

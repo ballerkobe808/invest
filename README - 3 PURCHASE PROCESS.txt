@@ -1,5 +1,5 @@
-### 1.0.1. PROCESS - Purchase and Closing on the property
-
+ PROCESS - Purchase and Closing on the property
+===============================================================
 NOTE: Save all documentation with everything you do in an organized way! This will make life easier in the future.
 
 1. Submit Bid and reach an Negotiate with Seller - Get it under Contract!!!

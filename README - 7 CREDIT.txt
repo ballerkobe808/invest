@@ -1,9 +1,9 @@
-## 1.3. CREDIT
+CREDIT
+==============================
 
----
 
-### 1.3.1. Types of Credit
-
+Types of Credit
+------------------------------
 1. Personal Credit
    personal guarantee
    report to personal reports
@@ -22,8 +22,8 @@
    best limits
    harder to get
 
-### 1.3.2. Personal Credit
-
+1. Personal Credit
+-----------------------------------
 Definition - "A numerical representation that you will become 90 days late within the next two years"
 Important idea - "Good Credit is NOT just Not Bad Credit". Common misperception. You have to Build good credit.
 There are a lot of ways to get your "credit score". Each lender will use a different criteria or calculation.
@@ -132,8 +132,8 @@ Creditnerds.com
 $199 credit audit$50 deletion fee per item
 (average $1200-$1500)
 
-### 1.3.3. Business Credit
-
+2. Business Credit
+-------------------------------
 You need to get a Dunns number (Dunn and Bradstreet?) which will be your profile num. The other two bureaus 
 will get your profile after a lender reports
 3 diff bureaus - D&B, Corp Equifax, Corp Experian
@@ -195,3 +195,8 @@ Open as many credit cards as you can with no annual fee to have as much money av
 
 New rule - is this true?
 You can do as many hard inquiries on a single day and not have it affect your credit???
+
+
+3. Corp Credit
+----------------------
+Dont use this

@@ -21,41 +21,22 @@ Sources of Foreclosures and Auctions:
 
 
 
-1. Preforeclosure. The property is listed to be sold at a public auction. Investors can purchase directly 
-from the seller during the preforeclosure period.
-
-2. Public Auction. The property iss put up for public auction, usually at the county courthouse. 
-Investors bid on the property.
-
-3. Real Estate Owned. If the property doesn't sell at auction, it goes back to the lender. Investors 
-can purchase the property from the lender.
-
-Sources of Foreclosures and Auctions:
-
-- U.S Dept of Housing and Urban Development (HUD)
-- Veterans Administration (VA)
-- Federal Housing Authority (FHA)
-- Federal National Mortgage Insurance Association (Fannie Mae)
-- Federal Home Loan Mortgage Corporation (Freddie Mac)
-- IRS
-- Property Tax Sales (check your local taxing authority)
-
-### Foreclosure -
-
+Foreclosure Notes-
+===================================
 never do one for less than 30k
 It should never take you more than 15 hours to do one of these
 
 Mortgage (sometimes this is called a trustee in certain states)
 Types of Foreclosures
-non-judicial: (25 states Hawaii is one of these)
-judicial: is one that is done thru the court system
-strict: connecticut is the only one - its different
+  non-judicial: (25 states Hawaii is one of these)
+  judicial: is one that is done thru the court system
+  strict: connecticut is the only one - its different
 
-publication - what hawaii calls the step of moving pre-forclosure to foreclosure
-(30 other states use notice of defalt, notice of complaint, etc)
+  publication - what hawaii calls the step of moving pre-forclosure to foreclosure
+  (30 other states use notice of defalt, notice of complaint, etc)
 
-3 months - in hawaii - lender files publication then the auction happens
-(other states have diff amount of monthes, 1, 2, 5, 7 months etc)
+  3 months - in hawaii - lender files publication then the auction happens
+  (other states have diff amount of monthes, 1, 2, 5, 7 months etc)
 
 Hawaii:
 
@@ -85,7 +66,8 @@ publications must be in the paper or in the courthouse
 
 Power of Sale - Dont buy it and pay closing cost - just have the option to sell
 
-### Title search
+Title search
+------------------------
 
 Shows every lien or encumbrance
 
