@@ -240,3 +240,15 @@ Staging - poupori to spruce up the smell, Lights - keep it lighted and bright, M
 1. Paint using neutral colors
 2. Drive thru neighborhood see what other investors and builders are using - current trend?
 3. Same color paing and carpeting throughout
+
+
+
+
+
+Simplisafe - easy to go from property to property
+Tenant can buy the system too - no contract
+Order a verizon cell phone card - there are holes in coverage from other companies
+
+CONSTRUCTION SITES - Put in a simplisafe alarm
+
+

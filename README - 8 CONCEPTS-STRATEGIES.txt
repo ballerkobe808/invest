@@ -255,6 +255,7 @@ investors. I've seen too many investors build portfolios over 10-15 years that s
  all facets of your investment properties. While I don't recommend investing on speculative numbers, 
  the icing on the cake is often times better than the cake.
 
-### Using a land trust vs transfer to llc
 
-https://www.biggerpockets.com/renewsblog/llc-lending-problem/
+
+Pay using Credit Cards for a 2.5% fee
+https://www.plastiq.com/

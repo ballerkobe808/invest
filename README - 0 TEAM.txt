@@ -115,11 +115,32 @@ Here are the key members:
         can do sub 50k loans // 740 credit // 5.85% @ 20% // 5.25% @ 25% 
         Can also buy points down  
 
+      Bobby  - Fairway Independent Mortgage Corporation
+        credit report will be good for 120 days
+        They use fair issacs scale
+        45-47 DTI
+        FHA primary 57
+        They have no seasoning of a property held in an LLC - can be done all at once
+        21-30 days average turnaround
+        They do a soft pull again before closing so make sure you dont do anything funny
+        85 can do monthly pmi or one time pmi buyout
+        80 is prolly easier - TINY bit better interest
+        bigger loan - better interest 75k and above is better
+        Interest - Credit Score - zipcode tiny bit, LTV, loan amount
+
+Can take out a loan including the rehab??? Renovation loan - use final appraisal
+Renovation credit score starts at 700 credit score  
+
 4. Real Estate Attorney – Assists with purchase agreements, titles, and
    complicated transactions. Important for contracts and understanding
    the applicable laws in every step of the process.
 
       Mark Kohler -
+
+      Cohen and Garelick - They will act as our registered agent for FREE
+        325 fee - plus filing fee
+        150 yearly subscription every two years
+        Email them for an easy LLC Formation process!!
 
 5. Contractor – Person or company that performs and oversees the
    construction of the property. A good general contractor is priceless to

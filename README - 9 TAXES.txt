@@ -165,7 +165,9 @@ Married Filing Jointly
 
 ### Capital Gains Tax
 
-1. You pay 15% profit on any gains you make when you sell something.
+1. You pay 15% profit on any gains you make when you sell something. 
+   Long Term is less than Short term???
+   Tax bracket can push you higher???
 
 2. If you hold it for a year you pay less - long term capital gains vs short term
 

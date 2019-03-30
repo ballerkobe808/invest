@@ -20,7 +20,7 @@ You have to be a licensed real estate agent to manage properties in Indiana
 ============================
 General Contractors
 ============================
-It is easy to become a General Contractor $247 dollars
+It is easy to become a General Contractor - sign up for $247 dollars
 Red Flags
 1. They dont pull permits
 2. If you ask "What are you good at?" And they say "everything" - nobody can be good at everything
