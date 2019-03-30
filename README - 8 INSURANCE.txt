@@ -1,3 +1,4 @@
+
 ### Insurance Types
 
 1. Homeowner policy

@@ -1,14 +1,8 @@
-STEP BY STEP AFTER PROPERTY AQUISITION
-================================================
 
-1. Property Under Contract
+AFTER PURCHASE CHECKLIST
+List of things to do after purchase is complete/near completion
+===================================================================
 
-2. Property Purchased
-
-
-
-After Purchase Task List
--------------------------------
 1. Get Electricity turned on
 
 2. Get Water/Sewer/Gas turned on
@@ -19,8 +13,8 @@ After Purchase Task List
 
 5. Get HOA, yardwork, snow service, maint payment/service setup
 
-6. Put into LLC??
+6. Add property to investment sheet (keep track of payments, etc)
 
-7. Add property to investment sheet (keep track of payments, etc)
+7. Keep track of Mortgage (Insurance, property taxes)
 
-8. Keep track of Mortgage (Insurance, property taxes)
+8. Put into LLC??
