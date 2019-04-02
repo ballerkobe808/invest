@@ -25,7 +25,6 @@ Try not to put your name on the LLC if possible - usually not needed, so dont if
 Subscription agreement - you get 100 shares in your LLC?
 you dont own the LLC, you own shares of the LLC
 
-
 Property management agreement - make sure there is a clause for attorney fees in case for evictions
 
 Sometimes the lease is between the prop manager and the tenant so the prop manager can take care of stuff.
@@ -33,20 +32,14 @@ This COULD be an issue if the prop manager doesnt do his job - you dont have a c
 
 
 
-
-When Signing up for a Business Checking------
-
+When Signing up for a Business Checking
+-------------------------------------------
 Sometimes you need to show the members who can sign - this is bank specific.
 If NEEDED, you can have them create an operating agreement or whatever you need 
 (will need to pay them hourly to create this - prolly $300?)
 
 
-
-
-
-
-### Using a land trust vs transfer to llc
-
+Using a land trust vs transfer to llc:
 https://www.biggerpockets.com/renewsblog/llc-lending-problem/
 
 

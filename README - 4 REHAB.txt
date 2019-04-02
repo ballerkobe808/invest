@@ -1,5 +1,5 @@
-# REHAB
-
+REHAB
+========================
 The actual rehabing starts far before the house is bought. 
 Prospecting, analyzing, and estimating costs all play a part in the process. 
 The Book "Flip" outlines the entire process. 

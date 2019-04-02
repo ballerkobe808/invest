@@ -64,11 +64,21 @@ Here are the key members:
 
 2. Real Estate Agent – A person who represents buyers or sellers of
    properties and land, for a commission. Good agents know their market,
-   can bring deals to you, and have marketing reach.
+   can bring deals to you, and have marketing reach. Get them from referrals.
+   Dont use other methods - Zillow/Yelp, etc.
 
       MaryBeth Cambre (Indiana) - Will kickback to Paul Xavier
-      Ed New (Indiana) - Neu Realty - Will kickback to Paul Xavier
-      Zac Canull (Indiana) - Liv Indy (Helped with 4440 Evanston - moved diff company)
+      Ed Neu (Indiana) - Neu Realty - Will kickback to Paul Xavier
+        ed@neurealestate
+        www.neurealestategroup.com
+
+      Ironclad Group - Dustin Ruhl - Will kickback to Paul Xavier
+        dustin@ironclad.group
+        ironclad.group  
+        Has a full fix and flip process they will walk me through or can buy turnkey ready properties
+      
+      Zac Canull (Indiana) - Liv Indy (Helped with 4440 Evanston - moved to diff company)
+      Ryan Boyd (Indiana) - Met off BiggerPockets, seems hungry, investor friendly
       Rich Green (Indiana) - Indy home pros (worked on Quad together)
       Blake Terry (Indiana) - Forney Realty Group (Youth Pastor?)
 
@@ -81,21 +91,21 @@ Here are the key members:
    the financial viability of making an offer on the property, as well as to
    generate leads.
 
-      SecurityNational Mortgage Company 
-        Aaron Chapman (Indiana) quick refi - quick rent counting to dti
-        This guy is ok with the lending of my own LLC strategy, and even gave me some advice on how to 
-        make the most of the refinance by putting my contractor expenses in escrow during the purchase.
+      SecurityNational Mortgage Company - Aaron Chapman
+         (Indiana) quick refi - quick rent counting to dti
+          This guy is ok with the lending of my own LLC strategy, and even gave me some advice on how to 
+          make the most of the refinance by putting my contractor expenses in escrow during the purchase.
 
-      Andrew Postell - Texas - Gateway Mortgage Group LLC - 85% refi - quick refi
-      Jason Dew (Indiana) - Gateway Mortgage Group LLC
+      Gateway Mortgage Group LLC (Texas) - Andrew Postell -  BiggerPockets guy -
+      Gateway Mortgage Group LLC - Jason Dew (Indiana) - 
       Caeli Ridge - Anywhere - Ridge Lending Group - has portfolio loans similar to conventional
       Mack Howell (Indiana) - Primelending - rates never beat
       Graham W Parham - Anywhere - Highlands Mortgage
 
-      -- Lenders ---
       PenFed - Ivan at Cashflow got a good Heloc from them
+        Looks like you can do HELOCs on investment properties - referenced by many other investors
 
-      Tarik Shahin - Wells Fargo
+      Wells Fargo- Tarik Shahin - 
         No min!! (Normally 50k)
         950 processing fee + 80 tax svc (1030) - standard for Indiana
         0 points, but can buy rate down with points up front
@@ -116,6 +126,8 @@ Here are the key members:
         Can also buy points down  
 
       Bobby  - Fairway Independent Mortgage Corporation
+        bobbiek@fairwaymc.com
+        bmortgageking.com
         credit report will be good for 120 days
         They use fair issacs scale
         45-47 DTI
@@ -128,16 +140,20 @@ Here are the key members:
         bigger loan - better interest 75k and above is better
         Interest - Credit Score - zipcode tiny bit, LTV, loan amount
 
-Can take out a loan including the rehab??? Renovation loan - use final appraisal
-Renovation credit score starts at 700 credit score  
+        Can take out a loan including the rehab??? Renovation loan - use final appraisal
+        Renovation credit score starts at 700 credit score  
 
 4. Real Estate Attorney – Assists with purchase agreements, titles, and
    complicated transactions. Important for contracts and understanding
    the applicable laws in every step of the process.
 
       Mark Kohler -
+        800 fee to setup LLC, plus filing fee
+        Uses RASI services as registered agent - $125 a year - cant use them as a mailbox
 
       Cohen and Garelick - They will act as our registered agent for FREE
+        Jeffrey A Adams - Attorney-at-Law, referred by Paul Xavier
+        www.cgglawfirm.com jadams@cgglawfirm.com
         325 fee - plus filing fee
         150 yearly subscription every two years
         Email them for an easy LLC Formation process!!
@@ -148,14 +164,22 @@ Renovation credit score starts at 700 credit score
    time, and works within the budget.
 
       Chris Faulk (Indiana) - Platinum Construction (not happy w him so far..)
+
       Todd Rudical (Indiana) - Urban Indy, will manage and find good contractors for me
         There is a fee $2500 min - See email for fee structure
+
+      IndyHousesPlus - Russ Smith - friends with Paul Xavier 
+        Construction, Whole Solutions - Paul said he is on the slower side
+        russ@indyhousesplus.com  
 
 6. Escrow Agent or Title Rep – A neutral third party who holds funds and
    documents in a real estate transfer. Essential for closing deals quickly;
    find one who will have your back.
 
       Liberty Title (Indiana) - Jamie Justice 
+        Helped put mortgages on my properties and get the self LLC lending concept
+        very easy to work with
+
       Meridian Title (Indiana) - Lynn Minick (Dont use them - not helpful)
 
 7. Accountant – A person responsible for inspecting or keeping
@@ -172,7 +196,12 @@ Renovation credit score starts at 700 credit score
    the property and get insurance coverage through a knowledgeable
    source to cover your potential liability.
 
-      NREIG - 
+      NREIG - Currently use them for my properties
+
+      Hein Insurance Agency - Justin Hein
+        referred by Paul Xavier, based in Indy
+        hien.insurance@yahoo.com
+        www.hein-insurance.com
 
 9. Supportive Family & Friends – A network of people who care about
    you and your best interests. This is always important, no matter
@@ -196,6 +225,11 @@ Renovation credit score starts at 700 credit score
     of renovations and determine whether they want to purchase the
     property.
 
+      Security Home Inspections - Patty Thornberry 
+        Husband wife company referred by Paul Xavier
+        pthornberry@securityhomeinspection.com
+        www.securityhomeinspection.com  
+
 12. Property Manager – Oversees the operations, landscaping, and
     maintenance of a property and handles terms with tenants, such as
     collecting rent and filing for evictions. If you don’t want to or can’t
@@ -203,21 +237,26 @@ Renovation credit score starts at 700 credit score
     to have someone do it for you.
 
         
-        Elisha Drake (Indiana) - Esquared pg (owner)
-        DawntillDusk Property Management - Paul Rees - 
-        IndyHousesPlus - Jessica (through Russ)
-        BHB Property Management - Black team - lots of bad reviews - even from people using them from Hawaii
+      Elisha Drake (Indiana) - Esquared pg (owner)
+      
+      DawntillDusk Property Management - Paul Rees - 
+      
+      IndyHousesPlus - Jessica (through Russ)
+        Russ Smith - Owner, Jessica Kamdar - Prop Manager
+        russ@indyhousesplus.com, jessica@indyhousesplus.com
+
+      BHB Property Management - Black team - lots of bad reviews - even from people using them from Hawaii
 
 13. Handyman – A person who can do household repairs and minor
     renovations. A capable handyman is great for dealing with small
     building issues in a rental property
 
-        Josiah Sugiura - Hawaii
-        Chris Green - Hawaii
-        Talbert Doi - Hawaii
-        Mark Kaneshiro - Hawaii - ??
+      Josiah Sugiura - Hawaii
+      Chris Green - Hawaii
+      Talbert Doi - Hawaii
+      Mark Kaneshiro - Hawaii - ??
 
-        Paul Rees' team
+      Paul Rees' team
 
 14. Virtual assistants – Provide administrative assistance from a home
     office. They help you follow up on leads, phone calls, and emails and

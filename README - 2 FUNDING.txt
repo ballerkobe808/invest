@@ -2,11 +2,12 @@
 ============================
 
 
-### 0.0.1. PULLING CREDIT
+PULLING CREDIT
 --------------------------------------
 You have 14 days after an initial inquiry to apply with other lenders without affecting your credit.
 
-### 1.1.1. PROCESS - Collect and organize needed documents/records
+PROCESS - Collect and organize needed documents/records
+=========================================================
 
 Get all the documents you will need and into a neat and organized folder structure.
 Have a financial statement, Resume, and Business Plan
@@ -23,7 +24,8 @@ You want to impress them and show them how organized and professional you are. O
 - Aalii contract and agreement?
 - Proof of Federal Tax payment
 
-### 1.1.2. PROCESS - Find a Lender
+
+ PROCESS - Find a Lender (For something specific you cant to already)
 ----------------------------------------
 1. Google search Local Lenders near your property OR
    Get referrals from friends or BiggerPockets.
@@ -34,8 +36,6 @@ You want to impress them and show them how organized and professional you are. O
    Portfolio lender (county you are looking in)
 
 2. Send them an email like this:
-
----
 
 Hello! My is Daniel, and I'm an investor from Hawaii looking to invest in an Indianapolis rental property. 
 I'm planning to purchase a duplex for \$96,000. I'm looking for a 30 year fixed loan with an interest rate of 
@@ -54,13 +54,14 @@ Daniel
 
 ---
 
-### 1.1.4. Get Pre-qualification letter
+Get Pre-qualification letter
 -----------------------------------------------
 Fill out the lenders application and get the prequalification letter.
 This is helpful for the seller/realtor when you are buying so they know you are serious.
 HOWEVER - Be careful because your credit will be pulled here - dont have it pulled unecessarily.
 
-### 1.1.5. Questions to ask about the loan
+
+Questions to ask about the loan
 -------------------------------------------
     1. What is the length and type of the loan? (30 yrs, 27, etc) (fixed, arm, etc)
     2. What is the rate? (APR%) (If variable, minx max)
@@ -68,7 +69,7 @@ HOWEVER - Be careful because your credit will be pulled here - dont have it pull
     4. Any points up front to lower rate?
     5. Is there a pre-payment penalty?
 
-### Loan Points explanation
+Loan Points explanation:
 
 Lender starts out at a base rate based on your credit score, assets, dti, current federal rates.
 5.00%
@@ -79,7 +80,14 @@ They will add points for different things:
 - Multifamily - .25%
 - Others - 20% down???
 
-## 1.2. Sources and Types of Funding
+
+
+
+
+
+
+
+Sources and Types of Funding
 ========================================
 conventional bank/credit union loan,
 portfolio bank loan,
@@ -90,8 +98,8 @@ credit cards,
 401k/IRA,
 seller financing.
 
-### 1.2.1. Line of Credit (HELOC, or Personal LOC)
-
+Line of Credit (HELOC, or Personal LOC)
+---------------------------------------------
 The key thing to note, is that an LOC's interest is calculated PER DAY.
 You can get the daily interest by taking the APR (Example: 2.7%), dividing by 12 - to get the monthly interest, 
 then dividing that by 30 to get the daily interest. (They do it like this vs dividing by 365 according to the 
@@ -99,8 +107,8 @@ renautus guys).
 
 Most Local banks have personal line of credit products - shop around and talk to other investors
 
-#### 1.2.2. HElOC
-
+HElOC
+-----------------------
 HELOCs are Home Equity Lines of Credit. It is a line of credit against the equity in your property that is 
 above the 20% amount. Lets use 20% as a base number - every bank will have their own products and criteria. 
 You must always have at least 20% in equity in your property. Any equity over this 20% can be used as 
@@ -117,8 +125,8 @@ One thing to note is that HELOC % is calculated by the day, so any balance used 
 charged interest. Credit Cards are charged at the end of the month. Use your Credit Card for daily 
 purchases (you get points too) and only use your HELOC to pay off your CC as needed.
 
-### 1.2.3. 401k/IRA (Individual Retirement Account)
-
+401k/IRA (Individual Retirement Account)
+------------------------------------------
 - Pretax dollars put here (so you get more bang for your buck)
 - Reduces income tax (money contributed is not counted as income)
 - Must be 60 to withdraw penalty free, otherwise 10% penalty
@@ -126,14 +134,14 @@ purchases (you get points too) and only use your HELOC to pay off your CC as nee
 - 401k - 18k limit as of 2017, IRA 5.5k limit as of 2017
 - Compound interest is POWERFUL!!!
 
-#### 1.2.3.1. Datahouse 401k
-
+Datahouse 401k
+------------------------
 - Datahouse is matching 20% of your investment up to 2400. Its added as a lump sum once a year in July.
 - You have been averaging 10% yearly returns from your mutual funds investment.
 - You can stop any time, but open enrollment is Dec to change amounts (for Jan implementation)
 
-#### 1.2.3.2. Borrowing from your 401k
-
+Borrowing from your 401k
+------------------------------------------
 - You can borrow either 50% or 50k - whichever is less
 - You have to pay back in 5 years unless its for a primary residence, or hardship, or special circumstance
 - You will pay back interest but the interest all goes back to you
@@ -141,23 +149,23 @@ purchases (you get points too) and only use your HELOC to pay off your CC as nee
 - Penalty for early withdrawal is 10%
 - When you take it out for real, you pay income tax on it (Unless its a Roth)
 
-### Credit Cards
-
+Credit Cards
+-----------------------
 Always increase your limits given the chance. This helps you to lower your utilization % which helps your 
 credit score, and also gives you access to more emergency funds should you need it.
 
-### Self-Directed IRA
+Self-Directed IRA
+------------------------
 
-### Some other Retirement fund?
 
-### Tips
-
+General Tips
+--------------------------
 Get as much funding as you can when possible. Its easier to take out 100k from the start, versus going for 
 20k, 20k, 40k, 20k in succession. Cool story of borrowing money from your friend using both methods.
 
 
 
-### Cash out Refinance Process
+Cash out Refinance Process
 ==========================================
 You can do a cash out refinance immediately for the purchase price.
 
@@ -214,8 +222,9 @@ I'm looking for a 30 year fixed on a property that was just appraised at 95k - 2
 
 Talk to a lot of lenders to get the terms that you want - Ask Around!!
 
-### General Lender requirements
 
+General Lender requirements
+===========================================
 Any funds need 60 days of seasoning (or an explanation) - 2 bank statements
 Your DTI and Credit Score affect your rate and ability to get a loan
 You need 6 months of reserves (6 principle and interest payments)

@@ -23,9 +23,6 @@ Sources of Foreclosures and Auctions:
 
 Foreclosure Notes-
 ===================================
-never do one for less than 30k
-It should never take you more than 15 hours to do one of these
-
 Mortgage (sometimes this is called a trustee in certain states)
 Types of Foreclosures
   non-judicial: (25 states Hawaii is one of these)
@@ -68,7 +65,6 @@ Power of Sale - Dont buy it and pay closing cost - just have the option to sell
 
 Title search
 ------------------------
-
 Shows every lien or encumbrance
 
 - if anything shows up - you have to take it one extra step

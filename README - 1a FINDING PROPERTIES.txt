@@ -16,19 +16,18 @@ Keys to a property you want:
 Rental Portfolio
 -----------------------
 
-- Single/Multifamily Rentals with over 1.2% Rent to Value ratio.
-- Be aware of too good to be true 2% RtV 
+1. Single/Multifamily Rentals with over 1.2% Rent to Value ratio.
+2. Be aware of too good to be true 2% RtV 
   - often bad neighborhoods and not worth the headache 
   - tip from experienced investors 
   - also beware maint costs 
   - same price for new HVAC in 50k and 100k house
-- Solid Property Management 
-- either in place or able to connect with some 
-  (So important! This is a make or break aspect - can make life terrible or awesome later)
-- Great Locations!! This is very important. I want somewhere that people will want to rent, 
-  and that will be easy to manage. One eviction = thousands in damage, vacancy, legal fees, etc. 
-  Don't just look at spreadsheet numbers
-- Turnkey Hotspots: ![](lib/Turnkey-heat-map-8-16.jpg)
+3. Solid Property Management 
+  - either in place or able to connect with some 
+    (So important! This is a make or break aspect - can make life terrible or awesome later)
+4. Great Locations!! This is very important. I want somewhere that people will want to rent, 
+    and that will be easy to manage. One eviction = thousands in damage, vacancy, legal fees, etc. 
+    Don't just look at spreadsheet numbers
 
 Single Family vs Multi Family
 --------------------------------
@@ -51,7 +50,6 @@ MultiFamily:
 
 Business Cards
 ---------------------
-
 Have Contact Info
 "If I close on a real estate transaction due to your referral I will send you a check for \$500."
 A realtor cannot pay a finders fee (but i can)
@@ -59,7 +57,6 @@ Guys like delivery drivers, postman, etc are driving around all the time
 
 Leads
 ------------
-
 1. Wholesale lists (Get on some good ones!)
 2. Investor friends, family, coworkers (Business Card)
 3. Realtor Agents
@@ -69,89 +66,7 @@ Leads
 7. Foreclosures: Local Auctions
 8. Other online sites: repropfinder.com, Foreclosures.com, Auction.com, HUDHomestore, Fannie Mae Homepath.com
 9. Syndication crowd funding:
-
-Online Searches (Now obsolete once you have friends, contacts, and are in the system)
--------------------------------------------------------------------
-realtor.org
-realtrends
-bestplaces.com
-realtytrack.com
-city-data.com
-realtor.com
-streeteasy.com
-national re franchise websites
-realtor office and websites
-bestplaces.net
-case-shiller index - shows prices over time
-
-18 keywords to look for when searching craigslist:
-motivated, reduced, owner may finance (owf omf), pre-foreclosure, foreclosure, short sale,
-divorce, reo, probate, estate, relocation/relo, owner will carry /owc, fire or storm damage, tlc, fixer,
-investor, discount, bring,
-
-www.propertyauction.com
-www.realtybid.com
-www.auction.com
-www.williamsauction.com
-us treasury
-hud.gov
-fsbo.com
-forsalebyowner.com
-owners.com
-facebook
-instagram
-twitter
-newspaper classifieds (online too)
-50states.com
-renatus ios???
-
-Wholesale/Agent List
------------------------
-Dallas, TX
-
-- Kerri -
-  Teds Contact w husband David
-
-- Homewood Properties Inc -
-  Randy Quay, President
-  randy@homewoodproperties.com
-  Mobile 214-586-4000
-
-- NetWorth Realty of Dallas -
-  Mark Smithey
-  msmithey@networthdfw.com
-  Senior Acquisitions Associate
-  (469) 265-6737 Cell
-  www.networthrealtyusa.com
-
-- myershomebuyers.com -
-  Brett Lane
-  brett@myershomebuyers.com
-
-- Michael White -
-  michael@bnmventures.com
-
-- Sarah Rudy -
-  Sarah Rudy <rhom@live.com>
-  Prop Manager/Realtor/Owner turnkeyonline
-  Lee Waters (Realtor)
-  lee@turnkeyreonline.com
-
-- Norada -
-  Melissa N.
-  Norada Real Estate Investments
-  (949) 218-6668 x5
-  (800) 611-3060
-  www.NoradaRealEstate.com
-
-- Reitrader -
-  Jonathan Mednick, Managing Director
-  REI Trader, LLC
-  2320 Highland Ave. Suite 150
-  Birmingham, AL 35205
-  Cell: 954.383.6218
-  Direct: 205.924.5045
-  Office: 205.512.3040
+10. Probate??
 
 - www.happyinvestor.com-
   Signed up
@@ -167,27 +82,7 @@ Dallas, TX
   Talking to the guy and hes gonna put me on the wholesaler list
 
 
-PROCESS - Finding New Agents
-------------------------------------
-Look on Zillow (Zillow.com/agent-finder.) or Yelp and send an email to the agent with the following information:
 
-1. That you are an investor who understands real estate
-2. What specifically you are looking for
-3. How you intend to purchase (loan, cash, and so on)
-4. How you heard about the agent
-
-Sample Email:
-
-Hello! My name is Daniel and I'm a real estate investor from Hawaii. ... etc
-
-
-Probate
----------------
-Deal of the Decade in Essentials goes over this
-
-
-Reward the people who bring you deals!
-Look for win-win relationships
 
 PROCESS - Assess the Neighborhoods Desirability
 ---------------------------------------------------------
@@ -360,3 +255,100 @@ their own property management through a different company they own or they will 
 management to a 3rd party in which they have a partnership with. Either way works however be sure to ask 
 the property management team the questions below.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Searches (Now obsolete once you have friends, contacts, and are in the system)
+-------------------------------------------------------------------
+realtor.org
+realtrends
+bestplaces.com
+realtytrack.com
+city-data.com
+realtor.com
+streeteasy.com
+national re franchise websites
+realtor office and websites
+bestplaces.net
+case-shiller index - shows prices over time
+
+18 keywords to look for when searching craigslist:
+motivated, reduced, owner may finance (owf omf), pre-foreclosure, foreclosure, short sale,
+divorce, reo, probate, estate, relocation/relo, owner will carry /owc, fire or storm damage, tlc, fixer,
+investor, discount, bring,
+
+www.propertyauction.com
+www.realtybid.com
+www.auction.com
+www.williamsauction.com
+us treasury
+hud.gov
+fsbo.com
+forsalebyowner.com
+owners.com
+facebook
+instagram
+twitter
+newspaper classifieds (online too)
+50states.com
+renatus ios???
+
+
+
+
+Archived Unsed Leads
+===========================
+- Sarah Rudy -
+  Sarah Rudy <rhom@live.com>
+  Prop Manager/Realtor/Owner turnkeyonline
+  Lee Waters (Realtor)
+  lee@turnkeyreonline.com
+
+- Norada -
+  Melissa N.
+  Norada Real Estate Investments
+  (949) 218-6668 x5
+  (800) 611-3060
+  www.NoradaRealEstate.com
+
+- Reitrader -
+  Jonathan Mednick, Managing Director
+  REI Trader, LLC
+  2320 Highland Ave. Suite 150
+  Birmingham, AL 35205
+  Cell: 954.383.6218
+  Direct: 205.924.5045
+  Office: 205.512.3040
+
+- Kerri -
+  Teds Contact w husband David
+
+- Homewood Properties Inc -
+  Randy Quay, President
+  randy@homewoodproperties.com
+  Mobile 214-586-4000
+
+- NetWorth Realty of Dallas -
+  Mark Smithey
+  msmithey@networthdfw.com
+  Senior Acquisitions Associate
+  (469) 265-6737 Cell
+  www.networthrealtyusa.com
+
+- myershomebuyers.com -
+  Brett Lane
+  brett@myershomebuyers.com
+
+- Michael White -
+  michael@bnmventures.com

@@ -251,7 +251,9 @@ W-2 - Employers file this - tells u how much your employer gave u
 
 Schedule C - For self employed income
 
-Schedule E - Rental property Income
+Schedule E - Rental property Income 
+
+K1 - Multimember LLCs will generate K1s for each partner (then each partner uses this on their personal returns)
 
 ### IRS Types of income
 ===========================
