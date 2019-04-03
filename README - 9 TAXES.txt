@@ -250,9 +250,9 @@ W-2 - Employers file this - tells u how much your employer gave u
 1098T - students show how much tuition paid?
 
 Schedule C - For self employed income
-
 Schedule E - Rental property Income 
 
+1065 partnership return (Form 1065)
 K1 - Multimember LLCs will generate K1s for each partner (then each partner uses this on their personal returns)
 
 ### IRS Types of income
