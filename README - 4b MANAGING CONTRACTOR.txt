@@ -19,3 +19,10 @@ Personal
 2. Include appliances and hookup
 3. Specify Flat paint ceilings - not popcorn, same with walls
 4. Vinyl plank - you can even order from lowes yourself 
+
+
+Make an agreement - Make Daniel Happy
+If finished early or under budget, throw a bonus toward the contractor
+If late, then late fees for each day/week late.
+
+

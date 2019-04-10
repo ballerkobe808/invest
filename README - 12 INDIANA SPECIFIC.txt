@@ -58,26 +58,10 @@ Neighborhoods from Buying Tour
 
 ================================
 
-3709 kenwood black neighborhood
-Often water shared in duplexes
 
-Mlk black neighborhood? 
 
-862 s worth. White neighborhood
-
-78 Schiller white neighborhood
-
-Rural n 10th white neighborhood
-
-413 oxford white neigjborhood
-3 meters 3 parking stalls
-Owner pays water
 
 Gray. White neighborhood
-
-Arthington. Black neighborhood
-
-
 
 
 

@@ -255,6 +255,8 @@ Schedule E - Rental property Income
 1065 partnership return (Form 1065)
 K1 - Multimember LLCs will generate K1s for each partner (then each partner uses this on their personal returns)
 
+Form 709 - Gift Tax
+
 ### IRS Types of income
 ===========================
 
@@ -429,3 +431,32 @@ What about my brother/friend going 50/50 with me on a house? What if we dont use
 - easier to just claim it as a gift?
 Best strategy for that
 Can other people contribute to my LLC?
+
+Gift Tax
+==================================
+The lifetime exemption
+Speaking of the taxable value of an estate, it's important to mention that the gift tax and 
+the estate tax systems in the United States are connected. Estate taxes are only assessed on 
+estates valued at $5.45 million or more for the 2016 tax year, and $5.49 million or more for 
+the 2017 tax year. These amounts are known as the lifetime exemption.
+
+The lifetime exemption amount applies to gifts as well. After you reach the $14,000 annual 
+exclusion, the excess reduces your lifetime exemption. There's no way of knowing what the 
+lifetime exemption will be in the year you die, so the IRS keeps a running total of your 
+taxable gifts each year (more on that later).
+
+If you made a gift larger than $14,000 this year
+Generally speaking, if you make a gift of $14,000 or more to any one person in a calendar year, 
+you need to let the IRS know about it by filing IRS Form 709 with your taxes unless it qualifies 
+for one of the other exceptions discussed in the previous section. However, unless the amount of 
+the gift greater than the annual exclusion puts you over the lifetime exemption, no tax will be due 
+on the gift. Instead, the taxable portion of the gift simply lowers your lifetime exclusion.
+
+For example, let's say that you give $50,000 to your children to use as a down payment on a home. 
+For simplicity's sake, we'll assume you're single. The first $14,000 of this gift is automatically 
+excluded from taxation. The other $36,000 will count against the lifetime exemption, along with 
+any other such gifts you've made, at the time of your death.
+
+
+
+
