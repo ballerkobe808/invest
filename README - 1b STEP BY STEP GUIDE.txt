@@ -6,20 +6,20 @@ Become an expert in Indiana - know all the neighborhoods and immerse yourself in
 Look thru maps and familiarize yourself with the streets, neighborhoods, news, business, crime, etc.
 Get on Craigslist, Hotpads, Facebook and look through the area.
 
-1. Get the address and copy it into a text file:
+1. Open Rentometer and look the property up:
+    https://www.rentometer.com/
 
-2) Visit the Zillow comparables and look it up:
+2. Get the address and copy it into a text file:
+
+3. Visit the Zillow comparables and look it up:
     https://www.homefixers.com/calculator.html
     (Find a way for a direct link?? https://www.zillow.com/homes/comps/1073669_zpid/)
 
-3) Visit the Indiana Zone map and look it up:
+4. Visit the Indiana Zone map and look it up:
     https://www.google.com/maps/d/u/0/viewer?mid=1ZJ6z2HR9cwVpc88QIQhmiRrwMg7-dW0H&ll=39.7676351552614%2C-85.95247823203124&z=11
 
     General Neighborhood information:
     https://www.biggerpockets.com/renewsblog/guide-grading-indianapolis-neighborhoods/
-
-4. Open Rentometer and look the property up:
-    https://www.rentometer.com/
 
 5. Look up the Crime Map stats on Trulia
     https://www.trulia.com   

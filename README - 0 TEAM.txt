@@ -4,6 +4,10 @@
 "The richest people in the world look for and build networks;
 everyone else looks for work."
 
+Talk to as many people as possible about your real estate goals
+I want people to "like" me - walk away from a conversation saying "that guy is cool", "I want to help him"
+Add as much value as you can into other peoples lives
+
 1. Build your team
 
    == Inner Circle ==
@@ -187,9 +191,19 @@ Here are the key members:
    specializes in or is very knowledgeable of real estate. Important for
    tax write-offs.
 
-      Mark Kohler
+      Mark Kohler - $1400 for a tax return - very knowledable but very expensive
+
       Toby Mathis - Anywhere - Infinity Investments (lawyer)??
-      BPSG??
+      
+      BPSG - people were indigted for fraud, and the lady seemed more like a saleperson
+        Fudged numbers while giving her pitch - dont trust
+      
+      Amanda Han - Seems knowledgable, but 5k+ for their package, which includes
+        tax prep - this is more if im doing big business
+
+      Dean Ueda's wife???
+
+      Garret Taira's contacts??
 
 8. Insurance Agent – A person who sells insurance policies. It’s important
    to understand what kinds of accidents or disasters could happen to
@@ -257,6 +271,8 @@ Here are the key members:
       Mark Kaneshiro - Hawaii - ??
 
       Paul Rees' team
+
+      Todd Rudicel - seems to know people
 
 14. Virtual assistants – Provide administrative assistance from a home
     office. They help you follow up on leads, phone calls, and emails and
