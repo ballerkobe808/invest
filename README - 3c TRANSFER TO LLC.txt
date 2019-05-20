@@ -13,8 +13,6 @@ TRANSFERING YOUR PROPERTY INTO YOUR LLC
 put money in the LLC and have the LLC pay the person doing the work
 Make sure the rent goes into the LLC
 
-Get a estoppel - an agreement that the tenant says thats the lease. More common in commercial than in residential
-
 Be aware of estate planning and living trust - whoever does the LLC, make sure they are aware of this
 Alternative - is to transfer to a land trust
 
