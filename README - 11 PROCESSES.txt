@@ -3,6 +3,9 @@
   Repeatable steps for specific Tasks that need to be accomplished regularly
 ===============================================================================
 
+Turn as many things as possible into processes to free up mental space.
+
+
 --------------------------------------
 RECONCILE BANK ACCOUNTS
 --------------------------------------

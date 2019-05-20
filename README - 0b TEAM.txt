@@ -1,3 +1,4 @@
+
 ### Team Strategy
 ==============================
 
@@ -6,7 +7,9 @@ everyone else looks for work."
 
 Talk to as many people as possible about your real estate goals
 I want people to "like" me - walk away from a conversation saying "that guy is cool", "I want to help him"
-Add as much value as you can into other peoples lives
+Add as much value as you can into other peoples lives. 
+Build a positive reputation. 
+Remember you represent Jesus!!
 
 1. Build your team
 
@@ -72,9 +75,13 @@ Here are the key members:
    Dont use other methods - Zillow/Yelp, etc.
 
       MaryBeth Cambre (Indiana) - Will kickback to Paul Xavier
+      https://www.mchomerealty.com/search.aspx?query=True&ASO=1&PriceLow=$0&PriceHigh=$60,000&PropertyType=S&Status=active
+
+
       Ed Neu (Indiana) - Neu Realty - Will kickback to Paul Xavier
         ed@neurealestate
         www.neurealestategroup.com
+        Teresa Brown - giving some leads
 
       Ironclad Group - Dustin Ruhl - Will kickback to Paul Xavier
         dustin@ironclad.group
@@ -88,6 +95,22 @@ Here are the key members:
 
       Marty Duda (Missouri) - Turnkey Real Estate
       Ted Kawabata (Hawaii)
+
+
+      Wholesale Lists:
+      -----------------------------
+      Simplewhoesaling - on list 
+
+      InvestwithBen - on list
+
+      Ironclad group - Dustin Ruhl - on list
+
+      Ryan Moeller - ryanepc@gmail.com
+      https://docs.google.com/document/d/1w9hXnsFs6-1XhVK_YZZmIwGWsF0H-4tAzeK06HRQO2E/edit?usp=sharing
+
+
+
+
 
 3. Mortgage Broker – A liaison between loan applicants and lenders.
    Brokers can find the best loans for buyers at the best rates, since they

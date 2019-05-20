@@ -21,7 +21,6 @@ You want to impress them and show them how organized and professional you are. O
 - 401k Statment(s)
 - Any stock or investment statements
 - Documentation on existing loans and properties
-- Aalii contract and agreement?
 - Proof of Federal Tax payment
 
 
@@ -45,7 +44,7 @@ whether you have a program I would qualify for.
 - I live out of state
 - My credit score is 760
 - My current DTI is 31%
-- I will have \$40,000 in reserves after the down payment
+- I will have $40,000 in reserves after the down payment
 
 If you don't have a program that I would qualify for, is there another institution you could recommend me to? 
 Thank you very much for your time and consideration!
@@ -65,14 +64,16 @@ Questions to ask about the loan
 -------------------------------------------
     1. What is the length and type of the loan? (30 yrs, 27, etc) (fixed, arm, etc)
     2. What is the rate? (APR%) (If variable, minx max)
-    3. Origination Fee? Other fees?
+    3. Origination Fee? Other fees? (Lenders will need a min of 4k in fees to be profitable)
     4. Any points up front to lower rate?
     5. Is there a pre-payment penalty?
 
-Loan Points explanation:
 
+Loan Points explanation:
+----------------------------
 Lender starts out at a base rate based on your credit score, assets, dti, current federal rates.
-5.00%
+
+example: 5.00%
 They will add points for different things:
 
 - Non owner-occupied .5%
@@ -85,18 +86,18 @@ They will add points for different things:
 
 
 
-
-
 Sources and Types of Funding
 ========================================
-conventional bank/credit union loan,
-portfolio bank loan,
+Conventional loan (bank or credit union)
+Portfolio loan (bank or credit union)
 hard money lenders (3-5 points, 12-15% interest),
-friends/family/partners,
+private lenders (friends/family/partners)
 lines of credit (personal or home equity),
 credit cards,
 401k/IRA,
 seller financing.
+
+
 
 Line of Credit (HELOC, or Personal LOC)
 ---------------------------------------------
@@ -134,14 +135,12 @@ purchases (you get points too) and only use your HELOC to pay off your CC as nee
 - 401k - 18k limit as of 2017, IRA 5.5k limit as of 2017
 - Compound interest is POWERFUL!!!
 
-Datahouse 401k
-------------------------
+====== Datahouse 401k ============
 - Datahouse is matching 20% of your investment up to 2400. Its added as a lump sum once a year in July.
 - You have been averaging 10% yearly returns from your mutual funds investment.
 - You can stop any time, but open enrollment is Dec to change amounts (for Jan implementation)
 
-Borrowing from your 401k
-------------------------------------------
+======== Borrowing from your 401k ===========
 - You can borrow either 50% or 50k - whichever is less
 - You have to pay back in 5 years unless its for a primary residence, or hardship, or special circumstance
 - You will pay back interest but the interest all goes back to you
@@ -164,50 +163,16 @@ Get as much funding as you can when possible. Its easier to take out 100k from t
 20k, 20k, 40k, 20k in succession. Cool story of borrowing money from your friend using both methods.
 
 
-
-Cash out Refinance Process
-==========================================
-You can do a cash out refinance immediately for the purchase price.
-
-If you want to cash out for more than the purchase price you need to:
-
-1. Wait 6 months of seasoning to get a new appraisal
-
-OR
-
-2. Do the Andrew Postell method of own-LLC-refinance. Here are the steps:
-
-1) Put a mortgage on the property when you buy (if multiple sources of money)
-   OR
-   Put a mortgage on the property after purchase.
-2) This mortgage can be between you and your own LLC (Koala Investments)
-   You need to do two things: Make a note (agreement between you and Koala Investments) about how much the loan 
-   is for and the terms. In order to make it legitimate, then put realistic terms as far as interest (6%), 
-   and amoritization (10-30 year), but make a balloon payment after 5 years. This will be the reason you want 
-   to refinance out of it. The underwriters will ask less questions.
-3) Talk to a lender about a mortgage refinance. Rules for a mortgage (no-cash) refinance are different  
-   from a straight cash out refinance. The rules for the latter are a lot more lenient. I guess when a lender 
-   is paying back another lender its different than giving the borrower cash. The "lenders" will want to talk 
-   to each other about you soon. So you need an employee (spouse, friend, etc) or board member for them to 
-   contact to vouch for the note agreement and to make sure you have been paying consistently.
-4) You will need to submit all your documentation of income, taxes, assets, debt etc, as well as have your
-   credit pulled. You will need to source any big deposits - remember and track this. I THINK you can use a 
-   huge deposit be marked as a loan from Koala Investments...
-5) The Lender will appraise the property (you will need to pay for this) - make sure to provide
-   documentation for the lender to start with that states the case for your appraised value you are trying to 
-   get. After the lender gets back the appraisal, you can also submit 3 comparables again for the appraiser 
-   to re-evaluate - or give him/her some reason to adjust the property value.
-
-
-Notes
+General Lending Notes:
 ----------------------
-Ridge Lending requirements:
-You can certainly do 20% down rather than 25%.
-The reason for the 25% down payment requirement on this property was the fact that it had 4 units.
-1 to 2 unit properties require 20% down
-3 to 4 unit properties will require 25% down payment
+1. Multifamily, cash out refi, and others will often require 25% down (for conventional loans)
+2. Any funds need 60 days of seasoning (or an explanation) - 2 bank statements
+3. Your DTI and Credit Score affect your rate and ability to get a loan
+4. You need 6 months of reserves (6 principle and interest payments)
 
-Current Lender questions
+
+---------------------------------
+Questions to ask a new Lender:
 ---------------------------------
 1. Can you do properties in Indiana?
 2. Can I do 20% on an investment property?
@@ -218,13 +183,5 @@ Current Lender questions
 6. Minimum loan amount? 50k?
 7. How long before I can count rental income as part of my DTI?
 
-I'm looking for a 30 year fixed on a property that was just appraised at 95k - 20% available?
-
 Talk to a lot of lenders to get the terms that you want - Ask Around!!
 
-
-General Lender requirements
-===========================================
-Any funds need 60 days of seasoning (or an explanation) - 2 bank statements
-Your DTI and Credit Score affect your rate and ability to get a loan
-You need 6 months of reserves (6 principle and interest payments)
