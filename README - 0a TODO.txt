@@ -5,6 +5,8 @@ General Investment Strategy and Processes
 TODO & GAME PLAN
 ================
 
+Finish this document!
+
 
 Add these to your list
 
