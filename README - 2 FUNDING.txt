@@ -126,35 +126,16 @@ One thing to note is that HELOC % is calculated by the day, so any balance used 
 charged interest. Credit Cards are charged at the end of the month. Use your Credit Card for daily 
 purchases (you get points too) and only use your HELOC to pay off your CC as needed.
 
-401k/IRA (Individual Retirement Account)
-------------------------------------------
-- Pretax dollars put here (so you get more bang for your buck)
-- Reduces income tax (money contributed is not counted as income)
-- Must be 60 to withdraw penalty free, otherwise 10% penalty
-- Roth means you put in after tax dollars
-- 401k - 18k limit as of 2017, IRA 5.5k limit as of 2017
-- Compound interest is POWERFUL!!!
-
-====== Datahouse 401k ============
-- Datahouse is matching 20% of your investment up to 2400. Its added as a lump sum once a year in July.
-- You have been averaging 10% yearly returns from your mutual funds investment.
-- You can stop any time, but open enrollment is Dec to change amounts (for Jan implementation)
-
-======== Borrowing from your 401k ===========
-- You can borrow either 50% or 50k - whichever is less
-- You have to pay back in 5 years unless its for a primary residence, or hardship, or special circumstance
-- You will pay back interest but the interest all goes back to you
-- If you quit or are fired, you have to pay it back in 60 days or incur a penalty
-- Penalty for early withdrawal is 10%
-- When you take it out for real, you pay income tax on it (Unless its a Roth)
 
 Credit Cards
 -----------------------
 Always increase your limits given the chance. This helps you to lower your utilization % which helps your 
 credit score, and also gives you access to more emergency funds should you need it.
 
-Self-Directed IRA
-------------------------
+Pay using Credit Cards for a 2.5% fee (Get cash)
+https://www.plastiq.com/
+You can get Introductory Rates and take out cash here...
+
 
 
 General Tips
