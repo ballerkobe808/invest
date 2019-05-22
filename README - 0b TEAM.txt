@@ -103,6 +103,8 @@ Here are the key members:
 
       InvestwithBen - on list
 
+      redevelopindy.com - on list
+
       Ironclad group - Dustin Ruhl - on list
 
       Ryan Moeller - ryanepc@gmail.com

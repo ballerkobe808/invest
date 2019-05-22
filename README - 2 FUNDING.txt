@@ -166,3 +166,47 @@ Questions to ask a new Lender:
 
 Talk to a lot of lenders to get the terms that you want - Ask Around!!
 
+
+
+
+Mortgage Information
+---------------------------
+
+Escrow Accounts
+Escrow accounts are used in conjunction with your mortgage loan. 
+They act as a savings account to hold money to pay for property taxes and homeowner's insurance. 
+Each month, the payment you make to the mortgage company includes a portion that goes towards paying 
+off the loan and a portion that goes into the escrow account. Because failure to pay property taxes 
+can result in a tax lien or foreclosure, some lenders require borrowers to maintain an escrow account 
+to ensure that the payments are being made on time.
+
+Property Tax Payments
+Your lender must work directly with the county tax collector to obtain the information on your property taxes. 
+The county sends the tax bill to the lender for review. The lender then makes a payment to the county using 
+the money from your escrow account. You should also receive a copy of your tax bill for your records; 
+however, you don't need to pay your tax collector directly.
+
+Escrow Calculations
+The amount you pay into escrow each month is based on the yearly total amount you owe for property 
+taxes and homeowner's insurance. The grand total is simply divided by 12 to reach the monthly payment amount. 
+Most lenders like to keep some additional funds in the account to act as a safety-net or cushion in case 
+of an unexpected increase in a bill. The lender is allowed, by law, to collect an additional two months 
+worth of payments for this purpose.
+
+Yearly Statements
+At the end of each year, the lender reviews your escrow account to provide you with an account disclosure 
+statement. The statement includes details of the payments into and out of the account. It will list the 
+specific payments made to the tax collector by date. The statement also provides an analysis what your 
+payments will be for the upcoming year. It's common for property taxes to increase over time as the 
+assessed value of your property also increases. Additionally, you may overpay or underpay for the year. 
+You'll either be issued a refund or owe the lender extra money.
+
+
+
+
+
+
+
+
+
+
