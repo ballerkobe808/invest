@@ -43,7 +43,7 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     If you earn money at a normal salaried job, you pay 7.65% (as of 2018) of your salary in FICA taxes. 
     If you’re self-employed, you pay 15.3% towards FICA tax. For Rental income you pay 0!!
 
-3.  No Tax On Appreciation (aka Buy & Hold Like Buffett)
+3.  No Tax On Appreciation (aka Buy & Hold)
     And real estate appreciation doesn’t get taxed by the IRS. So, if you buy and hold for many years it’s 
     possible to let your net worth grow with no tax exposure.
 
@@ -118,25 +118,6 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     - Computer, Wifi, etc
     - Keep receipts
 
-### 1.0.2. Tax Deductions
-------------------------------
-Move your expenses under your business
-
-Cell phone purchase and bills
-Laptop/computers
-TVs - education of business
-Trips (as long as you go with the intent for business BEFORE you start it)
-Hire your kids
-Car (This is not an automatic write off so be careful here)
-
-Education training - make sure you tell your CPA that you decided to do Real Estate before you bought the
- package of training
-
-- Dining (type 1 doing bus w someone 50%, type 2 traveling (outside normal commute 50%, type 3 company 
-  event w majority not owners 100%) - can be alone, ) write down on receipt / calendar - Receipts are for 
-  audit protection, not bookeeping (take a pic throw it away)
-- Entertainment 50% (Hobbies, Toys, Keep good records, Golfing, snowmobiles)
-
 ### 1.0.3. Federal Tax Brackets for 2018
 -----------------------------------------
 Single Filing
@@ -163,8 +144,10 @@ Married Filing Jointly
 | 35%      | $400,001 to$600,000    | $91,379 plus 35% of the amount over$400,000  |
 | 37%      | \$600,001 or more      | $161,379 plus 37% of the amount over$600,000 |
 
-### Capital Gains Tax
 
+
+### Capital Gains Tax
+--------------------------
 1. You pay 15% profit on any gains you make when you sell something. 
    Long Term is less than Short term???
    Tax bracket can push you higher???
@@ -174,8 +157,9 @@ Married Filing Jointly
 3. If you live in the house for 2 years, then you get 250k free profit u dont pay tax (if single - 
    more if married)
 
-### 1.0.4. 1031 Exchange
 
+### 1.0.4. 1031 Exchange
+---------------------------------
 The purpose of a 1031 exchange is to defer paying 15 percent taxes on capital gains. It could end up more if 
 you factor in income tax and depreciation costs?
 
@@ -202,6 +186,9 @@ General Rules:
 Article explaining more here:
 https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
+
+
+
 ### 1.0.6. PROCESS - Filing Taxes at the end of the year
 ---------------------------------------------------------
 - PROCESS TO DO TAXES AT THE END OF THE YEAR
@@ -221,41 +208,6 @@ My business can have a lot of expenses. If it far exceeds my profits, I can writ
 claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, 
 that is just a hobby, not a business. Don't make it too obvious - write off 20k with a \$100 profit. 
 5-10k in losses is ok?
-
-### Tax Forms
-========================
-
-W-4 Employer asks you to fill this out 
-  - tells marital status etc 
-  - write down exemptions 
-  - determine how much to withhold
-
--Normal Income forms you file with the IRS-
-1040 - Normal income -
-Schedule A - Itemized deductions
-1040EZ - Normal income - no itemized deductsion (easy form)
-1040A - Normal income - also student loans/iras?? (short form)
-
--Report from Employer or Business to let you know how much you got-
--Also you need to give out if you are an Employer/Business-
-W-2 - Employers file this - tells u how much your employer gave u
-1099 - (DIV, MISC, INC, etc) - Income besides employer
-1099 div - stock dividends
-1099 int - interest income
-1099 misc?
-1099 K - from AirBnB?
-1099 g - state tax return income/unemployment benefits
-
-1098 - Mortgage holders shows interest paid
-1098T - students show how much tuition paid?
-
-Schedule C - For self employed income
-Schedule E - Rental property Income 
-
-1065 partnership return (Form 1065)
-K1 - Multimember LLCs will generate K1s for each partner (then each partner uses this on their personal returns)
-
-Form 709 - Gift Tax
 
 ### IRS Types of income
 ===========================
@@ -327,53 +279,6 @@ The form used to report information for a Section 179 deduction is IRS Form 4562
 information on business property acquired and put into service (see above). For more details on completing 
 Form 4562, see the IRS instructions for this form.
 
-## Depreciation and Depreciation Recapture
--------------------------------------------
-
-To recap the basics, upon the acquisition of a property the cost of the building and land are capitalized. 
-If the building is a rental property or used in a trade or business, the cost attributable to the building 
-is depreciated over 27.5 years (residential) or 39 years (non-residential) using the straight-line method 
-for tax purposes. Land is non-depreciable therefore, no depreciation is permitted. In summary, the cost of 
-the building is written off ratably over the life of the asset via annual depreciation deductions.
-
-Depreciation deductions offer the property owner the tax benefit of a deduction at their personal ordinary 
-income tax rates. Additionally, depreciation deductions reduce the cost basis of the property which 
-ultimately determines the gain or loss upon the sale or disposition of the property. If sold as a 
-long-term gain, under current tax laws, long-term capital gains tax rates range between 0% – 20% 
-depending on the taxpayer’s level of income.
-
-However, not all gains benefit from the long-term capital gain tax rates. Depreciation recapture is the 
-portion of the gain attributable to the depreciation deductions previously allowed during the period the 
-taxpayer owned the property. The depreciation recapture rate on this portion of the gain is 25%. The 
-reasoning behind the depreciation recapture rules is since the taxpayer received the benefit of a 
-depreciation deduction that offset ordinary income tax rates (a potential Federal tax savings of up to 39.6%), 
-the government is not going to grant the most favorable capital gains rates on the portion of the gain 
-relating to these prior depreciation deductions. The following examples illustrate the concept of 
-depreciation recapture.
-
-Assume a property owner acquired a building for $2 million (excluding land). Assume after 10 years the 
-owner has taken $500,000 of depreciation deductions. The owner’s basis in the building is now $1.5 million. 
-If the owner sells the building for $5 million, they will recognize a gain of $3.5 million 
-($5 million less $1.5 million). It is often presumed the $3.5 million would be taxed at a capital gain 
-rate of 20%. However, in this example, $500,000 of the gain would be taxed at the recapture rate of 25%. 
-The remaining $3 million gain would be taxed at the 20% capital gain rate. The outcome in this example is 
-an additional $25,000 tax cost (5% on $500,000). Larger transactions would obviously have larger implications.
-
-Depreciation recapture is limited to the lesser of the gain or, the depreciation previously taken. 
-Using the example above, assume the owner sells the building for $1.6 million resulting in a gain of 
-only $100,000. Since the $100,000 gain is less than the $500,000 of depreciation deductions the recapture 
-rate of 25% would apply to the entire \$100,000 gain.
-
-In the event a property is sold at a loss the depreciation recapture rules do not apply. Assume in the 
-above example the property was sold for $1.1 million. The property owner would simply report a loss of 
-$400,000. No depreciation recapture calculations would be required.
-
-The 25% depreciation recapture tax rate only applies to the portion of the gain attributable to real 
-property. If a sales contract includes the sale of other assets, such as furniture and equipment, 
-the gain relating to depreciation recapture on those assets would be taxed at the property owner’s 
-ordinary income tax rates.
-
-#
 
 ### Net Investment Income Tax (NIIT)
 
@@ -462,35 +367,10 @@ any other such gifts you've made, at the time of your death.
 
 
 
-
-AIRBNB
-
-tax laws are full of exceptions, but the 14-day rule—sometimes called the "Masters exception" because of its popularity in Georgia during the annual Masters golf tournament—is the most important for anyone considering renting out a vacation home. Under this rule, you don't pay tax on income you earn from the short-term rental, as long as you:
-
-Rent the property for no more than 14 days during the year AND
-Use the vacation house yourself 14 days or more during the year or at least 10% of the total days you rent it to others.
-Portland resident Alice Chan earns extra income by renting out her vacation home on the Oregon Coast several times a year. These days, she is careful to keep the total rental time under 14 days—a tactic she recommends to others.
-
-
-
-
-
-Net Investment Income Tax (NIIT)
-
-
-Schedule E - passive rental income
-
-vs 
-
-Schedule C - active business income
-
 Mortgage Interest Paid to Banks – include the amount of interest reported to you by the bank on Form 1098. 
 
 
 Other Interest – include the amount of interest paid to third parties, whether they are private investors, private businesses, crowdfunding platforms, or relatives. Also make sure that you have sent these people or parties a Form 1099 showing the interest you have paid them. Without a Form 1099 in this case, you may not be able to substantiate the deduction.
 
-1099
-
-W-9
 
 
