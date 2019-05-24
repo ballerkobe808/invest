@@ -92,10 +92,19 @@ Form 706 - Used to report estate taxes
 Hawaii State Forms
 
 ======================================================================================
+
+N-11 - Individual Income Tax Return (Resident Form)
+N-15 - Individual Income Tax Return (Non-Residents and Part-Year Residents Form)
+
 G-45 - Hawaii GE Tax  (Do this online)
 G-49 - Hawaii GE Tax Annual Reconciliation  (Do this online)
 
+TA-1 - Periodic Transient Accommodations Tax Return
+TA-2 - Transient Accommodations Tax Annual Return & Reconciliation
 
 
 
-N-11/N-15 - ??
+
+Full list here:
+https://tax.hawaii.gov/forms/a1_1alphalist/
+
