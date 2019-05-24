@@ -65,8 +65,12 @@ FICO 08 - specific credit score bank uses (you have 9 diff credit scores)
 CMA - comparable market analysis
 
 
+NPV - net present value - the value of a future amount of money (given an interest rate you are paying for the money)
+for example. if you are borrowing money at 10%, then getting back 30% of your money in a year is worth more than getting
+back 30% of your money 4 years from now. npv calculates the value of 30% in a year or 30% in 4 years, while
+paying 10% in interest yearly. 
 
-
+IRR - internal rate of return - the annual (or whatever timeframe) rate of return taking into account the npv of the return
 
 
 Strategies

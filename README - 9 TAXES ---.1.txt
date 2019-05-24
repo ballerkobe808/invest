@@ -149,8 +149,8 @@ Married Filing Jointly
 ### Capital Gains Tax
 --------------------------
 1. You pay 15% profit on any gains you make when you sell something. 
-   Long Term is less than Short term???
-   Tax bracket can push you higher???
+   Long Term is less than Short term
+   Tax bracket can push you higher
 
 2. If you hold it for a year you pay less - long term capital gains vs short term
 
@@ -188,22 +188,14 @@ https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
 
 
-
-### 1.0.6. PROCESS - Filing Taxes at the end of the year
----------------------------------------------------------
-- PROCESS TO DO TAXES AT THE END OF THE YEAR
-
-- Find a good accountant
-
-- Quickbooks???
+======================================
 
 - LLC (Single membership) is a disregarded entity and thus has no tax benefit for an individual holding 
 property through it. Partnerships are different though.
 
-- Compile your tax deductions
 
 ### Deductions against my W2
-
+-------------------------------------
 My business can have a lot of expenses. If it far exceeds my profits, I can write them off as losses and 
 claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, 
 that is just a hobby, not a business. Don't make it too obvious - write off 20k with a \$100 profit. 
@@ -239,49 +231,20 @@ Rent Estate
 Dividends
 Long term cap gains
 
-### Tips
 
-Figuring out the best tax strategy
-Whats ur plan for 10 years down the road? 5 years?
-
-Board of Advisors
-
-Strategic Plan -------
-15 rentals in 5 years, cashflowing 5k a month
-$300 a month each of 80k rental - requires 20-25k down
-plus LLCs, and other fees, closing fees, etc so each$300 cashflow prop will take 30k down
-
-30k x 15 = 450k Is that doable? in 5 years?
 
 100k or less agi 150k diff rules
 U can take 25k loss
 
+
+
 @Daniel Kong that’s not how it works. Your LLC rentals go to your schedule E and all those expenses and 
 income are netted and included in a separate line item from your W2 on your 1040
 
-## How to Take a Section 179 Deduction
-
-1. First, you purchase qualified property and start using it during the year.
-
-2. Then, you sit down with your tax professional at tax time. You will need records on the date of 
-   purchase, date, you started using the property, and all costs associated with the purchase 
-   (like freight and setup).
-
-3. You add up all the items of property that are qualified. You will need to read the IRS information 
-   carefully to make sure your property is qualified.
-
-4. Then you can take the 179 deduction by electing it (described below). The amount of the 
-   deduction is the total cost of all of the property, up to $500,000 for each individual item of property. 
-   The total Section 179 deductions for all property can't exceed the $2 million maximum.
-
-Use IRS Form 4562 to Elect a Section 179 Deduction
-The form used to report information for a Section 179 deduction is IRS Form 4562. This form collects 
-information on business property acquired and put into service (see above). For more details on completing 
-Form 4562, see the IRS instructions for this form.
 
 
 ### Net Investment Income Tax (NIIT)
-
+------------------------------------------
 You pay 3.8% if your income is over 200k - Try to avoid this by keeping income below 200k!!!
 
 
@@ -289,9 +252,9 @@ You pay 3.8% if your income is over 200k - Try to avoid this by keeping income b
 ### My Personal Tax Situation
 ---------------------------------------
 
-#### W2 income - normal income
+-- W2 income - normal income
 
-#### Rental property purchased under my own name in Indiana -
+-- Rental property purchased under my own name in Indiana -
 
 include rent and security deposit as passive income (this is added to my AGI)
 not included in state tax return (Fed and state agi will be different??)

@@ -105,6 +105,12 @@ Here are the key members:
 
       redevelopindy.com - on list
 
+      Basit Team investments LLC - on list
+
+      iiypropertysolutions@gmail.com - on list
+
+      Andy indyfastcash@gmail.com - on list
+
       Ironclad group - Dustin Ruhl - on list
 
       Ryan Moeller - ryanepc@gmail.com
@@ -141,6 +147,8 @@ Here are the key members:
         cash out refi - 75%, mort refi - 80%
         Be sure to put the mortgage at the time of purchase
         Can refi immediately for purchase price - otherwise 6 months to appraise
+
+      Mack Howell - Prime Lending??
 
       University of Hawaii Federal Credit Union -
         Savings Account with 1% APY (applied monthly).

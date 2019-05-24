@@ -2,7 +2,7 @@ TAX FORMS
 ================================
 
 
-W-4 - Employer asks you to fill this out 
+W-4 - Employer asks you to fill this out when you get hired
   - tells marital status etc 
   - write down exemptions 
   - determine how much to withhold
