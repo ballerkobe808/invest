@@ -247,22 +247,12 @@ https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
 
 
-IRS Types of income
-===========================
-1 wages  (Bad)
-2 profits (Bad)
-3 rents (Ok, Best)
-4 royalties (Ok)
-5 dividends (Best)
-6 interest (Ok)
-7 short term cp gains (Ok)
-8 long term cp gains (Best)
-
-
 
 
 Rental Income - Reporting on your Schedule E
 ========================================================
+https://www.therealestatecpa.com/blog/ultimate-guide-irs-schedule-e
+
 Your LLC rentals go to your schedule E and all those expenses and 
 income are netted and included in a separate line item from your W2 on your 1040
 
@@ -280,8 +270,28 @@ that is just a hobby, not a business. Don't make it too obvious - write off 20k 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================================================
 My Personal Tax Situation
-======================================
+
+
+==================================================================================
 
 W2 income - normal income
 ----------------------------

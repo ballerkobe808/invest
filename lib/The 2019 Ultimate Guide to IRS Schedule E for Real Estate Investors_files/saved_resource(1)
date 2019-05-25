@@ -1,0 +1,183 @@
+
+
+(function (globals) {
+
+  var django = globals.django || (globals.django = {});
+
+  
+  django.pluralidx = function (n) {
+    var v=(n != 1);
+    if (typeof(v) == 'boolean') {
+      return v ? 1 : 0;
+    } else {
+      return v;
+    }
+  };
+  
+
+  
+  /* gettext library */
+
+  django.catalog = {
+    "%(hours)s hr": "%(hours)s hr", 
+    "%(hours)s hr %(minutes)s mins": "%(hours)s hr %(minutes)s mins", 
+    "%(minutes)s mins": "%(minutes)s mins", 
+    "Address": "Address", 
+    "Back": "Back", 
+    "Billing Address": "Billing Address", 
+    "Book Another": "Book Another", 
+    "Book an Appointment": "Book an Appointment", 
+    "Card Details": "Card Details", 
+    "Card Number": "Card Number", 
+    "Email": "Email", 
+    "Expiry": "Expiry", 
+    "First Slot": "First Slot", 
+    "Learn more": "Learn more", 
+    "Loading...": "Loading...", 
+    "Location": "Location", 
+    "Logout": "Logout", 
+    "Mobile phone number": "Mobile phone number", 
+    "Name": "Name", 
+    "Name on Card": "Name on Card", 
+    "Next": "Next", 
+    "No Preference": "No Preference", 
+    "No available slots": "No available slots", 
+    "Not you?": "Not you?", 
+    "Pay": "Pay", 
+    "Pay Later": "Pay Later", 
+    "Pay Now": "Pay Now", 
+    "Pay later": "Pay later", 
+    "Payment Details": "Payment Details", 
+    "Payment total: %(currencySymbol)s%(amount)s": "Payment total: %(currencySymbol)s%(amount)s", 
+    "Please enter a mobile number": "Please enter a mobile number", 
+    "Please enter a valid email address": "Please enter a valid email address", 
+    "Please enter a valid mobile number": "Please enter a valid mobile number", 
+    "Please enter an email address": "Please enter an email address", 
+    "Please enter your details": "Please enter your details", 
+    "Please select an address": "Please select an address", 
+    "Security Code": "Security Code", 
+    "See Details": "See Details", 
+    "See Slots": "See Slots", 
+    "See Times": "See Times", 
+    "Select Provider": "Select Provider", 
+    "Show more": "Show more", 
+    "Something went wrong. Please try again. If problems persist, please contact support@10to8.com": "Something went wrong. Please try again. If problems persist, please contact support@10to8.com", 
+    "Something went wrong. Please try again. If the problem persists, please contact support@10to8.com": "Something went wrong. Please try again. If the problem persists, please contact support@10to8.com", 
+    "Staff": "Staff", 
+    "Times are displayed in ": "Times are displayed in ", 
+    "Times are displayed in %(timezone)s": "Times are displayed in %(timezone)s", 
+    "Today": "Today", 
+    "Try Again": "Try Again", 
+    "We're sorry, there was an error processing your booking.": "We're sorry, there was an error processing your booking.", 
+    "With 10to8, booking an appointment takes just a few seconds! Much better than doing this over the phone.": "With 10to8, booking an appointment takes just a few seconds! Much better than doing this over the phone.", 
+    "Your appointment is now confirmed.": "Your appointment is now confirmed.", 
+    "Your booking is waiting to be approved. You will be notified once it is confirmed.": "Your booking is waiting to be approved. You will be notified once it is confirmed."
+  };
+
+  django.gettext = function (msgid) {
+    var value = django.catalog[msgid];
+    if (typeof(value) == 'undefined') {
+      return msgid;
+    } else {
+      return (typeof(value) == 'string') ? value : value[0];
+    }
+  };
+
+  django.ngettext = function (singular, plural, count) {
+    var value = django.catalog[singular];
+    if (typeof(value) == 'undefined') {
+      return (count == 1) ? singular : plural;
+    } else {
+      return value[django.pluralidx(count)];
+    }
+  };
+
+  django.gettext_noop = function (msgid) { return msgid; };
+
+  django.pgettext = function (context, msgid) {
+    var value = django.gettext(context + '\x04' + msgid);
+    if (value.indexOf('\x04') != -1) {
+      value = msgid;
+    }
+    return value;
+  };
+
+  django.npgettext = function (context, singular, plural, count) {
+    var value = django.ngettext(context + '\x04' + singular, context + '\x04' + plural, count);
+    if (value.indexOf('\x04') != -1) {
+      value = django.ngettext(singular, plural, count);
+    }
+    return value;
+  };
+  
+
+  django.interpolate = function (fmt, obj, named) {
+    if (named) {
+      return fmt.replace(/%\(\w+\)s/g, function(match){return String(obj[match.slice(2,-2)])});
+    } else {
+      return fmt.replace(/%s/g, function(match){return String(obj.shift())});
+    }
+  };
+
+
+  /* formatting library */
+
+  django.formats = {
+    "DATETIME_FORMAT": "N j, Y, P", 
+    "DATETIME_INPUT_FORMATS": [
+      "%Y-%m-%d %H:%M:%S", 
+      "%Y-%m-%d %H:%M:%S.%f", 
+      "%Y-%m-%d %H:%M", 
+      "%Y-%m-%d", 
+      "%m/%d/%Y %H:%M:%S", 
+      "%m/%d/%Y %H:%M:%S.%f", 
+      "%m/%d/%Y %H:%M", 
+      "%m/%d/%Y", 
+      "%m/%d/%y %H:%M:%S", 
+      "%m/%d/%y %H:%M:%S.%f", 
+      "%m/%d/%y %H:%M", 
+      "%m/%d/%y"
+    ], 
+    "DATE_FORMAT": "N j, Y", 
+    "DATE_INPUT_FORMATS": [
+      "%Y-%m-%d", 
+      "%m/%d/%Y", 
+      "%m/%d/%y"
+    ], 
+    "DECIMAL_SEPARATOR": ".", 
+    "FIRST_DAY_OF_WEEK": "0", 
+    "MONTH_DAY_FORMAT": "F j", 
+    "NUMBER_GROUPING": "3", 
+    "SHORT_DATETIME_FORMAT": "m/d/Y P", 
+    "SHORT_DATE_FORMAT": "m/d/Y", 
+    "THOUSAND_SEPARATOR": ",", 
+    "TIME_FORMAT": "P", 
+    "TIME_INPUT_FORMATS": [
+      "%H:%M:%S", 
+      "%H:%M:%S.%f", 
+      "%H:%M"
+    ], 
+    "YEAR_MONTH_FORMAT": "F Y"
+  };
+
+  django.get_format = function (format_type) {
+    var value = django.formats[format_type];
+    if (typeof(value) == 'undefined') {
+      return format_type;
+    } else {
+      return value;
+    }
+  };
+
+  /* add to global namespace */
+  globals.pluralidx = django.pluralidx;
+  globals.gettext = django.gettext;
+  globals.ngettext = django.ngettext;
+  globals.gettext_noop = django.gettext_noop;
+  globals.pgettext = django.pgettext;
+  globals.npgettext = django.npgettext;
+  globals.interpolate = django.interpolate;
+  globals.get_format = django.get_format;
+
+}(this));
+
