@@ -1,22 +1,13 @@
 TAX DEDUCTIONS
 ================================
 
-Move your expenses under your business
-------------------------------------------
 
-- Education training - 
-
-
-Rental property deductions
+Rental Property Deductions
 ----------------------------------
 
 Business Deductions - 
-    - Cell phone purchase and bills
-    - Laptop/computers
-    - TVs - education of business
-    - Trips (as long as you go with the intent for business BEFORE you start it)
+    - Cell phone purchase, service, Laptop/computers, TVs (education of business?)
     - Hire your kids
-    - Car (This is not an automatic write off so be careful here)
     - Dining (type 1 doing bus w someone 50%, type 2 traveling (outside normal commute 50%, type 3 company 
       event w majority not owners 100%) - can be alone, ) write down on receipt / calendar - Receipts are for 
       audit protection, not bookeeping (take a pic throw it away)
@@ -37,6 +28,7 @@ Auto and Travel – include all ordinary and necessary auto (to be discussed lat
       travel costs required to maintain your rentals. This should not include auto and travel costs 
       incurred to purchase your first rental or to expand your rental business into a new geographic 
       location. Also include 50% travel meals.
+      Trips (as long as you go with the intent for business BEFORE you start it)
 
 Cleaning and Maintenance – include all cleaning expenses to prepare a unit for a tenant or once a tenant 
     moves out. Include maid expenses here as applicable. You should also include maintenance expenses 
@@ -151,8 +143,12 @@ ordinary income tax rates.
 
 
 
-How to Take a Section 179 Deduction
+Section 179 Deduction
 -----------------------------------------------
+Section 179 of the IRS Code was enacted to help small businesses by allowing them to take a 
+depreciation deduction for certain assets (capital expenditures) in one year, rather than 
+depreciating them over a longer period of time. Taking a deduction on an asset in its first year 
+is called a "Section 179 deduction." 
 
 1. First, you purchase qualified property and start using it during the year.
 
