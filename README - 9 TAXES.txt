@@ -156,14 +156,41 @@ Married Filing Jointly
 
 Capital Gains Tax
 ====================================
-1. You pay 15% profit on any gains you make when you sell something. 
-   Long Term is less than Short term
-   Tax bracket can push you higher
+Capital gains taxes can apply on investments, such as stocks or bonds, real estate 
+(though usually not your home), cars, boats and other tangible items. The difference between your 
+capital gains and your capital losses is called your “net capital gain.” If your losses exceed your 
+gains, you can deduct the difference on your tax return, up to $3,000 per year 
+($1,500 for those married filing separately).
 
-2. If you hold it for a year you pay less - long term capital gains vs short term
+Short-term capital gains tax - Tax on profits from the sale of an asset held for one year or less. 
+    Short-term capital gains tax rates equal your ordinary income tax rate — your tax bracket. 
+    See chart above for your tax bracker - (10-37%)
 
-3. If you live in the house for 2 years, then you get 250k free profit u dont pay tax (if single - 
-   more if married)
+Long-term capital gains tax - Tax on profits from the sale of an asset held for more than a year. 
+    Long-term capital gains tax rates are 0%, 15% or 20% depending on your taxable income and filing status. 
+    They are generally lower than short-term capital gains tax rates.
+    Single Filers: 
+    0% -	$0 to $39,375
+    15% -	$39,376 to $434,550
+    20% -	$434,551 or more
+
+Home Owners Exemption - 
+    1. The house was your principal residence.
+    2. You owned the property for more than two years in the five-year period before you sold it.
+    3. You lived in the house for at least two years in the five-year period before you sold it. 
+        (People who are disabled, and people in the military, Foreign Service or intelligence community can 
+        get a break on this part, though; see IRS Publication 523 for details.)
+    4. You didn't already claim the $250,000 or $500,000 exclusion on another home in the 
+        two-year period before the sale of this home.
+    5. You didn't buy the house through a like-kind exchange (basically swapping one investment property 
+        for another, also known as a 1031 exchange) in the past five years.
+    6. You aren't subject to expatriate tax.
+
+    $250,000 of capital gains on real estate if you’re single.
+    $500,000 of capital gains on real estate if you’re married and filing jointly.
+
+
+
 
 
 

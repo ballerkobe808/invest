@@ -1,6 +1,6 @@
 
-### Insurance Types
-
+Insurance Types
+===============================
 1. Homeowner policy
 
 In order to get a mortgage loan for your new home, you need to have a certain amount of hazard insurance 
@@ -29,10 +29,13 @@ just know that generally purchasing a homeowners policy will satisfy their requi
 
 4. Vacancy Policy
 
-5. Umbrella Liability???
+5. Umbrella Liability
 
-### Questions Insurance Company will ask you
 
+
+
+Questions Insurance Company will ask you
+-------------------------------------------------
 1. Age of Home
 2. Square Footage
 3. Type of Construction (Brick, Brick Veneer, Aluminum Siding, Concrete Block, Stucco, etc)
@@ -47,25 +50,23 @@ just know that generally purchasing a homeowners policy will satisfy their requi
 The age and type of wiring;
 Plumbing;
 Heating (whether it has central heating, window units or floor vents);
-Type of construction; and
-Firewalls.
+Type of construction;
 
-multifamily:
+
+Multifamily Insurance:
 https://www.scotsmanguide.com/Commercial/Articles/2008/02/What-to-Know-About-Multifamily-Insurance/
 
-### Basics
 
-Here is the text from some prior posts I did that will give you lot of basic info:
-When deciding on a property here are some things to look for from an
 
-Insurance prospective:
-1.Any in-ground tanks (active or inactive)
-2.Any Knob & Tube or Aluminum Wiring
-3.If built before 1978, does the building have Lead Safe certifications
-4.Any wood stoves or secondary heating units. If so, were permits pulled & were they installed by a professional
-5.Are any of the homes rented to students
-6.Is there a flat roof
-7.Are there asbestos
+Red flags when deciding on a property from an Insurance perspective:
+-------------------------------------------------------------------------
+1. Any in-ground tanks (active or inactive)
+2. Any Knob & Tube or Aluminum Wiring
+3. If built before 1978, does the building have Lead Safe certifications
+4. Any wood stoves or secondary heating units. If so, were permits pulled & were they installed by a professional
+5. Are any of the homes rented to students
+6. Is there a flat roof
+7. Is there asbestos
 
 The Year that the following were updated (either partially or fully) would be good to know:
 - Heating systems
@@ -79,7 +80,13 @@ If the property is solely tenant occupied you will be looking for a Dwelling/Fir
 (may be called a Landlord policy or similar name) or a commercial policy such as a Business-
 owners or Package policy.
 
-Most Homeowners or Dwelling/Fire policies include:
+
+
+
+
+
+Homeowner Policy Sections (most will include these)
+----------------------------------------------------------
 1. Dwelling (Building coverage) The limit should be based on the Replacement Cost of the building 
 (cost to rebuild with the same kind and quality excluding the foundation)
 
@@ -124,6 +131,7 @@ best rate which was based on \$110,000 ACV for the same property. There are many
 available on the Homeowners policy. Without knowing the details I cannot suggest which would be
 right to add on. Several you should pay attention to are:
 
+
 - Ordinance & Law:
 Provides additional building coverage to deal with rebuilding cost Increases due to changes in Zoning or 
 Building laws
@@ -139,16 +147,11 @@ For water damage due to the backup of Sewers or Drains.
 Coverage for belongings that have a special or collectors value such as Jewelry, Furs, Fine Arts, 
 Collectibles, etc... Depending on which company is being quoted, some of these other factors may get you credits:
 
-- Insurance Score (company pulls certain info out of your credit report)
-  It is not your credit score but generally better credit will result in a better score
 
-- Time at your job
 
-- Education level
 
-- time at current residence
-
-### Request Letter
+Request Letter
+---------------------------------
 
 Hi Brent! I was referred to you by Ali Hashimi over on BiggerPockets. 
 I'm looking to get a Home Insurance Policy for a property under contract. Here are the basic details:
@@ -164,8 +167,10 @@ I'm looking to get a Home Insurance Policy for a property under contract. Here a
 Would you be able to give me a ballpark quote? Thank you!
 Daniel
 
-### Umbrella Liability policy instead of using an LLC
 
+
+Umbrella Liability policy instead of using an LLC
+-------------------------------------------------------------
 I always recommend investors do as many properties as they can under their personal name in the beginning 
 (Fannie Mae allows up to 10) and then start going with the LLC's. If your concern is liability, 
 get an umbrella liability policy. It's a lot cheaper money and the umbrella should give you adequate protection. 
@@ -174,21 +179,15 @@ can take down the corporate veil and be porous. Even if you end up going the LLC
 consider an umbrella liability policy.
 
 
-
+General Tips
 =====================================
-
-
 - Replacement cost on the roof??
-
-
 Get renters insurace - $15 a month?
-
 
 Vacant policy is more expensive than your normal policy
 Can set it up as a normal policy as long as someone will get in there within 90 days
 
 Can get it converted termporarily to a vacant policy if needed
-
 
 Insurance companies - They will actually send someone out to look at it and request pictures
 Builders risk - if its under 90 days, then dont need - if its gonna go too long, 
