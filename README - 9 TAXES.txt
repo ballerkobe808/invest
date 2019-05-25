@@ -302,27 +302,8 @@ Rental property purchased under my own name in Indiana -
 include rent (not security deposits) as passive income (this is added to my AGI)
 not included in state tax return (Fed and state agi will be different??)
 
-Deduct expenses from property 
+Deduct expenses from property: See 9b DEDUCTIONS
 --------------------------------------
--Depreciation (assignment fee is included as part of purchase price - what about title fees etc - 
- total wired to title company?)
-
--Insurance
-
--Utilities
-
--Mortgage interest
-
--Other Interest – include the amount of interest paid to third parties, 
-  whether they are private investors, private businesses, crowdfunding platforms, or relatives. 
-  Also make sure that you have sent these people or parties a Form 1099 showing the interest you have paid them. 
-  Without a Form 1099 in this case, you may not be able to substantiate the deduction.
-
--Real estate education/software
-  valid documentation - line on my credit card statement - date of payment and to who
-  Can this can be claimed as Start Up costs - 5k max and then depreciation of rest over 15 years?
-  (Since i took the courses before acquiring my rental)
-  (or maybe not since i dont have an active business…)
 
 
 
