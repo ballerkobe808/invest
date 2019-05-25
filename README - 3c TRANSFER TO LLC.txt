@@ -10,8 +10,8 @@ TRANSFERING YOUR PROPERTY INTO YOUR LLC
    Now you need to put these in your name
    Put clauses in the lease and prop management to be able to assign to someone else (so you can put into an LLC)
 6. Dont comingle assets - sep bank accounts etc
-put money in the LLC and have the LLC pay the person doing the work
-Make sure the rent goes into the LLC
+   put money in the LLC and have the LLC pay the person doing the work
+   Make sure the rent goes into the LLC
 
 Be aware of estate planning and living trust - whoever does the LLC, make sure they are aware of this
 Alternative - is to transfer to a land trust

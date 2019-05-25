@@ -34,9 +34,6 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
         > $5,000 rental income –$3,000 depreciation expense = $2,000 taxable rental income$2,000 x 25% 
           federal income tax rate = $500 taxes owed
 
-
-    Tax Savings =$1,250 –$500 =\$750
-
 2.  Avoid FICA (Payroll) Tax on Rental Income
     Just like dividends and interest income, rental income is not subject to social security and medicare taxes 
     (aka FICA).
@@ -110,16 +107,23 @@ Great Resource at: https://www.madfientist.com/tax-benefits-of-real-estate-inves
     \$11.18 million of assets are exempt from any estate taxes. So, your heirs would inherit a lot of 
     property before paying any taxes.
 
-11. Business Tax Deductions?
-    Can these be deducted from RE and also personal Income too? RESEARCH MORE WITH A CPA
+11. Business Tax Deductions
+    You can take deductions against your rental income (and possibly W-2)
     - Dinners with clients
     - Trips (They have to start out as business - you cannot go and then do business on a whim after)
     - Home office
     - Computer, Wifi, etc
-    - Keep receipts
+    Make sure to keep good records and receipts!!
 
-### 1.0.3. Federal Tax Brackets for 2018
------------------------------------------
+
+
+
+
+
+
+Federal Tax Brackets for 2018
+==============================================
+
 Single Filing
 
 | Tax rate | Taxable income bracket | Tax owed                                        |
@@ -146,8 +150,12 @@ Married Filing Jointly
 
 
 
-### Capital Gains Tax
---------------------------
+
+
+
+
+Capital Gains Tax
+====================================
 1. You pay 15% profit on any gains you make when you sell something. 
    Long Term is less than Short term
    Tax bracket can push you higher
@@ -158,147 +166,14 @@ Married Filing Jointly
    more if married)
 
 
-### 1.0.4. 1031 Exchange
----------------------------------
-The purpose of a 1031 exchange is to defer paying 15 percent taxes on capital gains. It could end up more if 
-you factor in income tax and depreciation costs?
-
-General Rules:
-
-      1. Like kind - It has to be a real property for a real property
-      2. You have 45 days to find another property from the day you sell
-      3. You have 180 days to CLOSE on another property from the day you sell
-      4. You must purchase property of equal or greater value than the adjusted value (not the price value 
-         — but the adjusted cost basis when taking into account depreciation less commissions and 
-         closing costs) of the property you sold, or you will be taxed on the difference.
-      5. During the interim of selling your first place and closing on your second, you cannot touch/look 
-         at/be near the profits from the first place you sold. That money stays with a 1031 exchange 
-         facilitator (qualified intermediary) and not, not, not with you.
-      6. The old property and the new property must be sold and bought by the same entity. Meaning, 
-         if you sell a property as John Smith, you have to buy the new one as John Smith — and not as 
-         Smith, LLC.
-      7. This point has been debated by the experts, but a good rule of thumb for the majority of you is this: 
-         You must own your property for one year and one day to make this 1031 exchange. Otherwise, will be 
-         penalized. Its called seasoned property
-      8. If you keep even $1 of the capital gains you pay tax ON ALL OF IT. Make sure the value of the 
-         property you are going to buy is 115% of the prev just to be sure it doesn't get assessed too low.
-
-Article explaining more here:
-https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
 
 
-
-======================================
-
-- LLC (Single membership) is a disregarded entity and thus has no tax benefit for an individual holding 
-property through it. Partnerships are different though.
-
-
-### Deductions against my W2
--------------------------------------
-My business can have a lot of expenses. If it far exceeds my profits, I can write them off as losses and 
-claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, 
-that is just a hobby, not a business. Don't make it too obvious - write off 20k with a \$100 profit. 
-5-10k in losses is ok?
-
-### IRS Types of income
-===========================
-
-1 wages
-2 profits
-3 rents
-4 royalties
-5 dividends
-6 interest
-7 short term cp gains
-8 long term cp gains
-
-#### Bad
-
-Wages
-Self-employment profit
-
-#### OK
-
-Rents
-Royalties
-Interest
-Short term cap gaains
-
-#### Best
-
-Rent Estate
-Dividends
-Long term cap gains
-
-
-
-100k or less agi 150k diff rules
-U can take 25k loss
-
-
-
-@Daniel Kong that’s not how it works. Your LLC rentals go to your schedule E and all those expenses and 
-income are netted and included in a separate line item from your W2 on your 1040
-
-
-
-### Net Investment Income Tax (NIIT)
-------------------------------------------
+Net Investment Income Tax (NIIT)
+=============================================
 You pay 3.8% if your income is over 200k - Try to avoid this by keeping income below 200k!!!
 
 
 
-### My Personal Tax Situation
----------------------------------------
-
--- W2 income - normal income
-
--- Rental property purchased under my own name in Indiana -
-
-include rent and security deposit as passive income (this is added to my AGI)
-not included in state tax return (Fed and state agi will be different??)
-
-can deduct expenses from property -
--depreciation (assignment fee is included as part of purchase price - what about title fees etc - 
- total wired to title company?)
--insurance
--utilities
--education???
-If net negative, then can claim up to 25k against W2 (As long as my MAGI is under 100k)
-
-#### Rental property owned in Hawaii (AirBnB)
-
-include rent as passive income
-included in state tax return
-pay Hawaii GET (TAT if short term rental)
-
-can deduct expenses from property income
--rent
--utilities
--other expenses like purchases
-If net negative, then can claim up to 25k against W2 (As long as my MAGI is under 100k)
-
-#### Private lending -
-
-If I lend to another investor (my LLC), and get interest - do I claim that? what if I dont get interest?
-
-#### Software Consulting
-
-#### Real estate education/software
-
-valid documentation - line on my credit card statement - date of payment and to who
-
-Can this can be claimed as Start Up costs - 5k max and then depreciation of rest over 15 years?
-(Since i took the courses before acquiring my rental)
-(or maybe not since i dont have an active business…)
-
-#### Gifts from mom - do i pay taxes on that?
-
-What about my brother/friend going 50/50 with me on a house? What if we dont use an LLC 
-- easier to just claim it as a gift?
-Best strategy for that
-Can other people contribute to my LLC?
 
 Gift Tax
 ==================================
@@ -328,12 +203,147 @@ any other such gifts you've made, at the time of your death.
 
 
 
+Using an LLC
+======================================
+- LLC (Single membership) is a disregarded entity and thus has no tax benefit for an individual holding 
+property through it. Partnerships are different though.
 
 
-Mortgage Interest Paid to Banks – include the amount of interest reported to you by the bank on Form 1098. 
 
 
-Other Interest – include the amount of interest paid to third parties, whether they are private investors, private businesses, crowdfunding platforms, or relatives. Also make sure that you have sent these people or parties a Form 1099 showing the interest you have paid them. Without a Form 1099 in this case, you may not be able to substantiate the deduction.
+1031 Exchange
+==================================
+The purpose of a 1031 exchange is to defer paying 15 percent taxes on capital gains. It could end up more if 
+you factor in income tax and depreciation costs?
+
+General Rules:
+
+      1. Like kind - It has to be a real property for a real property
+      2. You have 45 days to find another property from the day you sell
+      3. You have 180 days to CLOSE on another property from the day you sell
+      4. You must purchase property of equal or greater value than the adjusted value (not the price value 
+         — but the adjusted cost basis when taking into account depreciation less commissions and 
+         closing costs) of the property you sold, or you will be taxed on the difference.
+      5. During the interim of selling your first place and closing on your second, you cannot touch/look 
+         at/be near the profits from the first place you sold. That money stays with a 1031 exchange 
+         facilitator (qualified intermediary) and not, not, not with you.
+      6. The old property and the new property must be sold and bought by the same entity. Meaning, 
+         if you sell a property as John Smith, you have to buy the new one as John Smith — and not as 
+         Smith, LLC.
+      7. This point has been debated by the experts, but a good rule of thumb for the majority of you is this: 
+         You must own your property for one year and one day to make this 1031 exchange. Otherwise, will be 
+         penalized. Its called seasoned property
+      8. If you keep even $1 of the capital gains you pay tax ON ALL OF IT. Make sure the value of the 
+         property you are going to buy is 115% of the prev just to be sure it doesn't get assessed too low.
+
+Article explaining more here:
+https://www.biggerpockets.com/renewsblog/2015/09/24/1031-exchanges-real-estate/
+
+
+
+
+
+
+
+
+
+IRS Types of income
+===========================
+1 wages  (Bad)
+2 profits (Bad)
+3 rents (Ok, Best)
+4 royalties (Ok)
+5 dividends (Best)
+6 interest (Ok)
+7 short term cp gains (Ok)
+8 long term cp gains (Best)
+
+
+
+
+Rental Income - Reporting on your Schedule E
+========================================================
+Your LLC rentals go to your schedule E and all those expenses and 
+income are netted and included in a separate line item from your W2 on your 1040
+
+
+Deductions against my W2
+----------------------------------
+My business can have a lot of expenses. If it far exceeds my profits, I can write them off as losses and 
+claim those losses against my W2 income. - I can do this for 3 years before the IRS says no bueno, 
+that is just a hobby, not a business. Don't make it too obvious - write off 20k with a \$100 profit. 
+5-10k in losses is ok?
+
+100k or less agi, take a 25k deduction
+100k-150k diff rules, you can take a portion of the 25k 
+
+
+
+
+My Personal Tax Situation
+======================================
+
+W2 income - normal income
+----------------------------
+
+
+Rental property purchased under my own name in Indiana -
+--------------------------------------------------------------
+include rent (not security deposits) as passive income (this is added to my AGI)
+not included in state tax return (Fed and state agi will be different??)
+
+Deduct expenses from property 
+--------------------------------------
+-Depreciation (assignment fee is included as part of purchase price - what about title fees etc - 
+ total wired to title company?)
+
+-Insurance
+
+-Utilities
+
+-Mortgage interest
+
+-Other Interest – include the amount of interest paid to third parties, 
+  whether they are private investors, private businesses, crowdfunding platforms, or relatives. 
+  Also make sure that you have sent these people or parties a Form 1099 showing the interest you have paid them. 
+  Without a Form 1099 in this case, you may not be able to substantiate the deduction.
+
+-Real estate education/software
+  valid documentation - line on my credit card statement - date of payment and to who
+  Can this can be claimed as Start Up costs - 5k max and then depreciation of rest over 15 years?
+  (Since i took the courses before acquiring my rental)
+  (or maybe not since i dont have an active business…)
+
+
+
+
+Rental property leased in Hawaii (AirBnB)
+-------------------------------------------------
+include rent as passive income
+included in state tax return
+pay Hawaii GET (TAT if short term rental)
+
+can deduct expenses from property income
+-rent
+-utilities
+-other expenses like purchases
+If net negative, then can claim up to 25k against W2 (As long as my MAGI is under 100k)
+
+
+Private lending -
+-------------------------------
+If I lend to another investor (my LLC), and get interest - do I claim that? what if I dont get interest?
+
+
+Software Consulting
+------------------------------
+
+
+
+
+
+
+
 
 
 
