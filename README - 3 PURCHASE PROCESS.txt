@@ -29,8 +29,6 @@ NOTE: Save all documentation with everything you do in an organized way! This wi
    the company are important here.
    - Get a estoppel from tenants - basically a statement saying what their lease is - how much they pay and term
 
-4b. If it is tenanted, then get an estoppel from the tenants. For more information on what to include on the 
-    estoppel, see bigger pockets - book on managing rentals...
 
 5. Close.
    About 60-75 days from the time you sign the purchase agreement to the time you sign the closing documents. 

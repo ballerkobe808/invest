@@ -287,3 +287,17 @@ You can set them up to receive a whole pie or to have them receive a pie a month
 My clients loved them. You can have them do all of the shipping etc.
 
 I sent a package from Omaha Steak for about \$90 to both my realtor and PM for xmas last year.
+
+
+
+Landlord Tenant Laws
+==========================
+https://www.nolo.com/legal-encyclopedia/overview-landlord-tenant-laws-indiana.html
+
+
+
+
+
+
+
+
