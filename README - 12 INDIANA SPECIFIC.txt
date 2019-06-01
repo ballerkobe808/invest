@@ -248,7 +248,8 @@ If a Tenant lives in your property for 3 years and the home needs painted upon m
 should the Tenant bear any of this responsibility? These are important and tricky considerations that 
 you need to determine as soon as you decide to become a Landlord.
 
-### How Do I Refund the Deposit?
+------------------------------------
+How Do I Refund the Deposit?
 ------------------------------------
 Again, it’s state-driven. In Indiana, you have 45 days after the lease end date and the Tenant has 
 vacated to return the deposit in full or provide a letter noting what deductions were made from 
@@ -276,9 +277,9 @@ Remember, the security deposit is the Tenant's money.
 
 
 
-
-### Gifts for Indiana Team
-----------------------------------
+------------------------------------
+Gifts for Indiana Team
+------------------------------------
 
 Taylor's Bakery or Long's Donuts has really good sweets. Everyone in Indianapolis knows about it.
 
@@ -296,7 +297,44 @@ https://www.nolo.com/legal-encyclopedia/overview-landlord-tenant-laws-indiana.ht
 
 
 
+Bad neighborhoods
+=========================
+46218 - near raytheon
 
+
+WHY TO INVEST IN INDY????
+===================================
+http://www.cashflowdiaries.com/why-is-indianapolis-such-a-great-city-to-invest-in/
+  -steadily increasing population and economy for years now and it does not look like this trend will stop anytime soon.
+  -Indiana is leading the midwest with the lowest unemployment rate.
+  -The tech industry is only just starting to take off.  Even the CEO of Salesforce Marketing Cloud thinks Indy is “the best kept secret in the country“. 
+  -According to Forbes, Indy is listed at the #5 top city for tech jobs
+  -Indy has ranked #9 in the nation for Best Small Business Cities in America in 2017.
+
+  -A $50 million dollar grant has been given to Indy to help build the Rapid Bus Transit Line. 
+  -Indianapolis has been named the “most improved” bike friendly city in 2017. 
+
+  -For professional sports there is an NFL, NBA and WNBA teams.  For minor league sports we have hockey, baseball and soccer.
+  -The Indy500 and the Grand Prix and
+
+  -Downtown Indianapolis is already a bustling, clean and beautiful place and the city has zero plans on stopping the growth.
+  -Realtor.com has recognized Indy for being one of the top 10 cities where downtown is making a comeback.
+
+  -Indy has been labeled the best city for renters by Forbes. 
+  -Indiana is one of the only states where renter’s can actually deduct rent paid?   
+  -Ranked #5 for top cities where you can live really well on a $60k salary.
+  -We have our own HGTV flipping show that is helping shine a national spotlight on indy.  Thanks to Two Chicks and a Hammer with their Good Bones tv show.
+
+  -listed as one of the top 50 best places to travel in 2017 by Travel and Leisure.
+  -Indy has had 4 record years of record tourism.
+  -Conde Nest Traveler has recognized Indy as a top city to watch in 2017
+
+https://www.mashvisor.com/blog/indianapolis-investment-properties/
+  -#1 Population Growth
+  -#2 Job Growth / Low Unemployment
+  -#3 Diverse Economy
+
+  
 
 
 
