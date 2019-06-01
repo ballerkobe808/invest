@@ -286,13 +286,19 @@ Here are the key members:
         
       Elisha Drake (Indiana) - Esquared pg (owner)
       
-      DawntillDusk Property Management - Paul Rees - 
+      DawntillDusk Property Management - Paul Rees - Does no online marketing, but seems to know people 
+        - 12% no listing fee, has contractors, all email
       
       IndyHousesPlus - Jessica (through Russ)
         Russ Smith - Owner, Jessica Kamdar - Prop Manager
         russ@indyhousesplus.com, jessica@indyhousesplus.com
 
       BHB Property Management - Black team - lots of bad reviews - even from people using them from Hawaii
+
+      Chad Stickley - A Step Ahead Management - Had 4309 Ralston - Seems like a quality guy wont take leases < 1k
+      
+      TH Realty - handed me the check from 4530 Ralston - bigger company
+
 
 13. Handyman – A person who can do household repairs and minor
     renovations. A capable handyman is great for dealing with small
