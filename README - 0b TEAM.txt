@@ -59,7 +59,6 @@ Remember you represent Jesus!!
 --- Team members -------------
 
 ===================================================================================
-Here are the key members:
 
 1. Your Investor Peers.
 
@@ -68,27 +67,18 @@ Here are the key members:
       David Louis Buying Tour
       Evan Cheng Buying Tour
       Mike Blackwell Buying Tour
+      
       Carolyn Watanabe
-      Alex -lender
-      Russ
-      Paul Rees
-      Ryan Moeller
-      Dustin Ruhl
       Mike Ohara
       Sid Selling 78 Schiller
 
       Travis Henry
-      Kylie Nakamura
-      Mitch??
-      Ross Real Prop Management
-      Todd Rudicel
-      Matt Speer
-      Zac Canull LIV Indy
+      Kiley Nakamura
+      Chivas Miho
 
       Josh Seitz
-      Richie - GP
+      Richie Galarse-Pancoast
       Ivan Pacheco (or Yen?)
-      Scott Hall?
       Catie Yasuhara - AirBnB
       
       Lane and Nicole Kawaoka
@@ -101,33 +91,30 @@ Here are the key members:
       Ted Kawabata
       Alan Sue
       Page Ollice
-
-      Ernie
-      Joseph Lui
+      
       Garret Taira
       Anson
-      Tarik Shahin
-      Brandon
-      Jason Tsukamoto
-      Brian Cachola
-      Grant Shiira
-      David Croswell
       Joel Chang
       Justin ___
-      Kazuko Adachi
 
 
       Rich Real Estate Kumu
 
 Potential Private Money Lenders
 ---------------------------------
-
+  Ernie
+  Joseph Lui
+  Alex - Lender
+  Jason Tsukamoto
+  Grant Shiira
+  Brian Cachola
+  David Croswell
+  Kazuko Adachi
+  Brandon Kapahu
 
 
 Random Friendships
 --------------------------
-
-Random Others
 Travis Hatanaka
 Orly 
 Tristan Tagad
@@ -161,6 +148,8 @@ Warren Cabadang
 
       Marty Duda (Missouri) - Turnkey Real Estate
       Ted Kawabata (Hawaii)
+
+      Todd Rudicel
 
 
       Wholesale Lists:
@@ -364,6 +353,8 @@ Warren Cabadang
       Chad Stickley - A Step Ahead Management - Had 4309 Ralston - Seems like a quality guy wont take leases < 1k
       
       TH Realty - handed me the check from 4530 Ralston - bigger company
+      
+      Ross - Real Prop Management - Active on Bigger Pockets an in Indy - Investor Friendly
 
 
 13. Handyman – A person who can do household repairs and minor
