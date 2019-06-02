@@ -66,8 +66,72 @@ Here are the key members:
    mentors.
 
       Paul Xavier
+      Daniel Benevidaz Buying Tour
+      David Louis Buying Tour
+      Evan Cheng Buying Tour
+      Mike Blackwell Buying Tour
+      Carolyn Watanabe
+      Alex -lender
+      Russ
+      Paul Rees
+      Ryan Moeller
+      Dustin Ruhl
+      Mike Ohara
+      Sid Selling 78 Schiller
+
+      Travis Henry
+      Kylie Nakamura
+      Mitch??
+      Ross Real Prop Management
+      Todd Rudicel
+      Matt Speer
+      Zac Canull LIV Indy
+
       Josh Seitz
+      Richie - GP
+      Ivan Pacheco (or Yen?)
+      Scott Hall?
+      Catie Yasuhara - AirBnB
+      
+      Lane and Nicole Kawaoka
+      Dean Ueda
+      Duc Ong
+      Jackson Fong
+      Kelii Kaneshiro (BRRRR  Investor)
+      Tyler Furukawa
+
+      Ted Kawabata
+      Alan Sue
+      Page Ollice
+
+
+
+
+      Ernie
+      Joseph Lui
       Garret Taira
+      Anson
+      Tarik Shahin
+      Brandon
+      Jason Tsukamoto
+      Brian Cachola
+      Grant Shiira
+      David Croswell
+      Joel Chang
+      Justin ___
+      Kazuko Adachi
+
+
+      Rich Real Estate Kumu
+
+
+Random Others
+Travis Hatanaka
+Orly 
+Tristan Tagad
+Warren Cabadang
+
+
 
 2. Real Estate Agent – A person who represents buyers or sellers of
    properties and land, for a commission. Good agents know their market,
