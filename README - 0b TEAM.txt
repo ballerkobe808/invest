@@ -61,9 +61,7 @@ Remember you represent Jesus!!
 ===================================================================================
 Here are the key members:
 
-1. Your Mentor(s)/Coach/Peers – A trusted, experienced adviser. Most successful
-   businesspeople have learned invaluable lessons through training from
-   mentors.
+1. Your Investor Peers.
 
       Paul Xavier
       Daniel Benevidaz Buying Tour
@@ -104,9 +102,6 @@ Here are the key members:
       Alan Sue
       Page Ollice
 
-
-
-
       Ernie
       Joseph Lui
       Garret Taira
@@ -124,6 +119,13 @@ Here are the key members:
 
       Rich Real Estate Kumu
 
+Potential Private Money Lenders
+---------------------------------
+
+
+
+Random Friendships
+--------------------------
 
 Random Others
 Travis Hatanaka
