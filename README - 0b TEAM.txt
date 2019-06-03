@@ -62,65 +62,67 @@ Remember you represent Jesus!!
 
 1. Your Investor Peers.
 
-      Paul Xavier
-      Daniel Benevidaz Buying Tour
-      David Louis Buying Tour
-      Evan Cheng Buying Tour
-      Mike Blackwell Buying Tour
-      
-      Carolyn Watanabe
-      Mike Ohara
-      Sid Selling 78 Schiller
+    Paul Xavier
+    Daniel Benevidaz Buying Tour
+    David Louis Buying Tour
+    Evan Cheng Buying Tour
+    Mike Blackwell Buying Tour
+    
+    Carolyn Watanabe
+    Mike Ohara
+    Sid Selling 78 Schiller
 
-      Travis Henry
-      Kiley Nakamura
-      Chivas Miho
+    Travis Henry
+    Kiley Nakamura
+    Chivas Miho
 
-      Josh Seitz
-      Richie Galarse-Pancoast
-      Ivan Pacheco (or Yen?)
-      Catie Yasuhara - AirBnB
-      
-      Lane and Nicole Kawaoka
-      Dean Ueda
-      Duc Ong
-      Jackson Fong
-      Kelii Kaneshiro (BRRRR  Investor)
-      Tyler Furukawa
+    Josh Seitz
+    Richie Galarse-Pancoast
+    Ivan Pacheco (or Yen?)
+    Catie Yasuhara - AirBnB
+    
+    Lane and Nicole Kawaoka
+    Dean Ueda
+    Duc Ong
+    Jackson Fong
+    Kelii Kaneshiro (BRRRR  Investor)
+    Tyler Furukawa
 
-      Ted Kawabata
-      Alan Sue
-      Page Ollice
-      
-      Garret Taira
-      Anson
-      Joel Chang
-      Justin ___
+    Ted Kawabata
+    Alan Sue
+    Page Ollice
+    
+    Garret Taira
+    Anson
+    Joel Chang
+    Justin ___
 
 
-      Rich Real Estate Kumu
+    Rich Real Estate Kumu
 
 Potential Private Money Lenders
 ---------------------------------
-  Ernie
-  Joseph Lui
-  Alex - Lender
-  Jason Tsukamoto
-  Grant Shiira
-  Brian Cachola
-  David Croswell
-  Kazuko Adachi
-  Brandon Kapahu
+    Ernie
+    Joseph Lui
+    Alex - Lender
+    Jason Tsukamoto
+    Grant Shiira
+    Brian Cachola
+    David Croswell
+    Kazuko Adachi
+    Brandon Kapahu
 
 
 Random Friendships
 --------------------------
-Travis Hatanaka
-Orly 
-Tristan Tagad
-Warren Cabadang
-
-
+    Caleb Santa Monica
+    Justin Brenes
+    Warren Cabadang
+    Orly 
+    
+    Travis Hatanaka
+    Tristan Tagad
+  
 
 2. Real Estate Agent – A person who represents buyers or sellers of
    properties and land, for a commission. Good agents know their market,

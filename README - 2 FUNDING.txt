@@ -135,6 +135,10 @@ credit score, and also gives you access to more emergency funds should you need 
 Pay using Credit Cards for a 2.5% fee (Get cash)
 https://www.plastiq.com/
 You can get Introductory Rates and take out cash here...
+I tried Plastiq and it was almost impossible to do even a small transfer. They act almost as a barrier and have a 
+lengthy questioning period to avoid people taking cash.
+The one intriguing option mentioned was the PayPal transfer. Wondering just how simple that really is and what the 
+cost ends up being if it’s still an option. 
 
 
 
