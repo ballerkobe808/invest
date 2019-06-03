@@ -111,6 +111,7 @@ Potential Private Money Lenders
     David Croswell
     Kazuko Adachi
     Brandon Kapahu
+    Anu Chen
 
 
 Random Friendships

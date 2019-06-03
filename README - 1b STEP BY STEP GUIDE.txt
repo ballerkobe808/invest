@@ -69,3 +69,23 @@ Get on Craigslist, Hotpads, Facebook and look through the area.
     Lastly, have someone physically walk a street and count the number of apparent boarded up/distressed houses. 
     If there are more than 2 in the immediate area and more than 5 on a block (a decent PM can probably help 
     with this)... I typically recommend passing unless there are active rehabs going on at those homes.
+
+
+Boots on the Ground - Questions and Rehab Checklist
+==========================================================
+Have a contractor/Todd walk through and give an itemized estimate of repairs (Pay $50 for this - want to
+build a good relationship, and not have them do work for free...)
+
+Also you will learn more as the contractors go thru the house....
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,7 +2,7 @@
 
 HOME INSPECTION - THINGS TO LOOK OUT FOR
 ==============================================
-
+Book on Estimating Rehab costs - Go thru that and update this document again
 
 Separately Metered Elec - For multifamily, meters will be outside
 Separately Metered Water - For multifamily, meters will be outside
@@ -31,5 +31,16 @@ agreement before you buy the property.
     If there are any problems or repairs needed
     If there are any other agreements with the landlord
 
+
+Condition of Plumbing
+----------------------------
+Leaks, type of tubing
+-How to check for leaks - go thru book - estimating rehab costs...
+
+
+Condition of Electric
+--------------------------
+Knob and tube wiring?? 
+Is it a breaker box, or something older? Need 100amp box for most homes, 200amp for bigger/multifamily
 
 
