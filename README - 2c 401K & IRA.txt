@@ -80,3 +80,11 @@ The Self-Directed IRA and Solo 401k Differences
   At termination, the solo 401k is required to file a final Form 5500-EZ and 1099-R; and
   At termination, the self-directed IRA is only required to file a form 1099-R.
 
+
+529 College Savings Plans
+---------------------------------
+529 college savings plans are the most common type. Investments grow tax-free and can be 
+withdrawn tax-free for educational expenses like tuition, room and board, and required textbooks.
+
+529 prepaid plans let you prepay part or all of an in-state public tuition, 
+locking in the tuition at time of payment.

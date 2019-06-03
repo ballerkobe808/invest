@@ -140,6 +140,10 @@ lengthy questioning period to avoid people taking cash.
 The one intriguing option mentioned was the PayPal transfer. Wondering just how simple that really is and what the 
 cost ends up being if it’s still an option. 
 
+https://goldmoney.com (purchasing metals and turning around and cashing out a few days letter.)
+
+Fund and Grow - will claim to get you money from credit cards, but seems shady, and works by taking off legit inquiries
+from your credit report...
 
 
 General Tips
