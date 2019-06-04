@@ -27,13 +27,14 @@ Red Flags
 
 
 ===============================
-Up and coming neighborhoods
+Neighborhoods!!
 ===============================
+
+Up and coming neighborhoods
+------------------------------
 Irvington - rents going Up
 Little Flower?
 Speedway maybe...
-
-
 
 Mile square - 1800/1900s, then each mile out gets to be around 10 years
 outer ring is around 1960s - this will affect the home style
@@ -43,13 +44,19 @@ Lots of "military" homes 3/1 cookie cutter homes on slabs - before had a crawl o
 
 70/80/90s outside 465 loop
 
-
 Redevlopment project
 1. 
 
 
-Jason Fender - Paul Rees is his property manager
-927-0699
+
+
+Bad Neighborhoods
+-----------------
+46218 is BAD
+also a strip near east of downtown
+see youtube vid here: 
+https://www.youtube.com/watch?v=vmrkdUaHToQ
+
 
 
 

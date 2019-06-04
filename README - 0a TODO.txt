@@ -52,10 +52,27 @@ Freedom from worrying about money.
 Freedom from being forced to work hard in a job with no end.
 Ability to help others around me.
 
+Pain vs Pleasure
+-------------------------------
+Avoiding Pain/Fear is a FAR better motivator than Pleasure.
+Its the pain or fear of being poor that will push you that extra mile a lot more than the 
+potential pleasure for a great life 
 
+When you are tired or uncomfortable its PAIN, or the fear and/or memory of 
+PAIN that will drive you. 
+Latch onto this - use it to your advantage!!
+
+When you get stuck, lazy, or fearful, think of all the things you will lose by not taking action.
+Really think deeply about it until you start to feel the pain that will occur by not taking action.
 
 
 -------------------------------
 RESEARCH AND/OR MEMORIZE
 -------------------------------
+
+Align your interests with the interests of others. When you both stand to win from the
+situation its easier to trust them, and to work together. For instance, a PM will want a good
+property so its easier to rent and keep tenants in.
+
+
 

@@ -347,6 +347,8 @@ Random Friendships
       
       DawntillDusk Property Management - Paul Rees - Does no online marketing, but seems to know people 
         - 12% no listing fee, has contractors, all email
+        Jason Fender - Paul Rees is his property manager 927-0699
+
       
       IndyHousesPlus - Jessica (through Russ)
         Russ Smith - Owner, Jessica Kamdar - Prop Manager
