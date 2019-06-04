@@ -59,16 +59,3 @@ Ability to help others around me.
 RESEARCH AND/OR MEMORIZE
 -------------------------------
 
-flashing - the parts of the roof where there are edges/corners, there are diff types and places
-where flashing will go...
-
-fascia - the side of the roof where the roof ends - wood slats...
-soffit - under the fascia
-
-
-sheetrock - a brand of drywall - kind of like kleenex is a brand of tissue paper - 
-use them interchangably for the most part
-
-crown molding - fancy intricate layered moldings around the edges of your house
-
-
