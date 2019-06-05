@@ -53,6 +53,7 @@ Redevlopment project
 Bad Neighborhoods
 -----------------
 46218 is BAD
+Englewood is BAD
 also a strip near east of downtown
 see youtube vid here: 
 https://www.youtube.com/watch?v=vmrkdUaHToQ
@@ -304,9 +305,6 @@ https://www.nolo.com/legal-encyclopedia/overview-landlord-tenant-laws-indiana.ht
 
 
 
-Bad neighborhoods
-=========================
-46218 - near raytheon
 
 
 WHY TO INVEST IN INDY????

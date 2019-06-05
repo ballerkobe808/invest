@@ -76,3 +76,17 @@ property so its easier to rent and keep tenants in.
 
 
 
+Fast Cash vs Wealth Building
+---------------------------------
+
+
+Taskrabbit - potential person to take pics of house OR handyman to fix issues...
+
+
+Goals - Visualize them!!
+-----------------------------
+Spend a moment thinking of the positive side of reaching your goals - imagine it in depth with feelings etc
+
+Spend a moment thinking of the negative side of not reaching your goals - this is actually more 
+important, since pain is a far better motivator than pleasure.
+

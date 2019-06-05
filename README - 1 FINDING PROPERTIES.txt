@@ -134,3 +134,21 @@ PROCESS - Assess Property Value (ARV)
 motivated, reduced, owner may finance (owf omf), pre-foreclosure, foreclosure, short sale,
 divorce, reo, probate, estate, relocation/relo, owner will carry /owc, fire or storm damage, tlc, fixer,
 investor, discount, bring,
+
+
+How to use MLS, Redfin, and Zillow to find Properties
+-----------------------------------------------------------
+Filter by Recently Sold Houses for the cheapest possible. Gather all this data
+and try to figure out why they sold so cheap. Use it as your baseline for the
+neighborhood. 
+
+Do the same for fixed up or recently remodelled houses. Use it as your baseline for
+rehabbed properties.
+
+You want to be in a neighborhood with a lot of investor activity.
+
+--------------------
+There is a walkthrough using Listsource to see the highest concentrations of Investor activity
+in the book "Finding and Funding great deals"
+
+------------
