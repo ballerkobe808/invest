@@ -78,8 +78,6 @@ property so its easier to rent and keep tenants in.
 
 Fast Cash vs Wealth Building
 ---------------------------------
-
-
 Taskrabbit - potential person to take pics of house OR handyman to fix issues...
 
 
@@ -93,4 +91,4 @@ important, since pain is a far better motivator than pleasure.
 
 
 
-
+Bonded

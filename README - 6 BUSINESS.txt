@@ -162,12 +162,20 @@ Pro tip: If you own a property free and clear, put a lien on it so others cant s
 For attorneys who get paid on contigencies this won't make it attractive to pursue
 
 
+Incorporating in Wyoming, then you won't have to pay the 4% GET in Hawaii - 
+This applies to ACN, does it apply for rental income as well??
+
+
+
 
 
 
 LLC Filing Fees by State:
 https://www.llcuniversity.com/llc-filing-fees-by-state/
 
+State LLC	   LLC Filing Fee	  LLC Annual/Biennial Fee
+Indiana LLC	 $90	            $30 (every 2 years)
+Hawaii LLC	 $50	            $15 (every year)
 
 Indiana LLC
 --------------------

@@ -103,9 +103,6 @@ AirBnB
 Section 8
 
 
-Infinite Banking
-
-
 
 
 
@@ -124,6 +121,30 @@ Infinity Investing: Stock trading - Buy dividend stocks and sell options - RESEA
 
 
 
+
+=======================================
+General Market Cycles
+=======================================
+1. Expansion (Seller / Demand) ^^
+
+2. Contraction (Seller / Supply) >>
+    -properties less affordable
+    -sellers wait long but getting inflated prices
+    -increased number of properties on the market
+    -high market inflation with slowing business and job growth
+
+3. Decline (Buyer / Supply) \/ 
+    -market is overbuilt
+    -property prices and rents declining rapidly
+    -demand is declining rapidly
+
+4. Absorption (Buyer / Demand) <<
+    -demand is rising
+    -time on market declining
+    -investment prices decline to lowest prices
+    -bank foreclosures dry up
+
+Timing it can be tricky - Don't get greedy trying to time it EXACTLY
 
 
 
