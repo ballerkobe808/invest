@@ -152,3 +152,11 @@ There is a walkthrough using Listsource to see the highest concentrations of Inv
 in the book "Finding and Funding great deals"
 
 ------------
+
+MLS:
+----------------
+I look for vacant properties that have been on the mls for 90 days or more and have had big price reductions. 
+I determine what I can pay and make a cash offer regardless of asking price. I get 3 out of 10 this way. 
+Often if they turn down the offer initially they will come back around  later and take the offer. 
+
+You can automate this by training a REALTOR® on your parameters and have them make the offers or you.

@@ -150,6 +150,16 @@ Have an anonymous trust as the owner of your LLC for another level
 If its too complex, lawyers will lose interest and it wont be worth their time.
 
 
+Wyoming, Delare, Nevada LLCs
+-------------------------------
+LLCs in these states have privacy, so the manager (you) doesn't show up in public records
+
+If you use ANDERSON FINANCIAL - They will be your Managing member in your Wyoming LLC, and they
+have offices there to answer phone calls, or forward your mail, etc. So its legit and you dont
+have to worry about someone "piercing the veil"
+
+Pro tip: If you own a property free and clear, put a lien on it so others cant see you own it free and clear
+For attorneys who get paid on contigencies this won't make it attractive to pursue
 
 
 

@@ -90,3 +90,7 @@ Spend a moment thinking of the positive side of reaching your goals - imagine it
 Spend a moment thinking of the negative side of not reaching your goals - this is actually more 
 important, since pain is a far better motivator than pleasure.
 
+
+
+
+
