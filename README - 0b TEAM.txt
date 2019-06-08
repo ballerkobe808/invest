@@ -393,3 +393,102 @@ Random Friendships
     members of the team on an as-needed basis.
 
 
+Leadership
+========================
+
+- People
+  Do people know you care about them - if you do, but they dont know thats not helpful
+
+- Purpose
+
+- Process
+  Detailed process of how to accomplish your goals
+
+- Performance
+  Result, productivity, winning, success
+
+
+2 Daily Dilemmas
+=====================================
+
+1. I have something that I really need to do, but I don't want to do it
+2. There is something that I really shouldn't do, but I want to do it
+
+--- 5-6 secs to decide ---- 
+
+When the alarm goes off - get up - habit and choice - make it a habit every day
+
+Tennis - The game takes 2 hours, but the ball is only in play 15-20 minutes.
+What you think about for the rest of the time greatly affects how the actual game goes.
+
+- Before you can win a lot of championships
+- You have to win a championship
+- You have to win a lot of matches
+- You have to win a lot of sets
+- You have to win one set
+- You have to win one game
+- You have to win one point
+
+
+Keys to Leadership
+==============================
+Choices
+  - Control what you have control of
+  1. Thoughts
+  2. Mouth
+  3. Hands
+
+  Winning or Losing have the same attitude - Give your best effort
+
+Communication
+  Listen first - speak last??
+  Share what you are thinking and feeling
+  Real and honest feedback
+
+Culture
+  When we play against these guys, they will have a great attitude and great effort
+  We have to have SUPERIOR great attitude and effort
+
+  When we play against these guys, they will have a great attention to detail
+  We have to have SUPERIOR attention to detail
+
+
+
+What am I extremely Good at??
+=====================================
+Analyzing Deals???
+
+------------------------------------------------------------------------------
+Instead of focusing on the things I can't do, Focus on the things I can do
+------------------------------------------------------------------------------
+
+
+
+Success is not Easy
+Find your greatness, and help others find theirs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

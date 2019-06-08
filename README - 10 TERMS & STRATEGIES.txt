@@ -126,6 +126,11 @@ Infinity Investing: Stock trading - Buy dividend stocks and sell options - RESEA
 General Market Cycles
 =======================================
 1. Expansion (Seller / Demand) ^^
+    -low unemployment
+    -demand at its highest point
+    -property prices and rents are higher and rising
+    -very little on market
+    -investment properties increase to highest prices
 
 2. Contraction (Seller / Supply) >>
     -properties less affordable
