@@ -170,6 +170,12 @@ Random Friendships
 
       Andy indyfastcash@gmail.com - on list
 
+      www.happyinvestor.com
+
+      https://www.indywholesaleinvest.com 
+
+      http://www.indianapolisinvestment.com/indianapolis_homes_for_sale.html
+
       Ironclad group - Dustin Ruhl - on list
 
       Ryan Moeller - ryanepc@gmail.com

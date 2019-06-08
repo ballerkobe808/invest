@@ -343,4 +343,8 @@ https://www.mashvisor.com/blog/indianapolis-investment-properties/
 
 
 
+Ideas for live in Rehabs
+==========================
+Hui Ride shares - pay per ride or hourly???
+Electric Scooters - Find these!!
 
