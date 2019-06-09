@@ -76,7 +76,8 @@ you run the risk of losing whatever protection you may have under your LLC becau
 rule that that the LLC is too close to your personal assets and therefore, not a separate entity.
 
 
-
+Protect the Veil of your LLC:
+http://www.mlwfinancial.com/news/2016/9/26/rcxi1szv1z90ll8u4wnmtnktd2la39
 
 
 
@@ -264,3 +265,16 @@ drawn from the corporation and from any dividends received from the corporation.
 
 You can go back and forth between S Corp and C Corps from Year to Year
 
+
+
+How to take money out of your C-Corp Business
+==========================================================
+C-Corp 
+  - Reimbursement - Pay you back for business expenses (This is the best way - non taxable)
+    1. Pay your C-Corp bills
+    2. Pay yourself back
+  - You are an employee (Pay taxes on your salary, but its a deduction from your C-Corp)
+  - Take out a loan from the C-Corp (This is only if you have profits)
+  - Divident (Not recommended, this is where double taxaion occurs)
+  
+  

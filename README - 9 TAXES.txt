@@ -364,4 +364,31 @@ Software Consulting
 
 
 
+Using Anderson Advisors
+===========================================================================
+Pros 
+  - Having the CPA and Attorneys on the same page and talking to each other
+  - Creative Strategies (208A strategy), C-Corp carry forward losses, Home Office, Education
+  - Experience with working with RE Investors
 
+Cons 
+  - Expensive (1500 Entity setup, 135 Resident Agent, 995 Corp Tax prep w 3 months bookeeping, 500 personal 
+    tax prep)
+
+
+Doing it myself
+============================================
+Based on good legal counsel I did the following for each property; I set up a two-member LLC ($100 filing fee), 
+Quitclaimed each property into the name of the LLC and recorded it with the county, applied for an IRS EIN for 
+each LLC, set up a separate bank account in the name of the LLC, secured $1M liability insurance coverage and 
+had the insurance company identify the LLC as the "primary" insured, hired a property management company 
+identifying the LLC as the client, made sure rental contracts are in the name of the LLC and I file Form 1065 
+tax returns for each LLC. NOTHING is in my name of the name of the other LLC member. My assets strictly follow 
+the legal structure for which LLC's were created (to limit the liability of its members). I'm 55 and throughout 
+my life I've learned to consider risk assessment, and I've determined the structure I've carefully followed 
+minimizes my liability and protects my assets. "Minimizes" being the key word, which is the same word Anderson 
+uses on their website. It doesn't say "remove." Ultimately, the question I asked myself is this; if LLCs were 
+set up to limit liability then why do I need to go with an additional Turn Key service facilitated by a 
+third-party to accomplish the same thing, or what my attorney will do to protect my assets if challenged â as 
+long as I set up the LLC correctly and made sure nothing is in my name by which the "veil can be pierced." 
+ recommend this link for your review;

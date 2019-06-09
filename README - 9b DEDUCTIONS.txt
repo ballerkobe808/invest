@@ -205,3 +205,11 @@ business “nexus.”
 http://www.reesnet.com/tax/planning/lvl05600.htm
 
 
+Charitable Deductions and my business
+============================================
+Since the new personal charitable deduction is now 12k, less incentive for me to give thru my personal income
+If I give thru my business, then I get the 12k PLUS my business gets the 13k deduction as well - its a separate
+entity!!
+
+
+

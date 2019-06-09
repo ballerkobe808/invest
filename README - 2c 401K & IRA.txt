@@ -88,3 +88,16 @@ withdrawn tax-free for educational expenses like tuition, room and board, and re
 
 529 prepaid plans let you prepay part or all of an in-state public tuition, 
 locking in the tuition at time of payment.
+
+Savings Plans for college tuition (its after tax dollars) 
+Ways to adjust:
+
+  - beneficiary dies
+  - you can change beneficiary
+  - you can use for elem or high school ed, trade schools
+  - if beneficiary gets a scholarship???
+
+You only pay penalties (10% and income tax) on the EARNINGS
+Make sure you pay from there directly to the school to avoid IRS confusion
+
+
