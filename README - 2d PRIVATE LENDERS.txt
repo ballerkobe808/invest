@@ -6,8 +6,7 @@ Types of Lenders
 1. Cash in Bank
 2. Self Directed IRA
 3. Equity in home/RE
-
-
+4. Whole Life Insurance
 
 
 

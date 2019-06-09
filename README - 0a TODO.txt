@@ -134,6 +134,69 @@ Effort -> Plan -> Outcomes
 Colonel Sanders
 
 
+Rental Property
+---------------------
+Your rental start-up costs would be amortized on your Schedule E, not a Schedule C.  
+Your start-up costs are accumulated until you become operational.  Expenses such as pre-operational 
+acquisition costs, investigation costs, proof-of-concept costs are included in start-up costs.  
+In the year you become operational you can deduct $5,000 of start-up costs with the balance spread over 
+180 months beginning with the first month you are operational.  You would list this expense in your 
+return as “Start-Up Expense Amortization.”
+
+Improvements and betterments to your rental property, however, would be included in the depreciation 
+base for this asset.  
+
+
+
+
+
+2019
+--------------
+
+Lock up your money in your 401k - put it in something safe...
+Take out your money from your 401k????
+
+
+
+Ask Dad to roll over 401k into self-directed IRA???
+
+
+
+1 M Nest Egg
+9% passive = 90k a year, 7k a month passive
+
+
+
+
+
+
+Creative way to Qualify for Hard Money
+--------------------------
+Put family/friends money in a bank account for 100k to season the money
+Qualify for 1M???
+Now you get access to 1M in hard money LOC???
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
