@@ -300,3 +300,20 @@ You don't have to issue 1099s for payments made to Credit Cards
 You don't have to issue 1099s to Corporations
 
 
+Meetings
+=================
+You Need at least 2 meetings a year for your Corp and at least 1 meeting a year for your LLC
+
+
+--------------------------------------------
+Business Expenses and Taxes Illustration
+--------------------------------------------
+Business:  Make money -> Pay Expenses -> Pay Taxes
+Personal:  Make money -> Pay Taxes    -> Pay Expenses
+
+
+
+
+
+
+

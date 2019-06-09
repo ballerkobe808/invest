@@ -200,9 +200,16 @@ business “nexus.”
  So long as you can substantiate the business connection and the reasonableness of the charge, the 
  deduction should be allowed.
 
-
-
 http://www.reesnet.com/tax/planning/lvl05600.htm
+
+1. Get a quote from the Hilton to rent the room (It comes back as $2,000)
+2. Have a meeting at home with another person (It can't be with yourself)
+   Use the form Anderson gives you - Very Simple
+   You can use a rental, it doesn't have to be your own home
+   You charge your corporation to use your home (but you dont have to report the income since its less than 15 days)
+3. You can write this off as many as 14 days ($2,000 x 14 days)
+
+
 
 
 Charitable Deductions and my business

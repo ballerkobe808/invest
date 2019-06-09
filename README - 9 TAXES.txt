@@ -335,6 +335,8 @@ hired a property management company identifying the LLC as the client,
 made sure rental contracts are in the name of the LLC and I file Form 1065 tax returns for each LLC. 
 
 
+Wyoming LLC - They will maintain and be the name listed on the Secretary of State
+If someone calls and asks who the owner/manager is, they will have to call Anderson who wont give out the info
 
 
 

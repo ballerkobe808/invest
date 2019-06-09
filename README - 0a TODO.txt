@@ -182,6 +182,28 @@ Build up Commercial Credit and LOC???
 
 
 
+C-Corp
+------------------------------
+Can write off bus expenses
+
+Can do different types of businesses as long you have a strong enough operating agreement
+
+Anderson does a 75 page operating agreement
+
+
+
+Less likely to get audited as a C-Corp
+
+
+
+Anderson has been doing taxes for 20 years, hasn't been audited in 7 years - also, they will represent you
+
+
+
+
+
+
+
 
 
 
