@@ -301,63 +301,9 @@ that is just a hobby, not a business. Don't make it too obvious - write off 20k 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-==================================================================================
-My Personal Tax Situation
-
-
-==================================================================================
-
-W2 income - normal income
-----------------------------
-
-
-Rental property purchased under my own name in Indiana -
---------------------------------------------------------------
-include rent (not security deposits) as passive income (this is added to my AGI)
-not included in state tax return (Fed and state agi will be different??)
-
-Deduct expenses from property: See 9b DEDUCTIONS
---------------------------------------
-
-
-
-
-Rental property leased in Hawaii (AirBnB)
--------------------------------------------------
-include rent as passive income
-included in state tax return
-pay Hawaii GET (TAT if short term rental)
-
-can deduct expenses from property income
--rent
--utilities
--other expenses like purchases
-If net negative, then can claim up to 25k against W2 (As long as my MAGI is under 100k)
-
-
-Private lending -
+Private lending??? -
 -------------------------------
 If I lend to another investor (my LLC), and get interest - do I claim that? what if I dont get interest?
-
-
-Software Consulting
-------------------------------
-
-
-
 
 
 
@@ -376,19 +322,73 @@ Cons
     tax prep)
 
 
-Doing it myself
-============================================
-Based on good legal counsel I did the following for each property; I set up a two-member LLC ($100 filing fee), 
-Quitclaimed each property into the name of the LLC and recorded it with the county, applied for an IRS EIN for 
-each LLC, set up a separate bank account in the name of the LLC, secured $1M liability insurance coverage and 
-had the insurance company identify the LLC as the "primary" insured, hired a property management company 
-identifying the LLC as the client, made sure rental contracts are in the name of the LLC and I file Form 1065 
-tax returns for each LLC. NOTHING is in my name of the name of the other LLC member. My assets strictly follow 
-the legal structure for which LLC's were created (to limit the liability of its members). I'm 55 and throughout 
-my life I've learned to consider risk assessment, and I've determined the structure I've carefully followed 
-minimizes my liability and protects my assets. "Minimizes" being the key word, which is the same word Anderson 
-uses on their website. It doesn't say "remove." Ultimately, the question I asked myself is this; if LLCs were 
-set up to limit liability then why do I need to go with an additional Turn Key service facilitated by a 
-third-party to accomplish the same thing, or what my attorney will do to protect my assets if challenged â as 
-long as I set up the LLC correctly and made sure nothing is in my name by which the "veil can be pierced." 
- recommend this link for your review;
+Steps for Rental Property in an LLC: Doing it myself
+--------------------------------------------------------
+Set up a two-member LLC ($100 filing fee), 
+Quitclaimed each property into the name of the LLC and recorded it with the county, 
+applied for an IRS EIN for each LLC, 
+set up a separate bank account in the name of the LLC, 
+secured $1M liability insurance coverage and had the insurance company identify the LLC as the "primary" insured, 
+hired a property management company identifying the LLC as the client, 
+made sure rental contracts are in the name of the LLC and I file Form 1065 tax returns for each LLC. 
+
+
+
+
+
+================================================
+Advanced Tax Strategy
+================================================
+
+       Me
+       |
+    C-Corp
+  (Manages)
+ LLC in Nevada --------------------
+      |        |           |
+LLC-1 Indy    LLC-2 Indy  LLC-3 Indy
+
+
+My Business Deductions: Valid deductions related to my AirBnB business - Rent, Utilities, Startup costs, education
+  Personal Expenses Deductions: Cell phone, laptop, Trips to Indy, etc - Now my business pays this.
+  Additional Deductions - Home Office, or Section 208A, 
+  Charity Deduction - Pay tithe and charities from my Business Expenses
+  Business income basically should be zero or negative
+  I can carry forward losses to subsequent years
+
+My Rental Income: Take Deductions - Mort interest, prop taxes, insurance, property management fee,
+  Additional Deductions - Depreciation, Management Fee paid to my C-Corp
+  Rental income basically should be zero or negative
+  I can carry 25k of losses against my W-2 a year for more tax savings
+
+Personal W-2:
+  Take the standard 12k Charity deduction
+  Take the 25k Schedule E Losses (From my Rental Income)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

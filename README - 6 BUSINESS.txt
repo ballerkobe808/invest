@@ -243,6 +243,11 @@ C-Corporation Financial Benefits:
   
   Net tax paid by owners may be much lower than that paid under a “Subchapter S” election
 
+  Verify this??? You can write off 50k in losses when you dissolve the C-corp if you are classified as a small bus (1244 election)
+  
+  Verify this??? If you take capital losses you can write off 3k a year on your personal returns
+
+
 
 S Corp vs C Corp Differences
 ==========================================
@@ -269,12 +274,26 @@ You can go back and forth between S Corp and C Corps from Year to Year
 
 How to take money out of your C-Corp Business
 ==========================================================
-C-Corp 
   - Reimbursement - Pay you back for business expenses (This is the best way - non taxable)
     1. Pay your C-Corp bills
     2. Pay yourself back
   - You are an employee (Pay taxes on your salary, but its a deduction from your C-Corp)
   - Take out a loan from the C-Corp (This is only if you have profits)
   - Divident (Not recommended, this is where double taxaion occurs)
+
+
+How to pull money from your LLC (Rental Business)
+=========================================================
+  - Distributions - (Make sure you have bank account, and take money from your Business Checking Account to your Personal)
+  - Pay Management fee to your Managing C-Corp, then treat that as income to your C-Corp.
+    This is a way to pay 0 taxes since your rentals now zero out as a loss...
+
+
   
-  
+1099s
+================
+Issue W-9s before you pay any contractors so they know you will be giving them a 1099.
+Issue the 1099 before Jan 31 - Otherwise $50 late fee.
+If you don't issue a 1099, IRS can come after you and make you pay the tax (withholdings) 28%
+
+
