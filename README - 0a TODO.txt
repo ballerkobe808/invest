@@ -201,11 +201,40 @@ Anderson has been doing taxes for 20 years, hasn't been audited in 7 years - als
 
 
 
+Home office Deduction
+---------------------------
+10 diff ways to calculate a Home Office
+1. Room/ Total sq feet for a percentage (rent, util, mortg)
+2. Room/ ussable sq ft for a percentage (rent, util, mortg)
+3. Room/ Number of rooms for a percentage
+
+
+
+
+Can I Take a loss from my Schedule C into my W-2?
+----------------------------------------------------
+
+
+
+
+LLC as an S/C Corp or Corp can sponsor a 401k Account
+Take out a loan from your 401k, Business does the deal, 
+  then pay 0 taxes, since your business can take deductions
+  also you get around the prohibited transaction from the 401k 
+
+
+
+
+Move 401k into another account (In-Service Rollover)
+----------------------------------
+Talk to Vanguard, NOT YOUR HR department
 
 
 
 
 
+In Hawaii, moving money between companies may need to pay GET
+Make sure its a re-imbursement not an expense
 
 
 

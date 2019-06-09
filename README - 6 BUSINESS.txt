@@ -167,6 +167,14 @@ Incorporating in Wyoming, then you won't have to pay the 4% GET in Hawaii -
 This applies to ACN, does it apply for rental income as well??
 
 
+Corey Posgay
+--------------------
+Platinum Package - $197 then $35/month
+- Dedicated Client Account Manager
+- Review 2 documents a month
+- Large form library
+- Self Paced Learning Opportunities
+- Anderson event pricing
 
 
 
