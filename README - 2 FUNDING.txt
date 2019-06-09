@@ -96,6 +96,7 @@ lines of credit (personal or home equity),
 credit cards,
 401k/IRA,
 seller financing.
+Construction Loans
 
 
 
@@ -144,6 +145,15 @@ https://goldmoney.com (purchasing metals and turning around and cashing out a fe
 
 Fund and Grow - will claim to get you money from credit cards, but seems shady, and works by taking off legit inquiries
 from your credit report...
+
+
+
+
+Construction Loan 
+------------------------------
+Get 80% of ARV -
+Get 80% of purchase price plus diff of 80% ARV in draws
+
 
 
 General Tips

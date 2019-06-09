@@ -178,6 +178,8 @@ Now you get access to 1M in hard money LOC???
 
 
 
+Build up Commercial Credit and LOC???
+
 
 
 
