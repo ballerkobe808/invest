@@ -174,4 +174,34 @@ Form 4562, see the IRS instructions for this form.
 
 
 
+Creative 280A Deduction - Meetings for your C-Corp in your own home 
+---------------------------------------------------------------
+Basically Charge your Corporation to use your home and your C-Corp pays for the use of your home for
+a business meetings. Since you rent your home out for less than 15 days a year this event for you
+is not taxable income. However, for your C-Corp its a deduction you can take. 
+
+The code section (because everyone’s going to look it up) is Section 280A (g). It specifically states 
+that if you rent out your home for less than 15 days during the calendar year, none of the income is 
+taxable. Conversely, none of the rental expenses are deductible.
+
+What arguments can the IRS make? As long as the space is used for business, there should be no issue 
+as to the legitimacy of the deduction. You just have to prove the business use. The tax pros call that the 
+business “nexus.”
+
+ Prove the business use with specific documentation. If you have a monthly meeting, keep the minutes. 
+ Craft the minutes with the reason you’re having the meeting outside your normal business location. 
+ The standard reason is so that you’re not bothered by the interruptions of your normal business setting.
+
+ Prove the reasonableness of the rental charge by getting a letter from a local hotel. If the Four Seasons 
+ is charging $500 a day for a suite for a meeting, a note from them should be sufficient substantiation 
+ for your $500 a day rental expense. On a monthly basis, that’s a $6,000 deduction (saving $2,100 in 
+ tax each year if you’re in the 35% tax bracket) plus $6,000 in tax-free income.
+
+ So long as you can substantiate the business connection and the reasonableness of the charge, the 
+ deduction should be allowed.
+
+
+
+http://www.reesnet.com/tax/planning/lvl05600.htm
+
 

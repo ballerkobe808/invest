@@ -57,24 +57,72 @@ important, since pain is a far better motivator than pleasure.
 RESEARCH AND/OR MEMORIZE
 -------------------------------
 
+Its not about who you know, its who knows you
+
+
+The law of buoyancy.
+"Theres something about this guy" At the end of the event everyone wants to know them.
+
+When you meet someone - Why would THEY give you their time?
+How do people feel when they are around you? Are you adding energy into the room?
+What is your brand? What are you known for?
+
+People may not remember you name, but they will remember how they feel around you?
+Compliment them on the human side 
+
+
+Try to give as much as you can - esp older people or others on the fringe - AOC??
+
+FORM
+Family, Occupation, Recreation, Motivation
+
+Whale - slow moving - big, charity
+Shark - Money, competitive, athletes, look good feel good smell good
+Dolphin - travel and play, life of the party - ADD
+Vahnas - A students, technical, skeptical
 
 
 
 
 
+Dealer Status
+------------------------
+Dont become a real estate dealer (flips, speculation) - gray area, but if you do, then you:
+-cant do 1031
+-pay self emp tax
+-no long term cap gains
+-no depreciaion
 
 
 
 
+Wyoming or Nevada LLC 
+-----------------------
+Keep Savings in the Wyoming/Nevada LLC
+Create LLC in Indy, then have the Wyoming/Nevada LLC own the Indy LLC
+
+
+Living Trust
+------------------
+Decides what to happen when people die - where the assets get divided
 
 
 
+People who write things down take more action
 
 
 
+Anderson Questions
+-----------------------
+Do we have to pay taxes in Indy for our rent? House in personal name
+Do we have to pay taxes in Hawaii if our property is in an Indy LLC and we register as a foreign entity in Hawaii?
+
+Cost to do the land trust vs quit claim?
+Is the LLC that owns the land trust based in Hawaii or in Indy? Does that affect which state taxes are paid?
 
 
-
+Risky Builders
+-------------------
 
 
 

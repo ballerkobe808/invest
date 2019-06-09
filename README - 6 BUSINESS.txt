@@ -200,9 +200,67 @@ in the company being dissolved.
 
 
 
+C Corporation Double Taxation
+---------------------------------
+AVOIDING DOUBLE TAXATION
+There are many ways for corporations to avoid double taxation. For many smaller corporations, 
+all of the major shareholders are also employees of the firm. These corporations are able to avoid double 
+taxation by distributing earnings to employees as wages and fringe benefits. Although the individual 
+employees must pay taxes on their income, the corporation is able to deduct the wages and benefits paid to 
+employees as a business expense, and thus is not required to pay corporate taxes on that amount. 
+For many small businesses, distributions to employee/owners account for all of the corporation's income, 
+and there is nothing left over that is subject to corporate taxes. In cases where income is left in the business, 
+it is usually retained in order to finance future growth. Although this amount is subject to corporate taxes, 
+these tax rates are usually lower than those paid by individuals.
+
+C Corp Lower Tax Rates
+----------------------------
+However, there are a bevy of tax benefits available to C corps that can lessen or even prevent double taxation. 
+What’s more, savvy business owners are reconsidering their corporate structure in light of the new tax reform, 
+which significantly reduces the tax burden on C corps. Under the new tax bill, the corporate tax rate decreased 
+from 35 percent down to 21 percent, which is lower than the tax rate for pass-through income. And because of 
+the decrease in most individual tax brackets, even income that is passed-through to individual shareholders 
+will be taxed at a lower rate. Combined, this means there may no longer be a significant tax advantage to 
+filing your business as a pass-through entity.
+
+C-Corporation Financial Benefits:
+----------------------------------------
+  Low 15% corporate income tax on the first $50,000 of income (allowing more “working capital” to 
+  either remain in the company or pay off corporate debts)
+  
+  Dividend tax rate of 15% on distributions of after tax income to owners
+  
+  Ability to borrow money from the Corporation by using promissory notes
+  
+  Optional election of a fiscal year
+  
+  Ability to shift profits and losses between years to “income average” and reduce taxes
+  
+  Ability to build up operating losses during first few years to offset future gains
+  
+  More tax deductions are possible (e.g. Medical Expense Reimbursement Plan)
+  
+  Net tax paid by owners may be much lower than that paid under a “Subchapter S” election
 
 
+S Corp vs C Corp Differences
+==========================================
+Taxation. Taxation is often considered the most significant difference for small business owners when 
+evaluating S corporations vs. C corporations. 
+Personal Income Taxes. With both types of corporations, personal income tax is due both on any salary 
+drawn from the corporation and from any dividends received from the corporation.
+
+    C corporations. C corps are separately taxable entities. They file a corporate tax return (Form 1120) 
+    and pay taxes at the corporate level. They also face the possibility of double taxation if corporate 
+    income is distributed to business owners as dividends, which are considered personal income. 
+    Tax on corporate income is paid first at the corporate level and again at the individual level on dividends.
 
 
+    S corporations. S corps are pass-through tax entities. They file an informational federal return 
+    (Form 1120S), but no income tax is paid at the corporate level. The profits/losses of the business are 
+    instead “passed-through” the business and reported on the owners’ personal tax returns. Any tax due is 
+    paid at the individual level by the owners.
 
+
+You can go back and forth between S Corp and C Corps from Year to Year
 
