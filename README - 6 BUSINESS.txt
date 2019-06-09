@@ -296,4 +296,7 @@ Issue W-9s before you pay any contractors so they know you will be giving them a
 Issue the 1099 before Jan 31 - Otherwise $50 late fee.
 If you don't issue a 1099, IRS can come after you and make you pay the tax (withholdings) 28%
 
+You don't have to issue 1099s for payments made to Credit Cards
+You don't have to issue 1099s to Corporations
+
 

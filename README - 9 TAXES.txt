@@ -306,7 +306,9 @@ Private lending??? -
 If I lend to another investor (my LLC), and get interest - do I claim that? what if I dont get interest?
 
 
-
+Nexus
+===============
+Does the state have a right to tax?
 
 
 

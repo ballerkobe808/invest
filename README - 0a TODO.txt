@@ -128,10 +128,10 @@ Risky Builders
 
 
 
+---Coach---
+Effort -> Plan -> Outcomes
 
-
-
-
+Colonel Sanders
 
 
 

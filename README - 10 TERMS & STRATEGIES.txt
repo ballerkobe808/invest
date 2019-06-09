@@ -153,3 +153,18 @@ Timing it can be tricky - Don't get greedy trying to time it EXACTLY
 
 
 
+Cost Segretation
+========================
+You can take "Bonus Depreciation" or take depreciation for anything under 20 years in year one -
+Useful if you won't hold the rental for very long.
+Costs around 10k - so consider this
+Someone was saying it might be possible to get one done for 1k using software, but it may not stand up in court
+
+
+Education Tax Deductions
+==============================
+If you take some classes - you cant write this off on your personal tax return
+However, if you make a C-Corp, you can write it off as "Startup or Investigation" costs, up to 5k per year.
+
+
+
