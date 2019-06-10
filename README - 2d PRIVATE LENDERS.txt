@@ -1,6 +1,18 @@
   List of Potential Private Lenders
 =========================================
 
+Be Organized and professional when showing deals
+----------------------------------------------------
+Binder with
+  - Company info, 
+  - Deals (for credibility)
+  - Current deal (comps, scope of work, images, insp report etc)
+  - Financial Statement? Credit Report
+  - LLC/Corp Documents
+  - Other Misc Fees
+  - Documents for deals to sign? Promissary Note
+
+
 Types of Lenders
 --------------------
 1. Cash in Bank
