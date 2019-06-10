@@ -1,7 +1,35 @@
 
 
+
 ACN
--------------
+-----------
+Cellphones Verizon, Sprint - refer 5 friends, get a free cellphone bill ($7/month in taxes)
+ID Theft
+Home Security
+Internet Spectrum
+
+Credit Card merchant services (Seems like they can save fees)
+
+Gas/Electricity - not in Hawaii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 iDcard
