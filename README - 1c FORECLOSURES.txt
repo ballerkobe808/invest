@@ -78,3 +78,39 @@ Its possible the lien expired - all liens but 2 expire in 7 years or less
 (IRS never goes away, Tax lien or deed never goes away)
 
 Careful when you pull the title search and things have expired - no indicaion on the record itself.
+
+
+
+
+
+HUBZOO
+============================
+In terms of risk, yeah, you are not supposed to walk or go in the property however, some are also listed on 
+the mls and can be opened by an agent. There are no inspection contingencies BUT you can make it contingent 
+on a title search. This will provide an out if there is a discrepancy on the title report. For example, 
+I bid on another house in Birmingham, AL. There was a picture of the house, inside and out. When we got the 
+title report, it stated that the house had been demolished by the city! So I was able to get my earnest money 
+back and move on.
+
+
+
+
+
+
+
+
+
+AUCTION.COM
+=====================================
+
+
+
+
+
+
+
+
+
+
+
+
