@@ -220,3 +220,27 @@ entity!!
 
 
 
+
+
+
+
+Keeping track of monthly costs and profits is essential for a successful business. Each profit or cost must be accounted for and categorized correctly. The IRS actually defines different expense categories to aid in itemization:
+
+Advertising
+Auto and Travel Expenses
+Cleaning and Maintenance
+Commissions
+Insurance
+Legal and Other Professional Fees
+Management Fees
+Mortgage Interest Paid to Banks, etc.
+Other Interest
+Repairs
+Supplies
+Taxed
+Utilities
+Depreciation Expenses
+Other
+It is important that you file your expenses under one of the categories listed above, as it will be easier to prove these expenses to the IRS should you be audited. Anything that doesn’t quite fit into a category can be filed under the ‘other’ category. Finances should be tracked monthly, and then filed into annual folders. This is where soft copies of documents come in handy; categorizing receipts can happen instantly on a mobile device, as opposed to sitting down and creating a spreadsheet for a large amount of receipts later. Waiting to figure out net profit at the end of the month creates a larger margin for error.
+
+

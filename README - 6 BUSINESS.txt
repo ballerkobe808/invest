@@ -40,6 +40,11 @@ LLC Documents
 1. Articles of Incorporation
 2. Minutes
 
+2 types: 
+-Manager Managed LLC - Manager must be listed w Sec of State
+-Member Managed LLC - Member must be listed w Sec of State
+
+
 
 Starting up your Business
 ----------------------------------
@@ -80,6 +85,12 @@ Protect the Veil of your LLC:
 http://www.mlwfinancial.com/news/2016/9/26/rcxi1szv1z90ll8u4wnmtnktd2la39
 
 
+Sign as your Role
+----------------------
+If you are the manager, sign as a manager
+If you are a member manager, sign as a member manager
+If you use a corporation as the manager, sign as the president of your corporation, manager of the LLC
+Never in your own individual name
 
 
 
@@ -139,7 +150,6 @@ experienced trial attorney would already know. I'm not going to mention them her
 any attorneys any ideas. ;-)
 
 You are more protected buying umbrella insurance and it is a heck of a lot more convenient. IMHO
-
 
 
 

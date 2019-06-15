@@ -9,35 +9,41 @@ Turn as many things as possible into processes to free up mental space.
 --------------------------------------
 RECONCILE BANK ACCOUNTS
 --------------------------------------
-1. Open Personal Capital/mint to the left and Finances Excel to the right
+1. Open Personal Capital to the left and Finances Excel to the right
 2. Match the Totals together
-3. If a discrpency is found, then research and update
+3. If a discrepency is found, then research and update
 
-1. Update LOC Payment Due Dates for ALL LOCs
-2. Validate there are enough funds for the AUTO Payment for ALL LOCs
-3. Validate there are enough funds for the AUTO Payment & Pending Transactions - BOH Checking
-
------------------------------------------------
-RECONCILE INVESTMENTS
------------------------------------------------
-1. Match Bank accounts and Investments to make sure all transactions have been recorded w receipts
+--- Check Yellow action items: ---
+4. Verify funds for BOH Automatic Bills
+5. Make payments of Manual Bills
 
 
----------------------------------------------
-UPLOAD RECEIPT FOR BUSINESS
----------------------------------------------
-1. Take a Picture
-2. Upload the receipt using the Dropbox app
-3. Move the receipt to the correct folder and update the name (date_amount_location-of-purchase)
-4. Update the Finances Excel to reflect the purchase
 
 
-------------------------------------------------
-ADD OR REMOVE A SUBSCRIPTION
-------------------------------------------------
-1. Add or remove the entry from the Finances Excel 
+--------------------------------------------------
+INVESTMENT - MAKE A PAYMENT OR RECEIVE INCOME
+--------------------------------------------------
+1. Save Receipt in receipt folder of Investment ex. (2019-06-01 50.86 Slippers Amazon.png)
+-- Special case for physical receipt ---
+ - Take a picture
+ - Upload using the Dropbox App
+ - Move to the correct folder as needed
+
+2. Update Finances Spreadsheet with appropriate date, amount, comment, source
+
+3. Update Accounts Sheet, if coming or going to a bank account
 
 
+
+
+------------------------------------------------------------------
+BUDGETING
+------------------------------------------------------------------
+1. Spend money
+2. If its not on your Credit Card, create a transaction in Mint (Iphone/Desktop)
+3. On the toilet, or during downtime, review Transactions and categorize them 
+   (Food & Dining $800, Auto & Transport $100, Misc Expenses $1000, Business Services)
+4. Review month and plan or make adjustments accordingly
 
 
 

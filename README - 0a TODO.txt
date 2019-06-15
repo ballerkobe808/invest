@@ -252,10 +252,55 @@ Income
 
 
 
+Anderson System
+=====================
+
+
+Using an LLC in the state you are buying & Anonymity Planning
+------------------------------------------
+If you own a rental in a state (Indiana), if you want your Nevada/Wyoming LLC to be the owner,
+then you have to register your LLC in that state. This is needed when you need to evict a tenant
+or do any type of legalaction.
+
+When you register as an entity in that state, then your Nevada/Wyoming LLC
+loses its anonymity benefits since you have to be listed as the manager in that state, and any 
+changes to your LLC manager must be recorded now with that state
+
+Thats why you would create the LLC in Nevada/Wyoming with the anonymity protection and then
+that LLC would manage the LLC that you have in the specific state that owns the rental
+
+Steps for the Nevada/Wyoming Anonymity setup
+1. Create the LLC with another person being the manager (Anderson associate)
+2. Its filed with that person as the manager
+3. Have that person resign
+4. Now there is no public record of you as a manager
+5. Use a commercial Registered Agent - make sure its not you!
 
 
 
 
 
 
+----------------
+If an LLC is a disregarded entity (single member not taxed as a corp), you dont need to file taxes for it.
+
+
+
+
+Operating a Rental Real Estate LLC
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home depot was amazing. I would order everything and get it sent to the contractors so they didn't even have to pick it up. 
 
