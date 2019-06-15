@@ -244,3 +244,17 @@ Other
 It is important that you file your expenses under one of the categories listed above, as it will be easier to prove these expenses to the IRS should you be audited. Anything that doesn’t quite fit into a category can be filed under the ‘other’ category. Finances should be tracked monthly, and then filed into annual folders. This is where soft copies of documents come in handy; categorizing receipts can happen instantly on a mobile device, as opposed to sitting down and creating a spreadsheet for a large amount of receipts later. Waiting to figure out net profit at the end of the month creates a larger margin for error.
 
 
+
+
+
+Rental Property
+---------------------
+Your rental start-up costs would be amortized on your Schedule E, not a Schedule C.  
+Your start-up costs are accumulated until you become operational.  Expenses such as pre-operational 
+acquisition costs, investigation costs, proof-of-concept costs are included in start-up costs.  
+In the year you become operational you can deduct $5,000 of start-up costs with the balance spread over 
+180 months beginning with the first month you are operational.  You would list this expense in your 
+return as “Start-Up Expense Amortization.”
+
+Improvements and betterments to your rental property, however, would be included in the depreciation 
+base for this asset.  

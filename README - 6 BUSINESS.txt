@@ -333,5 +333,50 @@ Personal:  Make money -> Pay Taxes    -> Pay Expenses
 
 
 
+Anderson System
+=====================
+
+
+Using an LLC in the state you are buying & Anonymity Planning
+------------------------------------------
+If you own a rental in a state (Indiana), if you want your Nevada/Wyoming LLC to be the owner,
+then you have to register your LLC in that state. This is needed when you need to evict a tenant
+or do any type of legalaction.
+
+When you register as an entity in that state, then your Nevada/Wyoming LLC
+loses its anonymity benefits since you have to be listed as the manager in that state, and any 
+changes to your LLC manager must be recorded now with that state
+
+Thats why you would create the LLC in Nevada/Wyoming with the anonymity protection and then
+that LLC would manage the LLC that you have in the specific state that owns the rental
+
+Steps for the Nevada/Wyoming Anonymity setup
+1. Create the LLC with another person being the manager (Anderson associate)
+2. Its filed with that person as the manager
+3. Have that person resign
+4. Now there is no public record of you as a manager
+5. Use a commercial Registered Agent - make sure its not you!
+
+
+C-Corp
+------------------------------
+Can write off bus expenses
+Can do different types of businesses as long you have a strong enough operating agreement
+Anderson does a 75 page operating agreement
+Less likely to get audited as a C-Corp
+
+Anderson has been doing taxes for 20 years, hasn't been audited in 7 years - also, they will represent you
+
+
+
+
+
+Can I Take a loss from my Schedule C into my W-2?
+----------------------------------------------------
+LLC as an S/C Corp or Corp can sponsor a 401k Account
+Take out a loan from your 401k, Business does the deal, 
+  then pay 0 taxes, since your business can take deductions
+  also you get around the prohibited transaction from the 401k 
+
 
 

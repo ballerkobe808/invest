@@ -107,3 +107,10 @@ You only pay penalties (10% and income tax) on the EARNINGS
 Make sure you pay from there directly to the school to avoid IRS confusion
 
 
+
+
+Move 401k into another account (In-Service Rollover)
+----------------------------------
+Talk to Vanguard, NOT YOUR HR department
+
+

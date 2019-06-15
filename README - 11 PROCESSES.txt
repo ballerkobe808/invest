@@ -11,11 +11,12 @@ RECONCILE BANK ACCOUNTS
 --------------------------------------
 1. Open Personal Capital to the left and Finances Excel to the right
 2. Match the Totals together
-3. If a discrepency is found, then research and update
+3. If a discrepency is found, then research and update spreadsheet
 
 --- Check Yellow action items: ---
 4. Verify funds for BOH Automatic Bills
 5. Make payments of Manual Bills
+6. Update Finances Spreadsheet after any Manual payment
 
 
 

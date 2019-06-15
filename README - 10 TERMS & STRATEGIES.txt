@@ -72,6 +72,15 @@ paying 10% in interest yearly.
 
 IRR - internal rate of return - the annual (or whatever timeframe) rate of return taking into account the npv of the return
 
+Dealer Status - IRS Classification - Dont become a real estate dealer (flips, speculation) - 
+gray area, but if you do, then you:
+  -cant do 1031
+  -pay self emp tax
+  -no long term cap gains
+  -no depreciaion
+
+
+
 
 Strategies
 ======================================

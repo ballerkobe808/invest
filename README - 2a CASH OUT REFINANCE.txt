@@ -36,3 +36,35 @@ OR
    get. After the lender gets back the appraisal, you can also submit 3 comparables again for the appraiser 
    to re-evaluate - or give him/her some reason to adjust the property value.
 
+
+
+Preparation Steps!!
+=========================
+
+1. Get Credit Score as High as possible
+-------------------------------------------
+Pay down Lines of credit by statement dates - this makes a big difference in your credit score
+Pay down CC by statement dates
+Don't take out new CC or make new Hard Inquries
+
+
+2. Get the appropriate sourced money in an account 2 months prior 
+------------------------------------------------------------------
+Find the required seasoned amount, and store it in a bank account - you cant use borrowed funds.
+Things you need this balance for:
+  -Closing costs (lender can pay up to $2k from the loan), seller can pay up to 2%
+  -Down payment (If doing a purchase)
+  -Reserves for mortgage payment (6 months to be safe, some may say 2 months)
+  -Reserves for any other mortgages you have (rent too???)
+
+
+3. Prepare Documents and get them all organized
+-----------------------------------------------------
+
+
+
+
+
+
+
+
