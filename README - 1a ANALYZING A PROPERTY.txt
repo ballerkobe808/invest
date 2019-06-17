@@ -1,6 +1,7 @@
 
 
-Researching a Property
+
+Anaylyzing a Property
 ============================================
 Become an expert in Indiana - know all the neighborhoods and immerse yourself in this location -
 Look thru maps and familiarize yourself with the streets, neighborhoods, news, business, crime, etc.

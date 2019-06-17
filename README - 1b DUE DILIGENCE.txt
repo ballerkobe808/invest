@@ -1,6 +1,13 @@
 
+DUE DILIGENCE
+===========================================
+Things to look out for - learn lessons from others mistakes
 
-HOME INSPECTION - THINGS TO LOOK OUT FOR
+
+SUPER IMPORTANT THINGS TO FIND OUT!!
+========================================
+
+BASIC, EASY TO SEE/VERIFY THINGS
 ==============================================
 Book on Estimating Rehab costs - Go thru that and update this document again
 
@@ -14,6 +21,10 @@ Mold - If it smells musty POSSIBLY  mold - check attic, basement, Mold needs moi
 
 Sewer - Septic tank or City Sewer?
 Water - Tank or City Water??
+
+
+HOME INSPECTION - THINGS TO NOTE
+============================================
 
 
 TENANTS - ESTOPPEL

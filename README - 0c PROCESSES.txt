@@ -48,4 +48,15 @@ BUDGETING
 
 
 
+--------------------------------------------------------------------
+ADDING INFORMATION TO THIS README
+--------------------------------------------------------------------
+1. Add it to the Todo
+2. Determine where it fits
+3. Read it through and re-organize into a SHORT simple to understand way
+4. Move it from the Todo
+
+
+
+
 
