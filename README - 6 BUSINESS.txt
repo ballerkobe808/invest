@@ -370,13 +370,56 @@ Anderson has been doing taxes for 20 years, hasn't been audited in 7 years - als
 
 
 
-
-Can I Take a loss from my Schedule C into my W-2?
+401k from your Corp
 ----------------------------------------------------
 LLC as an S/C Corp or Corp can sponsor a 401k Account
 Take out a loan from your 401k, Business does the deal, 
-  then pay 0 taxes, since your business can take deductions
-  also you get around the prohibited transaction from the 401k 
+then pay 0 taxes, since your business can take deductions
+also you get around the prohibited transaction from the 401k 
+
+
+
+My Setup
+======================
+ 
+C Corp (Solid/Sound/Sturdy/Steadfast/Secure Branch Investments)
+  -Does AirBnB
+  -Can I do lending????
+  -Can I do software consulting????
+  -Can I do Wholesaling or flipping????
+
+  I am the president?????
+
+
+Koala Investments LLC in Indy
+  -Holds Rentals
+  -I am the Manager
+  -The LLC will be managed by its manager or managers.
+  -Resident Agent - $125/year thru RASI.com
+  -Who is maintaining it for me?? KKOS Lawyers?? What is the cost?? 
+  -Bi-Annual Filing fee ??
+
+
+
+Tax Returns
+  -Corp Tax Return Fed
+    What does this cost??? 995??
+  -Corp Tax Return State
+    What does this cost???
+
+
+  -Personal Tax Return Fed
+    What does this cost??? 500?
+    Can I deduct my Schedule E 
+    
+  -Personal Tax Return State
+    What does this cost???
+
+  -State GET Tax as an entity there??
+
+  -Any other returns or paperwork that I need to file??
+
+
 
 
 

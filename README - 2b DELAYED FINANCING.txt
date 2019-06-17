@@ -13,3 +13,22 @@ Refinancing
   out.
   If you wait 6 months then these requirements are waived
 
+
+Look up "delayed financing". Some lenders will let you take out 70-75% of ARV or 100% of your purchase price and 
+rehab cost, whichever is lower. You have to put your rehab in the HUD at time of title.
+
+Search these links for "delayed"
+https://www.fanniemae.com/content/guide/selling/b2/1.2/03.html
+
+https://www.fanniemae.com/content/eligibility_information/eligibility-matrix.pdf
+
+
+
+
+The Fannie Mae rule is 6 months. Some local banks and credit unions will allow sooner and hold the loan. 
+Some lenders are longer because they have overlays to the Fannie guidelines. Delayed financing, if you have 
+the rehab dollars on the HUD when you purchase is also a good option.
+
+If none of those work because you don't qualify for one reason or another, go with a portfolio lender/broker.  
+They often have lower to no seasoning requirements for cash out, generally to 75% loan to value of the new 
+appraisal after the property is stabilized.

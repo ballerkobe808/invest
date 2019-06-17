@@ -61,7 +61,9 @@ Its not about who you know, its who knows you
 
 
 
-
+Charging order in Wyoming/Nevada -if you get sued personally, you only have 1 llc (which owns the others)
+creditors can only take what you take out of your wyoming/nevada llc, so just dont take money out and you
+avoid creditors
 
 
 

@@ -79,6 +79,9 @@ build a good relationship, and not have them do work for free...)
 Also you will learn more as the contractors go thru the house....
 
 
+Carolyn Watanabe has home inspections at $175 - Ask to partner with her
+
+Maybe get a quicker estimate first for $100???
 
 
 
