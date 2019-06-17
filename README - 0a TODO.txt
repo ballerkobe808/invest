@@ -68,6 +68,14 @@ avoid creditors
 
 
 
+I'm never buying a house conventionally, so I dont need a 30k reserve in my bank.
+However, to qualify for a refinance, I need cash reserves - calculate this and keep that amount in my bank a
+account perpetually so I dont need to keep "seasoning" my money....
+
+
+15k at 10% a year = 1500 a year....
+
+
 
 
 

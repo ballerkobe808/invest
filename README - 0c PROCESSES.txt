@@ -57,6 +57,10 @@ ADDING INFORMATION TO THIS README
 4. Move it from the Todo
 
 
+5. As you read through sections - reword and review them to be clearer, and also research to get better and
+more informed about them
+
+
 
 
 
