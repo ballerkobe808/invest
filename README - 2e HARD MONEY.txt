@@ -25,3 +25,5 @@ holding costs
 construction in arrears
 origination fees
 private money needed for the gap
+
+

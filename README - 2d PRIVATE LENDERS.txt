@@ -149,7 +149,18 @@ Non-Recourse
 10-12% Interest
 No Points
 2nd Position Mortgage
-Pari Passu
+Pari Passu (Shared 2nd position between lenders)
+
+
+
+Tips when meeting with a private lender
+-------------------------------------------------
+1. "Features Tell, Benefits Sell"
+2. There should be no "selling" someone onlending
+3. Address the Two Concersn (Risk and Return)
+4. Know you have a strong product to offer - its ok if they say no
+5. Not all money is good money 
+
 
 
 Collateral Secured by
@@ -161,15 +172,20 @@ Title Insurance
 
 
 
+Debtquity
+-----------------
+New idea - give them better of interest or equity. 
+Lender is now invested in the deal
+
+1. promissory note
+2. mortgage
+3. agreement
 
 
 
 
-1. "Features Tell, Benefits Sell"
-2. There should be no "selling" someone onlending
-3. Address the Two Concersn (Risk and Return)
-4. Know you have a strong product to offer - its ok if they say no
-5. Not all money is good money 
+
+
 
 
 

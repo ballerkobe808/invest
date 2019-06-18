@@ -26,3 +26,7 @@ If finished early or under budget, throw a bonus toward the contractor
 If late, then late fees for each day/week late.
 
 
+
+
+Did the contractor send you pics of the completed work? I always demand those before I pay anyone anymore. 
+Learned that lesson the hard way from a contractor I had used successfully a few times before too. 
