@@ -382,23 +382,43 @@ also you get around the prohibited transaction from the 401k
 My Setup
 ======================
  
-C Corp (Solid/Sound/Sturdy/Steadfast/Secure Branch Investments)
-  -Does AirBnB
-  -Can I do lending????
-  -Can I do software consulting????
-  -Can I do Wholesaling or flipping????
+Greg Caughlin Setup
+----------------------
+Solid Branch Capital Management
+I am the Single Shareholder -  
+Officers are easy to change at any time - have a shareholder meeting, can change/appoint officers, etc
 
-  -Bus Bank Account - any way to open it ??
-  I am the president?????
+Corp dont need to submit a bus type - Usually this is more for an LLC
+I will act as my Registered Agent
+$51 - State of Hawaii Filing Fee
+Renewal fee is: $15
 
+Start Date is when articles are accepted
+But can write things off for tax purposes retroactively
+Can Deduct Startup/Education costs 18 months from the start of the coroporation
+
+
+-Bus Bank Account - any special way to open it?
   -I need a brokers license to do property management - Should I claim something else here?
-  -Can I do somethign else in the future as well?
 
-  Can I start it as of the beginning of the year??
 
-  Claim startup costs paid ending of 2018 - Sept 
+July 1st to June 30 of next year
+Sept of 2020???
 
-  I will act as my own registered agent
+Couple Months before - need documentation - with Tax organizer
+ala carte tax returns - $500 and up
+3k for tax packages - for future use - multiple returns
+Important to deduct education and 
+
+Can Email back for any more questions to Greg...
+Questions can be asked - unlimited???
+1 workshop per year for free
+required to hold annual shareholder meeting - submit online over site meeting minutes. 
+$50 per set to draft, or i can it myself. - template at the back of the binder to submit
+document reviews - 2 per month, 15 pages each ($10 a page for each document over)
+leases, contracts, etc 7-10 bus day turnaround.
+can sched a binder review if u want to
+
 
 
 Koala Investments LLC in Indy
