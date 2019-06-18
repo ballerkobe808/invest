@@ -135,3 +135,41 @@ Payoff date, keep lender in the loop
 Need Payoff letter, stating how much you owe
 Remove the mortage - either original mortgage doc or discharge of mortgage doc
 
+
+
+
+
+
+---------------------
+Private Money
+---------------------
+Filling the gap for hard money
+Typically no monthly payments
+Non-Recourse
+10-12% Interest
+No Points
+2nd Position Mortgage
+Pari Passu
+
+
+Collateral Secured by
+-----------------------
+Promissory Note
+Mortgage
+Property Insurance
+Title Insurance
+
+
+
+
+
+
+
+1. "Features Tell, Benefits Sell"
+2. There should be no "selling" someone onlending
+3. Address the Two Concersn (Risk and Return)
+4. Know you have a strong product to offer - its ok if they say no
+5. Not all money is good money 
+
+
+

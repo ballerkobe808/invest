@@ -78,6 +78,21 @@ account perpetually so I dont need to keep "seasoning" my money....
 
 
 
+Hard Money Nemoto
+-------------------------
+90% purchase or 75% or ARV whatever is less
+rehab more than 
+
+85%LTV 85%LTC
+
+Rental program
+dscr 1.25
+2 year term 6 month prepay
+
+
+
+
+
 
 
 
