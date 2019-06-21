@@ -18,20 +18,6 @@ Gas/Electricity - not in Hawaii
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 iDcard
 --------------
 Promo Code "Wealth"
