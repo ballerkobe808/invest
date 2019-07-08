@@ -340,7 +340,8 @@ https://www.mashvisor.com/blog/indianapolis-investment-properties/
   -#3 Diverse Economy
 
   
-
+Its in close vicinity to a lot of major metropolis', Chicago, Cincinatti, Ohio
+All major highways go through Indy 
 
 
 Ideas for live in Rehabs

@@ -253,4 +253,6 @@ Order a verizon cell phone card - there are holes in coverage from other compani
 
 CONSTRUCTION SITES - Put in a simplisafe alarm
 
-
+FINDING A CONTRACTOR
+----------------------------
+https://www.biggerpockets.com/blog/home-renovations-find-great-contractors?utm_source=newsletter
