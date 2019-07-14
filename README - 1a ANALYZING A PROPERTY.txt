@@ -87,7 +87,9 @@ Maybe get a quicker estimate first for $100???
 
 
 
-
+Determining ARV
+-------------------
+https://www.biggerpockets.com/blog/2016/04/29/ultimate-guide-quickly-estimating-property-arv/?utm_source=newsletter
 
 
 
