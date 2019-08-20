@@ -54,16 +54,10 @@ MultiFamily:
 
 Leads
 ------------
-1. Wholesale lists (Get on some good ones!)
-2. Investor friends, family, coworkers
-3. Realtor Agents
-4. Turnkey Providers (Memphis Invest, Midsouth Homebuyers, Norada, REITrader)
-5. Craigslist, Zillow, MLS, ebay, trulia, redfin
-6. Foreclosures: Shadow inventory - inventory held by banks you dont know exists,
+1. Wholesale lists 
+2. Other Investors
+3. Realtor Agents (MLS)
 8. Other online sites: repropfinder.com, Foreclosures.com, Auction.com, HUDHomestore, fsbo.com, Fannie Mae Homepath.com
-10. Probate??
-
-
 
 
 
@@ -74,7 +68,6 @@ Targeting neighborhoods helps you get to know how to spot a deal/interact with i
 
 Rehabbing criteria:
 
-1. Proximity to your house/travel time.
 2. Selling prices of the homes in the neighborhood (higher better)
 3. Sales activity of the homes in the neighborhood (higher better). 
    If low days on market, high demand, people are moving in. High days on market, low demand, people moving out.
@@ -94,15 +87,15 @@ Rental criteria:
 
 PROCESS - Assess Property Value (ARV)
 -------------------------------------------
-1. Get the Comps. Ask agent to run a CMA (Comparative Market Analysys) report. Based on:
 
+1. Review Comps
    1. Within the past 6 months
    2. Close proximity
    3. Similar size (sq feet)
    4. Similar Layout (2 bed 1 bath)
    5. Similar year built
 
-2. Drive to the Comps and use your eyes. See if they're better or worse than your property using:
+2. View Comps - See if they're better or worse than your property using:
 
    1. Condition. Roof, garage doors, windows, driveway, walkways, porches
    2. Curb Appeal. The architecute, trees, lawn, landscaping, lot size, and grade
