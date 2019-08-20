@@ -186,6 +186,84 @@ Lender is now invested in the deal
 
 
 
+Justin - Options to lend
+===============================
+
+Option 1. 
+------------------
+300k @ 7%
+
+Monthly Cashflow = $1,750 Guaranteed
+
+Pros:
+  - Guaranteed 
+  - Get a check no matter if I'm using the money or not
+  - Keep 300k capital at the end of the term + interest gained
+  - Can pull money out any time (As long as its not currently in a Deal - typical timeframe 2-6 months)
+
+Cons:
+  - No property owned at the end of the term
+
+
+Option 2.
+-------------------------------------
+Buy 2 properties, I will manage, Lend the rest at 7%
+
+4440 Evanston - 90k (10k equity) (Rent $1135)
+4530 Ralston - 140k (Rent $1000 - Bump to $1100 next year)
+
+Cashflow = 2135 - 230(110, 120) PM - 105(40, 67) Ins - 130(120, 110) Prop Tax
+Monthly Cashflow = $1670 (Could be less if expenses - turnovers,repairs, etc)
+
+80k @ 7%
+
+Monthly Cashflow = $467 Guaranteed
+
+Total Monthly Cashflow = $2137
+
+Pros:
+  - Highest potential cashflow
+  - Keep 70k capital afer term + interest gained
+  - Own 2 cashflowing houses, and will get appreciation over time
+  - I will manage the rental for you
+
+Notes: It will have to be 2 years before you can take Title officially in a 1031 Exchange. Preferably, I'd like to
+keep title longer since I have the mortgages borrowed against the properties at a really cheap rate. The actual 
+status will be you have the option to purchase the properties at the agreed upon price at the end of some
+term, and in the mean time you will be getting all the rent from the properties, in exchange for letting me
+borrow the funds for the purchase
+
+
+
+Option 3. 
+------------------------------------------
+Partner on future Deals:
+
+300k @ 2% 
+
+Monthly Cashflow = $500 Guaranteed
+
+I will be buying properties, rehabbing, them, and then refinancing. 
+From this point on, any properties purchased, we would do a "Draft" later and pick which properties we
+want to keep. You would pay for whatever equity is in the property at the time, but gain a cashflowing asset.
+
+Example:
+Purchase for 70k
+Rehab for 25k
+Appraise for 110k
+Refinance 25%, means 30k of equity
+Renting at 1000/month will cashflow around $250/month (minus expenses)
+Option to purchase this asset for 30k at the end of the term
+
+
+
+
+
+
+
+
+
+
 
 
 
