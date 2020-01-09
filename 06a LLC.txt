@@ -435,5 +435,11 @@ Tax Returns
 - I have an LLC - does this count as a previous EIN? Can I check how many EINs I have out there??
 
 
+With regard to the third point, the LLC must:
 
+Have its own bank account to receive income and pay expenses.
+Maintain standard bookkeeping records.
+Maintain corporate records (think meetings and minutes) according to the laws of the state of incorporation.
+Remain in good standing with the state of incorporation (see above point).
+Not co-mingle business funds with personal funds. Doing so could blow your “corporate veil.”
 
